@@ -1,7 +1,7 @@
 # Daily updateted Threat Intelligence Feeds
 
-DGA Feeds contains data about the current activity of domains created using DGA
-Mozi Feeds contains data about IP addresses that infected by Mozi
+DGA Feeds contains data about the current activity of domains created using DGA  
+Mozi Feeds contains data about IP addresses that infected by Mozi  
 
 ## DGA Lists
 
