@@ -5,7 +5,7 @@ Mozi Feeds contains data about IP addresses that infected by Mozi
 
 ## DGA Lists
 
-Domain generation algorithms (DGA) are algorithms seen in various families of malware that are used to periodically generate a large number of domain names that can be used as rendezvous points with their command and control servers. 
+Domain generation algorithms (DGA) are algorithms seen in various families of malware that are used to periodically generate a large number of domain names that can be used as rendezvous points with their command and control servers. This repository contains daily updated lists of the most active DGA domains. The registered domains are contained in a separate file.
 
 ### References
 * https://en.wikipedia.org/wiki/Domain_generation_algorithm
