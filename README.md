@@ -18,3 +18,6 @@ This repository contains the IP addresses of the monitored Mozi-nodes
 ### References
 * https://kn0wledge.fr/projects/mozitools
 * https://blog.netlab.360.com/mozi-another-botnet-using-dht/
+
+## Feedback
+We will really appreciate any feedback in the Discussions section of the GitHub repo. Please use the Issues tab if you have questions about the content of any of the lists provided.
