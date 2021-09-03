@@ -1,1 +1,506 @@
+<html>
+ <head>
+ <title>Extended Domains IOCs</title>
+  <meta charset="utf-8">
+     <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+	
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.13.0/d3.min.js" integrity="sha512-RJJ1NNC88QhN7dwpCY8rm/6OxI+YdQP48DrLGe/eSAd+n+s1PXwQkkpzzAgoJe4cZFW2GALQoxox61gSY2yQfg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+	<style>
+div{
+	float:left;
+}
+.links line {
+  stroke: #999;
+  stroke-opacity: 0.6;
+}
+
+.nodes circle {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+text {
+  font-family: sans-serif;
+  font-size: 30px;
+  user-select: none;
+}
+body {
+    padding: 0;
+    color: #545454;
+    font: 400 14px/20px Roboto,sans-serif;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    margin: 0;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+}
+html, body {
+	font-size:16px;
+	color:#545454;
+	background-color: #ffffff;
+	line-height: 1.42857143;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	}
+	
+.container {
+    width: calc(100% - 40px);
+    padding: 0px 20px;
+}
+a{
+	color: #3367d6;
+	text-decoration:none;
+}
+a:hover {
+	color: #1a0dab;
+	text-decoration:underline;
+	}
+h1 {
+    font-size: 20px;
+    margin: 0px;
+}
+.google-visualization-table-tr-head{
+	background-color: #DDDDDD;
+}
+
+.chart_block{
+    float: left;
+    font-size: 14px;
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid #c9b7a2;
+    border-radius: 2px;
+    background-color: #fff;
+}
+.topdiv {
+    width: calc(100% - 20px);
+    height: 22px;
+    padding: 10px;
+    box-shadow: 0 1px 6px rgba(17,17,17,0.5);
+    background-color: #ffffff;
+}
+.topdiv a{
+	text-decoration: none;
+	color: #545454;
+}
+#subm{
+	border: none;   
+	border-radius: 4px;
+	background-color: #3367d6;  
+	height:38px;   
+	color: white;font-size: 18px;
+}
+#subm:disabled{
+    color: -internal-light-dark(rgba(16, 16, 16, 0.3), rgba(255, 255, 255, 0.3));
+    background-color: -internal-light-dark(rgba(239, 239, 239, 0.3), rgba(19, 1, 1, 0.3));
+    border-color: -internal-light-dark(rgba(118, 118, 118, 0.3), rgba(195, 195, 195, 0.3));
+}
+#sv{
+	border: none;   
+	border-radius: 4px;
+	background-color: #3367d6;  
+	height:38px;   
+	color: white;font-size: 18px;
+}
+#sv:disabled{
+    color: -internal-light-dark(rgba(16, 16, 16, 0.3), rgba(255, 255, 255, 0.3));
+    background-color: -internal-light-dark(rgba(239, 239, 239, 0.3), rgba(19, 1, 1, 0.3));
+    border-color: -internal-light-dark(rgba(118, 118, 118, 0.3), rgba(195, 195, 195, 0.3));
+}
+.chkb div{
+	width:5
+	0px;
+}
+#save_list{
+	    list-style: none;
+    padding-left: 20px;
+	
+}
+#save_list li{
+	font-size: 12px;
+}
+#save_list li a{
+	font-size: 16px;
+}
+    </style>
+
+
+
+	
+ </head>
+
+  <body>
+<div style="width:calc(100% - 20px); padding:10px; "><h3 style="font-size: 16px;margin:0;" id='malname'></h3></div>
+<div style="width:544px;">
+<div class="chart_block" style="width:calc(100% - 30px); height:31px; padding:10px; "><h3 style="font-size: 22px;margin:0;" id='malname2'></h3></div>
+<div class="chart_block" style="overflow-y:auto;float:left;padding:10px;width:240px;height: calc(100% - 198px);">
+<p style="font-weight:600;font-style: italic;">IOCs importing from ThreatFox by ABUSE.ch</p>
+<p id="ab_list"></p>
+</div>
+<div class="chart_block" style="overflow-y:auto;float:left;padding:10px;width:240px;height: calc(100% - 198px);">
+<p style="font-weight:600;font-style: italic;">IOCs generated using resolve IP or SSL certificate as links</p>
+<p id="ex_list"></p>
+</div>
+</div>
+<div class="chart_block" style="float:left;padding:2px;width:calc(100% - 570px);height: calc(100% - 120px);">
+<svg id="for3d"></svg>
+</div>
+    <script type="text/javascript">
+
+function ValidateIPaddress(inputText) {
+	var ipformat = /^(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$/;
+	if(inputText.match(ipformat)) {
+		return true;
+	} else {
+		return false;
+	}
+ }
+
+const urlSearchParams = new URLSearchParams(window.location.search);
+const params = Object.fromEntries(urlSearchParams.entries());
+
+var json_data=[];
+var svgg;
+
+if(params.name==undefined){
+	params.name='Dridex';
+}
+var dataurl=params.name+'.json';	
+	
+var host_list='';
+var mal_list='';
+	var jsonData = $.ajax({
+		url: 'abuse_list.json',
+		type: "GET",
+		dataType: 'json',
+		}).done(function (results) {
+		results.data.forEach((element) => {
+			mal_list = mal_list + '<a href="?name='+element.name.replaceAll(' ','_')+'">'+element.name+'</a> | '
+			
+		})
+document.getElementById('malname').innerHTML = mal_list;
+document.getElementById('malname2').innerHTML =	params.name;		
+	});
+	
+	var jsonData = $.ajax({
+		url: dataurl,
+		type: "GET",
+		dataType: 'json',
+		}).done(function (results) {
+	//		document.getElementById('malname').innerHTML=params.name;
+			update_graph(results);
+			
+	}).fail(function (jqXHR, exception) {
+
+        var msg = '';
+        if (jqXHR.status === 0) {
+            msg = 'Not connect.\n Verify Network.';
+        } else if (jqXHR.status == 404) {
+            msg = 'Requested page not found. [404]';
+        } else if (jqXHR.status == 500) {
+            msg = 'Internal Server Error [500].';
+        } else if (exception === 'parsererror') {
+            msg = 'Requested JSON parse failed.';
+        } else if (exception === 'timeout') {
+            msg = 'Time out error.';
+        } else if (exception === 'abort') {
+            msg = 'Ajax request aborted.';
+        } else {
+            msg = 'Uncaught Error.\n' + jqXHR.responseText;
+        }
+	}); 
+
+function update_graph(data){
+	if(svgg!==undefined)
+			svgg.remove();
+	drawGraph(data);
+}
+
+function minus_level(name){
+	var cutname="";
+	var hostData = name.split(".");			
+	if(hostData.length>2){
+		for (var i=1;i<hostData.length;i++){
+			cutname="."+hostData[hostData.length-i] + cutname;
+		}
+	return cutname.substring(1);
+}
+	return name;
+}
+  
+function drawGraph(data){
+
+var tarr = [];
+
+graph = {};
+graph.nodes=[];
+graph.links=[];
+var subdata=[];
+	
+
+	
+
+var tarr2=[];
+	
+data["data"].forEach(element => {
+	var subob=new Object();
+	var sub_tmp=new Object();
+
+	element.host_wg=0;
+	element.ip_wg=0;
+	
+	sub_tmp.host=element.host;
+	sub_tmp.ip = element.ip;
+	sub_tmp.type=element.type;
+
+	subdata.push(element);
+	tarr2.push(sub_tmp);
+
+		
+});
+
+		subdata.forEach(el1 => {
+			subdata.forEach(el2 => {
+		
+				if(el1.host==el2.host)
+					el2.host_wg++;
+				if(el1.ip==el2.host)
+					el2.host_wg++;
+				
+				if(el1.host==el2.ip)
+					el2.ip_wg++;
+				if(el1.ip==el2.ip)
+					el2.ip_wg++;
+
+				});
+		});		
+		
+
+subdata.forEach(element => {	
+	graph.links.push({source:element.host,target:element.ip,value:1,type:element.type});
+});
+
+var svgwidth = Math.round(document.body.clientWidth)-570;
+var svgheight = document.body.clientHeight-140;
+
+document.getElementById('for3d').setAttribute("width",svgwidth);
+document.getElementById('for3d').setAttribute("height",svgheight);
+
+
+
+var svg = d3.select("svg"),
+    width = +svg.attr("width"),
+    height = +svg.attr("height");
+	
+ svgg = svg.append("g")
+    .attr("class", "everything");
+	
+var color = d3.scaleOrdinal(d3.schemeCategory20);
+
+
+
+simulation = d3.forceSimulation()
+    .force("link", d3.forceLink().id(function(d) { return d.id; }).distance(550).strength(1))
+    .force("charge", d3.forceManyBody().strength(-500))
+    .force("center", d3.forceCenter(width / 2, height / 2));
+	
+var	post_arr=[];
+var abuse_list='';
+var ext_list='';
+
+graph.links.forEach(element => {
+	
+	var lg = element.source;
+	gr=1;
+	wgwg=1;
+	if(lg.replaceAll(' ','_')=='ThreatFox:_'+params.name){
+		gr=4;
+		wgwg=20;
+	}
+
+	if(tarr.indexOf(lg) === -1){
+		tarr.push(lg);
+		if(lg.substring(0,1)!='#'){
+			if(gr==1)
+				ext_list=ext_list+lg+'<br>';
+			graph.nodes.push({id:lg,group:gr,wg:wgwg});
+			post_arr.push(lg);
+		}else{
+			graph.nodes.push({id:lg,group:4,wg:wgwg});
+		}	
+	}else{
+		graph.nodes.forEach(element => {
+			if(element.id==lg)
+				element.wg++;
+		});
+	}
+	
+	gr=2;
+		
+	lg = element.target;
+	if(element.source.replaceAll(' ','_')=='ThreatFox:_'+params.name)
+		gr=3;
+	
+	if(tarr.indexOf(lg) === -1){
+		tarr.push(lg);
+		if(lg.substring(0,1)!='#'){
+			graph.nodes.push({id:lg,group:gr,wg:1});
+			if(gr==3)
+				abuse_list=abuse_list+lg+'<br>';
+		}else{
+			graph.nodes.push({id:lg,group:4,wg:1});
+		}
+	}else{
+		graph.nodes.forEach(element => {
+			if(element.id==lg)
+				element.wg++;
+		});
+	}
+	});
+
+document.getElementById('ab_list').innerHTML=abuse_list;
+document.getElementById('ex_list').innerHTML=ext_list;
+
+  link = svgg.append("g")
+      .attr("class", "links")
+    .selectAll("line")
+    .data(graph.links)
+    .enter().append("line")
+      .attr("stroke-width", function(d) { return Math.sqrt(d.value); });
+
+  node = svgg.append("g")
+      .attr("class", "nodes")
+    .selectAll("g")
+    .data(graph.nodes)
+    .enter().append("g")
+  
+  var circles = node.append("circle")
+      .attr("r", function(d) {
+		  var rc=15 + d.wg;
+		  if (rc>50)
+			  rc=50;
+		  return rc; })
+      .attr("fill", function(d) { return mycolor(d.group); })
+      .call(d3.drag()
+          .on("start", dragstarted)
+          .on("drag", dragged)
+          .on("end", dragended));
+
+
+function mycolor(gr){
+	if(gr==1)
+		return "rgb(31, 119, 180)";
+	if(gr==2)
+		return "rgb(174, 199, 232)";
+	if(gr==3)
+		return "rgb(255, 127, 14)";
+	if(gr==4)
+		return "red";
+	
+}
+
+			  
+d3.selectAll('g').on('click', function(d, i) {
+	if(d!=undefined){
+		if(d.group != 4){ 
+			copy(d.id);	
+		}
+	}
+});
+
+function ValidateIPaddress(inputText) {
+	var ipformat = /^(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$/;
+	if(inputText.match(ipformat)) {
+		return true;
+	} else {
+		return false;
+	}
+ }
+
+
+function copy(str) {
+  const el = document.createElement('textarea');
+  el.value = str;
+  document.body.appendChild(el);
+  el.select();
+  document.execCommand('copy');
+  document.body.removeChild(el);
+};
+	
+  var lables = node.append("text")
+      .text(function(d) {
+		  if(d.id.substring(0,1)!='#')
+				return d.id;
+			else
+				return d.id.substring(1,2);
+      })
+      .attr('x', function(d) {
+		  if(d.id.substring(0,1)!='#')
+				return 20;
+			else
+				return -5;
+      })
+      .attr('y', 5);
+
+  node.append("title")
+      .text(function(d) { return d.id; });
+
+
+var zoom_handler = d3.zoom()
+    .on("zoom", zoom_actions);
+
+zoom_handler(svg);   
+
+ 
+ simulation
+      .nodes(graph.nodes)
+      .on("tick", ticked)
+	  .on("end", end_tick);
+
+  simulation.force("link")
+      .links(graph.links);
+	  
+function zoom_actions(){
+    svgg.attr("transform", d3.event.transform)
+}
+
+  function end_tick() {
+//	  console.log(graph);
+  }
+  function ticked() {
+    link
+        .attr("x1", function(d) { return d.source.x; })
+        .attr("y1", function(d) { return d.source.y; })
+        .attr("x2", function(d) { return d.target.x; })
+        .attr("y2", function(d) { return d.target.y; });
+
+    node
+        .attr("transform", function(d) {
+          return "translate(" + d.x + "," + d.y + ")";
+        })
+  }
+
+
+function dragstarted(d) {
+  if (!d3.event.active) simulation.alphaTarget(0.3).restart();
+  d.fx = d.x;
+  d.fy = d.y;
+}
+
+function dragged(d) {
+  d.fx = d3.event.x;
+  d.fy = d3.event.y;
+}
+
+function dragended(d) {
+  if (!d3.event.active) simulation.alphaTarget(0);
+  d.fx = null;
+  d.fy = null;
+}
+}
+
+</script>
+	
+</body>
+</html>
 
