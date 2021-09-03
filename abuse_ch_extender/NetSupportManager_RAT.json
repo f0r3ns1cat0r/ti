@@ -1,0 +1,70 @@
+{
+	"meta":
+	[
+		{
+			"name": "host",
+			"type": "String"
+		},
+		{
+			"name": "ip",
+			"type": "String"
+		},
+		{
+			"name": "type",
+			"type": "String"
+		},
+		{
+			"name": "ln",
+			"type": "UInt8"
+		}
+	],
+
+	"data":
+	[
+		{
+			"host": "ThreatFox: NetSupportManager RAT",
+			"ip": "worktwork3.xyz",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: NetSupportManager RAT",
+			"ip": "worktwork3.xyz",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "worktwork3.club",
+			"ip": "5.252.179.111",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "worktwork3.club",
+			"ip": "5.252.179.111",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "worktwork3.xyz",
+			"ip": "5.252.179.111",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "worktwork3.xyz",
+			"ip": "5.252.179.111",
+			"type": "pdns",
+			"ln": 2
+		}
+	],
+
+	"rows": 6,
+
+	"statistics":
+	{
+		"elapsed": 0.016116393,
+		"rows_read": 81912,
+		"bytes_read": 5086815
+	}
+}

@@ -1,0 +1,226 @@
+{
+	"meta":
+	[
+		{
+			"name": "host",
+			"type": "String"
+		},
+		{
+			"name": "ip",
+			"type": "String"
+		},
+		{
+			"name": "type",
+			"type": "String"
+		},
+		{
+			"name": "ln",
+			"type": "UInt8"
+		}
+	],
+
+	"data":
+	[
+		{
+			"host": "62.113.117.9",
+			"ip": "62.113.117.9",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "62.113.117.9",
+			"ip": "62.113.117.9",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: Ficker Stealer",
+			"ip": "asfasfvcxvdbs.com",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: Ficker Stealer",
+			"ip": "asfasfvcxvdbs.com",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: Ficker Stealer",
+			"ip": "gurums.link",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: Ficker Stealer",
+			"ip": "gurums.link",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: Ficker Stealer",
+			"ip": "gurums.space",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: Ficker Stealer",
+			"ip": "gurums.space",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: Ficker Stealer",
+			"ip": "pospvisis.com",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: Ficker Stealer",
+			"ip": "pospvisis.com",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "asfasfvcxvdbs.com",
+			"ip": "8.208.86.224",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "asfasfvcxvdbs.com",
+			"ip": "8.208.86.224",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "barrfimls.ru",
+			"ip": "62.113.117.9",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "barrfimls.ru",
+			"ip": "62.113.117.9",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "bjgkvanfjasfas.com",
+			"ip": "8.208.86.224",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "bjgkvanfjasfas.com",
+			"ip": "8.208.86.224",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "gurums.link",
+			"ip": "62.113.117.9",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "gurums.link",
+			"ip": "62.113.117.9",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "gurums.space",
+			"ip": "62.113.117.9",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "gurums.space",
+			"ip": "62.113.117.9",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "host-62-113-117-9.hosted-by-vdsina.ru",
+			"ip": "62.113.117.9",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "host-62-113-117-9.hosted-by-vdsina.ru",
+			"ip": "62.113.117.9",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "mail.gz-journal.ru",
+			"ip": "95.213.179.67",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "mail.gz-journal.ru",
+			"ip": "95.213.179.67",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "mail.next-game.ru",
+			"ip": "95.213.179.67",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "mail.next-game.ru",
+			"ip": "95.213.179.67",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "mail.vseoslove.ru",
+			"ip": "95.213.179.67",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "mail.vseoslove.ru",
+			"ip": "95.213.179.67",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "pospvisis.com",
+			"ip": "95.213.179.67",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "pospvisis.com",
+			"ip": "95.213.179.67",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "v346697.hosted-by-vdsina.ru",
+			"ip": "62.113.117.9",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "v346697.hosted-by-vdsina.ru",
+			"ip": "62.113.117.9",
+			"type": "pdns",
+			"ln": 2
+		}
+	],
+
+	"rows": 32,
+
+	"statistics":
+	{
+		"elapsed": 0.015100959,
+		"rows_read": 81912,
+		"bytes_read": 5086815
+	}
+}

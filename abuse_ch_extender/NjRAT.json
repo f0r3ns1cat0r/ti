@@ -1,0 +1,286 @@
+{
+	"meta":
+	[
+		{
+			"name": "host",
+			"type": "String"
+		},
+		{
+			"name": "ip",
+			"type": "String"
+		},
+		{
+			"name": "type",
+			"type": "String"
+		},
+		{
+			"name": "ln",
+			"type": "UInt8"
+		}
+	],
+
+	"data":
+	[
+		{
+			"host": "91.109.186.2",
+			"ip": "91.109.186.2",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "91.109.186.2",
+			"ip": "91.109.186.2",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "91.109.188.8",
+			"ip": "91.109.188.8",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "91.109.188.8",
+			"ip": "91.109.188.8",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: NjRAT",
+			"ip": "societyf500.ddns.net",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: NjRAT",
+			"ip": "societyf500.ddns.net",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: NjRAT",
+			"ip": "societyf500.ddns.net",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: NjRAT",
+			"ip": "societyf500.ddns.net",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: NjRAT",
+			"ip": "societyf500.ddns.net",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: NjRAT",
+			"ip": "societyf500.ddns.net",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: NjRAT",
+			"ip": "societyf500.ddns.net",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: NjRAT",
+			"ip": "societyf500.ddns.net",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: NjRAT",
+			"ip": "societyf500.ddns.net",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: NjRAT",
+			"ip": "societyf500.ddns.net",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: NjRAT",
+			"ip": "societyf500.ddns.net",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: NjRAT",
+			"ip": "societyf500.ddns.net",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "bobbelal20.ddns.net",
+			"ip": "91.109.176.4",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "bobbelal20.ddns.net",
+			"ip": "91.109.176.4",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "frenchhub666.ddns.net",
+			"ip": "91.109.188.6",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "frenchhub666.ddns.net",
+			"ip": "91.109.188.6",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "kicmxznvx.duckdns.org",
+			"ip": "91.109.188.2",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "kicmxznvx.duckdns.org",
+			"ip": "91.109.188.2",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "societyf500.ddns.net",
+			"ip": "91.109.176.4",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "societyf500.ddns.net",
+			"ip": "91.109.176.4",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "societyf500.ddns.net",
+			"ip": "91.109.184.2",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "societyf500.ddns.net",
+			"ip": "91.109.184.2",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "societyf500.ddns.net",
+			"ip": "91.109.186.2",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "societyf500.ddns.net",
+			"ip": "91.109.186.2",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "societyf500.ddns.net",
+			"ip": "91.109.188.2",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "societyf500.ddns.net",
+			"ip": "91.109.188.2",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "societyf500.ddns.net",
+			"ip": "91.109.188.6",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "societyf500.ddns.net",
+			"ip": "91.109.188.6",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "societyf500.ddns.net",
+			"ip": "91.109.188.8",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "societyf500.ddns.net",
+			"ip": "91.109.188.8",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "thedog12.ddns.net",
+			"ip": "91.109.176.4",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "thedog12.ddns.net",
+			"ip": "91.109.176.4",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "thedog12.ddns.net",
+			"ip": "91.109.184.2",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "thedog12.ddns.net",
+			"ip": "91.109.184.2",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "thedog12.ddns.net",
+			"ip": "91.109.188.6",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "thedog12.ddns.net",
+			"ip": "91.109.188.6",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "xxnx.ddns.net",
+			"ip": "91.109.188.6",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "xxnx.ddns.net",
+			"ip": "91.109.188.6",
+			"type": "pdns",
+			"ln": 2
+		}
+	],
+
+	"rows": 42,
+
+	"statistics":
+	{
+		"elapsed": 0.015995334,
+		"rows_read": 81912,
+		"bytes_read": 5086815
+	}
+}

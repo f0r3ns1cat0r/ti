@@ -1,0 +1,190 @@
+{
+	"meta":
+	[
+		{
+			"name": "host",
+			"type": "String"
+		},
+		{
+			"name": "ip",
+			"type": "String"
+		},
+		{
+			"name": "type",
+			"type": "String"
+		},
+		{
+			"name": "ln",
+			"type": "UInt8"
+		}
+	],
+
+	"data":
+	[
+		{
+			"host": "14.20.125.34.bc.googleusercontent.com",
+			"ip": "34.125.20.14",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "14.20.125.34.bc.googleusercontent.com",
+			"ip": "34.125.20.14",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: Raccoon",
+			"ip": "asfuuvhv3083f.xyz",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: Raccoon",
+			"ip": "asfuuvhv3083f.xyz",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: Raccoon",
+			"ip": "msresearchcenter.top",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: Raccoon",
+			"ip": "msresearchcenter.top",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "admin.nticket.md",
+			"ip": "5.181.156.15",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "admin.nticket.md",
+			"ip": "5.181.156.15",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "asfuuvhv3083f.xyz",
+			"ip": "5.181.156.15",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "asfuuvhv3083f.xyz",
+			"ip": "5.181.156.15",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "ethnorepublic.com",
+			"ip": "5.181.156.15",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "ethnorepublic.com",
+			"ip": "5.181.156.15",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "msresearchcenter.top",
+			"ip": "34.125.20.14",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "msresearchcenter.top",
+			"ip": "34.125.20.14",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "nticket.md",
+			"ip": "5.181.156.15",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "nticket.md",
+			"ip": "5.181.156.15",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "teahgiaj3ig.cn",
+			"ip": "5.181.156.15",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "teahgiaj3ig.cn",
+			"ip": "5.181.156.15",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "www.admin.nticket.md",
+			"ip": "5.181.156.15",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "www.admin.nticket.md",
+			"ip": "5.181.156.15",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "www.ethnorepublic.com",
+			"ip": "5.181.156.15",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "www.ethnorepublic.com",
+			"ip": "5.181.156.15",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "www.nticket.md",
+			"ip": "5.181.156.15",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "www.nticket.md",
+			"ip": "5.181.156.15",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "www.teahgiaj3ig.cn",
+			"ip": "5.181.156.15",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "www.teahgiaj3ig.cn",
+			"ip": "5.181.156.15",
+			"type": "pdns",
+			"ln": 2
+		}
+	],
+
+	"rows": 26,
+
+	"statistics":
+	{
+		"elapsed": 0.016820186,
+		"rows_read": 81912,
+		"bytes_read": 5086815
+	}
+}

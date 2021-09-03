@@ -1,0 +1,1072 @@
+{
+	"meta":
+	[
+		{
+			"name": "host",
+			"type": "String"
+		},
+		{
+			"name": "ip",
+			"type": "String"
+		},
+		{
+			"name": "type",
+			"type": "String"
+		},
+		{
+			"name": "ln",
+			"type": "UInt8"
+		}
+	],
+
+	"data":
+	[
+		{
+			"host": "176.121.14.101",
+			"ip": "176.121.14.101",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "176.121.14.101",
+			"ip": "176.121.14.101",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "176.121.14.122",
+			"ip": "176.121.14.122",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "176.121.14.122",
+			"ip": "176.121.14.122",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "193.201.126.60",
+			"ip": "193.201.126.60",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "193.201.126.60",
+			"ip": "193.201.126.60",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "193.38.55.37",
+			"ip": "193.38.55.37",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "193.38.55.37",
+			"ip": "193.38.55.37",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: Cerberus",
+			"ip": "comparistakres.ga",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: Cerberus",
+			"ip": "comparistakres.ga",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: Cerberus",
+			"ip": "comparistakres.ga",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: Cerberus",
+			"ip": "comparistakres.ga",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: Cerberus",
+			"ip": "comparistakres.ga",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: Cerberus",
+			"ip": "comparistakres.ga",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: Cerberus",
+			"ip": "gostmarest.ga",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: Cerberus",
+			"ip": "gostmarest.ga",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: Cerberus",
+			"ip": "gostmarest.ga",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: Cerberus",
+			"ip": "gostmarest.ga",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: Cerberus",
+			"ip": "gostmarest.ga",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: Cerberus",
+			"ip": "gostmarest.ga",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: Cerberus",
+			"ip": "morestandersolt.ga",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: Cerberus",
+			"ip": "morestandersolt.ga",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: Cerberus",
+			"ip": "morestandersolt.ga",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: Cerberus",
+			"ip": "morestandersolt.ga",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: Cerberus",
+			"ip": "morestandersolt.ga",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: Cerberus",
+			"ip": "morestandersolt.ga",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: Cerberus",
+			"ip": "morestandersolt.ga",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: Cerberus",
+			"ip": "morestandersolt.ga",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: Cerberus",
+			"ip": "quarterstudy.ga",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: Cerberus",
+			"ip": "quarterstudy.ga",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: Cerberus",
+			"ip": "quarterstudy.ga",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: Cerberus",
+			"ip": "quarterstudy.ga",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: Cerberus",
+			"ip": "quarterstudy.ga",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: Cerberus",
+			"ip": "quarterstudy.ga",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: Cerberus",
+			"ip": "univerpromo.ga",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: Cerberus",
+			"ip": "univerpromo.ga",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: Cerberus",
+			"ip": "univerpromo.ga",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: Cerberus",
+			"ip": "univerpromo.ga",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: Cerberus",
+			"ip": "univerpromo.ga",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: Cerberus",
+			"ip": "univerpromo.ga",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "androisksuaowuaisueusuasa.ml",
+			"ip": "176.121.14.101",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "androisksuaowuaisueusuasa.ml",
+			"ip": "176.121.14.101",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "androisksuaowuaisueusuasa.ml",
+			"ip": "176.121.14.122",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "androisksuaowuaisueusuasa.ml",
+			"ip": "176.121.14.122",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "androisksuaowuaisueusuasa.ml",
+			"ip": "193.201.126.60",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "androisksuaowuaisueusuasa.ml",
+			"ip": "193.201.126.60",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "apksuaowuaisueusuasa.ml",
+			"ip": "176.121.14.101",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "apksuaowuaisueusuasa.ml",
+			"ip": "176.121.14.101",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "apksuaowuaisueusuasa.ml",
+			"ip": "176.121.14.122",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "apksuaowuaisueusuasa.ml",
+			"ip": "176.121.14.122",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "apksuaowuaisueusuasa.ml",
+			"ip": "193.201.126.60",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "apksuaowuaisueusuasa.ml",
+			"ip": "193.201.126.60",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "comparistakres.ga",
+			"ip": "176.121.14.101",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "comparistakres.ga",
+			"ip": "176.121.14.101",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "comparistakres.ga",
+			"ip": "176.121.14.122",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "comparistakres.ga",
+			"ip": "176.121.14.122",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "comparistakres.ga",
+			"ip": "193.38.55.37",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "comparistakres.ga",
+			"ip": "193.38.55.37",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "crabsdelivery.space",
+			"ip": "193.38.55.37",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "crabsdelivery.space",
+			"ip": "193.38.55.37",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "crabsdelivery.website",
+			"ip": "193.38.55.37",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "crabsdelivery.website",
+			"ip": "193.38.55.37",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "farcamnsuaieaenautwuajsua.ml",
+			"ip": "176.121.14.101",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "farcamnsuaieaenautwuajsua.ml",
+			"ip": "176.121.14.101",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "farcamnsuaieaenautwuajsua.ml",
+			"ip": "176.121.14.122",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "farcamnsuaieaenautwuajsua.ml",
+			"ip": "176.121.14.122",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "farcamnsuaieaenautwuajsua.ml",
+			"ip": "193.201.126.60",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "farcamnsuaieaenautwuajsua.ml",
+			"ip": "193.201.126.60",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "farcamnsuaieaenautwuajsua.ml",
+			"ip": "193.38.55.22",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "fashionusetroeu.ml",
+			"ip": "176.121.14.101",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "fashionusetroeu.ml",
+			"ip": "176.121.14.101",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "fashionusetroeu.ml",
+			"ip": "176.121.14.122",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "fashionusetroeu.ml",
+			"ip": "176.121.14.122",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "fashionusetroeu.ml",
+			"ip": "193.201.126.60",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "fashionusetroeu.ml",
+			"ip": "193.201.126.60",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "fosok.xyz",
+			"ip": "193.38.55.37",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "fosok.xyz",
+			"ip": "193.38.55.37",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "gostmarest.ga",
+			"ip": "176.121.14.101",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "gostmarest.ga",
+			"ip": "176.121.14.101",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "gostmarest.ga",
+			"ip": "176.121.14.122",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "gostmarest.ga",
+			"ip": "176.121.14.122",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "gostmarest.ga",
+			"ip": "193.38.55.37",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "gostmarest.ga",
+			"ip": "193.38.55.37",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "hotubi.com",
+			"ip": "193.38.55.37",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "hotubi.com",
+			"ip": "193.38.55.37",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "hotubik.com",
+			"ip": "193.38.55.37",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "hotubik.com",
+			"ip": "193.38.55.37",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "hustirastmosta.ga",
+			"ip": "176.121.14.101",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "hustirastmosta.ga",
+			"ip": "176.121.14.101",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "hustirastmosta.ga",
+			"ip": "176.121.14.122",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "hustirastmosta.ga",
+			"ip": "176.121.14.122",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "hustirastmosta.ga",
+			"ip": "193.201.126.60",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "hustirastmosta.ga",
+			"ip": "193.201.126.60",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "hustirastmosta.ga",
+			"ip": "193.38.55.22",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "hustirastmosta.ga",
+			"ip": "193.38.55.22",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "hustirastmostaasstr.ga",
+			"ip": "176.121.14.101",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "hustirastmostaasstr.ga",
+			"ip": "176.121.14.101",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "hustirastmostaasstr.ga",
+			"ip": "176.121.14.122",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "hustirastmostaasstr.ga",
+			"ip": "176.121.14.122",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "hustirastmostaasstr.ga",
+			"ip": "193.201.126.60",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "hustirastmostaasstr.ga",
+			"ip": "193.201.126.60",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "hustirastmostaasstr.ga",
+			"ip": "193.38.55.22",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "hustirastmostaasstr.ga",
+			"ip": "193.38.55.22",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "maoelauiiaoauenautwuajsua.ml",
+			"ip": "176.121.14.101",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "maoelauiiaoauenautwuajsua.ml",
+			"ip": "176.121.14.101",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "maoelauiiaoauenautwuajsua.ml",
+			"ip": "176.121.14.122",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "maoelauiiaoauenautwuajsua.ml",
+			"ip": "176.121.14.122",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "maoelauiiaoauenautwuajsua.ml",
+			"ip": "193.201.126.60",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "maoelauiiaoauenautwuajsua.ml",
+			"ip": "193.201.126.60",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "maoelauiiaoauenautwuajsua.ml",
+			"ip": "193.38.55.22",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "maoelauiiaoauenautwuajsua.ml",
+			"ip": "193.38.55.22",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "mcdelivery.space",
+			"ip": "193.38.55.37",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "mcdelivery.space",
+			"ip": "193.38.55.37",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "mcdelivery.website",
+			"ip": "193.38.55.37",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "mcdelivery.website",
+			"ip": "193.38.55.37",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "morestandersolt.ga",
+			"ip": "176.121.14.101",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "morestandersolt.ga",
+			"ip": "176.121.14.101",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "morestandersolt.ga",
+			"ip": "176.121.14.122",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "morestandersolt.ga",
+			"ip": "176.121.14.122",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "morestandersolt.ga",
+			"ip": "193.201.126.60",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "morestandersolt.ga",
+			"ip": "193.201.126.60",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "morestandersolt.ga",
+			"ip": "193.38.55.22",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "morestandersolt.ga",
+			"ip": "193.38.55.22",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "newappssolutions199938.ga",
+			"ip": "176.121.14.101",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "newappssolutions199938.ga",
+			"ip": "176.121.14.101",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "newappssolutions199938.ga",
+			"ip": "176.121.14.122",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "newappssolutions199938.ga",
+			"ip": "176.121.14.122",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "newappssolutions199938.ga",
+			"ip": "193.201.126.60",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "newappssolutions199938.ga",
+			"ip": "193.201.126.60",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "newappssolutions199938.ga",
+			"ip": "193.38.55.22",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "newoffersbranding.ga",
+			"ip": "176.121.14.101",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "newoffersbranding.ga",
+			"ip": "176.121.14.101",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "newoffersbranding.ga",
+			"ip": "176.121.14.122",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "newoffersbranding.ga",
+			"ip": "176.121.14.122",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "newoffersbranding.ga",
+			"ip": "193.201.126.60",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "newoffersbranding.ga",
+			"ip": "193.201.126.60",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "newoffersbranding.ga",
+			"ip": "193.38.55.22",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "newoffersbranding.ga",
+			"ip": "193.38.55.22",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "portalrandomise.ga",
+			"ip": "176.121.14.101",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "portalrandomise.ga",
+			"ip": "176.121.14.101",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "portalrandomise.ga",
+			"ip": "176.121.14.122",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "portalrandomise.ga",
+			"ip": "176.121.14.122",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "portalrandomise.ga",
+			"ip": "193.201.126.60",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "portalrandomise.ga",
+			"ip": "193.201.126.60",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "quarterstudy.ga",
+			"ip": "176.121.14.101",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "quarterstudy.ga",
+			"ip": "176.121.14.101",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "quarterstudy.ga",
+			"ip": "176.121.14.122",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "quarterstudy.ga",
+			"ip": "176.121.14.122",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "quarterstudy.ga",
+			"ip": "193.38.55.37",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "quarterstudy.ga",
+			"ip": "193.38.55.37",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "showexreprp.ga",
+			"ip": "176.121.14.101",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "showexreprp.ga",
+			"ip": "176.121.14.101",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "showexreprp.ga",
+			"ip": "176.121.14.122",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "showexreprp.ga",
+			"ip": "176.121.14.122",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "showexreprp.ga",
+			"ip": "193.201.126.60",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "showexreprp.ga",
+			"ip": "193.201.126.60",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "showexreprp.ga",
+			"ip": "193.38.55.22",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "univerpromo.ga",
+			"ip": "176.121.14.101",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "univerpromo.ga",
+			"ip": "176.121.14.101",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "univerpromo.ga",
+			"ip": "176.121.14.122",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "univerpromo.ga",
+			"ip": "176.121.14.122",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "univerpromo.ga",
+			"ip": "193.38.55.37",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "univerpromo.ga",
+			"ip": "193.38.55.37",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "www.crabsdelivery.space",
+			"ip": "193.38.55.37",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "www.crabsdelivery.space",
+			"ip": "193.38.55.37",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "www.crabsdelivery.website",
+			"ip": "193.38.55.37",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "www.crabsdelivery.website",
+			"ip": "193.38.55.37",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "www.hotubi.com",
+			"ip": "193.38.55.37",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "www.hotubi.com",
+			"ip": "193.38.55.37",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "www.mcdelivery.space",
+			"ip": "193.38.55.37",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "www.mcdelivery.space",
+			"ip": "193.38.55.37",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "www.mcdelivery.website",
+			"ip": "193.38.55.37",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "www.mcdelivery.website",
+			"ip": "193.38.55.37",
+			"type": "pdns",
+			"ln": 2
+		}
+	],
+
+	"rows": 173,
+
+	"statistics":
+	{
+		"elapsed": 0.014413124,
+		"rows_read": 81912,
+		"bytes_read": 5086815
+	}
+}

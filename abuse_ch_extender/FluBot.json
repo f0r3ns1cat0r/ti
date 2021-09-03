@@ -1,0 +1,742 @@
+{
+	"meta":
+	[
+		{
+			"name": "host",
+			"type": "String"
+		},
+		{
+			"name": "ip",
+			"type": "String"
+		},
+		{
+			"name": "type",
+			"type": "String"
+		},
+		{
+			"name": "ln",
+			"type": "UInt8"
+		}
+	],
+
+	"data":
+	[
+		{
+			"host": "ThreatFox: FluBot",
+			"ip": "nfiuerwtftasnuk.com",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: FluBot",
+			"ip": "nfiuerwtftasnuk.com",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: FluBot",
+			"ip": "obunryugtpfyssw.ru",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: FluBot",
+			"ip": "obunryugtpfyssw.ru",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: FluBot",
+			"ip": "wenkgefmpgfumtk.com",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: FluBot",
+			"ip": "wenkgefmpgfumtk.com",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: FluBot",
+			"ip": "wenkgefmpgfumtk.com",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: FluBot",
+			"ip": "wenkgefmpgfumtk.com",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: FluBot",
+			"ip": "wenkgefmpgfumtk.com",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "ThreatFox: FluBot",
+			"ip": "wenkgefmpgfumtk.com",
+			"type": "z",
+			"ln": 2
+		},
+		{
+			"host": "anydomains.info",
+			"ip": "51.254.172.105",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "anydomains.info",
+			"ip": "51.254.172.105",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "canceldomain.net",
+			"ip": "51.254.172.105",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "canceldomain.net",
+			"ip": "51.254.172.105",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "nfiuerwtftasnuk.com",
+			"ip": "51.254.172.105",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "nfiuerwtftasnuk.com",
+			"ip": "51.254.172.105",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "obunryugtpfyssw.com",
+			"ip": "148.81.111.125",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "obunryugtpfyssw.com",
+			"ip": "148.81.111.125",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "obunryugtpfyssw.ru",
+			"ip": "148.81.111.125",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "obunryugtpfyssw.ru",
+			"ip": "148.81.111.125",
+			"type": "pdns",
+			"ln": 2
+		},
+		{
+			"host": "poiioewud343579tiyytbvvxfwrtrew.com",
+			"ip": "ab663462779c5a32566d55475738f040946a9459",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "poiioewud343579tiyytbvvxfwrtrew.com",
+			"ip": "ab663462779c5a32566d55475738f040946a9459",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "poiioewud343579tiyytbvvxfwrtrew.com",
+			"ip": "da7d4a3caf16fb4579053c26ee545327f7f93a27",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "poiioewud343579tiyytbvvxfwrtrew.com",
+			"ip": "da7d4a3caf16fb4579053c26ee545327f7f93a27",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "qbitka.com",
+			"ip": "ab663462779c5a32566d55475738f040946a9459",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "qbitka.com",
+			"ip": "ab663462779c5a32566d55475738f040946a9459",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "qbitka.com",
+			"ip": "da7d4a3caf16fb4579053c26ee545327f7f93a27",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "qbitka.com",
+			"ip": "da7d4a3caf16fb4579053c26ee545327f7f93a27",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "solitaireinfo.com",
+			"ip": "ab663462779c5a32566d55475738f040946a9459",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "solitaireinfo.com",
+			"ip": "ab663462779c5a32566d55475738f040946a9459",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "solitaireinfo.com",
+			"ip": "da7d4a3caf16fb4579053c26ee545327f7f93a27",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "solitaireinfo.com",
+			"ip": "da7d4a3caf16fb4579053c26ee545327f7f93a27",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "somicrososoft.ru",
+			"ip": "ab663462779c5a32566d55475738f040946a9459",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "somicrososoft.ru",
+			"ip": "ab663462779c5a32566d55475738f040946a9459",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "somicrososoft.ru",
+			"ip": "da7d4a3caf16fb4579053c26ee545327f7f93a27",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "somicrososoft.ru",
+			"ip": "da7d4a3caf16fb4579053c26ee545327f7f93a27",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "supra-onfert.com",
+			"ip": "ab663462779c5a32566d55475738f040946a9459",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "supra-onfert.com",
+			"ip": "ab663462779c5a32566d55475738f040946a9459",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "supra-onfert.com",
+			"ip": "da7d4a3caf16fb4579053c26ee545327f7f93a27",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "supra-onfert.com",
+			"ip": "da7d4a3caf16fb4579053c26ee545327f7f93a27",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "svc.blmrta.org",
+			"ip": "ab663462779c5a32566d55475738f040946a9459",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "svc.blmrta.org",
+			"ip": "ab663462779c5a32566d55475738f040946a9459",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "svc.blmrta.org",
+			"ip": "da7d4a3caf16fb4579053c26ee545327f7f93a27",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "svc.blmrta.org",
+			"ip": "da7d4a3caf16fb4579053c26ee545327f7f93a27",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "syncerjpi.com",
+			"ip": "ab663462779c5a32566d55475738f040946a9459",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "syncerjpi.com",
+			"ip": "ab663462779c5a32566d55475738f040946a9459",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "syncerjpi.com",
+			"ip": "da7d4a3caf16fb4579053c26ee545327f7f93a27",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "syncerjpi.com",
+			"ip": "da7d4a3caf16fb4579053c26ee545327f7f93a27",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "tuser.info",
+			"ip": "ab663462779c5a32566d55475738f040946a9459",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "tuser.info",
+			"ip": "ab663462779c5a32566d55475738f040946a9459",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "tuser.info",
+			"ip": "da7d4a3caf16fb4579053c26ee545327f7f93a27",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "tuser.info",
+			"ip": "da7d4a3caf16fb4579053c26ee545327f7f93a27",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "uni-blue.net",
+			"ip": "ab663462779c5a32566d55475738f040946a9459",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "uni-blue.net",
+			"ip": "ab663462779c5a32566d55475738f040946a9459",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "uni-blue.net",
+			"ip": "da7d4a3caf16fb4579053c26ee545327f7f93a27",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "uni-blue.net",
+			"ip": "da7d4a3caf16fb4579053c26ee545327f7f93a27",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "vmrfmh.info",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "vmrfmh.info",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "volqiblvzyqqp.com",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "volqiblvzyqqp.com",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "vozicokeboh.biz",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "vozicokeboh.biz",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "vwttsqewhqrlluc.com",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "vwttsqewhqrlluc.com",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "waitscene.net",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "waitscene.net",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "waitwhole.net",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "waitwhole.net",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "walkbegan.net",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "walkbegan.net",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "walkdaily.net",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "walkdaily.net",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "wateranother.net",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "wateranother.net",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "weathersuccess.net",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "weathersuccess.net",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "webdisk.meta-kit.com",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "webdisk.meta-kit.com",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "webdisk.moveisceptro.com",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "webdisk.moveisceptro.com",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "webhostsy.com",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "webhostsy.com",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "webmail.0day4today.com",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "webmail.0day4today.com",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "webservice.ibcustomerzone.com",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "webservice.ibcustomerzone.com",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "wecloudapi.com",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "wecloudapi.com",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "wednesdaystood.net",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "wednesdaystood.net",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "weekprice.net",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "weekprice.net",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "wellrise.net",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "wellrise.net",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "welltook.net",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "welltook.net",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "wenkgefmpgfumtk.com",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "wenkgefmpgfumtk.com",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "wenkgefmpgfumtk.com",
+			"ip": "ab663462779c5a32566d55475738f040946a9459",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "wenkgefmpgfumtk.com",
+			"ip": "ab663462779c5a32566d55475738f040946a9459",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "wenkgefmpgfumtk.com",
+			"ip": "da7d4a3caf16fb4579053c26ee545327f7f93a27",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "wenkgefmpgfumtk.com",
+			"ip": "da7d4a3caf16fb4579053c26ee545327f7f93a27",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "wenthome.net",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "wenthome.net",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "whcfujib.org",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "whcfujib.org",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "wheelstock.net",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "wheelstock.net",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "whetherapple.net",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "whetherapple.net",
+			"ip": "063e94548ef7cd9ce27511cff1ca603f01249c43",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "wsxc123.cc",
+			"ip": "ab663462779c5a32566d55475738f040946a9459",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "wsxc123.cc",
+			"ip": "ab663462779c5a32566d55475738f040946a9459",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "www.cube26.com",
+			"ip": "ab663462779c5a32566d55475738f040946a9459",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "www.cube26.com",
+			"ip": "ab663462779c5a32566d55475738f040946a9459",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "www.fajarweb.com",
+			"ip": "ab663462779c5a32566d55475738f040946a9459",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "www.fajarweb.com",
+			"ip": "ab663462779c5a32566d55475738f040946a9459",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "www.fajarweb.com",
+			"ip": "da7d4a3caf16fb4579053c26ee545327f7f93a27",
+			"type": "certs",
+			"ln": 2
+		},
+		{
+			"host": "www.fajarweb.com",
+			"ip": "da7d4a3caf16fb4579053c26ee545327f7f93a27",
+			"type": "certs",
+			"ln": 2
+		}
+	],
+
+	"rows": 118,
+
+	"statistics":
+	{
+		"elapsed": 0.01768722,
+		"rows_read": 81912,
+		"bytes_read": 7440396
+	}
+}
