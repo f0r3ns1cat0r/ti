@@ -498,15 +498,13 @@ function dragended(d) {
   d.fy = null;
 }
 	
-	function zoomFit() {
+function zoomFit() {
 	var transform = d3.zoomIdentity;
 	var bounds = svgg.node().getBBox();
 	var parent = svgg.node().parentElement;
-	console.log(parent,bounds);
 	transform.k = Math.min( parent.clientWidth / bounds.width,   parent.clientHeight / bounds.height ) - 0.03;
 	transform.x = (parent.clientWidth - bounds.width*transform.k)/2-bounds.x*transform.k;
 	transform.y = (parent.clientHeight - bounds.height*transform.k)/2-bounds.y*transform.k;
-	console.log(transform);
 	svgg.transition()
 	.duration(1000)
 	.attr("transform", transform);
