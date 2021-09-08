@@ -256,7 +256,7 @@ data["data"].forEach(element => {
 	element.ip_wg=0;
 	
 	sub_tmp.host=element.host;
-	sub_tmp.ip = element.ip;
+	sub_tmp.links = element.links;
 	sub_tmp.type=element.type;
 
 	subdata.push(element);
@@ -270,12 +270,12 @@ data["data"].forEach(element => {
 		
 				if(el1.host==el2.host)
 					el2.host_wg++;
-				if(el1.ip==el2.host)
+				if(el1.links==el2.host)
 					el2.host_wg++;
 				
-				if(el1.host==el2.ip)
+				if(el1.host==el2.links)
 					el2.ip_wg++;
-				if(el1.ip==el2.ip)
+				if(el1.links==el2.links)
 					el2.ip_wg++;
 
 				});
@@ -283,7 +283,7 @@ data["data"].forEach(element => {
 		
 
 subdata.forEach(element => {	
-	graph.links.push({source:element.host,target:element.ip,value:1,type:element.type});
+	graph.links.push({source:element.host,target:element.links,value:1,type:element.type});
 });
 
 var svgwidth = Math.round(document.body.clientWidth)-570;
@@ -525,4 +525,3 @@ setTimeout(zoomFit, 1000);
 	
 </body>
 </html>
-

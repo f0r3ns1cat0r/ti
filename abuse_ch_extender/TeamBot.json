@@ -1,154 +1,70 @@
 {
-	"meta":
-	[
-		{
-			"name": "host",
-			"type": "String"
-		},
-		{
-			"name": "ip",
-			"type": "String"
-		},
-		{
-			"name": "type",
-			"type": "String"
-		},
-		{
-			"name": "ln",
-			"type": "UInt8"
-		}
-	],
-
-	"data":
-	[
-		{
-			"host": "72.78.236.35.bc.googleusercontent.com",
-			"ip": "35.236.78.72",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "72.78.236.35.bc.googleusercontent.com",
-			"ip": "35.236.78.72",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TeamBot",
-			"ip": "asvb.top",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TeamBot",
-			"ip": "asvb.top",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TeamBot",
-			"ip": "asvb.top",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TeamBot",
-			"ip": "asvb.top",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TeamBot",
-			"ip": "asvb.top",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TeamBot",
-			"ip": "asvb.top",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "asvb.top",
-			"ip": "185.193.143.212",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "asvb.top",
-			"ip": "185.193.143.212",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "asvb.top",
-			"ip": "34.95.209.3",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "asvb.top",
-			"ip": "34.95.209.3",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "asvb.top",
-			"ip": "35.236.78.72",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "asvb.top",
-			"ip": "35.236.78.72",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "vafc.top",
-			"ip": "185.193.143.212",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "vafc.top",
-			"ip": "185.193.143.212",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "vafc.top",
-			"ip": "34.95.209.3",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "vafc.top",
-			"ip": "34.95.209.3",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "vafc.top",
-			"ip": "35.236.78.72",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "vafc.top",
-			"ip": "35.236.78.72",
-			"type": "pdns",
-			"ln": 2
-		}
-	],
-
-	"rows": 20,
-
-	"statistics":
-	{
-		"elapsed": 0.014726828,
-		"rows_read": 81912,
-		"bytes_read": 5086815
-	}
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "72.78.236.35.bc.googleusercontent.com",
+      "links": "35.236.78.72",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: TeamBot",
+      "links": "asvb.top",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "asvb.top",
+      "links": "185.193.143.212",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "asvb.top",
+      "links": "34.95.209.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "asvb.top",
+      "links": "35.236.78.72",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "vafc.top",
+      "links": "185.193.143.212",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "vafc.top",
+      "links": "34.95.209.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "vafc.top",
+      "links": "35.236.78.72",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
 }

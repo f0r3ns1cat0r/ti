@@ -1,136 +1,124 @@
 {
-	"meta":
-	[
-		{
-			"name": "name",
-			"type": "String"
-		}
-	],
-
-	"data":
-	[
-		{
-			"name": "Ave Maria"
-		},
-		{
-			"name": "Azorult"
-		},
-		{
-			"name": "BazarBackdoor"
-		},
-		{
-			"name": "Buer"
-		},
-		{
-			"name": "CCleaner Backdoor"
-		},
-		{
-			"name": "Cerberus"
-		},
-		{
-			"name": "Chrysaor"
-		},
-		{
-			"name": "Cobalt Strike"
-		},
-		{
-			"name": "CryptBot"
-		},
-		{
-			"name": "Dridex"
-		},
-		{
-			"name": "Ficker Stealer"
-		},
-		{
-			"name": "FluBot"
-		},
-		{
-			"name": "Formbook"
-		},
-		{
-			"name": "Get2"
-		},
-		{
-			"name": "Gozi"
-		},
-		{
-			"name": "Hancitor"
-		},
-		{
-			"name": "Houdini"
-		},
-		{
-			"name": "Hydra"
-		},
-		{
-			"name": "ISFB"
-		},
-		{
-			"name": "IcedID"
-		},
-		{
-			"name": "IcedID Downloader"
-		},
-		{
-			"name": "Loki Password Stealer (PWS)"
-		},
-		{
-			"name": "NetSupportManager RAT"
-		},
-		{
-			"name": "NjRAT"
-		},
-		{
-			"name": "QakBot"
-		},
-		{
-			"name": "Raccoon"
-		},
-		{
-			"name": "RedLine Stealer"
-		},
-		{
-			"name": "Remcos"
-		},
-		{
-			"name": "Ryuk"
-		},
-		{
-			"name": "ServHelper"
-		},
-		{
-			"name": "SilverFish"
-		},
-		{
-			"name": "SmokeLoader"
-		},
-		{
-			"name": "TeamBot"
-		},
-		{
-			"name": "TrickBot"
-		},
-		{
-			"name": "Unknown malware"
-		},
-		{
-			"name": "magecart"
-		},
-		{
-			"name": "sLoad"
-		},
-		{
-			"name": "vidar"
-		}
-	],
-
-	"rows": 38,
-
-	"statistics":
-	{
-		"elapsed": 0.002615443,
-		"rows_read": 13652,
-		"bytes_read": 466526
-	}
+  "meta": [
+    {
+      "name": "name",
+      "type": "String"
+    }
+  ],
+  "data": [
+    {
+      "name": "Ave Maria"
+    },
+    {
+      "name": "Azorult"
+    },
+    {
+      "name": "BazarBackdoor"
+    },
+    {
+      "name": "Buer"
+    },
+    {
+      "name": "CCleaner Backdoor"
+    },
+    {
+      "name": "Cerberus"
+    },
+    {
+      "name": "Chrysaor"
+    },
+    {
+      "name": "Cobalt Strike"
+    },
+    {
+      "name": "CryptBot"
+    },
+    {
+      "name": "Dridex"
+    },
+    {
+      "name": "Ficker Stealer"
+    },
+    {
+      "name": "FluBot"
+    },
+    {
+      "name": "Formbook"
+    },
+    {
+      "name": "Get2"
+    },
+    {
+      "name": "Gozi"
+    },
+    {
+      "name": "Hancitor"
+    },
+    {
+      "name": "Houdini"
+    },
+    {
+      "name": "Hydra"
+    },
+    {
+      "name": "ISFB"
+    },
+    {
+      "name": "IcedID"
+    },
+    {
+      "name": "IcedID Downloader"
+    },
+    {
+      "name": "Loki Password Stealer (PWS)"
+    },
+    {
+      "name": "NetSupportManager RAT"
+    },
+    {
+      "name": "NjRAT"
+    },
+    {
+      "name": "QakBot"
+    },
+    {
+      "name": "Raccoon"
+    },
+    {
+      "name": "RedLine Stealer"
+    },
+    {
+      "name": "Remcos"
+    },
+    {
+      "name": "Ryuk"
+    },
+    {
+      "name": "ServHelper"
+    },
+    {
+      "name": "SilverFish"
+    },
+    {
+      "name": "SmokeLoader"
+    },
+    {
+      "name": "TeamBot"
+    },
+    {
+      "name": "TrickBot"
+    },
+    {
+      "name": "Unknown malware"
+    },
+    {
+      "name": "magecart"
+    },
+    {
+      "name": "sLoad"
+    },
+    {
+      "name": "vidar"
+    }
+  ]
 }

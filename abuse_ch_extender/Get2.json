@@ -1,118 +1,64 @@
 {
-	"meta":
-	[
-		{
-			"name": "host",
-			"type": "String"
-		},
-		{
-			"name": "ip",
-			"type": "String"
-		},
-		{
-			"name": "type",
-			"type": "String"
-		},
-		{
-			"name": "ln",
-			"type": "UInt8"
-		}
-	],
-
-	"data":
-	[
-		{
-			"host": "51.68.212.95",
-			"ip": "51.68.212.95",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "51.68.212.95",
-			"ip": "51.68.212.95",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "95.ip-51-68-212.eu",
-			"ip": "51.68.212.95",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "95.ip-51-68-212.eu",
-			"ip": "51.68.212.95",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: Get2",
-			"ip": "ms-debug-services.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: Get2",
-			"ip": "ms-debug-services.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ms-debug-services.com",
-			"ip": "51.68.212.95",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "ms-debug-services.com",
-			"ip": "51.68.212.95",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "ns1.flextech.africa",
-			"ip": "51.68.212.95",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "ns1.flextech.africa",
-			"ip": "51.68.212.95",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "vps-0b4c42e6.vps.ovh.net",
-			"ip": "51.68.212.95",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "vps-0b4c42e6.vps.ovh.net",
-			"ip": "51.68.212.95",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "vps-c9908bfd.vps.ovh.net",
-			"ip": "51.68.212.95",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "vps-c9908bfd.vps.ovh.net",
-			"ip": "51.68.212.95",
-			"type": "pdns",
-			"ln": 2
-		}
-	],
-
-	"rows": 14,
-
-	"statistics":
-	{
-		"elapsed": 0.016171179,
-		"rows_read": 81912,
-		"bytes_read": 5086815
-	}
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "51.68.212.95",
+      "links": "51.68.212.95",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "95.ip-51-68-212.eu",
+      "links": "51.68.212.95",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Get2",
+      "links": "ms-debug-services.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ms-debug-services.com",
+      "links": "51.68.212.95",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.flextech.africa",
+      "links": "51.68.212.95",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "vps-0b4c42e6.vps.ovh.net",
+      "links": "51.68.212.95",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "vps-c9908bfd.vps.ovh.net",
+      "links": "51.68.212.95",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
 }

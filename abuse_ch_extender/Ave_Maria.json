@@ -1,70 +1,40 @@
 {
-	"meta":
-	[
-		{
-			"name": "host",
-			"type": "String"
-		},
-		{
-			"name": "ip",
-			"type": "String"
-		},
-		{
-			"name": "type",
-			"type": "String"
-		},
-		{
-			"name": "ln",
-			"type": "UInt8"
-		}
-	],
-
-	"data":
-	[
-		{
-			"host": "ThreatFox: Ave Maria",
-			"ip": "googleservers.org",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: Ave Maria",
-			"ip": "googleservers.org",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ec2-35-84-207-158.us-west-2.compute.amazonaws.com",
-			"ip": "35.84.207.158",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "ec2-35-84-207-158.us-west-2.compute.amazonaws.com",
-			"ip": "35.84.207.158",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "googleservers.org",
-			"ip": "35.84.207.158",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "googleservers.org",
-			"ip": "35.84.207.158",
-			"type": "pdns",
-			"ln": 2
-		}
-	],
-
-	"rows": 6,
-
-	"statistics":
-	{
-		"elapsed": 0.021146562,
-		"rows_read": 81912,
-		"bytes_read": 5086815
-	}
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ThreatFox: Ave Maria",
+      "links": "googleservers.org",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ec2-35-84-207-158.us-west-2.compute.amazonaws.com",
+      "links": "35.84.207.158",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "googleservers.org",
+      "links": "35.84.207.158",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
 }

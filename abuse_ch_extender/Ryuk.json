@@ -1,166 +1,88 @@
 {
-	"meta":
-	[
-		{
-			"name": "host",
-			"type": "String"
-		},
-		{
-			"name": "ip",
-			"type": "String"
-		},
-		{
-			"name": "type",
-			"type": "String"
-		},
-		{
-			"name": "ln",
-			"type": "UInt8"
-		}
-	],
-
-	"data":
-	[
-		{
-			"host": "217.168.242.35.bc.googleusercontent.com",
-			"ip": "35.242.168.217",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "217.168.242.35.bc.googleusercontent.com",
-			"ip": "35.242.168.217",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: Ryuk",
-			"ip": "microsoftestore.top",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: Ryuk",
-			"ip": "microsoftestore.top",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: Ryuk",
-			"ip": "microsoftltdcorp.com.pl",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: Ryuk",
-			"ip": "microsoftltdcorp.com.pl",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: Ryuk",
-			"ip": "microsofttop.wiki",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: Ryuk",
-			"ip": "microsofttop.wiki",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: Ryuk",
-			"ip": "microsoftupdate.work",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: Ryuk",
-			"ip": "microsoftupdate.work",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: Ryuk",
-			"ip": "mirosoftplaymarket.top",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: Ryuk",
-			"ip": "mirosoftplaymarket.top",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "microsoftestore.top",
-			"ip": "35.242.168.217",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "microsoftestore.top",
-			"ip": "35.242.168.217",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "microsoftltdcorp.com.pl",
-			"ip": "35.242.168.217",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "microsoftltdcorp.com.pl",
-			"ip": "35.242.168.217",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "microsofttop.wiki",
-			"ip": "35.242.168.217",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "microsofttop.wiki",
-			"ip": "35.242.168.217",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "microsoftupdate.work",
-			"ip": "35.242.168.217",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "microsoftupdate.work",
-			"ip": "35.242.168.217",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "mirosoftplaymarket.top",
-			"ip": "35.242.168.217",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "mirosoftplaymarket.top",
-			"ip": "35.242.168.217",
-			"type": "pdns",
-			"ln": 2
-		}
-	],
-
-	"rows": 22,
-
-	"statistics":
-	{
-		"elapsed": 0.014704503,
-		"rows_read": 81912,
-		"bytes_read": 5086815
-	}
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "217.168.242.35.bc.googleusercontent.com",
+      "links": "35.242.168.217",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Ryuk",
+      "links": "microsoftestore.top",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Ryuk",
+      "links": "microsoftltdcorp.com.pl",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Ryuk",
+      "links": "microsofttop.wiki",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Ryuk",
+      "links": "microsoftupdate.work",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Ryuk",
+      "links": "mirosoftplaymarket.top",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "microsoftestore.top",
+      "links": "35.242.168.217",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "microsoftltdcorp.com.pl",
+      "links": "35.242.168.217",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "microsofttop.wiki",
+      "links": "35.242.168.217",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "microsoftupdate.work",
+      "links": "35.242.168.217",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mirosoftplaymarket.top",
+      "links": "35.242.168.217",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
 }

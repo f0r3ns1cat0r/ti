@@ -1,1090 +1,538 @@
 {
-	"meta":
-	[
-		{
-			"name": "host",
-			"type": "String"
-		},
-		{
-			"name": "ip",
-			"type": "String"
-		},
-		{
-			"name": "type",
-			"type": "String"
-		},
-		{
-			"name": "ln",
-			"type": "UInt8"
-		}
-	],
-
-	"data":
-	[
-		{
-			"host": "1.kinoshka.cc",
-			"ip": "188.119.113.48",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "1.kinoshka.cc",
-			"ip": "188.119.113.48",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "8tx.me",
-			"ip": "80.92.206.183",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "8tx.me",
-			"ip": "80.92.206.183",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "andersonbtcs.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "andersonbtcs.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "bennettsavingss.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "bennettsavingss.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "bernardrentalss.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "bernardrentalss.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "berrytvs.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "berrytvs.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "disagreemossd.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "disagreemossd.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "downl0ads9.club",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "downl0ads9.club",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "downl0ads9.club",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "downl0ads9.club",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "elevatorbernald.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "elevatorbernald.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "hamiltonrecipeg.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "hamiltonrecipeg.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "hessroughg.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "hessroughg.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "intactoil2001b.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "intactoil2001b.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "keithestates.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "keithestates.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "lewisliftg.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "lewisliftg.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "mccluresausageg.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "mccluresausageg.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "medranooveng.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "medranooveng.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "microsotf.club",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "microsotf.club",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "microsotf.club",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "microsotf.club",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "micrsoft365.live",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "micrsoft365.live",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "novaksavingss.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "novaksavingss.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "obeymanagement2016b.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "obeymanagement2016b.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "pauleastg.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "pauleastg.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "pottermanagements.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "pottermanagements.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "shawgardenings.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "shawgardenings.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "solisgardenings.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "solisgardenings.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "tidepost2019b.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "tidepost2019b.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "vupipess.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "vupipess.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "wagetv2014b.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "wagetv2014b.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "wigginsstorages.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: TrickBot",
-			"ip": "wigginsstorages.com",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "adjustoil2020b.com",
-			"ip": "45.95.11.130",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "adjustoil2020b.com",
-			"ip": "45.95.11.130",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "already.digital",
-			"ip": "45.144.29.198",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "already.digital",
-			"ip": "45.144.29.198",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "andersonbtcs.com",
-			"ip": "45.95.11.130",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "andersonbtcs.com",
-			"ip": "45.95.11.130",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "beforehebertd.com",
-			"ip": "188.119.113.125",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "beforehebertd.com",
-			"ip": "188.119.113.125",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "bennettsavingss.com",
-			"ip": "188.119.113.48",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "bennettsavingss.com",
-			"ip": "188.119.113.48",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "bernardrentalss.com",
-			"ip": "45.95.11.156",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "bernardrentalss.com",
-			"ip": "45.95.11.156",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "berrytvs.com",
-			"ip": "45.95.11.130",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "berrytvs.com",
-			"ip": "45.95.11.130",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "bestranchg.com",
-			"ip": "45.95.11.156",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "bestranchg.com",
-			"ip": "45.95.11.156",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "branchsuitg.com",
-			"ip": "188.119.113.125",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "branchsuitg.com",
-			"ip": "188.119.113.125",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "carpetoil2005b.com",
-			"ip": "45.95.11.127",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "carpetoil2005b.com",
-			"ip": "45.95.11.127",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "cousinrentals2000b.com",
-			"ip": "45.95.11.158",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "cousinrentals2000b.com",
-			"ip": "45.95.11.158",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "disagreemossd.com",
-			"ip": "45.95.11.158",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "disagreemossd.com",
-			"ip": "45.95.11.158",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "doseaudit2013b.com",
-			"ip": "80.92.206.183",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "doseaudit2013b.com",
-			"ip": "80.92.206.183",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "elevatorbernald.com",
-			"ip": "45.95.11.127",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "elevatorbernald.com",
-			"ip": "45.95.11.127",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "eskanor2.xyz",
-			"ip": "95.142.40.241",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "eskanor2.xyz",
-			"ip": "95.142.40.241",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "hamiltonrecipeg.com",
-			"ip": "45.95.11.127",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "hamiltonrecipeg.com",
-			"ip": "45.95.11.127",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "hd.kinoshka.cc",
-			"ip": "188.119.113.48",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "hd.kinoshka.cc",
-			"ip": "188.119.113.48",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "heathcargos.com",
-			"ip": "80.92.206.183",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "heathcargos.com",
-			"ip": "80.92.206.183",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "hessroughg.com",
-			"ip": "45.95.11.138",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "hessroughg.com",
-			"ip": "45.95.11.138",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "intactoil2001b.com",
-			"ip": "80.92.206.183",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "intactoil2001b.com",
-			"ip": "80.92.206.183",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "jumpwashingtond.com",
-			"ip": "45.95.11.138",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "jumpwashingtond.com",
-			"ip": "45.95.11.138",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "keithestates.com",
-			"ip": "45.95.11.154",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "keithestates.com",
-			"ip": "45.95.11.154",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "kinoshka.cc",
-			"ip": "188.119.113.48",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "kinoshka.cc",
-			"ip": "188.119.113.48",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "kitchenstorage1999b.com",
-			"ip": "45.144.29.27",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "kitchenstorage1999b.com",
-			"ip": "45.144.29.27",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "knightmortgage2r.com",
-			"ip": "45.95.11.128",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "knightmortgage2r.com",
-			"ip": "45.95.11.128",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "l0w.me",
-			"ip": "80.92.206.183",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "l0w.me",
-			"ip": "80.92.206.183",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "lewisliftg.com",
-			"ip": "188.119.113.244",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "lewisliftg.com",
-			"ip": "188.119.113.244",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "mail.1.kinoshka.cc",
-			"ip": "188.119.113.48",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "mail.1.kinoshka.cc",
-			"ip": "188.119.113.48",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "mail.already.digital",
-			"ip": "45.144.29.198",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "mail.already.digital",
-			"ip": "45.144.29.198",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "mail.hd.kinoshka.cc",
-			"ip": "188.119.113.48",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "mail.hd.kinoshka.cc",
-			"ip": "188.119.113.48",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "mail.kinoshka.cc",
-			"ip": "188.119.113.48",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "mail.kinoshka.cc",
-			"ip": "188.119.113.48",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "mail.rxyanpw.cn",
-			"ip": "188.119.113.244",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "mail.rxyanpw.cn",
-			"ip": "188.119.113.244",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "mccluresausageg.com",
-			"ip": "188.119.113.48",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "mccluresausageg.com",
-			"ip": "188.119.113.48",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "medranooveng.com",
-			"ip": "45.95.11.128",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "medranooveng.com",
-			"ip": "45.95.11.128",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "menucraft2004b.com",
-			"ip": "45.95.11.138",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "menucraft2004b.com",
-			"ip": "45.95.11.138",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "micrsoft365.live",
-			"ip": "95.142.40.241",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "micrsoft365.live",
-			"ip": "95.142.40.241",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "minermine.store",
-			"ip": "188.119.113.48",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "minermine.store",
-			"ip": "188.119.113.48",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "novaksavingss.com",
-			"ip": "80.92.206.183",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "novaksavingss.com",
-			"ip": "80.92.206.183",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "ns3.fg6jkds8hhvd1.site",
-			"ip": "188.119.113.244",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "ns3.fg6jkds8hhvd1.site",
-			"ip": "188.119.113.244",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "obeymanagement2016b.com",
-			"ip": "188.119.113.125",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "obeymanagement2016b.com",
-			"ip": "188.119.113.125",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "operarentals2006b.com",
-			"ip": "45.95.11.154",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "operarentals2006b.com",
-			"ip": "45.95.11.154",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "parenpro.net",
-			"ip": "45.144.29.153",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "parenpro.net",
-			"ip": "45.144.29.153",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "pauleastg.com",
-			"ip": "80.92.206.183",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "pauleastg.com",
-			"ip": "80.92.206.183",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "pottermanagements.com",
-			"ip": "45.95.11.137",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "pottermanagements.com",
-			"ip": "45.95.11.137",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "shawgardenings.com",
-			"ip": "45.144.29.198",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "shawgardenings.com",
-			"ip": "45.144.29.198",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "solisgardenings.com",
-			"ip": "45.144.29.27",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "solisgardenings.com",
-			"ip": "45.144.29.27",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "sprayvillad.com",
-			"ip": "45.95.11.137",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "sprayvillad.com",
-			"ip": "45.95.11.137",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "sunalvarezd.com",
-			"ip": "45.95.11.153",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "sunalvarezd.com",
-			"ip": "45.95.11.153",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "tidepost2019b.com",
-			"ip": "45.144.29.198",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "tidepost2019b.com",
-			"ip": "45.144.29.198",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "u2b.me",
-			"ip": "80.92.206.183",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "u2b.me",
-			"ip": "80.92.206.183",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "uptimesets.store",
-			"ip": "188.119.113.48",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "uptimesets.store",
-			"ip": "188.119.113.48",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "vupipess.com",
-			"ip": "45.144.29.153",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "vupipess.com",
-			"ip": "45.144.29.153",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "wagetv2014b.com",
-			"ip": "45.144.29.153",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "wagetv2014b.com",
-			"ip": "45.144.29.153",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "wigginsstorages.com",
-			"ip": "45.95.11.153",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "wigginsstorages.com",
-			"ip": "45.95.11.153",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "www.1.kinoshka.cc",
-			"ip": "188.119.113.48",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "www.1.kinoshka.cc",
-			"ip": "188.119.113.48",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "www.hd.kinoshka.cc",
-			"ip": "188.119.113.48",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "www.hd.kinoshka.cc",
-			"ip": "188.119.113.48",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "www.kinoshka.cc",
-			"ip": "188.119.113.48",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "www.kinoshka.cc",
-			"ip": "188.119.113.48",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "yujifon.site",
-			"ip": "188.119.113.48",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "yujifon.site",
-			"ip": "188.119.113.48",
-			"type": "pdns",
-			"ln": 2
-		}
-	],
-
-	"rows": 176,
-
-	"statistics":
-	{
-		"elapsed": 0.021637823,
-		"rows_read": 81912,
-		"bytes_read": 11734180
-	}
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "1.kinoshka.cc",
+      "links": "188.119.113.48",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "8tx.me",
+      "links": "80.92.206.183",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: TrickBot",
+      "links": "andersonbtcs.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: TrickBot",
+      "links": "bennettsavingss.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: TrickBot",
+      "links": "bernardrentalss.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: TrickBot",
+      "links": "berrytvs.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: TrickBot",
+      "links": "disagreemossd.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: TrickBot",
+      "links": "downl0ads9.club",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: TrickBot",
+      "links": "elevatorbernald.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: TrickBot",
+      "links": "hamiltonrecipeg.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: TrickBot",
+      "links": "hessroughg.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: TrickBot",
+      "links": "intactoil2001b.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: TrickBot",
+      "links": "keithestates.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: TrickBot",
+      "links": "lewisliftg.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: TrickBot",
+      "links": "mccluresausageg.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: TrickBot",
+      "links": "medranooveng.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: TrickBot",
+      "links": "microsotf.club",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: TrickBot",
+      "links": "micrsoft365.live",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: TrickBot",
+      "links": "novaksavingss.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: TrickBot",
+      "links": "obeymanagement2016b.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: TrickBot",
+      "links": "pauleastg.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: TrickBot",
+      "links": "pottermanagements.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: TrickBot",
+      "links": "shawgardenings.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: TrickBot",
+      "links": "solisgardenings.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: TrickBot",
+      "links": "tidepost2019b.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: TrickBot",
+      "links": "vupipess.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: TrickBot",
+      "links": "wagetv2014b.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: TrickBot",
+      "links": "wigginsstorages.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "adjustoil2020b.com",
+      "links": "45.95.11.130",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "already.digital",
+      "links": "45.144.29.198",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "andersonbtcs.com",
+      "links": "45.95.11.130",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "beforehebertd.com",
+      "links": "188.119.113.125",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "bennettsavingss.com",
+      "links": "188.119.113.48",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "bernardrentalss.com",
+      "links": "45.95.11.156",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "berrytvs.com",
+      "links": "45.95.11.130",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "bestranchg.com",
+      "links": "45.95.11.156",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "branchsuitg.com",
+      "links": "188.119.113.125",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "carpetoil2005b.com",
+      "links": "45.95.11.127",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cousinrentals2000b.com",
+      "links": "45.95.11.158",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "disagreemossd.com",
+      "links": "45.95.11.158",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "doseaudit2013b.com",
+      "links": "80.92.206.183",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "elevatorbernald.com",
+      "links": "45.95.11.127",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "eskanor2.xyz",
+      "links": "95.142.40.241",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hamiltonrecipeg.com",
+      "links": "45.95.11.127",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hd.kinoshka.cc",
+      "links": "188.119.113.48",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "heathcargos.com",
+      "links": "80.92.206.183",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hessroughg.com",
+      "links": "45.95.11.138",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "intactoil2001b.com",
+      "links": "80.92.206.183",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "jumpwashingtond.com",
+      "links": "45.95.11.138",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "keithestates.com",
+      "links": "45.95.11.154",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "kinoshka.cc",
+      "links": "188.119.113.48",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "kitchenstorage1999b.com",
+      "links": "45.144.29.27",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "knightmortgage2r.com",
+      "links": "45.95.11.128",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "l0w.me",
+      "links": "80.92.206.183",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "lewisliftg.com",
+      "links": "188.119.113.244",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.1.kinoshka.cc",
+      "links": "188.119.113.48",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.already.digital",
+      "links": "45.144.29.198",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.hd.kinoshka.cc",
+      "links": "188.119.113.48",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.kinoshka.cc",
+      "links": "188.119.113.48",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.rxyanpw.cn",
+      "links": "188.119.113.244",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mccluresausageg.com",
+      "links": "188.119.113.48",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "medranooveng.com",
+      "links": "45.95.11.128",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "menucraft2004b.com",
+      "links": "45.95.11.138",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "micrsoft365.live",
+      "links": "95.142.40.241",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "minermine.store",
+      "links": "188.119.113.48",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "novaksavingss.com",
+      "links": "80.92.206.183",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns3.fg6jkds8hhvd1.site",
+      "links": "188.119.113.244",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "obeymanagement2016b.com",
+      "links": "188.119.113.125",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "operarentals2006b.com",
+      "links": "45.95.11.154",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "parenpro.net",
+      "links": "45.144.29.153",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "pauleastg.com",
+      "links": "80.92.206.183",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "pottermanagements.com",
+      "links": "45.95.11.137",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "shawgardenings.com",
+      "links": "45.144.29.198",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "solisgardenings.com",
+      "links": "45.144.29.27",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "sprayvillad.com",
+      "links": "45.95.11.137",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "sunalvarezd.com",
+      "links": "45.95.11.153",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "tidepost2019b.com",
+      "links": "45.144.29.198",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "u2b.me",
+      "links": "80.92.206.183",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "uptimesets.store",
+      "links": "188.119.113.48",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "vupipess.com",
+      "links": "45.144.29.153",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "wagetv2014b.com",
+      "links": "45.144.29.153",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "wigginsstorages.com",
+      "links": "45.95.11.153",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.1.kinoshka.cc",
+      "links": "188.119.113.48",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.hd.kinoshka.cc",
+      "links": "188.119.113.48",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.kinoshka.cc",
+      "links": "188.119.113.48",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "yujifon.site",
+      "links": "188.119.113.48",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
 }

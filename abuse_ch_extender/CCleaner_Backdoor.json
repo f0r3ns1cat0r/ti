@@ -1,358 +1,178 @@
 {
-	"meta":
-	[
-		{
-			"name": "host",
-			"type": "String"
-		},
-		{
-			"name": "ip",
-			"type": "String"
-		},
-		{
-			"name": "type",
-			"type": "String"
-		},
-		{
-			"name": "ln",
-			"type": "UInt8"
-		}
-	],
-
-	"data":
-	[
-		{
-			"host": "ThreatFox: CCleaner Backdoor",
-			"ip": "cleaner-partners.top",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: CCleaner Backdoor",
-			"ip": "cleaner-partners.top",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: CCleaner Backdoor",
-			"ip": "cleaner-partners.top",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "ThreatFox: CCleaner Backdoor",
-			"ip": "cleaner-partners.top",
-			"type": "z",
-			"ln": 2
-		},
-		{
-			"host": "cleaner-partners.top",
-			"ip": "45.142.215.140",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "cleaner-partners.top",
-			"ip": "45.142.215.140",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "cleaner-partners.top",
-			"ip": "95.181.179.66",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "cleaner-partners.top",
-			"ip": "95.181.179.66",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "cryptoformula.net",
-			"ip": "45.142.215.140",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "cryptoformula.net",
-			"ip": "45.142.215.140",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "cryptoformula.net",
-			"ip": "95.181.179.66",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "cryptoformula.net",
-			"ip": "95.181.179.66",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "deep.dublikat.shop",
-			"ip": "45.142.215.140",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "deep.dublikat.shop",
-			"ip": "45.142.215.140",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "deep.dublikat.shop",
-			"ip": "95.181.179.66",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "deep.dublikat.shop",
-			"ip": "95.181.179.66",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "dublikat.shop",
-			"ip": "45.142.215.140",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "dublikat.shop",
-			"ip": "45.142.215.140",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "dublikat.shop",
-			"ip": "95.181.179.66",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "dublikat.shop",
-			"ip": "95.181.179.66",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "forum.dublikat.shop",
-			"ip": "45.142.215.140",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "forum.dublikat.shop",
-			"ip": "45.142.215.140",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "forum.dublikat.shop",
-			"ip": "95.181.179.66",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "forum.dublikat.shop",
-			"ip": "95.181.179.66",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "g-invest.store",
-			"ip": "45.142.215.140",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "g-invest.store",
-			"ip": "45.142.215.140",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "g-invest.store",
-			"ip": "95.181.179.66",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "g-invest.store",
-			"ip": "95.181.179.66",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "investgs.net",
-			"ip": "45.142.215.140",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "investgs.net",
-			"ip": "45.142.215.140",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "investgs.net",
-			"ip": "95.181.179.66",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "investgs.net",
-			"ip": "95.181.179.66",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "mail.micrometry.co.uk",
-			"ip": "45.142.215.140",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "mail.micrometry.co.uk",
-			"ip": "45.142.215.140",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "micrometry.co.uk",
-			"ip": "45.142.215.140",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "micrometry.co.uk",
-			"ip": "45.142.215.140",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "my.dublikat.shop",
-			"ip": "45.142.215.140",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "my.dublikat.shop",
-			"ip": "45.142.215.140",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "my.dublikat.shop",
-			"ip": "95.181.179.66",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "my.dublikat.shop",
-			"ip": "95.181.179.66",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "np1.replacedomen.work",
-			"ip": "95.181.179.66",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "np1.replacedomen.work",
-			"ip": "95.181.179.66",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "np2.replacedomen.work",
-			"ip": "45.142.215.140",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "np2.replacedomen.work",
-			"ip": "45.142.215.140",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "onlythings.org",
-			"ip": "45.142.215.140",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "onlythings.org",
-			"ip": "45.142.215.140",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "space.dublikat.shop",
-			"ip": "45.142.215.140",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "space.dublikat.shop",
-			"ip": "45.142.215.140",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "space.dublikat.shop",
-			"ip": "95.181.179.66",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "space.dublikat.shop",
-			"ip": "95.181.179.66",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "www.dublikat.shop",
-			"ip": "45.142.215.140",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "www.dublikat.shop",
-			"ip": "45.142.215.140",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "www.dublikat.shop",
-			"ip": "95.181.179.66",
-			"type": "pdns",
-			"ln": 2
-		},
-		{
-			"host": "www.dublikat.shop",
-			"ip": "95.181.179.66",
-			"type": "pdns",
-			"ln": 2
-		}
-	],
-
-	"rows": 54,
-
-	"statistics":
-	{
-		"elapsed": 0.015007011,
-		"rows_read": 81912,
-		"bytes_read": 5086815
-	}
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ThreatFox: CCleaner Backdoor",
+      "links": "cleaner-partners.top",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "cleaner-partners.top",
+      "links": "45.142.215.140",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cleaner-partners.top",
+      "links": "95.181.179.66",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cryptoformula.net",
+      "links": "45.142.215.140",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cryptoformula.net",
+      "links": "95.181.179.66",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "deep.dublikat.shop",
+      "links": "45.142.215.140",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "deep.dublikat.shop",
+      "links": "95.181.179.66",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "dublikat.shop",
+      "links": "45.142.215.140",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "dublikat.shop",
+      "links": "95.181.179.66",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "forum.dublikat.shop",
+      "links": "45.142.215.140",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "forum.dublikat.shop",
+      "links": "95.181.179.66",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "g-invest.store",
+      "links": "45.142.215.140",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "g-invest.store",
+      "links": "95.181.179.66",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "investgs.net",
+      "links": "45.142.215.140",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "investgs.net",
+      "links": "95.181.179.66",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.micrometry.co.uk",
+      "links": "45.142.215.140",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "micrometry.co.uk",
+      "links": "45.142.215.140",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "my.dublikat.shop",
+      "links": "45.142.215.140",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "my.dublikat.shop",
+      "links": "95.181.179.66",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "np1.replacedomen.work",
+      "links": "95.181.179.66",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "np2.replacedomen.work",
+      "links": "45.142.215.140",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "onlythings.org",
+      "links": "45.142.215.140",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "space.dublikat.shop",
+      "links": "45.142.215.140",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "space.dublikat.shop",
+      "links": "95.181.179.66",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.dublikat.shop",
+      "links": "45.142.215.140",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.dublikat.shop",
+      "links": "95.181.179.66",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
 }
