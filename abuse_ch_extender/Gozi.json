@@ -1123,6 +1123,12 @@
       "ln": 2
     },
     {
+      "host": "lookingto.me",
+      "links": "91.245.255.49",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "m.dostavka-piva-mosk5.site",
       "links": "31.148.99.142",
       "type": "pdns",
@@ -1281,6 +1287,12 @@
     {
       "host": "rdm.tesa-it.ru",
       "links": "95.181.163.74",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "saleconsalt.com",
+      "links": "91.245.255.49",
       "type": "pdns",
       "ln": 2
     },

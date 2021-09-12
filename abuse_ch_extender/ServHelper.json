@@ -283,6 +283,12 @@
       "ln": 2
     },
     {
+      "host": "afsifufufgg42.cn",
+      "links": "94.158.245.69",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "afspfigjeb.cn",
       "links": "10e70548ddee0ff53fe62247bf1b7075a30aa5a2",
       "type": "certs",
@@ -1513,6 +1519,12 @@
       "ln": 2
     },
     {
+      "host": "getemails.site",
+      "links": "94.158.245.69",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "geyaeb.dev",
       "links": "45.61.137.91",
       "type": "pdns",
@@ -1893,6 +1905,12 @@
     {
       "host": "mail.aplltec.eu",
       "links": "206.188.196.143",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.getemails.site",
+      "links": "94.158.245.69",
       "type": "pdns",
       "ln": 2
     },
