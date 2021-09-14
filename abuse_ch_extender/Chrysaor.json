@@ -74,6 +74,12 @@
     },
     {
       "host": "academy.serialawards.com",
+      "links": "159b2f51f6e0d5bb9bba77de5614dab4f190d004",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "academy.serialawards.com",
       "links": "64.225.105.111",
       "type": "pdns",
       "ln": 2
@@ -214,6 +220,12 @@
       "host": "elightfull.com",
       "links": "104.171.16.31",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "exploreemail.net",
+      "links": "159b2f51f6e0d5bb9bba77de5614dab4f190d004",
+      "type": "certs",
       "ln": 2
     },
     {
