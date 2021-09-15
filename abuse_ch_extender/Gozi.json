@@ -278,12 +278,6 @@
     },
     {
       "host": "app.bighomegl.at",
-      "links": "185.233.80.31",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "app.bighomegl.at",
       "links": "188.72.209.113",
       "type": "pdns",
       "ln": 2
@@ -375,12 +369,6 @@
     {
       "host": "authd.feronok.com",
       "links": "165.232.183.49",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "authd.feronok.com",
-      "links": "185.233.80.31",
       "type": "pdns",
       "ln": 2
     },
