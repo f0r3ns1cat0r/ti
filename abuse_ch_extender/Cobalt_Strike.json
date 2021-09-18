@@ -109,6 +109,12 @@
       "ln": 2
     },
     {
+      "host": "23-227-202-152.static.hvvc.us",
+      "links": "23.227.202.152",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "23.106.160.40",
       "links": "23.106.160.40",
       "type": "pdns",
@@ -783,6 +789,12 @@
     {
       "host": "ThreatFox: Cobalt Strike",
       "links": "mubuwu.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Cobalt Strike",
+      "links": "mystaticdate.com",
       "type": "z",
       "ln": 2
     },
@@ -2439,6 +2451,12 @@
     {
       "host": "mx.shaitan.network",
       "links": "45.142.214.107",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mystaticdate.com",
+      "links": "23.227.202.152",
       "type": "pdns",
       "ln": 2
     },
