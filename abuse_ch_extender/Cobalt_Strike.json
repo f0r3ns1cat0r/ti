@@ -55,6 +55,12 @@
       "ln": 2
     },
     {
+      "host": "143-244-158-239.cprapid.com",
+      "links": "143.244.158.239",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "15192-26474.bacloud.info",
       "links": "185.64.106.97",
       "type": "pdns",
@@ -1011,6 +1017,12 @@
     {
       "host": "ThreatFox: Cobalt Strike",
       "links": "sql.healthtechsales.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Cobalt Strike",
+      "links": "surveyfox.net",
       "type": "z",
       "ln": 2
     },
@@ -3139,6 +3151,12 @@
       "ln": 2
     },
     {
+      "host": "surveyfox.net",
+      "links": "143.244.158.239",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "swiftsuite.net",
       "links": "159.89.43.33",
       "type": "pdns",
@@ -3358,6 +3376,12 @@
       "host": "worunekulo.club",
       "links": "78f7946fee67a734fb1b74cf64e34c192ad64ca6",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.143-244-158-239.cprapid.com",
+      "links": "143.244.158.239",
+      "type": "pdns",
       "ln": 2
     },
     {
