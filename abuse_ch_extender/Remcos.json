@@ -110,6 +110,12 @@
     },
     {
       "host": "orika.ddns.net",
+      "links": "185.244.30.240",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "orika.ddns.net",
       "links": "23.105.131.236",
       "type": "pdns",
       "ln": 2
