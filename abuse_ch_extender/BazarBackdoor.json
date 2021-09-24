@@ -62,6 +62,12 @@
     },
     {
       "host": "ThreatFox: BazarBackdoor",
+      "links": "connectbentleyd.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: BazarBackdoor",
       "links": "cousinrentals2000b.com",
       "type": "z",
       "ln": 2
@@ -87,6 +93,12 @@
     {
       "host": "ThreatFox: BazarBackdoor",
       "links": "hornhartmand.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: BazarBackdoor",
+      "links": "illnessconnerd.com",
       "type": "z",
       "ln": 2
     },
@@ -195,6 +207,18 @@
     {
       "host": "cascobayoysters.com",
       "links": "185.53.46.32",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "clarkerentalss.com",
+      "links": "194.62.42.202",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "connectbentleyd.com",
+      "links": "194.62.42.202",
       "type": "pdns",
       "ln": 2
     },
@@ -337,6 +361,12 @@
       "ln": 2
     },
     {
+      "host": "illnessconnerd.com",
+      "links": "194.62.42.204",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "jumpwashingtond.com",
       "links": "45.95.11.138",
       "type": "pdns",
@@ -387,6 +417,12 @@
     {
       "host": "mail.lassting.com",
       "links": "185.53.46.11",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "marksvelvetg.com",
+      "links": "194.62.42.204",
       "type": "pdns",
       "ln": 2
     },

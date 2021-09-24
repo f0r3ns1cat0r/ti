@@ -194,6 +194,12 @@
     },
     {
       "host": "admin.admin.admin.admin.admin.omerta.cc",
+      "links": "179.126.45.93",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.admin.admin.admin.admin.omerta.cc",
       "links": "181.164.20.219",
       "type": "pdns",
       "ln": 2
@@ -297,6 +303,12 @@
     {
       "host": "admin.admin.admin.admin.admin.www.blackpass.info",
       "links": "27.147.183.45",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.admin.admin.admin.admin.www.omerta.cc",
+      "links": "179.126.45.93",
       "type": "pdns",
       "ln": 2
     },
@@ -1100,6 +1112,12 @@
     },
     {
       "host": "admin.admin.mywebb.org",
+      "links": "179.126.45.93",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.admin.mywebb.org",
       "links": "179.38.49.44",
       "type": "pdns",
       "ln": 2
@@ -1365,6 +1383,12 @@
     {
       "host": "admin.admin.www.gemini-event.at",
       "links": "31.167.248.197",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.admin.www.omerta.cc",
+      "links": "179.126.45.93",
       "type": "pdns",
       "ln": 2
     },
@@ -1664,6 +1688,12 @@
     },
     {
       "host": "admin.mail.thefreshstuffs.at",
+      "links": "179.126.45.93",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.mail.thefreshstuffs.at",
       "links": "190.43.145.172",
       "type": "pdns",
       "ln": 2
@@ -1749,6 +1779,12 @@
     {
       "host": "admin.porjadok.su",
       "links": "211.53.202.250",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.securebiz.org",
+      "links": "179.126.45.93",
       "type": "pdns",
       "ln": 2
     },

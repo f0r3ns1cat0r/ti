@@ -44,7 +44,25 @@
     },
     {
       "host": "ThreatFox: Chrysaor",
+      "links": "randomlane.net",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Chrysaor",
+      "links": "roadwide.net",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Chrysaor",
       "links": "simplycode.co",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Chrysaor",
+      "links": "theappanalytics.com",
       "type": "z",
       "ln": 2
     },
@@ -88,6 +106,12 @@
       "host": "academy.serialawards.com",
       "links": "eb72670563e96d1761d39bd545f2fdbd235960a7",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "apiweb248.theappanalytics.com",
+      "links": "178.62.22.186",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -253,6 +277,12 @@
       "ln": 2
     },
     {
+      "host": "hudu.dmrit.net",
+      "links": "159.65.59.167",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "hurricaneshielder.com",
       "links": "104.171.16.31",
       "type": "pdns",
@@ -295,6 +325,18 @@
       "ln": 2
     },
     {
+      "host": "mx1.dialoggy.ru",
+      "links": "178.62.22.186",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mx2.dialoggy.ru",
+      "links": "178.62.22.186",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "nomemclatureinc.com",
       "links": "104.171.16.31",
       "type": "pdns",
@@ -307,9 +349,21 @@
       "ln": 2
     },
     {
+      "host": "randomlane.net",
+      "links": "159.65.59.167",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "renostemcelltreatment.com",
       "links": "94f2dfb7b49dc32d3e73daae611ad283812bd6fc",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "roadwide.net",
+      "links": "206.119.197.81",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -387,6 +441,12 @@
     {
       "host": "stormshielder.com",
       "links": "104.171.16.31",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "theappanalytics.com",
+      "links": "178.62.22.186",
       "type": "pdns",
       "ln": 2
     },
@@ -517,9 +577,21 @@
       "ln": 2
     },
     {
+      "host": "www.zhenxingmould.com",
+      "links": "206.119.197.81",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "youintelligence.com",
       "links": "28ca22bdca06c054d553bd43e63e0907af4c9b4e",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "zhenxingmould.com",
+      "links": "206.119.197.81",
+      "type": "pdns",
       "ln": 2
     }
   ]

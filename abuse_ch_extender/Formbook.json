@@ -20,6 +20,12 @@
   "data": [
     {
       "host": "ThreatFox: Formbook",
+      "links": "gentciu.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Formbook",
       "links": "jam-nins.com",
       "type": "z",
       "ln": 2
@@ -106,6 +112,12 @@
       "host": "basiclablife.hu",
       "links": "fcc5ae0365c29e0a02048b1782d8a16808135d23",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "bvblearn.com",
+      "links": "63.250.47.240",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -253,6 +265,12 @@
       "ln": 2
     },
     {
+      "host": "gentciu.com",
+      "links": "63.250.47.240",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "jam-nins.com",
       "links": "162.0.216.198",
       "type": "pdns",
@@ -283,6 +301,12 @@
       "ln": 2
     },
     {
+      "host": "magentos6.com",
+      "links": "162.0.216.198",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "mail.akun-paypol02.duckdns.org",
       "links": "162.0.214.234",
       "type": "pdns",
@@ -303,6 +327,12 @@
     {
       "host": "mail.akun-paypol05.duckdns.org",
       "links": "162.0.214.234",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.bvblearn.com",
+      "links": "63.250.47.240",
       "type": "pdns",
       "ln": 2
     },
@@ -331,8 +361,26 @@
       "ln": 2
     },
     {
+      "host": "mail.zipieu.club",
+      "links": "63.250.47.240",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "mxav1.annonces-medicales.be",
       "links": "66.29.135.47",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.zipieu.club",
+      "links": "63.250.47.240",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.zipieu.club",
+      "links": "63.250.47.240",
       "type": "pdns",
       "ln": 2
     },
@@ -349,8 +397,20 @@
       "ln": 2
     },
     {
+      "host": "primeacces786.cloudns.cl",
+      "links": "63.250.47.240",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "psm-gen.com",
       "links": "199.192.24.139",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "svr.zipieu.club",
+      "links": "63.250.47.240",
       "type": "pdns",
       "ln": 2
     },
@@ -427,6 +487,12 @@
       "ln": 2
     },
     {
+      "host": "www.bvblearn.com",
+      "links": "63.250.47.240",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "www.coinbased-costumer.duckdns.org",
       "links": "66.29.135.47",
       "type": "pdns",
@@ -435,6 +501,12 @@
     {
       "host": "www.joomlas123.info",
       "links": "199.192.24.139",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "zipieu.club",
+      "links": "63.250.47.240",
       "type": "pdns",
       "ln": 2
     }
