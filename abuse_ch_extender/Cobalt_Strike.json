@@ -1358,6 +1358,12 @@
     },
     {
       "host": "_https._tcp.besttus.com",
+      "links": "172.105.162.84",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "_https._tcp.besttus.com",
       "links": "3.214.68.117",
       "type": "pdns",
       "ln": 2
@@ -1377,6 +1383,12 @@
     {
       "host": "admin.anyportinastorm.ru",
       "links": "45.142.214.107",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.cloud-documents.com",
+      "links": "172.105.162.84",
       "type": "pdns",
       "ln": 2
     },
@@ -1454,13 +1466,31 @@
     },
     {
       "host": "backup1services.com",
+      "links": "172.105.162.84",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "backup1services.com",
       "links": "3.214.68.117",
       "type": "pdns",
       "ln": 2
     },
     {
       "host": "backupmaster-service.com",
+      "links": "172.105.162.84",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "backupmaster-service.com",
       "links": "3.214.68.117",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "backupmasterservice.com",
+      "links": "172.105.162.84",
       "type": "pdns",
       "ln": 2
     },
@@ -1520,7 +1550,19 @@
     },
     {
       "host": "besttus.com",
+      "links": "172.105.162.84",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "besttus.com",
       "links": "3.214.68.117",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "bigtus.com",
+      "links": "172.105.162.84",
       "type": "pdns",
       "ln": 2
     },
@@ -1628,6 +1670,12 @@
     },
     {
       "host": "cloud-documents.com",
+      "links": "172.105.162.84",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cloud-documents.com",
       "links": "3.214.68.117",
       "type": "pdns",
       "ln": 2
@@ -1706,6 +1754,12 @@
     },
     {
       "host": "cpanel.yourcodeliberdade.com",
+      "links": "172.105.162.84",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cpanel.yourcodeliberdade.com",
       "links": "3.214.68.117",
       "type": "pdns",
       "ln": 2
@@ -1725,6 +1779,12 @@
     {
       "host": "cvps7261129190.hostwindsdns.com",
       "links": "23.254.243.69",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "d2.backupmasterservice.com",
+      "links": "172.105.162.84",
       "type": "pdns",
       "ln": 2
     },
@@ -1803,6 +1863,12 @@
     {
       "host": "dmitolt.com",
       "links": "54.209.199.171",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "dockclock.pro",
+      "links": "172.105.162.84",
       "type": "pdns",
       "ln": 2
     },
@@ -1989,6 +2055,12 @@
     {
       "host": "fanyglo.com",
       "links": "162.244.80.235",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "farmfactor.xyz",
+      "links": "172.105.162.84",
       "type": "pdns",
       "ln": 2
     },
@@ -2264,6 +2336,12 @@
     },
     {
       "host": "hostmaster.cloud-documents.com",
+      "links": "172.105.162.84",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hostmaster.cloud-documents.com",
       "links": "3.214.68.117",
       "type": "pdns",
       "ln": 2
@@ -2283,6 +2361,12 @@
     {
       "host": "hostmaster.mx.mixalt.com",
       "links": "23.108.57.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hostunes.info",
+      "links": "172.105.162.84",
       "type": "pdns",
       "ln": 2
     },
@@ -2492,6 +2576,12 @@
     },
     {
       "host": "leonisdas.xyz",
+      "links": "172.105.162.84",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "leonisdas.xyz",
       "links": "3.214.68.117",
       "type": "pdns",
       "ln": 2
@@ -2534,6 +2624,12 @@
     },
     {
       "host": "loaste.com",
+      "links": "172.105.162.84",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "loaste.com",
       "links": "3.214.68.117",
       "type": "pdns",
       "ln": 2
@@ -2565,6 +2661,12 @@
     {
       "host": "mail.7861f5b56aa4.xyz",
       "links": "45.88.107.40",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.cloud-documents.com",
+      "links": "172.105.162.84",
       "type": "pdns",
       "ln": 2
     },
@@ -2630,6 +2732,12 @@
     },
     {
       "host": "mail.yourcodeliberdade.com",
+      "links": "172.105.162.84",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.yourcodeliberdade.com",
       "links": "3.214.68.117",
       "type": "pdns",
       "ln": 2
@@ -2686,6 +2794,12 @@
       "host": "meet.wlthplum.com",
       "links": "18.196.101.17",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "meet.wlthplum.com",
+      "links": "ae336998c746758c6cc19b6e6639d9c955dd9260",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -2906,7 +3020,19 @@
     },
     {
       "host": "ns1.besttus.com",
+      "links": "172.105.162.84",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.besttus.com",
       "links": "3.214.68.117",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.bigtus.com",
+      "links": "172.105.162.84",
       "type": "pdns",
       "ln": 2
     },
@@ -2954,7 +3080,19 @@
     },
     {
       "host": "ns2.besttus.com",
+      "links": "172.105.162.84",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.besttus.com",
       "links": "3.214.68.117",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.bigtus.com",
+      "links": "172.105.162.84",
       "type": "pdns",
       "ln": 2
     },
@@ -3110,6 +3248,12 @@
     },
     {
       "host": "onlineworkercz.com",
+      "links": "172.105.162.84",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "onlineworkercz.com",
       "links": "3.214.68.117",
       "type": "pdns",
       "ln": 2
@@ -3117,6 +3261,12 @@
     {
       "host": "onlybamboofabrics.com",
       "links": "56.90.34.55",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "openleverancier.com",
+      "links": "172.105.162.84",
       "type": "pdns",
       "ln": 2
     },
@@ -3188,6 +3338,12 @@
     },
     {
       "host": "pochtarossiy.info",
+      "links": "172.105.162.84",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "pochtarossiy.info",
       "links": "3.214.68.117",
       "type": "pdns",
       "ln": 2
@@ -3237,6 +3393,12 @@
     {
       "host": "qorunegolu.club",
       "links": "37.120.222.205",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "qunersoo.xyz",
+      "links": "172.105.162.84",
       "type": "pdns",
       "ln": 2
     },
@@ -3686,6 +3848,12 @@
     },
     {
       "host": "webdisk.yourcodeliberdade.com",
+      "links": "172.105.162.84",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "webdisk.yourcodeliberdade.com",
       "links": "3.214.68.117",
       "type": "pdns",
       "ln": 2
@@ -3693,6 +3861,12 @@
     {
       "host": "webmail.crypbitz.com",
       "links": "88.119.161.120",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "webmail.yourcodeliberdade.com",
+      "links": "172.105.162.84",
       "type": "pdns",
       "ln": 2
     },
@@ -3740,6 +3914,12 @@
     },
     {
       "host": "wlthplum.com",
+      "links": "ae336998c746758c6cc19b6e6639d9c955dd9260",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "wlthplum.com",
       "links": "da874fd45768af4e15154e08e67c4aa43f2b1973",
       "type": "certs",
       "ln": 2
@@ -3777,6 +3957,12 @@
     {
       "host": "www.buterin21.com",
       "links": "56.90.34.55",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.cloud-documents.com",
+      "links": "172.105.162.84",
       "type": "pdns",
       "ln": 2
     },
@@ -3897,6 +4083,12 @@
     {
       "host": "www.lbzhdc007.com",
       "links": "56.90.34.55",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.loaste.com",
+      "links": "172.105.162.84",
       "type": "pdns",
       "ln": 2
     },
@@ -4028,6 +4220,12 @@
     },
     {
       "host": "www.yourcodeliberdade.com",
+      "links": "172.105.162.84",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.yourcodeliberdade.com",
       "links": "3.214.68.117",
       "type": "pdns",
       "ln": 2
@@ -4089,6 +4287,12 @@
     {
       "host": "yiyuro.com",
       "links": "18.222.162.20",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "yourcodeliberdade.com",
+      "links": "172.105.162.84",
       "type": "pdns",
       "ln": 2
     },
