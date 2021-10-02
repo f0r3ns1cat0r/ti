@@ -322,7 +322,7 @@ graph.links.forEach(element => {
 	var lg = element.source;
 	gr=1;
 	wgwg=1;
-	if(lg.replaceAll(' ','_')=='ThreatFox:_'+params.name){
+	if(lg==params.name){
 		gr=4;
 		wgwg=20;
 	}
@@ -347,7 +347,7 @@ graph.links.forEach(element => {
 	gr=2;
 		
 	lg = element.target;
-	if(element.source.replaceAll(' ','_')=='ThreatFox:_'+params.name)
+	if(element.source==params.name)
 		gr=3;
 	
 	if(tarr.indexOf(lg) === -1){
