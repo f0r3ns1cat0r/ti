@@ -177,7 +177,8 @@ var dataurl=params.name+'.json';
 	
 var host_list='';
 var mal_list='';
-	var jsonData = $.ajax({
+/*	
+var jsonData = $.ajax({
 		url: 'abuse_list.json',
 		type: "GET",
 		dataType: 'json',
@@ -186,7 +187,9 @@ var mal_list='';
 			mal_list = mal_list + '<a href="?name='+element.name.replaceAll(' ','_')+'">'+element.name+'</a> | '
 			
 		})
-document.getElementById('malname').innerHTML = mal_list;
+
+*/
+	    document.getElementById('malname').innerHTML = mal_list;
 document.getElementById('malname2').innerHTML =	params.name;		
 	});
 	
