@@ -193,12 +193,14 @@ var jsonData = $.ajax({
 document.getElementById('malname2').innerHTML =	params.name;		
 	});
 */	
+	document.getElementById('malname2').innerHTML =	params.name;
 	var jsonData = $.ajax({
 		url: dataurl,
 		type: "GET",
 		dataType: 'json',
 		}).done(function (results) {
 	//		document.getElementById('malname').innerHTML=params.name;
+		   console.log(results);
 			update_graph(results);
 			
 	}).fail(function (jqXHR, exception) {
@@ -223,7 +225,7 @@ document.getElementById('malname2').innerHTML =	params.name;
 
 function update_graph(data){
 	if(svgg!==undefined)
-			svgg.remove();
+	            svgg.remove();
 	drawGraph(data);
 }
 
