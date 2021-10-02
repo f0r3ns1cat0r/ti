@@ -1,0 +1,40 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ThreatFox: GCleaner",
+      "links": "gcl-page.biz",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "cleaner-partners.ltd",
+      "links": "213.252.244.191",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "gcl-page.biz",
+      "links": "213.252.244.191",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

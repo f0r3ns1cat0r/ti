@@ -416,6 +416,12 @@
     },
     {
       "host": "ThreatFox: Cobalt Strike",
+      "links": "cdnserv.site",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Cobalt Strike",
       "links": "celebrityprofiling.com",
       "type": "z",
       "ln": 2
@@ -507,6 +513,12 @@
     {
       "host": "ThreatFox: Cobalt Strike",
       "links": "dmitolt.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Cobalt Strike",
+      "links": "dnsserv.site",
       "type": "z",
       "ln": 2
     },
@@ -1028,6 +1040,12 @@
     },
     {
       "host": "ThreatFox: Cobalt Strike",
+      "links": "rismorf.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Cobalt Strike",
       "links": "rurofo.com",
       "type": "z",
       "ln": 2
@@ -1281,6 +1299,12 @@
     {
       "host": "ThreatFox: Cobalt Strike",
       "links": "xudivum.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Cobalt Strike",
+      "links": "yabolog.com",
       "type": "z",
       "ln": 2
     },
@@ -1633,6 +1657,18 @@
       "ln": 2
     },
     {
+      "host": "cdnserv.site",
+      "links": "5ef5df731e77b2d5b2e7578a6fb7b86fbb862805",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cdnserv.site",
+      "links": "65333d71ca4d6e9c4a3bd7d859764acff612acba",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "celebrityprofiling.com",
       "links": "23.254.243.69",
       "type": "pdns",
@@ -1864,6 +1900,24 @@
       "host": "dmitolt.com",
       "links": "54.209.199.171",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "dnsserv.site",
+      "links": "307f45733c1deb553c108ba6f11bc63ae0abada4",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "dnsserv.site",
+      "links": "65333d71ca4d6e9c4a3bd7d859764acff612acba",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "dnsserv.site",
+      "links": "f62e6954969b888f35f0bd306ef5109f51f5337c",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -2650,6 +2704,42 @@
       "host": "macrodown.com",
       "links": "85.93.88.165",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail-settings.online",
+      "links": "307f45733c1deb553c108ba6f11bc63ae0abada4",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail-settings.online",
+      "links": "65333d71ca4d6e9c4a3bd7d859764acff612acba",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail-settings.online",
+      "links": "f62e6954969b888f35f0bd306ef5109f51f5337c",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail-settings.ru",
+      "links": "307f45733c1deb553c108ba6f11bc63ae0abada4",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail-settings.ru",
+      "links": "65333d71ca4d6e9c4a3bd7d859764acff612acba",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail-settings.ru",
+      "links": "f62e6954969b888f35f0bd306ef5109f51f5337c",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -3495,6 +3585,12 @@
     {
       "host": "secureauth.awsmetrics.com",
       "links": "bacfdc2b54f9725d29614cf3c7f6c1d587752a7c",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "security-proxy-cdn.cdnserv.site",
+      "links": "5ef5df731e77b2d5b2e7578a6fb7b86fbb862805",
       "type": "certs",
       "ln": 2
     },
