@@ -20,6 +20,12 @@
   "data": [
     {
       "host": "ThreatFox: Remcos",
+      "links": "jamaru1444.myftp.biz",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Remcos",
       "links": "ogidi.ddns.net",
       "type": "z",
       "ln": 2
@@ -31,6 +37,12 @@
       "ln": 2
     },
     {
+      "host": "ams-tedesus.com",
+      "links": "212.193.30.133",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "atu042.hopto.org",
       "links": "185.244.30.240",
       "type": "pdns",
@@ -39,6 +51,12 @@
     {
       "host": "atu042.hopto.org",
       "links": "23.105.131.236",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "carebuildesathome.com",
+      "links": "212.193.30.133",
       "type": "pdns",
       "ln": 2
     },
@@ -63,6 +81,12 @@
     {
       "host": "hncbeyghfsbvcuabgsbncvzgaioiuyegdbhabbbw.ydns.eu",
       "links": "78.129.249.105",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "jamaru1444.myftp.biz",
+      "links": "212.193.30.133",
       "type": "pdns",
       "ln": 2
     },
@@ -129,6 +153,18 @@
     {
       "host": "osisego.ddns.net",
       "links": "23.105.131.236",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "slot0.ams-tedesus.com",
+      "links": "212.193.30.133",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "slot0.carebuildesathome.com",
+      "links": "212.193.30.133",
       "type": "pdns",
       "ln": 2
     },

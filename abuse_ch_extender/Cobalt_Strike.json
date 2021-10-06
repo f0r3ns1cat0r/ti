@@ -344,6 +344,12 @@
     },
     {
       "host": "ThreatFox: Cobalt Strike",
+      "links": "asdstatistic.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Cobalt Strike",
       "links": "avetool.com",
       "type": "z",
       "ln": 2
@@ -351,6 +357,18 @@
     {
       "host": "ThreatFox: Cobalt Strike",
       "links": "awsmetrics.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Cobalt Strike",
+      "links": "azureedge-api.net",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Cobalt Strike",
+      "links": "azureedge-endpoint.net",
       "type": "z",
       "ln": 2
     },
@@ -968,6 +986,12 @@
     },
     {
       "host": "ThreatFox: Cobalt Strike",
+      "links": "osamoza.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Cobalt Strike",
       "links": "pavateg.com",
       "type": "z",
       "ln": 2
@@ -1119,6 +1143,12 @@
     {
       "host": "ThreatFox: Cobalt Strike",
       "links": "sql.healthtechsales.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Cobalt Strike",
+      "links": "starsecurellc.xyz",
       "type": "z",
       "ln": 2
     },
@@ -1453,6 +1483,12 @@
       "ln": 2
     },
     {
+      "host": "asdstatistic.com",
+      "links": "152.89.247.208",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "avetool.com",
       "links": "204.16.247.235",
       "type": "pdns",
@@ -1486,6 +1522,18 @@
       "host": "awsmetrics.com",
       "links": "bacfdc2b54f9725d29614cf3c7f6c1d587752a7c",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "azureedge-api.net",
+      "links": "3.13.117.124",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "azureedge-endpoint.net",
+      "links": "18.191.94.241",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -1676,6 +1724,12 @@
     },
     {
       "host": "charity-wallet.com",
+      "links": "172.105.162.84",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "charity-wallet.com",
       "links": "3.214.68.117",
       "type": "pdns",
       "ln": 2
@@ -1683,6 +1737,12 @@
     {
       "host": "chasmlance.com",
       "links": "23.106.160.37",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "che-mail.ru",
+      "links": "152.89.247.208",
       "type": "pdns",
       "ln": 2
     },
@@ -1993,6 +2053,12 @@
       "ln": 2
     },
     {
+      "host": "ec2-18-191-94-241.us-east-2.compute.amazonaws.com",
+      "links": "18.191.94.241",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ec2-18-196-101-17.eu-central-1.compute.amazonaws.com",
       "links": "18.196.101.17",
       "type": "pdns",
@@ -2007,6 +2073,12 @@
     {
       "host": "ec2-18-252-55-155.us-gov-east-1.compute.amazonaws.com",
       "links": "18.252.55.155",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ec2-3-13-117-124.us-east-2.compute.amazonaws.com",
+      "links": "3.13.117.124",
       "type": "pdns",
       "ln": 2
     },
@@ -2539,6 +2611,12 @@
       "ln": 2
     },
     {
+      "host": "joe-portfolio.monster",
+      "links": "45.32.157.164",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "jquery234.com",
       "links": "195.123.241.92",
       "type": "pdns",
@@ -2661,6 +2739,12 @@
     {
       "host": "li1851-59.members.linode.com",
       "links": "172.105.197.59",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "li2064-84.members.linode.com",
+      "links": "172.105.162.84",
       "type": "pdns",
       "ln": 2
     },
@@ -3074,6 +3158,12 @@
     },
     {
       "host": "newdomainfornewdomain.net",
+      "links": "195.66.114.167",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "newdomainfornewdomain.net",
       "links": "8.208.12.206",
       "type": "pdns",
       "ln": 2
@@ -3326,6 +3416,12 @@
     },
     {
       "host": "oldboytakecar.net",
+      "links": "195.66.114.167",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "oldboytakecar.net",
       "links": "8.208.12.206",
       "type": "pdns",
       "ln": 2
@@ -3399,6 +3495,12 @@
     {
       "host": "pecojap.com",
       "links": "108.62.12.114",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "phanzet.com",
+      "links": "172.105.162.84",
       "type": "pdns",
       "ln": 2
     },
@@ -3733,6 +3835,12 @@
       "ln": 2
     },
     {
+      "host": "starsecurellc.xyz",
+      "links": "45.32.157.164",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "status.sidevot.com",
       "links": "23.106.160.78",
       "type": "pdns",
@@ -3853,6 +3961,12 @@
       "ln": 2
     },
     {
+      "host": "traxtibidox.net",
+      "links": "195.66.114.167",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "tuensayo.com",
       "links": "159.89.43.33",
       "type": "pdns",
@@ -3885,6 +3999,12 @@
     {
       "host": "vivaklo.com",
       "links": "3.140.248.94",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "vm1195686.firstbyte.club",
+      "links": "195.66.114.167",
       "type": "pdns",
       "ln": 2
     },
@@ -3975,6 +4095,12 @@
     {
       "host": "webshopakcio.xyz",
       "links": "23.254.243.69",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "webwealthlab.com",
+      "links": "45.32.157.164",
       "type": "pdns",
       "ln": 2
     },
@@ -4221,6 +4347,12 @@
     {
       "host": "www.pay3.pro",
       "links": "45.147.230.64",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.phanzet.com",
+      "links": "172.105.162.84",
       "type": "pdns",
       "ln": 2
     },

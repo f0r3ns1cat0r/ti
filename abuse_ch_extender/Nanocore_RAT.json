@@ -1,0 +1,40 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ThreatFox: Nanocore RAT",
+      "links": "tzitziklishop.ddns.net",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "oluwaboi.duckdns.org",
+      "links": "197.210.55.93",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "tzitziklishop.ddns.net",
+      "links": "197.210.55.93",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}
