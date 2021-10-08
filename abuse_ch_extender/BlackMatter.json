@@ -1,0 +1,52 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ThreatFox: BlackMatter",
+      "links": "fluentzip.org",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "fluentzip.org",
+      "links": "5.39.3.130",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ip130.ip-5-39-3.eu",
+      "links": "5.39.3.130",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "nowautomation.com",
+      "links": "5.39.3.130",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.nowautomation.com",
+      "links": "5.39.3.130",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

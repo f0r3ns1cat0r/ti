@@ -44,6 +44,12 @@
     },
     {
       "host": "ThreatFox: BazarBackdoor",
+      "links": "beltmorgand.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: BazarBackdoor",
       "links": "bestranchg.com",
       "type": "z",
       "ln": 2
@@ -163,6 +169,12 @@
       "ln": 2
     },
     {
+      "host": "beltmorgand.com",
+      "links": "194.62.42.156",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "bernardrentalss.com",
       "links": "45.95.11.156",
       "type": "pdns",
@@ -207,6 +219,12 @@
     {
       "host": "cascobayoysters.com",
       "links": "185.53.46.32",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cervantesglareg.com",
+      "links": "194.62.42.156",
       "type": "pdns",
       "ln": 2
     },
