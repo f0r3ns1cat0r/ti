@@ -308,7 +308,7 @@ var color = d3.scaleOrdinal(d3.schemeCategory20);
 
 simulation = d3.forceSimulation()
     .force("link", d3.forceLink().id(function(d) { return d.id; }).distance(550).strength(1))
-    .force("charge", d3.forceManyBody().strength(-500))
+    .force("charge", d3.forceManyBody().strength(-700))
     .force("center", d3.forceCenter(width / 2, height / 2));
 	
 var	post_arr=[];
