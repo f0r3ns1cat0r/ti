@@ -144,7 +144,7 @@ h1 {
 <p id="ab_list"></p>
 </div>
 <div class="chart_block" style="overflow-y:auto;float:left;padding:10px;width:240px;height: calc(100% - 198px);">
-<p style="font-weight:600;font-style: italic;">IOCs <span style="font-style: normal;color: #1f77b4;;font-size: 20px;">⬤</span> generated using IP addresses and SSL certificates as a relationship</p>
+<p style="font-weight:600;font-style: italic;">IOCs <span style="font-style: normal;color: #1f77b4;font-size: 20px;">⬤</span> generated using IP addresses and SSL certificates as a relationship</p>
 <p id="ex_list"></p>
 </div>
 </div>
@@ -171,7 +171,7 @@ var svgg;
 if(params.name==undefined){
 	params.name='Dridex';
 }
-    
+var dataurl=params.name+'.json';	
 var dataurl=params.name+'.json';	
 	
 var host_list='';
@@ -394,16 +394,59 @@ document.getElementById('ex_list').innerHTML=ext_list;
           .on("end", dragended));
 
 
+  var circles = node.append("circle")
+      .attr("r", function(d) {
+			if (d.group==4) 
+				rc=60;
+			else
+				rc=40;
+		  d.cr=rc;
+		  return rc; })
+      .attr("fill", function(d) { return mycolor(d.group); })
+      .call(d3.drag()
+          .on("start", dragstarted)
+          .on("drag", dragged)
+          .on("end", dragended))
+
+
+  node.append("image")
+      .attr("xlink:href", function(d) {
+		  if(d.group==2){
+			if(ValidateIPaddress(d.id)){
+				return "ip.png";
+			}else{
+				return "finger.png";
+			}
+		  }
+		  if(d.group==3){
+				return "global_or.png";
+			}
+		  if(d.group==1){
+				return "global_gl.png";
+			}
+		  if(d.group==4){
+				return "malware.png";
+			}			
+	  })
+      .call(d3.drag()
+          .on("start", dragstarted)
+          .on("drag", dragged)
+          .on("end", dragended))
+      .attr("x", function(d) {
+				return -(d.cr*1.8)/2;
+      })
+      .attr("y", function(d) {
+				return -(d.cr*1.8)/2;
+      })
+      .attr("width", function(d) {
+				return d.cr*1.8;
+      })
+      .attr("height", function(d) {
+				return d.cr*1.8;
+      });
+
 function mycolor(gr){
-	if(gr==1)
-		return "rgb(31, 119, 180)";
-	if(gr==2)
-		return "rgb(174, 199, 232)";
-	if(gr==3)
-		return "rgb(255, 127, 14)";
-	if(gr==4)
-		return "red";
-	
+		return "white";
 }
 
 			  
@@ -436,21 +479,28 @@ function copy(str) {
 	
   var lables = node.append("text")
       .text(function(d) {
-		  if(d.id.substring(0,1)!='#')
-				return d.id;
+		  if(false)
+				return '';
 			else
-				return d.id.substring(1,2);
+				return d.id;
       })
       .attr('x', function(d) {
-		  if(d.id.substring(0,1)!='#')
-				return 20;
-			else
-				return -5;
+				return d.cr+5;
       })
-      .attr('y', 5);
+      .attr('y', function(d) {
+				return d.cr/2;
+      });
 
   node.append("title")
-      .text(function(d) { return d.id; });
+      .text(function(d) {
+		  if(d.group==2){
+			if(ValidateIPaddress(d.id)){
+				return "IP address: "+d.id;
+			}else{
+				return "SSL Thumbprint: "+d.id;
+			}
+	  }
+	  });
 
 
 var zoom_handler = d3.zoom()
@@ -523,6 +573,7 @@ setTimeout(zoomFit, 1000);
 }
 
 </script>
-	
+
+<div style="float:right;margin-right:20px;font-size:12px;">Icons made by <a href="https://www.flaticon.com/authors/lafs" title="LAFS">LAFS</a>, <a href="https://www.freepik.com" title="Freepik">Freepik</a>, <a href="https://www.flaticon.com/authors/shmai" title="shmai">shmai</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 </body>
 </html>
