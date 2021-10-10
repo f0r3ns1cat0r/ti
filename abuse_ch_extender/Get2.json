@@ -37,7 +37,19 @@
       "ln": 2
     },
     {
+      "host": "mail.fiches-attestationdesrecharges.com",
+      "links": "51.68.212.95",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ms-debug-services.com",
+      "links": "51.68.212.95",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.fiches-attestationdesrecharges.com",
       "links": "51.68.212.95",
       "type": "pdns",
       "ln": 2

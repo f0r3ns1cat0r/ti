@@ -680,6 +680,12 @@
     },
     {
       "host": "apayments.top",
+      "links": "45.144.67.88",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "apayments.top",
       "links": "47.254.169.220",
       "type": "pdns",
       "ln": 2
@@ -985,6 +991,12 @@
       "ln": 2
     },
     {
+      "host": "cdn.datatabies.net",
+      "links": "45.144.67.88",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "cdn12-show-content.com",
       "links": "47.254.184.114",
       "type": "pdns",
@@ -1113,6 +1125,12 @@
     {
       "host": "danielandjanna.xyz",
       "links": "45.142.213.55",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "datatabies.net",
+      "links": "45.144.67.88",
       "type": "pdns",
       "ln": 2
     },
