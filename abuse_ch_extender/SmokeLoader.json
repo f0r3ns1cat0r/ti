@@ -140,6 +140,12 @@
     },
     {
       "host": "ThreatFox: SmokeLoader",
+      "links": "m3600.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: SmokeLoader",
       "links": "mile48.com",
       "type": "z",
       "ln": 2
@@ -4293,6 +4299,24 @@
     {
       "host": "lockbitapt.uz",
       "links": "46.10.64.191",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "m3600.com",
+      "links": "189.165.94.67",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "m3600.com",
+      "links": "211.119.84.112",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "m3600.com",
+      "links": "92.62.104.245",
       "type": "pdns",
       "ln": 2
     },
