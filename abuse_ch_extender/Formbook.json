@@ -19,6 +19,12 @@
   ],
   "data": [
     {
+      "host": "199-192-26-235.cprapid.com",
+      "links": "199.192.26.235",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ThreatFox: Formbook",
       "links": "gentciu.com",
       "type": "z",
@@ -44,7 +50,55 @@
     },
     {
       "host": "ThreatFox: Formbook",
+      "links": "www.bostonm.info",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Formbook",
+      "links": "www.chaytel.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Formbook",
+      "links": "www.commagx4.info",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Formbook",
+      "links": "www.jam-nins.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Formbook",
       "links": "www.joomlas123.info",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Formbook",
+      "links": "www.maglex.info",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Formbook",
+      "links": "www.mimik33.info",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Formbook",
+      "links": "www.novergi.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Formbook",
+      "links": "www.solevux.com",
       "type": "z",
       "ln": 2
     },
@@ -91,38 +145,56 @@
       "ln": 2
     },
     {
+      "host": "bostonm.info",
+      "links": "162.0.230.164",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "bpst-secupay.xyz",
+      "links": "162.0.230.164",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "bpst-secure.xyz",
+      "links": "162.0.230.164",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "bpst-securepay.xyz",
+      "links": "162.0.230.164",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "bvblearn.com",
       "links": "63.250.47.240",
       "type": "pdns",
       "ln": 2
     },
     {
-      "host": "coinbased-costumer.duckdns.org",
-      "links": "66.29.135.47",
+      "host": "chaytel.com",
+      "links": "162.0.219.214",
       "type": "pdns",
       "ln": 2
     },
     {
-      "host": "cpanel.coinbased-costumer.duckdns.org",
-      "links": "66.29.135.47",
+      "host": "commagx4.info",
+      "links": "63.250.44.249",
       "type": "pdns",
       "ln": 2
     },
     {
-      "host": "cpcalendars.coinbased-costumer.duckdns.org",
-      "links": "66.29.135.47",
+      "host": "contex3.info",
+      "links": "162.0.214.58",
       "type": "pdns",
       "ln": 2
     },
     {
-      "host": "cpcontacts.coinbased-costumer.duckdns.org",
-      "links": "66.29.135.47",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "erewhon-recrusher.initrdns.web-hosting.com",
-      "links": "162.0.216.198",
+      "host": "cowbex.info",
+      "links": "162.0.230.164",
       "type": "pdns",
       "ln": 2
     },
@@ -163,8 +235,20 @@
       "ln": 2
     },
     {
+      "host": "leda3eab.justinstalledpanel.com",
+      "links": "199.192.26.235",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "magentos6.com",
       "links": "162.0.216.198",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "maglex.info",
+      "links": "162.0.214.58",
       "type": "pdns",
       "ln": 2
     },
@@ -175,20 +259,38 @@
       "ln": 2
     },
     {
-      "host": "mail.coinbased-costumer.duckdns.org",
-      "links": "66.29.135.47",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "mail.zipieu.club",
       "links": "63.250.47.240",
       "type": "pdns",
       "ln": 2
     },
     {
+      "host": "mimik33.com",
+      "links": "162.0.213.190",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mimik33.info",
+      "links": "162.0.213.190",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "mxav1.annonces-medicales.be",
       "links": "66.29.135.47",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "necght.xyz",
+      "links": "162.0.221.213",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "novergi.com",
+      "links": "199.192.26.235",
       "type": "pdns",
       "ln": 2
     },
@@ -223,8 +325,44 @@
       "ln": 2
     },
     {
+      "host": "resctub.com",
+      "links": "199.192.26.235",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "secupay-bpst.info",
+      "links": "162.0.230.164",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "secupay-bpst.xyz",
+      "links": "162.0.230.164",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "solevux.com",
+      "links": "162.0.221.213",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "svr.zipieu.club",
       "links": "63.250.47.240",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "taurus.ninja",
+      "links": "199.192.26.235",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "tomrings.com",
+      "links": "162.0.214.58",
       "type": "pdns",
       "ln": 2
     },
@@ -241,20 +379,8 @@
       "ln": 2
     },
     {
-      "host": "valorous-prostomial.initrdns.web-hosting.com",
-      "links": "162.0.214.234",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "webdisk.coinbased-costumer.duckdns.org",
-      "links": "66.29.135.47",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "webmail.coinbased-costumer.duckdns.org",
-      "links": "66.29.135.47",
+      "host": "www.199-192-26-235.cprapid.com",
+      "links": "199.192.26.235",
       "type": "pdns",
       "ln": 2
     },
@@ -301,20 +427,62 @@
       "ln": 2
     },
     {
+      "host": "www.bostonm.info",
+      "links": "162.0.230.164",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "www.bvblearn.com",
       "links": "63.250.47.240",
       "type": "pdns",
       "ln": 2
     },
     {
-      "host": "www.coinbased-costumer.duckdns.org",
-      "links": "66.29.135.47",
+      "host": "www.chaytel.com",
+      "links": "162.0.219.214",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.commagx4.info",
+      "links": "63.250.44.249",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.jam-nins.com",
+      "links": "162.0.216.198",
       "type": "pdns",
       "ln": 2
     },
     {
       "host": "www.joomlas123.info",
       "links": "199.192.24.139",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.maglex.info",
+      "links": "162.0.214.58",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.mimik33.info",
+      "links": "162.0.213.190",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.novergi.com",
+      "links": "199.192.26.235",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.solevux.com",
+      "links": "162.0.221.213",
       "type": "pdns",
       "ln": 2
     },
