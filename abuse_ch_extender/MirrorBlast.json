@@ -31,6 +31,12 @@
       "ln": 2
     },
     {
+      "host": "ThreatFox: MirrorBlast",
+      "links": "menorukis.su",
+      "type": "z",
+      "ln": 2
+    },
+    {
       "host": "feristoaul.com",
       "links": "46.161.40.172",
       "type": "pdns",
@@ -39,6 +45,18 @@
     {
       "host": "fidufagios.com",
       "links": "169.239.128.11",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "menorukis.su",
+      "links": "45.140.146.216",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mta11.forthepeople24.de",
+      "links": "45.140.146.216",
       "type": "pdns",
       "ln": 2
     },

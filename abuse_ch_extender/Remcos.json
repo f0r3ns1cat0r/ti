@@ -20,6 +20,18 @@
   "data": [
     {
       "host": "ThreatFox: Remcos",
+      "links": "eter101.dvrlists.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Remcos",
+      "links": "eter103.dvrlists.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Remcos",
       "links": "jamaru1444.myftp.biz",
       "type": "z",
       "ln": 2
@@ -75,6 +87,42 @@
     {
       "host": "disabel.hopto.org",
       "links": "23.105.131.236",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "eter101.dvrlists.com",
+      "links": "185.140.53.221",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "eter101.dvrlists.com",
+      "links": "23.94.54.233",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "eter102.dvrlists.com",
+      "links": "185.140.53.221",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "eter102.dvrlists.com",
+      "links": "23.94.54.233",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "eter103.dvrlists.com",
+      "links": "185.140.53.221",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "eter103.dvrlists.com",
+      "links": "23.94.54.233",
       "type": "pdns",
       "ln": 2
     },

@@ -19,12 +19,6 @@
   ],
   "data": [
     {
-      "host": "8tx.me",
-      "links": "80.92.206.183",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ThreatFox: Gozi",
       "links": "app.bighomegl.at",
       "type": "z",
@@ -117,18 +111,6 @@
     {
       "host": "ThreatFox: Gozi",
       "links": "strugglevincentd.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: Gozi",
-      "links": "vastretail2005b.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: Gozi",
-      "links": "wayhensond.com",
       "type": "z",
       "ln": 2
     },
@@ -475,6 +457,12 @@
       "ln": 2
     },
     {
+      "host": "expired.maxname.ru",
+      "links": "743a3b269bed3112ada96de119bc6972d1317736",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "free.monotreener.com",
       "links": "165.232.183.49",
       "type": "pdns",
@@ -556,12 +544,6 @@
       "host": "gloudioliusdd.ru",
       "links": "78f7946fee67a734fb1b74cf64e34c192ad64ca6",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "gnetworkskenya.com",
-      "links": "83.229.86.230",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -907,18 +889,6 @@
       "ln": 2
     },
     {
-      "host": "l0w.me",
-      "links": "80.92.206.183",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "l4a4eca5.justinstalledpanel.com",
-      "links": "46.173.214.55",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "leruamerlenliusdd.ru",
       "links": "78f7946fee67a734fb1b74cf64e34c192ad64ca6",
       "type": "certs",
@@ -945,12 +915,6 @@
     {
       "host": "massidfberiatersksilkavayssstezya.ru",
       "links": "31.148.99.142",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "meeting.rrpo.uz",
-      "links": "188.119.112.120",
       "type": "pdns",
       "ln": 2
     },
@@ -997,12 +961,6 @@
       "ln": 2
     },
     {
-      "host": "nifty-archimedes.80-92-206-119.plesk.page",
-      "links": "80.92.206.119",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "novaksavingss.com",
       "links": "80.92.206.183",
       "type": "pdns",
@@ -1027,15 +985,15 @@
       "ln": 2
     },
     {
-      "host": "ns2.turkcemod.com",
-      "links": "80.92.206.119",
+      "host": "obeymanagement2016b.com",
+      "links": "188.119.113.125",
       "type": "pdns",
       "ln": 2
     },
     {
-      "host": "obeymanagement2016b.com",
-      "links": "188.119.113.125",
-      "type": "pdns",
+      "host": "pandoravip38.ru",
+      "links": "743a3b269bed3112ada96de119bc6972d1317736",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -1047,6 +1005,12 @@
     {
       "host": "pikanto-zero.ru",
       "links": "78f7946fee67a734fb1b74cf64e34c192ad64ca6",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "prival72.ru",
+      "links": "743a3b269bed3112ada96de119bc6972d1317736",
       "type": "certs",
       "ln": 2
     },
@@ -1063,30 +1027,6 @@
       "ln": 2
     },
     {
-      "host": "rdm.tesa-it.ru",
-      "links": "95.181.163.74",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "seguro.feitoparavoce.live",
-      "links": "162.0.214.185",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "selltaxes.com",
-      "links": "162.0.214.185",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "send24.online",
-      "links": "80.92.206.119",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "shopilan.com",
       "links": "65.21.111.57",
       "type": "pdns",
@@ -1095,12 +1035,6 @@
     {
       "host": "signin.app-security-verify.top",
       "links": "37.120.222.33",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "site.appseguro.website",
-      "links": "162.0.214.185",
       "type": "pdns",
       "ln": 2
     },
@@ -1123,8 +1057,20 @@
       "ln": 2
     },
     {
+      "host": "stolnik58.ru",
+      "links": "743a3b269bed3112ada96de119bc6972d1317736",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "stratosferiss.ru",
       "links": "07f4b7361855de185f6514af1e5bbd7348e2e00b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "stratosferiss.ru",
+      "links": "743a3b269bed3112ada96de119bc6972d1317736",
       "type": "certs",
       "ln": 2
     },
@@ -1141,15 +1087,9 @@
       "ln": 2
     },
     {
-      "host": "u2b.me",
-      "links": "80.92.206.183",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "vastretail2005b.com",
-      "links": "80.92.206.119",
-      "type": "pdns",
+      "host": "transform-24-su.ru",
+      "links": "743a3b269bed3112ada96de119bc6972d1317736",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -1165,14 +1105,14 @@
       "ln": 2
     },
     {
-      "host": "wayhensond.com",
-      "links": "188.119.112.120",
-      "type": "pdns",
+      "host": "worunekulo.club",
+      "links": "78f7946fee67a734fb1b74cf64e34c192ad64ca6",
+      "type": "certs",
       "ln": 2
     },
     {
-      "host": "worunekulo.club",
-      "links": "78f7946fee67a734fb1b74cf64e34c192ad64ca6",
+      "host": "wp-consultant.ru",
+      "links": "743a3b269bed3112ada96de119bc6972d1317736",
       "type": "certs",
       "ln": 2
     },
@@ -1180,6 +1120,12 @@
       "host": "www.dostavka-piva-mosk5.site",
       "links": "31.148.99.142",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.expired.maxname.ru",
+      "links": "743a3b269bed3112ada96de119bc6972d1317736",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -1201,15 +1147,15 @@
       "ln": 2
     },
     {
-      "host": "www.send24.online",
-      "links": "80.92.206.119",
-      "type": "pdns",
+      "host": "xn----8sbaablo1edjif.xn--p1ai",
+      "links": "743a3b269bed3112ada96de119bc6972d1317736",
+      "type": "certs",
       "ln": 2
     },
     {
-      "host": "www.websistemas-agricultura.org",
-      "links": "162.0.214.185",
-      "type": "pdns",
+      "host": "xn----gtbdllybhedue.xn--p1ai",
+      "links": "743a3b269bed3112ada96de119bc6972d1317736",
+      "type": "certs",
       "ln": 2
     },
     {
