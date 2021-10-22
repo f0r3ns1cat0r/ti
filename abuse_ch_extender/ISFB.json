@@ -158,6 +158,12 @@
     },
     {
       "host": "ThreatFox: ISFB",
+      "links": "livesblogers.bar",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: ISFB",
       "links": "longlive.casa",
       "type": "z",
       "ln": 2
@@ -1113,6 +1119,12 @@
     {
       "host": "littlemanbusiness.com",
       "links": "31.41.44.128",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "livesblogers.bar",
+      "links": "86.106.131.112",
       "type": "pdns",
       "ln": 2
     },

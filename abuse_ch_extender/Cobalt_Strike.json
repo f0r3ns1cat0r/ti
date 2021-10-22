@@ -830,6 +830,12 @@
     },
     {
       "host": "ThreatFox: Cobalt Strike",
+      "links": "static.theyardservice.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Cobalt Strike",
       "links": "surveyfox.net",
       "type": "z",
       "ln": 2
@@ -1051,6 +1057,12 @@
       "ln": 2
     },
     {
+      "host": "a26-67.avsvmcloud.com",
+      "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "abc-poolsandspas.com",
       "links": "216edef2f26a94071007aab8ec5e36c6b072c949",
       "type": "certs",
@@ -1084,6 +1096,18 @@
       "host": "akamaclouds.app",
       "links": "66.181.34.13",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "appsync-api.us-east-1.avsvmcloud.come8h2vel9711jjcpte3so6iore1ovoe0t.appsync-api.us-east-1.avsvmcloud.com-1.avsvmcloud.com",
+      "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "avsvmcloud.com",
+      "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -1336,6 +1360,12 @@
       "host": "d2.backupmasterservice.com",
       "links": "3.214.68.117",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "databasegalore.com",
+      "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -1687,6 +1717,12 @@
       "ln": 2
     },
     {
+      "host": "freescanonline.com",
+      "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "gitlab.wiwege.com",
       "links": "23.83.133.29",
       "type": "pdns",
@@ -1933,6 +1969,12 @@
       "ln": 2
     },
     {
+      "host": "lab.symantecsafe.org",
+      "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "landcook.com",
       "links": "173.234.155.146",
       "type": "pdns",
@@ -2050,6 +2092,12 @@
       "host": "mail.7861f5b56aa4.xyz",
       "links": "45.88.107.40",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.avsvmcloud.com",
+      "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -2221,6 +2269,12 @@
       "ln": 2
     },
     {
+      "host": "netmori.com",
+      "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "newdomainfornewdomain.net",
       "links": "176.118.164.143",
       "type": "pdns",
@@ -2284,6 +2338,12 @@
       "host": "ns.jesage.com",
       "links": "172.93.201.138",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.avsvmcloud.com",
+      "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -2461,6 +2521,12 @@
       "ln": 2
     },
     {
+      "host": "rawfuns.com",
+      "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "redmine.bankingshoestohome.com",
       "links": "185.120.57.215",
       "type": "pdns",
@@ -2623,6 +2689,12 @@
       "ln": 2
     },
     {
+      "host": "static.theyardservice.com",
+      "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "sts.awsmetrics.com",
       "links": "45.79.174.201",
       "type": "pdns",
@@ -2673,6 +2745,12 @@
     {
       "host": "thedailymeteor.com",
       "links": "216edef2f26a94071007aab8ec5e36c6b072c949",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "thedoccloud.com",
+      "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
       "ln": 2
     },
@@ -2935,6 +3013,12 @@
       "ln": 2
     },
     {
+      "host": "www.komdsecko.net",
+      "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "www.landcook.com",
       "links": "173.234.155.146",
       "type": "pdns",
@@ -3022,6 +3106,12 @@
       "host": "yegata.com",
       "links": "172.93.201.63",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "yolkish.com",
+      "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
+      "type": "certs",
       "ln": 2
     },
     {

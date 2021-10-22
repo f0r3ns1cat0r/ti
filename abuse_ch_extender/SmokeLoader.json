@@ -326,6 +326,12 @@
     },
     {
       "host": "admin.admin.admin.admin.admin.thefreshstuffs.at",
+      "links": "188.172.93.164",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.admin.admin.admin.admin.thefreshstuffs.at",
       "links": "201.218.121.197",
       "type": "pdns",
       "ln": 2
@@ -1016,6 +1022,12 @@
     },
     {
       "host": "admin.admin.admin.hostmaster.thefreshstuffs.at",
+      "links": "188.172.93.164",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.admin.admin.hostmaster.thefreshstuffs.at",
       "links": "201.218.121.197",
       "type": "pdns",
       "ln": 2
@@ -1592,6 +1604,12 @@
     },
     {
       "host": "admin.admin.hostmaster.thefreshstuffs.at",
+      "links": "188.172.93.164",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.admin.hostmaster.thefreshstuffs.at",
       "links": "201.218.121.197",
       "type": "pdns",
       "ln": 2
@@ -1617,6 +1635,12 @@
     {
       "host": "admin.admin.mail.thefreshstuffs.at",
       "links": "148.101.74.126",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.admin.mail.thefreshstuffs.at",
+      "links": "188.172.93.164",
       "type": "pdns",
       "ln": 2
     },
@@ -1797,6 +1821,12 @@
     {
       "host": "admin.admin.thefreshstuffs.at",
       "links": "148.101.74.126",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.admin.thefreshstuffs.at",
+      "links": "188.172.93.164",
       "type": "pdns",
       "ln": 2
     },
@@ -2265,6 +2295,12 @@
     {
       "host": "admin.hostmaster.thefreshstuffs.at",
       "links": "148.101.74.126",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.hostmaster.thefreshstuffs.at",
+      "links": "188.172.93.164",
       "type": "pdns",
       "ln": 2
     },
@@ -2947,6 +2983,12 @@
       "ln": 2
     },
     {
+      "host": "b.hostgroupdns.ru",
+      "links": "188.172.93.164",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "babavids.com",
       "links": "178.208.79.35",
       "type": "pdns",
@@ -3055,8 +3097,20 @@
       "ln": 2
     },
     {
+      "host": "c.hostgroupdns.ru",
+      "links": "188.172.93.164",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "camasirx.com",
       "links": "148.101.74.126",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "camasirx.com",
+      "links": "148.255.25.228",
       "type": "pdns",
       "ln": 2
     },
@@ -3075,6 +3129,12 @@
     {
       "host": "camasirx.com",
       "links": "187.212.183.165",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "camasirx.com",
+      "links": "188.172.93.164",
       "type": "pdns",
       "ln": 2
     },
@@ -3841,8 +3901,26 @@
       "ln": 2
     },
     {
+      "host": "ns2.hostgroupdns.ru",
+      "links": "188.172.93.164",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns3.hostgroupdns.ru",
+      "links": "188.172.93.164",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ns3.hostingclass.ru",
       "links": "190.140.74.43",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns4.hostgroupdns.ru",
+      "links": "188.172.93.164",
       "type": "pdns",
       "ln": 2
     },
@@ -4029,6 +4107,12 @@
     {
       "host": "securebiz.org",
       "links": "187.212.183.165",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "securebiz.org",
+      "links": "188.172.93.164",
       "type": "pdns",
       "ln": 2
     },
@@ -4258,6 +4342,18 @@
       "host": "thomashannahqzjyd.politics.blog",
       "links": "1d12ea2b595ead21aacb57cc9ea33795adee98b2",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "tierzahnarzt.at",
+      "links": "148.255.25.228",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "tierzahnarzt.at",
+      "links": "188.172.93.164",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -5157,6 +5253,12 @@
     {
       "host": "znpst.top",
       "links": "187.212.183.165",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "znpst.top",
+      "links": "188.172.93.164",
       "type": "pdns",
       "ln": 2
     },
