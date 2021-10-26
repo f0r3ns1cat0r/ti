@@ -85,6 +85,12 @@
       "ln": 2
     },
     {
+      "host": "195.58.48.249.clients.dts.su",
+      "links": "195.58.48.249",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "23-227-202-152.static.hvvc.us",
       "links": "23.227.202.152",
       "type": "pdns",
@@ -608,6 +614,12 @@
     },
     {
       "host": "ThreatFox: Cobalt Strike",
+      "links": "manulief.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Cobalt Strike",
       "links": "maxeleh.com",
       "type": "z",
       "ln": 2
@@ -771,6 +783,12 @@
     {
       "host": "ThreatFox: Cobalt Strike",
       "links": "securitymozes.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Cobalt Strike",
+      "links": "server.loki.ink",
       "type": "z",
       "ln": 2
     },
@@ -1102,6 +1120,12 @@
       "host": "appsync-api.us-east-1.avsvmcloud.come8h2vel9711jjcpte3so6iore1ovoe0t.appsync-api.us-east-1.avsvmcloud.com-1.avsvmcloud.com",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "averageflavour.com",
+      "links": "195.123.246.121",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -2101,6 +2125,12 @@
       "ln": 2
     },
     {
+      "host": "mail.averageflavour.com",
+      "links": "195.123.246.121",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "mail.avsvmcloud.com",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
@@ -2169,6 +2199,18 @@
     {
       "host": "malta2419.startdedicated.net",
       "links": "85.93.88.165",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "manulief.com",
+      "links": "3.19.152.209",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mbg.support",
+      "links": "143.198.158.146",
       "type": "pdns",
       "ln": 2
     },
@@ -2509,6 +2551,12 @@
       "ln": 2
     },
     {
+      "host": "publicpestnetwork.com",
+      "links": "3.19.152.209",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "pumolenory.xyz",
       "links": "78f7946fee67a734fb1b74cf64e34c192ad64ca6",
       "type": "certs",
@@ -2596,6 +2644,12 @@
       "host": "sellerbestprice.com",
       "links": "216edef2f26a94071007aab8ec5e36c6b072c949",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "server.loki.ink",
+      "links": "195.58.48.249",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -2971,6 +3025,12 @@
       "ln": 2
     },
     {
+      "host": "www.averageflavour.com",
+      "links": "195.123.246.121",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "www.cloud-documents.com",
       "links": "3.214.68.117",
       "type": "pdns",
@@ -3112,6 +3172,12 @@
       "host": "yasea4.com",
       "links": "216edef2f26a94071007aab8ec5e36c6b072c949",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "yeet.awsmetrics.com",
+      "links": "104.237.147.242",
+      "type": "pdns",
       "ln": 2
     },
     {

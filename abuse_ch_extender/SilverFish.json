@@ -98,6 +98,12 @@
     },
     {
       "host": "ThreatFox: SilverFish",
+      "links": "joke.webproduct.info",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: SilverFish",
       "links": "joomla.lifepath.site",
       "type": "z",
       "ln": 2
@@ -283,6 +289,12 @@
       "ln": 2
     },
     {
+      "host": "granny.webproduct.info",
+      "links": "130.0.235.92",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "icann.connectwithadamk.com",
       "links": "185.122.57.238",
       "type": "pdns",
@@ -297,6 +309,12 @@
     {
       "host": "jobs.tracybrey.com",
       "links": "179.43.169.31",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "joke.webproduct.info",
+      "links": "130.0.235.92",
       "type": "pdns",
       "ln": 2
     },

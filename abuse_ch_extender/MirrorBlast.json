@@ -19,8 +19,26 @@
   ],
   "data": [
     {
+      "host": "169-239-128-11.cprapid.com",
+      "links": "169.239.128.11",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ThreatFox: MirrorBlast",
       "links": "cdn-g0962.int-onedrive.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: MirrorBlast",
+      "links": "diarromonico.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: MirrorBlast",
+      "links": "dropmefilesbox.com",
       "type": "z",
       "ln": 2
     },
@@ -49,6 +67,24 @@
       "ln": 2
     },
     {
+      "host": "dc-1f523edf8254.sekam.co",
+      "links": "51.195.150.10",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "diarromonico.com",
+      "links": "51.195.150.10",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "dropmefilesbox.com",
+      "links": "5.181.156.133",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "feristoaul.com",
       "links": "46.161.40.172",
       "type": "pdns",
@@ -67,6 +103,12 @@
       "ln": 2
     },
     {
+      "host": "mail.sekam.co",
+      "links": "51.195.150.10",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "menorukis.su",
       "links": "45.140.146.216",
       "type": "pdns",
@@ -79,6 +121,12 @@
       "ln": 2
     },
     {
+      "host": "reclaim-success-procedure.live",
+      "links": "5.181.156.133",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "reycledigipassupdateserv.cc",
       "links": "169.239.128.11",
       "type": "pdns",
@@ -87,6 +135,12 @@
     {
       "host": "root.feristoaul.com",
       "links": "46.161.40.172",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "webmail.sekam.co",
+      "links": "51.195.150.10",
       "type": "pdns",
       "ln": 2
     },

@@ -134,6 +134,12 @@
     },
     {
       "host": "ThreatFox: CryptBot",
+      "links": "mornoi05.top",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: CryptBot",
       "links": "moruat06.top",
       "type": "z",
       "ln": 2
@@ -877,6 +883,18 @@
       "ln": 2
     },
     {
+      "host": "mornoi05.top",
+      "links": "185.142.97.180",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mornoi05.top",
+      "links": "185.25.51.211",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "moroer01.top",
       "links": "142.11.209.158",
       "type": "pdns",
@@ -915,6 +933,18 @@
     {
       "host": "moruat06.top",
       "links": "185.138.164.59",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "moruhx04.top",
+      "links": "185.142.97.180",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "moruhx04.top",
+      "links": "185.25.51.211",
       "type": "pdns",
       "ln": 2
     },

@@ -19,6 +19,18 @@
   ],
   "data": [
     {
+      "host": "217-64-149-78.pool.ovpn.com",
+      "links": "217.64.149.78",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Remcos",
+      "links": "destinyrem.kozow.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
       "host": "ThreatFox: Remcos",
       "links": "eter101.dvrlists.com",
       "type": "z",
@@ -44,7 +56,43 @@
     },
     {
       "host": "ThreatFox: Remcos",
+      "links": "rem16.camdvr.org",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Remcos",
+      "links": "salford1.ddns.net",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Remcos",
+      "links": "salford2.ddns.net",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Remcos",
+      "links": "salford3.ddns.net",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Remcos",
+      "links": "saptransmissions.dvrlists.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Remcos",
       "links": "swryijgrvcsgkopnmcdertvgdswbvmophtfdczxs.ydns.eu",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Remcos",
+      "links": "u876134.nsupdate.info",
       "type": "z",
       "ln": 2
     },
@@ -57,6 +105,12 @@
     {
       "host": "ams-tedesus.com",
       "links": "212.193.30.133",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "angry-allen.207-244-235-224.plesk.page",
+      "links": "207.244.235.224",
       "type": "pdns",
       "ln": 2
     },
@@ -75,6 +129,12 @@
     {
       "host": "carebuildesathome.com",
       "links": "212.193.30.133",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "destinyrem.kozow.com",
+      "links": "159.148.186.15",
       "type": "pdns",
       "ln": 2
     },
@@ -139,6 +199,12 @@
       "ln": 2
     },
     {
+      "host": "iloims.webredirect.org",
+      "links": "159.148.186.15",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "jamaru1444.myftp.biz",
       "links": "212.193.30.133",
       "type": "pdns",
@@ -153,6 +219,12 @@
     {
       "host": "miracle.hopto.org",
       "links": "23.105.131.236",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "nas-smokerlolilol.direct.quickconnect.to",
+      "links": "87.101.92.171",
       "type": "pdns",
       "ln": 2
     },
@@ -205,6 +277,42 @@
       "ln": 2
     },
     {
+      "host": "rem16.camdvr.org",
+      "links": "37.120.138.222",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "salford1.ddns.net",
+      "links": "217.64.149.78",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "salford2.ddns.net",
+      "links": "217.64.149.78",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "salford3.ddns.net",
+      "links": "217.64.149.78",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "saptransmissions.dvrlists.com",
+      "links": "87.101.92.171",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "server105.nyc.us.na.ikev2.vpnable.net",
+      "links": "37.120.138.222",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "slot0.ams-tedesus.com",
       "links": "212.193.30.133",
       "type": "pdns",
@@ -217,8 +325,20 @@
       "ln": 2
     },
     {
+      "host": "smokerlol.synology.me",
+      "links": "87.101.92.171",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "swryijgrvcsgkopnmcdertvgdswbvmophtfdczxs.ydns.eu",
       "links": "78.129.249.105",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "u876134.nsupdate.info",
+      "links": "207.244.235.224",
       "type": "pdns",
       "ln": 2
     },
@@ -237,6 +357,12 @@
     {
       "host": "wealthgod456.ddns.net",
       "links": "194.5.97.16",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "zealous-chatterjee.207-244-235-224.plesk.page",
+      "links": "207.244.235.224",
       "type": "pdns",
       "ln": 2
     }

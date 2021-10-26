@@ -19,6 +19,18 @@
   ],
   "data": [
     {
+      "host": "149.bhs.ovh.abcd.network",
+      "links": "198.27.83.62",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "178.bhs.abcvg.ovh",
+      "links": "198.27.83.62",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "33peredpokupkoy.xyz",
       "links": "45.142.213.55",
       "type": "pdns",
@@ -375,6 +387,12 @@
     {
       "host": "annnunrrtacealo.com",
       "links": "57.80.33.50",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "apayments.top",
+      "links": "178.20.44.93",
       "type": "pdns",
       "ln": 2
     },
@@ -1629,6 +1647,12 @@
     {
       "host": "ns3.bralntree.com",
       "links": "46.173.214.126",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns500758.ip-198-27-83.net",
+      "links": "198.27.83.62",
       "type": "pdns",
       "ln": 2
     },
