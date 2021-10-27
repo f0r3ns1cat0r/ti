@@ -2389,6 +2389,12 @@
       "ln": 2
     },
     {
+      "host": "ns.rtechs.org",
+      "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "ns1.avsvmcloud.com",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
@@ -2950,6 +2956,12 @@
       "host": "webmail.yourcodeliberdade.com",
       "links": "3.214.68.117",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "websitetheme.com",
+      "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
+      "type": "certs",
       "ln": 2
     },
     {

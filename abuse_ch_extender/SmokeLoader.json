@@ -2648,6 +2648,12 @@
     },
     {
       "host": "camasirx.com",
+      "links": "178.30.101.69",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "camasirx.com",
       "links": "186.214.130.63",
       "type": "pdns",
       "ln": 2
@@ -3801,6 +3807,12 @@
     {
       "host": "tierzahnarzt.at",
       "links": "148.255.25.228",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "tierzahnarzt.at",
+      "links": "178.30.101.69",
       "type": "pdns",
       "ln": 2
     },
