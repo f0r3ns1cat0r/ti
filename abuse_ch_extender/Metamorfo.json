@@ -25,30 +25,6 @@
       "ln": 2
     },
     {
-      "host": "_dc-mx.23a7ec3a4d0d.renatonomengao.com",
-      "links": "104.243.40.52",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "_dc-mx.312470c2fe58.ximbocadaparafuseta.com",
-      "links": "104.243.40.52",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "binancee.exchange",
-      "links": "104.243.40.52",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "chacaranggtanovoaurhj.com",
-      "links": "104.243.40.52",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "chacaranggtanovoaurhj.com",
       "links": "3734cda32dfebd615d08a2a34ba5e8b63f10984c",
       "type": "certs",
@@ -67,18 +43,6 @@
       "ln": 2
     },
     {
-      "host": "cpanel.binancee.exchange",
-      "links": "104.243.40.52",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "cpanel.chacaranggtanovoaurhj.com",
-      "links": "104.243.40.52",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "cpanel.chacaranggtanovoaurhj.com",
       "links": "3734cda32dfebd615d08a2a34ba5e8b63f10984c",
       "type": "certs",
@@ -88,18 +52,6 @@
       "host": "cpanel.chacaranggtanovoaurhj.com",
       "links": "fba76c340fd8f5abb77f02d3294c171dde701039",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "cpcalendars.binancee.exchange",
-      "links": "104.243.40.52",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "cpcalendars.chacaranggtanovoaurhj.com",
-      "links": "104.243.40.52",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -115,18 +67,6 @@
       "ln": 2
     },
     {
-      "host": "cpcontacts.binancee.exchange",
-      "links": "104.243.40.52",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "cpcontacts.chacaranggtanovoaurhj.com",
-      "links": "104.243.40.52",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "cpcontacts.chacaranggtanovoaurhj.com",
       "links": "3734cda32dfebd615d08a2a34ba5e8b63f10984c",
       "type": "certs",
@@ -136,18 +76,6 @@
       "host": "cpcontacts.chacaranggtanovoaurhj.com",
       "links": "fba76c340fd8f5abb77f02d3294c171dde701039",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "dc-cb4b1a861035.ofodao.com",
-      "links": "104.243.40.52",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "login.blockchaln.com.binancee.exchange",
-      "links": "104.243.40.52",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -163,18 +91,6 @@
       "ln": 2
     },
     {
-      "host": "webdisk.binancee.exchange",
-      "links": "104.243.40.52",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "webdisk.chacaranggtanovoaurhj.com",
-      "links": "104.243.40.52",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "webdisk.chacaranggtanovoaurhj.com",
       "links": "3734cda32dfebd615d08a2a34ba5e8b63f10984c",
       "type": "certs",
@@ -184,18 +100,6 @@
       "host": "webdisk.chacaranggtanovoaurhj.com",
       "links": "fba76c340fd8f5abb77f02d3294c171dde701039",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "webmail.binancee.exchange",
-      "links": "104.243.40.52",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "webmail.chacaranggtanovoaurhj.com",
-      "links": "104.243.40.52",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -214,12 +118,6 @@
       "host": "www.chacaranggtanovoaurhj.ofodao.com",
       "links": "3734cda32dfebd615d08a2a34ba5e8b63f10984c",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "www.login.blockchaln.com.binancee.exchange",
-      "links": "104.243.40.52",
-      "type": "pdns",
       "ln": 2
     }
   ]

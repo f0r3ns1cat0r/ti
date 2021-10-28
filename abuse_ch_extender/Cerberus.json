@@ -19,357 +19,51 @@
   ],
   "data": [
     {
-      "host": "176.121.14.101",
-      "links": "176.121.14.101",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "176.121.14.122",
-      "links": "176.121.14.122",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "193.201.126.60",
-      "links": "193.201.126.60",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "193.38.55.37",
-      "links": "193.38.55.37",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: Cerberus",
-      "links": "comparistakres.ga",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: Cerberus",
-      "links": "gostmarest.ga",
-      "type": "z",
-      "ln": 2
-    },
-    {
       "host": "ThreatFox: Cerberus",
       "links": "morestandersolt.ga",
       "type": "z",
       "ln": 2
     },
     {
-      "host": "ThreatFox: Cerberus",
-      "links": "quarterstudy.ga",
-      "type": "z",
+      "host": "bmsiospace.com",
+      "links": "099d03214d1414a5325db61090e73ddb94f37d72",
+      "type": "certs",
       "ln": 2
     },
     {
-      "host": "ThreatFox: Cerberus",
-      "links": "univerpromo.ga",
-      "type": "z",
+      "host": "cloudflare-dns.com",
+      "links": "099d03214d1414a5325db61090e73ddb94f37d72",
+      "type": "certs",
       "ln": 2
     },
     {
-      "host": "androisksuaowuaisueusuasa.ml",
-      "links": "176.121.14.101",
-      "type": "pdns",
+      "host": "googleupdate.myz.info",
+      "links": "099d03214d1414a5325db61090e73ddb94f37d72",
+      "type": "certs",
       "ln": 2
     },
     {
-      "host": "androisksuaowuaisueusuasa.ml",
-      "links": "176.121.14.122",
-      "type": "pdns",
+      "host": "macfeesyn.ns01.info",
+      "links": "099d03214d1414a5325db61090e73ddb94f37d72",
+      "type": "certs",
       "ln": 2
     },
     {
-      "host": "androisksuaowuaisueusuasa.ml",
-      "links": "193.201.126.60",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "apksuaowuaisueusuasa.ml",
-      "links": "176.121.14.101",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "apksuaowuaisueusuasa.ml",
-      "links": "176.121.14.122",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "apksuaowuaisueusuasa.ml",
-      "links": "193.201.126.60",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "comparistakres.ga",
-      "links": "176.121.14.101",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "comparistakres.ga",
-      "links": "176.121.14.122",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "comparistakres.ga",
-      "links": "193.38.55.37",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "crabsdelivery.space",
-      "links": "193.38.55.37",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "crabsdelivery.website",
-      "links": "193.38.55.37",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "farcamnsuaieaenautwuajsua.ml",
-      "links": "176.121.14.101",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "farcamnsuaieaenautwuajsua.ml",
-      "links": "176.121.14.122",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "farcamnsuaieaenautwuajsua.ml",
-      "links": "193.201.126.60",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "fashionusetroeu.ml",
-      "links": "176.121.14.101",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "fashionusetroeu.ml",
-      "links": "176.121.14.122",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "fashionusetroeu.ml",
-      "links": "193.201.126.60",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "gostmarest.ga",
-      "links": "176.121.14.101",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "gostmarest.ga",
-      "links": "176.121.14.122",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "gostmarest.ga",
-      "links": "193.38.55.37",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "hustirastmosta.ga",
-      "links": "176.121.14.101",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "hustirastmosta.ga",
-      "links": "176.121.14.122",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "hustirastmosta.ga",
-      "links": "193.201.126.60",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "hustirastmostaasstr.ga",
-      "links": "176.121.14.101",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "hustirastmostaasstr.ga",
-      "links": "176.121.14.122",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "hustirastmostaasstr.ga",
-      "links": "193.201.126.60",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "maoelauiiaoauenautwuajsua.ml",
-      "links": "176.121.14.101",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "maoelauiiaoauenautwuajsua.ml",
-      "links": "176.121.14.122",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "maoelauiiaoauenautwuajsua.ml",
-      "links": "193.201.126.60",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mcdelivery.space",
-      "links": "193.38.55.37",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mcdelivery.website",
-      "links": "193.38.55.37",
-      "type": "pdns",
+      "host": "macfeeupdate.ddns.info",
+      "links": "099d03214d1414a5325db61090e73ddb94f37d72",
+      "type": "certs",
       "ln": 2
     },
     {
       "host": "morestandersolt.ga",
-      "links": "176.121.14.101",
-      "type": "pdns",
+      "links": "099d03214d1414a5325db61090e73ddb94f37d72",
+      "type": "certs",
       "ln": 2
     },
     {
-      "host": "morestandersolt.ga",
-      "links": "176.121.14.122",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "morestandersolt.ga",
-      "links": "193.201.126.60",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "newappssolutions199938.ga",
-      "links": "176.121.14.101",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "newappssolutions199938.ga",
-      "links": "176.121.14.122",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "newappssolutions199938.ga",
-      "links": "193.201.126.60",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "portalrandomise.ga",
-      "links": "176.121.14.101",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "portalrandomise.ga",
-      "links": "176.121.14.122",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "portalrandomise.ga",
-      "links": "193.201.126.60",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "quarterstudy.ga",
-      "links": "176.121.14.101",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "quarterstudy.ga",
-      "links": "176.121.14.122",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "quarterstudy.ga",
-      "links": "193.38.55.37",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "univerpromo.ga",
-      "links": "176.121.14.101",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "univerpromo.ga",
-      "links": "176.121.14.122",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "univerpromo.ga",
-      "links": "193.38.55.37",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.crabsdelivery.space",
-      "links": "193.38.55.37",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.crabsdelivery.website",
-      "links": "193.38.55.37",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.mcdelivery.space",
-      "links": "193.38.55.37",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.mcdelivery.website",
-      "links": "193.38.55.37",
-      "type": "pdns",
+      "host": "one.one.one.one",
+      "links": "099d03214d1414a5325db61090e73ddb94f37d72",
+      "type": "certs",
       "ln": 2
     }
   ]
