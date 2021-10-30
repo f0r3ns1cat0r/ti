@@ -1742,6 +1742,12 @@
     },
     {
       "host": "pgf5ga4g4b.cn",
+      "links": "194.180.174.95",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "pgf5ga4g4b.cn",
       "links": "206.188.196.143",
       "type": "pdns",
       "ln": 2
@@ -1996,6 +2002,12 @@
       "host": "sagiai3agar.cn",
       "links": "13d3164c65b08149124774acbd3d1384d1b77573",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "sagiai3agar.cn",
+      "links": "194.180.174.95",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -3208,6 +3220,12 @@
       "host": "www.sagiai3agar.cn",
       "links": "13d3164c65b08149124774acbd3d1384d1b77573",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.sagiai3agar.cn",
+      "links": "194.180.174.95",
+      "type": "pdns",
       "ln": 2
     },
     {

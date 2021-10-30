@@ -163,6 +163,12 @@
       "ln": 2
     },
     {
+      "host": "a.copihopertdery.org",
+      "links": "187.156.129.121",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "a.dnsonn.org",
       "links": "187.156.129.121",
       "type": "pdns",
@@ -200,12 +206,6 @@
     },
     {
       "host": "admin.admin.admin.admin.admin.hostmaster.omerta.cc",
-      "links": "190.140.74.43",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.admin.admin.admin.hostmaster.omerta.cc",
       "links": "31.166.98.159",
       "type": "pdns",
       "ln": 2
@@ -225,6 +225,12 @@
     {
       "host": "admin.admin.admin.admin.admin.hostmaster.thefreshstuffs.at",
       "links": "51.211.209.141",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.admin.admin.admin.admin.lockbitapt.uz",
+      "links": "178.30.101.69",
       "type": "pdns",
       "ln": 2
     },
@@ -369,12 +375,6 @@
     {
       "host": "admin.admin.admin.admin.admin.www.omerta.cc",
       "links": "179.126.45.93",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.admin.admin.admin.www.omerta.cc",
-      "links": "190.140.74.43",
       "type": "pdns",
       "ln": 2
     },
@@ -543,12 +543,6 @@
     {
       "host": "admin.admin.admin.admin.omerta.cc",
       "links": "189.129.114.216",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.admin.admin.omerta.cc",
-      "links": "190.140.74.43",
       "type": "pdns",
       "ln": 2
     },
@@ -758,12 +752,6 @@
     },
     {
       "host": "admin.admin.admin.hostmaster.omerta.cc",
-      "links": "190.140.74.43",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.admin.hostmaster.omerta.cc",
       "links": "31.166.98.159",
       "type": "pdns",
       "ln": 2
@@ -879,12 +867,6 @@
     {
       "host": "admin.admin.admin.omerta.cc",
       "links": "189.129.114.216",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.admin.omerta.cc",
-      "links": "190.140.74.43",
       "type": "pdns",
       "ln": 2
     },
@@ -1065,12 +1047,6 @@
     {
       "host": "admin.admin.admin.www.lockbitsupp.uz",
       "links": "187.156.114.189",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.admin.www.omerta.cc",
-      "links": "190.140.74.43",
       "type": "pdns",
       "ln": 2
     },
@@ -1719,12 +1695,6 @@
     {
       "host": "admin.cvv-union.at",
       "links": "31.166.134.207",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.hostmaster.omerta.cc",
-      "links": "190.140.74.43",
       "type": "pdns",
       "ln": 2
     },
@@ -2444,6 +2414,12 @@
     },
     {
       "host": "camasirx.com",
+      "links": "186.7.136.117",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "camasirx.com",
       "links": "187.114.211.118",
       "type": "pdns",
       "ln": 2
@@ -2480,7 +2456,7 @@
     },
     {
       "host": "camasirx.com",
-      "links": "190.140.74.43",
+      "links": "189.232.7.72",
       "type": "pdns",
       "ln": 2
     },
@@ -2493,6 +2469,12 @@
     {
       "host": "camasirx.com",
       "links": "211.119.84.112",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "camasirx.com",
+      "links": "211.171.233.126",
       "type": "pdns",
       "ln": 2
     },
@@ -2629,6 +2611,12 @@
       "ln": 2
     },
     {
+      "host": "cpcontacts.tierzahnarzt.at",
+      "links": "92.62.104.245",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "crimepride.music.blog",
       "links": "16cf58adc98ba44eabcf951f1a6f32d3d14d61e6",
       "type": "certs",
@@ -2655,12 +2643,6 @@
     {
       "host": "crypto-event.at",
       "links": "181.164.20.219",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "crypto-explode.at",
-      "links": "190.140.74.43",
       "type": "pdns",
       "ln": 2
     },
@@ -2695,26 +2677,14 @@
       "ln": 2
     },
     {
+      "host": "d.copihopertdery.org",
+      "links": "187.156.129.121",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "d.hostgroupdns.ru",
       "links": "188.172.93.164",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "dns2.hostingclass.ru",
-      "links": "190.140.74.43",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "dns3.hostingclass.ru",
-      "links": "190.140.74.43",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "dns4.hostingclass.ru",
-      "links": "190.140.74.43",
       "type": "pdns",
       "ln": 2
     },
@@ -2870,6 +2840,12 @@
     },
     {
       "host": "gmpeople.com",
+      "links": "186.6.254.27",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "gmpeople.com",
       "links": "30728b5bc161bfc64c72fa6ced5540e54068dc94",
       "type": "certs",
       "ln": 2
@@ -2884,6 +2860,24 @@
       "host": "gonkulator.net",
       "links": "1d12ea2b595ead21aacb57cc9ea33795adee98b2",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "hostmaster.gmpeople.com",
+      "links": "177.206.228.123",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hostmaster.gmpeople.com",
+      "links": "186.6.254.27",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hostmaster.gmpeople.com",
+      "links": "89.133.230.171",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -3086,12 +3080,6 @@
     },
     {
       "host": "mile48.com",
-      "links": "190.140.74.43",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mile48.com",
       "links": "211.119.84.112",
       "type": "pdns",
       "ln": 2
@@ -3199,12 +3187,6 @@
       "ln": 2
     },
     {
-      "host": "ns1.hostingclass.ru",
-      "links": "190.140.74.43",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ns2.hostgroupdns.ru",
       "links": "188.172.93.164",
       "type": "pdns",
@@ -3219,12 +3201,6 @@
     {
       "host": "ns3.hostgroupdns.ru",
       "links": "188.172.93.164",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns3.hostingclass.ru",
-      "links": "190.140.74.43",
       "type": "pdns",
       "ln": 2
     },
@@ -3596,7 +3572,7 @@
     },
     {
       "host": "tierzahnarzt.at",
-      "links": "190.140.74.43",
+      "links": "189.232.7.72",
       "type": "pdns",
       "ln": 2
     },
@@ -3609,6 +3585,12 @@
     {
       "host": "tierzahnarzt.at",
       "links": "211.119.84.112",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "tierzahnarzt.at",
+      "links": "211.171.233.126",
       "type": "pdns",
       "ln": 2
     },
@@ -4195,6 +4177,12 @@
       "ln": 2
     },
     {
+      "host": "www.shibaswab.com",
+      "links": "92.62.104.245",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "www.singhzaby.music.blog",
       "links": "16cf58adc98ba44eabcf951f1a6f32d3d14d61e6",
       "type": "certs",
@@ -4352,6 +4340,12 @@
     },
     {
       "host": "znpst.top",
+      "links": "186.7.136.117",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "znpst.top",
       "links": "187.156.114.189",
       "type": "pdns",
       "ln": 2
@@ -4388,13 +4382,13 @@
     },
     {
       "host": "znpst.top",
-      "links": "190.140.74.43",
+      "links": "211.119.84.112",
       "type": "pdns",
       "ln": 2
     },
     {
       "host": "znpst.top",
-      "links": "211.119.84.112",
+      "links": "211.171.233.126",
       "type": "pdns",
       "ln": 2
     },

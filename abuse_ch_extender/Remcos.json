@@ -25,6 +25,12 @@
       "ln": 2
     },
     {
+      "host": "217-64-151-84.pool.ovpn.com",
+      "links": "217.64.151.84",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ThreatFox: Remcos",
       "links": "destinyrem.kozow.com",
       "type": "z",
@@ -62,6 +68,30 @@
     },
     {
       "host": "ThreatFox: Remcos",
+      "links": "remman1.ddns.net",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Remcos",
+      "links": "remman2.ddns.net",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Remcos",
+      "links": "remman3.ddns.net",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Remcos",
+      "links": "remman4.ddns.net",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Remcos",
       "links": "salford1.ddns.net",
       "type": "z",
       "ln": 2
@@ -87,6 +117,18 @@
     {
       "host": "ThreatFox: Remcos",
       "links": "swryijgrvcsgkopnmcdertvgdswbvmophtfdczxs.ydns.eu",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Remcos",
+      "links": "trapboijiggy.dvrlists.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Remcos",
+      "links": "twistednerd.dvrlists.com",
       "type": "z",
       "ln": 2
     },
@@ -135,6 +177,12 @@
     {
       "host": "destinyrem.kozow.com",
       "links": "159.148.186.15",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "destinyrem.kozow.com",
+      "links": "159.148.186.28",
       "type": "pdns",
       "ln": 2
     },
@@ -201,6 +249,12 @@
     {
       "host": "iloims.webredirect.org",
       "links": "159.148.186.15",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iloims.webredirect.org",
+      "links": "159.148.186.28",
       "type": "pdns",
       "ln": 2
     },
@@ -283,6 +337,30 @@
       "ln": 2
     },
     {
+      "host": "remman1.ddns.net",
+      "links": "217.64.151.84",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "remman2.ddns.net",
+      "links": "217.64.151.84",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "remman3.ddns.net",
+      "links": "217.64.151.84",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "remman4.ddns.net",
+      "links": "217.64.151.84",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "salford1.ddns.net",
       "links": "217.64.149.78",
       "type": "pdns",
@@ -333,6 +411,24 @@
     {
       "host": "swryijgrvcsgkopnmcdertvgdswbvmophtfdczxs.ydns.eu",
       "links": "78.129.249.105",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "tlngoose.synology.me",
+      "links": "194.187.251.155",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "trapboijiggy.dvrlists.com",
+      "links": "194.187.251.155",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "twistednerd.dvrlists.com",
+      "links": "194.187.251.155",
       "type": "pdns",
       "ln": 2
     },

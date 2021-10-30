@@ -43,7 +43,31 @@
       "ln": 2
     },
     {
+      "host": "5-63-155-126.cloudvps.regruhosting.ru",
+      "links": "5.63.155.126",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "5-63-155-126.ovz.vps.regruhosting.ru",
+      "links": "5.63.155.126",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "5-63-155-126.xs.vps.regruhosting.ru",
+      "links": "5.63.155.126",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "53140.web.hosting-russia.ru",
+      "links": "194.147.115.74",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "57251.web.hosting-russia.ru",
       "links": "194.147.115.74",
       "type": "pdns",
       "ln": 2
@@ -63,6 +87,12 @@
     {
       "host": "ThreatFox: Hancitor",
       "links": "nuatanste.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Hancitor",
+      "links": "otsoebabe.com",
       "type": "z",
       "ln": 2
     },
@@ -171,6 +201,12 @@
     {
       "host": "nuatanste.com",
       "links": "185.43.223.169",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "otsoebabe.com",
+      "links": "5.63.155.126",
       "type": "pdns",
       "ln": 2
     },

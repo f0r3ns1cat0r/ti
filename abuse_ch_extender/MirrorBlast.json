@@ -67,6 +67,12 @@
       "ln": 2
     },
     {
+      "host": "cdn-g6645.int-onedrive.com",
+      "links": "185.225.19.136",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "dc-1f523edf8254.sekam.co",
       "links": "51.195.150.10",
       "type": "pdns",
@@ -135,6 +141,12 @@
     {
       "host": "root.feristoaul.com",
       "links": "46.161.40.172",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "vps-48feb325.vps.ovh.net",
+      "links": "51.195.150.10",
       "type": "pdns",
       "ln": 2
     },
