@@ -166,7 +166,10 @@ Emerging Threats Trojan: <select class="th_sel" id="et_sel" onchange="document.l
 <div style="width:544px;">
 <div class="chart_block" style="width:calc(100% - 30px); height:31px; padding:10px; "><h3 style="font-size: 22px;margin:0;" id='malname2'></h3></div>
 <div class="chart_block" style="overflow-y:auto;float:left;padding:10px;width:240px;height: calc(100% - 198px);">
-<p style="font-weight:600;font-style: italic;">Imported <span style="font-style: normal;color: #ff7f0e;font-size: 20px;">⬤</span> IOCs</p>
+<p style="font-weight:600;font-style: italic;">Imported <span style="font-style: normal;color: #ff7f0e;font-size: 20px;">⬤</span> IOCs<br>
+<span style="font-weight:400;" id='import_href'><span>
+</p>
+
 <p id="ab_list"></p>
 </div>
 <div class="chart_block" style="overflow-y:auto;float:left;padding:10px;width:240px;height: calc(100% - 198px);">
@@ -217,7 +220,7 @@ if(params.host==undefined){
 	params.host='';
 }
 
-var dataurl=params.name+'.json';	
+var dataurl=''+params.name+'.json';	
 	
 var host_list='';
 var abuse_list='<option></option>';
@@ -288,18 +291,20 @@ var hp_list='<option></option>';
 			update_graph(results);
 		var pref = params.name.split("_")[0];
 		if(pref=='TF'){
-			malname='ThreatFox: '+params.name.substring(3).replaceAll('_',''); 
+			malname='ThreatFox: '+params.name.substring(3).replaceAll('_','');
+			imphref="<a target='_blank' href='https://threatfox.abuse.ch/export/csv/domains/'>threatfox.abuse.ch/export/csv/domains/</a>";
 
 		}else if(pref=='ET'){
 			malname='Emerging Threats: '+params.name.substring(3).replaceAll('_',''); 
-			
+			imphref="<a target='_blank' href='https://rules.emergingthreats.net/open/'>rules.emergingthreats.net/open/</a>";			
 		}else if(pref=='HP'){
 			malname='HP Threat Research: '+params.name.substring(3).replaceAll('_',''); 
-			
+			imphref="<a target='_blank' href='https://github.com/hpthreatresearch/iocs'>github.com/hpthreatresearch/iocs</a>";			
 		}else{
 			malname=params.name.substring(3).replaceAll('_',''); 
 		}	
 		document.getElementById('malname2').innerHTML =	malname;
+		document.getElementById('import_href').innerHTML =	imphref;
 			
 	}).fail(function (jqXHR, exception) {
 
