@@ -165,7 +165,7 @@ Emerging Threats Trojan: <select class="th_sel" id="et_sel" onchange="document.l
 <h3 style="font-size: 16px;margin:0;" id='malname'></h3></div>
 <div style="width:544px;">
 <div class="chart_block" style="width:calc(100% - 30px); height:31px; padding:10px; "><h3 style="font-size: 22px;margin:0;" id='malname2'></h3></div>
-<div class="chart_block" style="overflow-y:auto;overflow-x:hidden;float:left;padding:10px;width:240px;height: calc(100% - 198px);">
+<div class="chart_block" style="overflow-y:auto;float:left;padding:10px;width:240px;height: calc(100% - 198px);">
 <p style="font-weight:600;font-style: italic;">Imported <span style="font-style: normal;color: #ff7f0e;font-size: 20px;">⬤</span> IOCs<br>
 <span style="font-weight:400;" id='import_href'><span>
 </p>
@@ -292,7 +292,7 @@ var hp_list='<option></option>';
 		var pref = params.name.split("_")[0];
 		if(pref=='TF'){
 			malname='ThreatFox: '+params.name.substring(3).replaceAll('_','');
-			imphref="<a target='_blank' href='https://threatfox.abuse.ch/export/csv/domains/'>threatfox.abuse.ch/export/csv/domains/</a>";
+			imphref="<a target='_blank' href='https://threatfox.abuse.ch/export/'>threatfox.abuse.ch/export/</a>";
 
 		}else if(pref=='ET'){
 			malname='Emerging Threats: '+params.name.substring(3).replaceAll('_',''); 
