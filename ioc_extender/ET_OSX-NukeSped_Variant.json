@@ -1,0 +1,52 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "5l7hr.cn",
+      "links": "156.240.143.21",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: OSX-NukeSped Variant",
+      "links": "airbseeker.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "airbseeker.com",
+      "links": "156.240.143.21",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "dgw222.com",
+      "links": "156.240.143.21",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.dgw222.com",
+      "links": "156.240.143.21",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ET Trojan: AppleJeus - Ants2Whale",
+      "links": "qnalytica.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "mail.qnalytica.com",
+      "links": "0fcf97c6139fe05802aebf80c9008c8994b386a0",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.qnalytica.com",
+      "links": "db167de5b6dcce5216a009103d5c839fedc3de4d",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "qnalytica.com",
+      "links": "0fcf97c6139fe05802aebf80c9008c8994b386a0",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "qnalytica.com",
+      "links": "db167de5b6dcce5216a009103d5c839fedc3de4d",
+      "type": "certs",
+      "ln": 2
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ET Trojan: APT-FamousSparrow",
+      "links": "credits.offices-analytics.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "credits.offices-analytics.com",
+      "links": "103.15.28.228",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "llnw-dd.awsdns-531.com",
+      "links": "103.15.28.228",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "redsquare.redcrossco.com",
+      "links": "103.15.28.228",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "40.ip-91-134-132.eu",
+      "links": "91.134.132.40",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: Turla-Crutch",
+      "links": "ethdns.mywire.org",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: Turla-Crutch",
+      "links": "hotspot.accesscam.org",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: Turla-Crutch",
+      "links": "theguardian.webredirect.org",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "db.qrrd.ru",
+      "links": "185.162.8.12",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "db.qrrd.ru",
+      "links": "f1f7546c6658dd59f6bcde986e1051bd72446a7c",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "eegrn.ru",
+      "links": "185.162.8.12",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ethdns.mywire.org",
+      "links": "10bd960c9e133156e904ab65e7bff3df1e1c8fc1",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "ethdns.mywire.org",
+      "links": "185.162.8.12",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ethdns.mywire.org",
+      "links": "38c656592a0e99fb501902f520442a9a394f8f0f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "ethdns.mywire.org",
+      "links": "f1f7546c6658dd59f6bcde986e1051bd72446a7c",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "evta.ru",
+      "links": "185.162.8.12",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hotspot.accesscam.org",
+      "links": "10bd960c9e133156e904ab65e7bff3df1e1c8fc1",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "hotspot.accesscam.org",
+      "links": "185.162.8.12",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hotspot.accesscam.org",
+      "links": "38c656592a0e99fb501902f520442a9a394f8f0f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "hotspot.accesscam.org",
+      "links": "f1f7546c6658dd59f6bcde986e1051bd72446a7c",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "orybalke.ru",
+      "links": "185.162.8.12",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "qrrd.ru",
+      "links": "185.162.8.12",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "theguardian.webredirect.org",
+      "links": "91.134.132.40",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.orybalke.ru",
+      "links": "185.162.8.12",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.qrrd.ru",
+      "links": "185.162.8.12",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "xxruxx.com",
+      "links": "10bd960c9e133156e904ab65e7bff3df1e1c8fc1",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "xxruxx.com",
+      "links": "38c656592a0e99fb501902f520442a9a394f8f0f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "xxruxx.com",
+      "links": "f1f7546c6658dd59f6bcde986e1051bd72446a7c",
+      "type": "certs",
+      "ln": 2
+    }
+  ]
+}

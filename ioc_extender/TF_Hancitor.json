@@ -1,0 +1,262 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "15079-26309.bacloud.info",
+      "links": "213.252.244.60",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "15495-26960.bacloud.info",
+      "links": "213.252.244.60",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "15871-27620.bacloud.info",
+      "links": "213.252.244.60",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "49572.web.hosting-russia.ru",
+      "links": "194.147.115.74",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "5-63-155-126.cloudvps.regruhosting.ru",
+      "links": "5.63.155.126",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "5-63-155-126.ovz.vps.regruhosting.ru",
+      "links": "5.63.155.126",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "5-63-155-126.xs.vps.regruhosting.ru",
+      "links": "5.63.155.126",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "53140.web.hosting-russia.ru",
+      "links": "194.147.115.74",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "57251.web.hosting-russia.ru",
+      "links": "194.147.115.74",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Hancitor",
+      "links": "cilidobas.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Hancitor",
+      "links": "gatiallyde.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Hancitor",
+      "links": "nuatanste.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Hancitor",
+      "links": "otsoebabe.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Hancitor",
+      "links": "requirend.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Hancitor",
+      "links": "tagnicredga.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Hancitor",
+      "links": "trictuatiove.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Hancitor",
+      "links": "vidompleury.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "address-pop.spikeslean.com",
+      "links": "185.220.177.176",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cilidobas.com",
+      "links": "88.85.89.108",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cloolyepervir.com",
+      "links": "185.220.177.176",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "content4bot.top",
+      "links": "185.43.223.169",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "dc-d3e520c979cd.money-pulse.club",
+      "links": "185.43.223.169",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "gatiallyde.com",
+      "links": "194.147.115.74",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "gruesomebridge.com",
+      "links": "185.220.177.176",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "l5b54d16.justinstalledpanel.com",
+      "links": "88.85.89.108",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "l739b74c.justinstalledpanel.com",
+      "links": "185.43.223.169",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "lationvold.com",
+      "links": "88.85.89.108",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "le468036.justinstalledpanel.com",
+      "links": "85.10.222.114",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.arcstone.com.ua",
+      "links": "185.43.223.169",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.content4bot.top",
+      "links": "185.43.223.169",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "nuatanste.com",
+      "links": "185.43.223.169",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "otsoebabe.com",
+      "links": "5.63.155.126",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "requirend.com",
+      "links": "185.220.177.176",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "smtp.gruesomebridge.com",
+      "links": "185.220.177.176",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "static.85-10-222-114.clients.your-server.de",
+      "links": "85.10.222.114",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "stionicksilid.com",
+      "links": "88.85.89.108",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "tagnicredga.com",
+      "links": "85.10.222.114",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "tholeferli.com",
+      "links": "194.147.115.74",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "trictuatiove.com",
+      "links": "194.147.115.74",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "vidompleury.com",
+      "links": "213.252.244.60",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ThreatFox: Agent Tesla",
+      "links": "ftp.adpfr.ro",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "adcm.adpfr.ro",
+      "links": "89.37.143.80",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "adpfr.ro",
+      "links": "72d72206b4338514029f38d311337d18122c7242",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "adpfr.ro",
+      "links": "89.37.143.80",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "adpfr.ro",
+      "links": "c6a34e2c31c70417fab93cce6896b6b098dbac47",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpanel.adpfr.ro",
+      "links": "89.37.143.80",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cpcalendars.adpfr.ro",
+      "links": "89.37.143.80",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cpcontacts.adpfr.ro",
+      "links": "89.37.143.80",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ftp.adpfr.ro",
+      "links": "72d72206b4338514029f38d311337d18122c7242",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "ftp.adpfr.ro",
+      "links": "89.37.143.80",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ftp.adpfr.ro",
+      "links": "c6a34e2c31c70417fab93cce6896b6b098dbac47",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "orda.adpfr.ro",
+      "links": "89.37.143.80",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "raportare.adpfr.ro",
+      "links": "89.37.143.80",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "raptest.adpfr.ro",
+      "links": "89.37.143.80",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "webdisk.adpfr.ro",
+      "links": "89.37.143.80",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "webmail.adpfr.ro",
+      "links": "89.37.143.80",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.adcm.adpfr.ro",
+      "links": "72d72206b4338514029f38d311337d18122c7242",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.adcm.adpfr.ro",
+      "links": "89.37.143.80",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.adcm.adpfr.ro",
+      "links": "c6a34e2c31c70417fab93cce6896b6b098dbac47",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.orda.adpfr.ro",
+      "links": "89.37.143.80",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.orda.adpfr.ro",
+      "links": "c6a34e2c31c70417fab93cce6896b6b098dbac47",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.raportare.adpfr.ro",
+      "links": "89.37.143.80",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.raportare.adpfr.ro",
+      "links": "c6a34e2c31c70417fab93cce6896b6b098dbac47",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.raptest.adpfr.ro",
+      "links": "89.37.143.80",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.raptest.adpfr.ro",
+      "links": "c6a34e2c31c70417fab93cce6896b6b098dbac47",
+      "type": "certs",
+      "ln": 2
+    }
+  ]
+}

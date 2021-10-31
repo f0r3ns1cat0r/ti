@@ -1,0 +1,166 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ThreatFox: CCleaner Backdoor",
+      "links": "cleaner-partners.top",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "cleaner-partners.top",
+      "links": "45.142.215.140",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cleaner-partners.top",
+      "links": "95.181.179.66",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cryptoformula.net",
+      "links": "45.142.215.140",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cryptoformula.net",
+      "links": "95.181.179.66",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "deep.dublikat.shop",
+      "links": "45.142.215.140",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "deep.dublikat.shop",
+      "links": "95.181.179.66",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "dublikat.shop",
+      "links": "45.142.215.140",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "dublikat.shop",
+      "links": "95.181.179.66",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "forum.dublikat.shop",
+      "links": "45.142.215.140",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "forum.dublikat.shop",
+      "links": "95.181.179.66",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "g-invest.store",
+      "links": "45.142.215.140",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "g-invest.store",
+      "links": "95.181.179.66",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "investgs.net",
+      "links": "45.142.215.140",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "investgs.net",
+      "links": "95.181.179.66",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "my.dublikat.shop",
+      "links": "45.142.215.140",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "my.dublikat.shop",
+      "links": "95.181.179.66",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "np1.replacedomen.work",
+      "links": "95.181.179.66",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "np2.replacedomen.work",
+      "links": "45.142.215.140",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "onlythings.org",
+      "links": "45.142.215.140",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "space.dublikat.shop",
+      "links": "45.142.215.140",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "space.dublikat.shop",
+      "links": "95.181.179.66",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.dublikat.shop",
+      "links": "45.142.215.140",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.dublikat.shop",
+      "links": "95.181.179.66",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

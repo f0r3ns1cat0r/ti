@@ -1,0 +1,40 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ET Trojan: Observed CobaltStrike-TEARDROP",
+      "links": "mobilnweb.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "mail.mobilnweb.com",
+      "links": "172.97.71.162",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mobilnweb.com",
+      "links": "172.97.71.162",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

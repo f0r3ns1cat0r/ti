@@ -1,0 +1,46 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ET Trojan: Spark Backdoor",
+      "links": "nysura.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "maos.info",
+      "links": "173.82.26.134",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "nysura.com",
+      "links": "173.82.26.134",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "victorpatrol.net",
+      "links": "173.82.26.134",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

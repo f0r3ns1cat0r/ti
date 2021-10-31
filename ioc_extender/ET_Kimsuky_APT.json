@@ -1,0 +1,574 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ET Trojan: Kimsuky APT",
+      "links": "download.riseknite.life",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "access.cdaumauth.cf",
+      "links": "216.189.157.89",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "access.cdaumauth.cf",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "access.daurninfo.ml",
+      "links": "216.189.157.89",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "access.daurninfo.ml",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "accont.noute.kro.kr",
+      "links": "216.189.157.89",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "acess.lives.kro.kr",
+      "links": "216.189.157.89",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "aislinn66.net",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "amtiz.casa",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "authsmtp.pesini.com",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "autosiauliai.lt",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "barracuda.pesini.com",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "bunmsde.xcdmklo.p-e.kr",
+      "links": "216.189.157.89",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "canal2jujuy.com",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "canal2jujuy.com.ar",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "char.ar",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "chollian.manager-alert.tk",
+      "links": "216.189.157.89",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "coinchat8.com",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "curt.guntuer.kro.kr",
+      "links": "216.189.157.89",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "download.riseknite.life",
+      "links": "216.189.157.89",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "download.riseknite.life",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "elaiis.com",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "fiberway.com.ar",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "franware.net",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "ggojob.com",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "help.yahoc.kro.kr",
+      "links": "216.189.157.89",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hkmumugo.com",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "home.nete.p-e.kr",
+      "links": "216.189.157.89",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "honeytalk11.com",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "jtop-solution.com",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "livetolk.com",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "login.hamnail.kro.kr",
+      "links": "216.189.157.89",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "login.hamnail.kro.kr",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "login.hotrnail.ml",
+      "links": "216.189.157.89",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "login.outlook-live.ml",
+      "links": "216.189.157.89",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "login.outlook-live.ml",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "logins.hamnail.kro.kr",
+      "links": "216.189.157.89",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "logins.hamnail.kro.kr",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "lopatinvav.ru",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "lovemeet21.com",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "lovemeet22.com",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "lovemeet23.com",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "lovemeet25.com",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "lovemeet26.com",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "maiaquynhonvilla.com",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.danm.kro.kr",
+      "links": "216.189.157.89",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail3.nate-or.kro.kr",
+      "links": "216.189.157.89",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mailer.pesini.com",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mailrelay.pesini.com",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "member.hamnail.kro.kr",
+      "links": "216.189.157.89",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "members.cdaumauth.cf",
+      "links": "216.189.157.89",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "members.cdaumauth.cf",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "members.hamnail.kro.kr",
+      "links": "216.189.157.89",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mobia.top",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mpfroc.org",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mx01.pesini.com",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "myaccount.aoi-mail.ml",
+      "links": "216.189.157.89",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "nephilimpw.com",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "nestra-technologies.com",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "ns1.elaiis.com",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "ns1.otsuka.com.tw",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "paege.dmail.r-e.kr",
+      "links": "216.189.157.89",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "pesini.com",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "posta.pesini.com",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "qthd23.com",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "qurhut.xurunos.n-e.kr",
+      "links": "216.189.157.89",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "realtolk.com",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "reflixmc.net",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "remote.pesini.com",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "rnyaccounts.gooqle.kro.kr",
+      "links": "216.189.157.89",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "smtp2.pesini.com",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "spam.pesini.com",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "stat.dauncheck.ml",
+      "links": "216.189.157.89",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "stat.dauncheck.ml",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "tangjyy.cn",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "techgshow.com",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "user.dauncheck.ml",
+      "links": "216.189.157.89",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "user.dauncheck.ml",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "vladisfoxlink.ru",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webmail.pcjindustries.com",
+      "links": "216.189.157.89",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "webmail.pcjindustries.com",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "websiem.com",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "wedss4call.com",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "wonjuphonak.kr",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.elaiis.com",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www2.hotrnail.ml",
+      "links": "216.189.157.89",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www3.daurninfo.ml",
+      "links": "216.189.157.89",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www3.daurninfo.ml",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "xighost1.com",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "zaiey.com",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "ziyae.com",
+      "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "zyunk.byunad.r-e.kr",
+      "links": "216.189.157.89",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

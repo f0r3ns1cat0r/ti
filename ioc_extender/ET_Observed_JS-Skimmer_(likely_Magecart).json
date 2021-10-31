@@ -1,0 +1,28 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ET Trojan: Observed JS-Skimmer (likely Magecart)",
+      "links": "imprintcenter.com",
+      "type": "z",
+      "ln": 2
+    }
+  ]
+}

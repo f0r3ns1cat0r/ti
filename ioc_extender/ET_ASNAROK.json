@@ -1,0 +1,178 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "01.sophosenterprisecenter.com",
+      "links": "52.214.97.178",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "44.ragnarokfromasgard.com",
+      "links": "52.214.97.178",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "88b.me",
+      "links": "52.214.97.178",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "9sg.me",
+      "links": "52.214.97.178",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: ASNAROK",
+      "links": "sophosproductupdate.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "akademia.filedownloaderserver.com",
+      "links": "52.214.97.178",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ap2.sophosproductupdate.com",
+      "links": "52.214.97.178",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "filedownloaderserver.com",
+      "links": "52.214.97.178",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "filedownloaderservers.com",
+      "links": "52.214.97.178",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "filedownloaderserveru.com",
+      "links": "52.214.97.178",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "filedownloaderserverx.com",
+      "links": "52.214.97.178",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.9sg.me",
+      "links": "52.214.97.178",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.9sg.me",
+      "links": "52.214.97.178",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ragnarokfromasgard.com",
+      "links": "52.214.97.178",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "sophosenterprisecenter.com",
+      "links": "52.214.97.178",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "sophosfirewallupdate.com",
+      "links": "52.214.97.178",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "sophosproductupdate.com",
+      "links": "52.214.97.178",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "updatefileservercross.com",
+      "links": "52.214.97.178",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.88b.me",
+      "links": "52.214.97.178",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.9sg.me",
+      "links": "52.214.97.178",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.filedownloaderservers.com",
+      "links": "52.214.97.178",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.ragnarokfromasgard.com",
+      "links": "52.214.97.178",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.sophosenterprisecenter.com",
+      "links": "52.214.97.178",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.sophosfirewallupdate.com",
+      "links": "52.214.97.178",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.xn--rflexion-b1a.com",
+      "links": "52.214.97.178",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "xn--rflexion-b1a.com",
+      "links": "52.214.97.178",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

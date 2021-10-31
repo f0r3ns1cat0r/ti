@@ -1,0 +1,52 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ET Trojan: Cobalt Strike Infrastructure",
+      "links": "fivefkl.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: Cobalt Strike Infrastructure",
+      "links": "fondfbr.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: Cobalt Strike Infrastructure",
+      "links": "mariamistado.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "fivefkl.com",
+      "links": "217.12.202.110",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "lb34e60d.justinstalledpanel.com",
+      "links": "217.12.202.110",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

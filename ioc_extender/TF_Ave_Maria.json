@@ -1,0 +1,40 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ThreatFox: Ave Maria",
+      "links": "googleservers.org",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "chrisle79.ddns.net",
+      "links": "205.185.118.52",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "googleservers.org",
+      "links": "205.185.118.52",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

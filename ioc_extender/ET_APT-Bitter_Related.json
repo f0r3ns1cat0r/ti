@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ET Trojan: APT-Bitter Related",
+      "links": "olmajhnservice.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "mail.olmajhnservice.com",
+      "links": "25092b60d972e574ed593a468564de2394fa008b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.olmajhnservice.com",
+      "links": "4fbde39a0735d1ad757038072cf541dfdc65faa3",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.olmajhnservice.com",
+      "links": "530f597666afc147886f5ad651b5071d0cc894ba",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "olmajhnservice.com",
+      "links": "25092b60d972e574ed593a468564de2394fa008b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "olmajhnservice.com",
+      "links": "4fbde39a0735d1ad757038072cf541dfdc65faa3",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "olmajhnservice.com",
+      "links": "530f597666afc147886f5ad651b5071d0cc894ba",
+      "type": "certs",
+      "ln": 2
+    }
+  ]
+}

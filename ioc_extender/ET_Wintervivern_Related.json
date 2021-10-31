@@ -1,0 +1,46 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ET Trojan: Wintervivern Related",
+      "links": "secure-daddy.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: Wintervivern Related",
+      "links": "securetourspd.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "enot12k.fun",
+      "links": "185.238.169.57",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "securetourspd.com",
+      "links": "185.238.169.57",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "1.kinoshka.cc",
+      "links": "188.119.113.48",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "HP Threat Research: TA551",
+      "links": "bennettsavingss.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "HP Threat Research: TA551",
+      "links": "buckleyestat1es.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "HP Threat Research: TA551",
+      "links": "burkeaudits.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "HP Threat Research: TA551",
+      "links": "changepost2019b.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "HP Threat Research: TA551",
+      "links": "digivape3.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "HP Threat Research: TA551",
+      "links": "flowerbaxterd.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "HP Threat Research: TA551",
+      "links": "hornhartmand.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "HP Threat Research: TA551",
+      "links": "seriessavings2018b.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "HP Threat Research: TA551",
+      "links": "shawgardenings.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "HP Threat Research: TA551",
+      "links": "tidepost2019b.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "HP Threat Research: TA551",
+      "links": "vupipess.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "HP Threat Research: TA551",
+      "links": "wagetv2014b.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "already.digital",
+      "links": "45.144.29.198",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "bennettsavingss.com",
+      "links": "188.119.113.48",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "buckleyestat1es.com",
+      "links": "194.62.42.182",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "burkeaudits.com",
+      "links": "45.95.11.111",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "burkeicos.com",
+      "links": "194.62.42.182",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "changepost2019b.com",
+      "links": "194.62.42.19",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cpcalendars.185-53-46-32.cprapid.com",
+      "links": "185.53.46.32",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "digivape1.com",
+      "links": "fa482fea3da001e6e0ebefc98b8d8730f7498f24",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "digivape2.com",
+      "links": "fa482fea3da001e6e0ebefc98b8d8730f7498f24",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "digivape3.com",
+      "links": "fa482fea3da001e6e0ebefc98b8d8730f7498f24",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "elvirsac05.itnappqyorrgj.live",
+      "links": "45.95.11.111",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "flowerbaxterd.com",
+      "links": "45.95.11.201",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hd.kinoshka.cc",
+      "links": "188.119.113.48",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hornhartmand.com",
+      "links": "185.53.46.32",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "huper-pr.ru",
+      "links": "194.62.42.19",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "kinoshka.cc",
+      "links": "188.119.113.48",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.already.digital",
+      "links": "45.144.29.198",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "minermine.store",
+      "links": "188.119.113.48",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mini-teen.ru",
+      "links": "194.62.42.19",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "parenpro.net",
+      "links": "45.144.29.153",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "pinedacryptos.com",
+      "links": "45.95.11.201",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "pornxyz.ru",
+      "links": "194.62.42.19",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "seriessavings2018b.com",
+      "links": "45.95.11.201",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "shawgardenings.com",
+      "links": "45.144.29.198",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "tidepost2019b.com",
+      "links": "45.144.29.198",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "tm-porno.ru",
+      "links": "194.62.42.19",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "tp-adult.ru",
+      "links": "194.62.42.19",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "vupipess.com",
+      "links": "45.144.29.153",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "wagetv2014b.com",
+      "links": "45.144.29.153",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "web-asiz.ru",
+      "links": "194.62.42.19",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.digivape1.com",
+      "links": "fa482fea3da001e6e0ebefc98b8d8730f7498f24",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.digivape2.com",
+      "links": "fa482fea3da001e6e0ebefc98b8d8730f7498f24",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "yujifon.site",
+      "links": "188.119.113.48",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

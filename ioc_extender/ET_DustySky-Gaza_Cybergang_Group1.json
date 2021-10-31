@@ -1,0 +1,52 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ET Trojan: DustySky-Gaza Cybergang Group1",
+      "links": "dji-msi.2waky.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: DustySky-Gaza Cybergang Group1",
+      "links": "time-loss.dns05.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "dji-msi.2waky.com",
+      "links": "192.169.7.250",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "lessserene.net",
+      "links": "192.169.7.250",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "time-loss.dns05.com",
+      "links": "192.169.7.250",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

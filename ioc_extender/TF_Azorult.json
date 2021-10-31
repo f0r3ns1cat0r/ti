@@ -1,0 +1,118 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ThreatFox: Azorult",
+      "links": "suspam.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ftp.suspam.com",
+      "links": "0cf16e642192b4e51098e13968e09109e373f29e",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "ftp.suspam.com",
+      "links": "152430f2c86c536c4bbc0cb4f30530213d35978a",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "ftp.suspam.com",
+      "links": "491208fb0a0e5ddfa229563efb549171260d13ce",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.suspam.com",
+      "links": "0cf16e642192b4e51098e13968e09109e373f29e",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.suspam.com",
+      "links": "152430f2c86c536c4bbc0cb4f30530213d35978a",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.suspam.com",
+      "links": "491208fb0a0e5ddfa229563efb549171260d13ce",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "pop.suspam.com",
+      "links": "0cf16e642192b4e51098e13968e09109e373f29e",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "pop.suspam.com",
+      "links": "152430f2c86c536c4bbc0cb4f30530213d35978a",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "pop.suspam.com",
+      "links": "491208fb0a0e5ddfa229563efb549171260d13ce",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "smtp.suspam.com",
+      "links": "0cf16e642192b4e51098e13968e09109e373f29e",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "smtp.suspam.com",
+      "links": "152430f2c86c536c4bbc0cb4f30530213d35978a",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "smtp.suspam.com",
+      "links": "491208fb0a0e5ddfa229563efb549171260d13ce",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "suspam.com",
+      "links": "0cf16e642192b4e51098e13968e09109e373f29e",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "suspam.com",
+      "links": "152430f2c86c536c4bbc0cb4f30530213d35978a",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "suspam.com",
+      "links": "491208fb0a0e5ddfa229563efb549171260d13ce",
+      "type": "certs",
+      "ln": 2
+    }
+  ]
+}

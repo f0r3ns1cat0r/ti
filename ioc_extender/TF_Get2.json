@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "95.ip-51-68-212.eu",
+      "links": "51.68.212.95",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Get2",
+      "links": "ms-debug-services.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "mail.fiches-attestationdesrecharges.com",
+      "links": "51.68.212.95",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ms-debug-services.com",
+      "links": "51.68.212.95",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.fiches-attestationdesrecharges.com",
+      "links": "51.68.212.95",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.flextech.africa",
+      "links": "51.68.212.95",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "vps-0b4c42e6.vps.ovh.net",
+      "links": "51.68.212.95",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

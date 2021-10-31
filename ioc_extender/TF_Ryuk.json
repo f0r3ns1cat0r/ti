@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ThreatFox: Ryuk",
+      "links": "microsoftestore.top",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Ryuk",
+      "links": "microsofttop.wiki",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Ryuk",
+      "links": "microsoftupdate.work",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Ryuk",
+      "links": "mirosoftplaymarket.top",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "microsoftestore.top",
+      "links": "165.22.199.217",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "microsofttop.wiki",
+      "links": "165.22.199.217",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "microsoftupdate.work",
+      "links": "165.22.199.217",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mirosoftplaymarket.top",
+      "links": "165.22.199.217",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "nl.lazerpenguin.com",
+      "links": "165.22.199.217",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

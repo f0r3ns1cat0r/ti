@@ -1,0 +1,52 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ET Trojan: Observed SystemBC",
+      "links": "mexstat128.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "l084133e.justinstalledpanel.com",
+      "links": "45.147.229.91",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mexstat128.com",
+      "links": "45.147.229.91",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "nl-betaalverzoek.com",
+      "links": "45.147.229.91",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.nl-betaalverzoek.com",
+      "links": "45.147.229.91",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

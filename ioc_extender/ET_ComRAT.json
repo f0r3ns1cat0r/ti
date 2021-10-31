@@ -1,0 +1,46 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ET Trojan: ComRAT",
+      "links": "branter.tk",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "branter.tk",
+      "links": "153.234.160.30",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "sireta.cf",
+      "links": "153.234.160.30",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "sumefu.gq",
+      "links": "153.234.160.30",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

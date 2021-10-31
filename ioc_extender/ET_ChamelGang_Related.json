@@ -1,0 +1,40 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ET Trojan: ChamelGang Related",
+      "links": "newtrendmicro.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "newtrendmicro.com",
+      "links": "3eae0e5f0235abfa2e353cee99905c3f924aab61",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "upgrade.newtrendmicro.com",
+      "links": "3eae0e5f0235abfa2e353cee99905c3f924aab61",
+      "type": "certs",
+      "ln": 2
+    }
+  ]
+}

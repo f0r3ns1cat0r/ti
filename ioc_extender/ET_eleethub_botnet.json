@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ET Trojan: eleethub botnet",
+      "links": "irc.eleethub.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ame.eleethub.com",
+      "links": "185.141.24.140",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "authentificatelogin.com",
+      "links": "62.210.119.142",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "eleethub.com",
+      "links": "62.210.119.142",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "irc.eleethub.com",
+      "links": "185.141.24.140",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "irc.eleethub.com",
+      "links": "62.210.119.142",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "logsecuriall.com",
+      "links": "62.210.119.142",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.forlis.ml",
+      "links": "62.210.119.142",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.newcompro.ga",
+      "links": "62.210.119.142",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

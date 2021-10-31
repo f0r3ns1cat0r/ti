@@ -1,0 +1,52 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ET Trojan: APT32-OceanLotus",
+      "links": "mykessef.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "km170.com",
+      "links": "154.64.16.170",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mykessef.com",
+      "links": "154.64.16.170",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.yygfyx.com",
+      "links": "154.64.16.170",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "yygfyx.com",
+      "links": "154.64.16.170",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}
