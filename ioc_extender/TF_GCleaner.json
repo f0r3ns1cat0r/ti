@@ -50,6 +50,18 @@
     },
     {
       "host": "forwardstorage.biz",
+      "links": "194.87.138.17",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "forwardstorage.biz",
+      "links": "80.71.158.109",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "forwardstorage.biz",
       "links": "94.140.112.53",
       "type": "pdns",
       "ln": 2
@@ -80,7 +92,19 @@
     },
     {
       "host": "gcl-gb.biz",
+      "links": "194.87.138.17",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "gcl-gb.biz",
       "links": "195.58.38.59",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "gcl-gb.biz",
+      "links": "80.71.158.109",
       "type": "pdns",
       "ln": 2
     },
