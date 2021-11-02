@@ -21,7 +21,7 @@ This repository contains the IP addresses of the monitored Mozi-nodes
 
 ## IoC Extender
 
-List of IOCs generated using IP addresses and SSL certificates as a relationship. Initial IOCs importing from ThreatFox by ABUSE.ch, Emerging Threats Rules, HP Threat Research
+List of IoCs generated using IP addresses and SSL certificates as a relationship. Initial IoCs importing from ThreatFox by ABUSE.ch, Emerging Threats Rules, HP Threat Research
 
 ### References
 * https://threatfox.abuse.ch/export/
