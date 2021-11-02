@@ -19,15 +19,17 @@ This repository contains the IP addresses of the monitored Mozi-nodes
 * https://kn0wledge.fr/projects/mozitools
 * https://blog.netlab.360.com/mozi-another-botnet-using-dht/
 
-## ThreatFox Extender
+## IoC Extender
 
-List of IOCs generated using resolve domain names or SSL certificate as links. Initial IOCs importing from ThreatFox by ABUSE.ch
+List of IOCs generated using IP addresses and SSL certificates as a relationship. Initial IOCs importing from ThreatFox by ABUSE.ch, Emerging Threats Rules, HP Threat Research
 
 ### References
 * https://threatfox.abuse.ch/export/
+* https://github.com/hpthreatresearch/iocs
+* https://rules.emergingthreats.net/open/
 
 ### Visualization
-* https://ti-research.io/abuse_ch_extender/
+* https://ti-research.io/ioc_extender/
 
 ## Feedback
 We will really appreciate any feedback in the Discussions section of the GitHub repo. Please use the Issues tab if you have questions about the content of any of the lists provided.
