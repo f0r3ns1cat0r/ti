@@ -248,6 +248,12 @@
     },
     {
       "host": "admin.goptimum.com",
+      "links": "30ebfc9836bc0f3b24ed08892efa43f4095c37bb",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "admin.goptimum.com",
       "links": "fcd0e97398e23bf7eac21bbb86dfc690ff79cc1e",
       "type": "certs",
       "ln": 2
@@ -922,6 +928,12 @@
       "host": "inps-servizi.com",
       "links": "162.0.224.17",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "inps-servizi.com",
+      "links": "30ebfc9836bc0f3b24ed08892efa43f4095c37bb",
+      "type": "certs",
       "ln": 2
     },
     {

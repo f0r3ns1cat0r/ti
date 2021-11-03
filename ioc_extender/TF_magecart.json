@@ -242,6 +242,12 @@
     },
     {
       "host": "ThreatFox: magecart",
+      "links": "jquery-dns.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: magecart",
       "links": "jquery-ssl.com",
       "type": "z",
       "ln": 2
@@ -1461,6 +1467,12 @@
     {
       "host": "pechiteplov24.ru",
       "links": "2c09059d52b37da81f70710c330eedd46d285e7a",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "portalnews24.store",
+      "links": "e8d6de5b18251d807fbec66a74fde4223ed13727",
       "type": "certs",
       "ln": 2
     },
