@@ -62,12 +62,6 @@
     },
     {
       "host": "ThreatFox: BazarBackdoor",
-      "links": "sprayvillad.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: BazarBackdoor",
       "links": "sunalvarezd.com",
       "type": "z",
       "ln": 2
@@ -175,20 +169,8 @@
       "ln": 2
     },
     {
-      "host": "pottermanagements.com",
-      "links": "45.95.11.137",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "riosretails.com",
       "links": "185.53.46.149",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "sprayvillad.com",
-      "links": "45.95.11.137",
       "type": "pdns",
       "ln": 2
     },

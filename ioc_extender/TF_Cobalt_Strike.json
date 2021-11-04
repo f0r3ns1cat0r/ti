@@ -55,12 +55,6 @@
       "ln": 2
     },
     {
-      "host": "15192-26474.bacloud.info",
-      "links": "185.64.106.97",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "15474-26924.bacloud.info",
       "links": "185.64.106.97",
       "type": "pdns",
@@ -417,12 +411,6 @@
     {
       "host": "ThreatFox: Cobalt Strike",
       "links": "fepaza.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: Cobalt Strike",
-      "links": "fivefkl.com",
       "type": "z",
       "ln": 2
     },
@@ -1459,6 +1447,12 @@
       "ln": 2
     },
     {
+      "host": "click-collect.sale",
+      "links": "0dc95187933afbb5a002e7bde78be6821c02eb3e",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "clothonsale.com",
       "links": "216edef2f26a94071007aab8ec5e36c6b072c949",
       "type": "certs",
@@ -1534,6 +1528,12 @@
       "host": "davevud.com",
       "links": "23.82.19.130",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "dbyyoyvc.com",
+      "links": "0dc95187933afbb5a002e7bde78be6821c02eb3e",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -1873,12 +1873,6 @@
       "ln": 2
     },
     {
-      "host": "fivefkl.com",
-      "links": "217.12.202.110",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "fivepointschiro.com",
       "links": "18.217.66.68",
       "type": "pdns",
@@ -1906,6 +1900,12 @@
       "host": "franktomaz.com",
       "links": "217.12.204.178",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "fwy8659.club",
+      "links": "0dc95187933afbb5a002e7bde78be6821c02eb3e",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -2211,12 +2211,6 @@
     {
       "host": "landcook.com",
       "links": "173.234.155.146",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "lb34e60d.justinstalledpanel.com",
-      "links": "217.12.202.110",
       "type": "pdns",
       "ln": 2
     },
@@ -3232,6 +3226,12 @@
       "host": "vendorupdates.one",
       "links": "209.250.240.40",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "vieagricole-meuse.fr",
+      "links": "0dc95187933afbb5a002e7bde78be6821c02eb3e",
+      "type": "certs",
       "ln": 2
     },
     {

@@ -380,6 +380,12 @@
     },
     {
       "host": "ET Trojan: Magecart",
+      "links": "arcdn.site",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: Magecart",
       "links": "cdn-plugin.us",
       "type": "z",
       "ln": 2
@@ -416,6 +422,12 @@
     },
     {
       "host": "ET Trojan: Magecart",
+      "links": "frcdn.site",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: Magecart",
       "links": "google-info.us",
       "type": "z",
       "ln": 2
@@ -428,7 +440,31 @@
     },
     {
       "host": "ET Trojan: Magecart",
+      "links": "gtcdn.site",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: Magecart",
+      "links": "gtgcdn.site",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: Magecart",
+      "links": "gtmcdn.site",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: Magecart",
       "links": "magesource.su",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: Magecart",
+      "links": "ncdn.space",
       "type": "z",
       "ln": 2
     },
@@ -499,6 +535,54 @@
       "ln": 2
     },
     {
+      "host": "acdn.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.acdn.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "anashed.xcdn.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "appsfree.xcdn.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "arcdn.site",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "autodiscover.kcdn.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "bcdn.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "c5n.acdn.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "cartix.org",
       "links": "558aeb2899730cb7d48a86dcfc979d6c88f8bceb",
       "type": "certs",
@@ -907,6 +991,12 @@
       "ln": 2
     },
     {
+      "host": "cdna.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "cdnanalytics.net",
       "links": "558aeb2899730cb7d48a86dcfc979d6c88f8bceb",
       "type": "certs",
@@ -955,6 +1045,12 @@
       "ln": 2
     },
     {
+      "host": "cdnc.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "cdndore.com",
       "links": "558aeb2899730cb7d48a86dcfc979d6c88f8bceb",
       "type": "certs",
@@ -979,6 +1075,18 @@
       "ln": 2
     },
     {
+      "host": "cdne.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cdnf.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "cdnpage.net",
       "links": "558aeb2899730cb7d48a86dcfc979d6c88f8bceb",
       "type": "certs",
@@ -1000,6 +1108,36 @@
       "host": "cdnpage.net",
       "links": "eea62764efe56f5ea8a8779874a335b2a20dae28",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cdnq.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cdnr.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cdnv.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cdnx.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cdnz.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -2605,6 +2743,12 @@
       "ln": 2
     },
     {
+      "host": "dcdn.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "downloadreview.net",
       "links": "6a0531cd29a1a4e66416088614aefce0696c252d",
       "type": "certs",
@@ -2665,6 +2809,18 @@
       "ln": 2
     },
     {
+      "host": "erp.jcdn.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "frcdn.site",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "freitagautomobile.com",
       "links": "0bd1361cc28c3222ca93853767f076bd5db1fce2",
       "type": "certs",
@@ -2953,6 +3109,12 @@
       "ln": 2
     },
     {
+      "host": "gcdn.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "grandriverinspection.com",
       "links": "0bd1361cc28c3222ca93853767f076bd5db1fce2",
       "type": "certs",
@@ -3022,6 +3184,78 @@
       "host": "greetingsfromhb.com",
       "links": "b9fe23fd0c064be248067ab3667f91d33e48c0f7",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "gstaticf.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "gstaticv.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "gtcdn.site",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "gtgcdn.site",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "gtmcdn.site",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hawaa.xcdn.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hcdn.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hostmaster.acdn.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "icdn.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "info.jcdn.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "jcdn.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "kcdn.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -3032,12 +3266,6 @@
     },
     {
       "host": "lc2674ed.justinstalledpanel.com",
-      "links": "37.46.135.58",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "lfa12bab.justinstalledpanel.com",
       "links": "37.46.135.58",
       "type": "pdns",
       "ln": 2
@@ -3181,6 +3409,18 @@
       "ln": 2
     },
     {
+      "host": "mysql08.hcdn.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ncdn.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ndezo.net",
       "links": "745bb5318f70bf0c872270c47026c299fc268fc5",
       "type": "certs",
@@ -3589,6 +3829,12 @@
       "ln": 2
     },
     {
+      "host": "ocdn.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "optionsm-stats.com",
       "links": "0bd1361cc28c3222ca93853767f076bd5db1fce2",
       "type": "certs",
@@ -3898,6 +4144,12 @@
       "host": "otitez.org",
       "links": "b9fe23fd0c064be248067ab3667f91d33e48c0f7",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "pay.cdne.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -4306,6 +4558,12 @@
       "host": "puzzlesgamesplusb3.info",
       "links": "db111bc83edabd1e6e5aab7f5d70eb67eae23fc1",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "qcdn.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -4762,6 +5020,18 @@
       "host": "sauvage-paysage.com",
       "links": "db111bc83edabd1e6e5aab7f5d70eb67eae23fc1",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "tcdn.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "thepandorastrees.top",
+      "links": "8.209.69.3",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -4795,6 +5065,12 @@
       "ln": 2
     },
     {
+      "host": "wcdn.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "wp-extension.cloud",
       "links": "195.54.160.161",
       "type": "pdns",
@@ -4819,8 +5095,26 @@
       "ln": 2
     },
     {
+      "host": "xcdn.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "xenapp.blog",
       "links": "195.54.160.161",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "yellowdenim.top",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "zcdn.space",
+      "links": "8.209.69.3",
       "type": "pdns",
       "ln": 2
     }

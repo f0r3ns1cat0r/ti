@@ -152,6 +152,12 @@
     },
     {
       "host": "ThreatFox: SmokeLoader",
+      "links": "misha.at",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: SmokeLoader",
       "links": "rigtestforum.ru",
       "type": "z",
       "ln": 2
@@ -1514,12 +1520,6 @@
     },
     {
       "host": "admin.admin.www.gemini-event.at",
-      "links": "181.164.20.219",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.www.gemini-event.at",
       "links": "211.53.202.250",
       "type": "pdns",
       "ln": 2
@@ -2023,12 +2023,6 @@
       "ln": 2
     },
     {
-      "host": "admin.www.crypto-bonus.at",
-      "links": "189.165.46.173",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "admin.www.cvv-union.at",
       "links": "177.19.107.36",
       "type": "pdns",
@@ -2247,12 +2241,6 @@
     {
       "host": "atvcampingtrips.com",
       "links": "31.167.248.197",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "aucmoney.com",
-      "links": "181.164.20.219",
       "type": "pdns",
       "ln": 2
     },
@@ -2719,12 +2707,6 @@
       "ln": 2
     },
     {
-      "host": "crypto-event.at",
-      "links": "181.164.20.219",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "cvv-union.at",
       "links": "148.101.74.126",
       "type": "pdns",
@@ -2865,12 +2847,6 @@
     {
       "host": "gdfjgdfh4543nf.space",
       "links": "31.184.198.236",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "gemini-event.at",
-      "links": "181.164.20.219",
       "type": "pdns",
       "ln": 2
     },
@@ -3181,6 +3157,12 @@
       "ln": 2
     },
     {
+      "host": "misha.at",
+      "links": "187.156.129.121",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "mta-sts.mail.thefreshstuffs.at",
       "links": "188.54.52.64",
       "type": "pdns",
@@ -3285,6 +3267,12 @@
     {
       "host": "ns4.hostgroupdns.ru",
       "links": "188.172.93.164",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "nusotiso4.su",
+      "links": "211.171.233.126",
       "type": "pdns",
       "ln": 2
     },
@@ -4102,12 +4090,6 @@
       "host": "www.fluentinhuman.blog",
       "links": "30728b5bc161bfc64c72fa6ced5540e54068dc94",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "www.gemini-event.at",
-      "links": "181.164.20.219",
-      "type": "pdns",
       "ln": 2
     },
     {

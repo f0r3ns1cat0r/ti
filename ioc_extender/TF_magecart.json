@@ -224,6 +224,18 @@
     },
     {
       "host": "ThreatFox: magecart",
+      "links": "gstaticf.space",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: magecart",
+      "links": "gstaticv.space",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: magecart",
       "links": "hottrackcdn.com",
       "type": "z",
       "ln": 2
@@ -249,12 +261,6 @@
     {
       "host": "ThreatFox: magecart",
       "links": "jquery-ssl.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: magecart",
-      "links": "jquery.africa",
       "type": "z",
       "ln": 2
     },
@@ -343,14 +349,20 @@
       "ln": 2
     },
     {
-      "host": "ajaxtracker.com",
-      "links": "185.180.231.45",
+      "host": "acdn.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.acdn.space",
+      "links": "8.209.69.3",
       "type": "pdns",
       "ln": 2
     },
     {
       "host": "ajaxtracker.com",
-      "links": "185.238.137.254",
+      "links": "185.180.231.45",
       "type": "pdns",
       "ln": 2
     },
@@ -386,12 +398,6 @@
     },
     {
       "host": "analytics-gtm.com",
-      "links": "185.238.137.254",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "analytics-gtm.com",
       "links": "46.173.214.113",
       "type": "pdns",
       "ln": 2
@@ -399,6 +405,12 @@
     {
       "host": "analytics-gtm.com",
       "links": "46.173.214.126",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "anashed.xcdn.space",
+      "links": "8.209.69.3",
       "type": "pdns",
       "ln": 2
     },
@@ -427,14 +439,20 @@
       "ln": 2
     },
     {
-      "host": "argentinavisas.ru",
-      "links": "185.180.231.45",
+      "host": "appsfree.xcdn.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "arcdn.site",
+      "links": "8.209.69.3",
       "type": "pdns",
       "ln": 2
     },
     {
       "host": "argentinavisas.ru",
-      "links": "185.238.137.254",
+      "links": "185.180.231.45",
       "type": "pdns",
       "ln": 2
     },
@@ -447,6 +465,18 @@
     {
       "host": "argentinavisas.ru",
       "links": "46.173.214.126",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "autodiscover.kcdn.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "bcdn.space",
+      "links": "8.209.69.3",
       "type": "pdns",
       "ln": 2
     },
@@ -465,12 +495,6 @@
     {
       "host": "bing-visitors.com",
       "links": "185.180.231.45",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "bing-visitors.com",
-      "links": "185.238.137.254",
       "type": "pdns",
       "ln": 2
     },
@@ -511,6 +535,12 @@
       "ln": 2
     },
     {
+      "host": "c5n.acdn.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "carmirror-innovationsofthefuture.fun",
       "links": "8aea0c55bf308c868a836e0131fa6a017e8eb663",
       "type": "certs",
@@ -519,12 +549,6 @@
     {
       "host": "cdn-cgi.net",
       "links": "185.180.231.45",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "cdn-cgi.net",
-      "links": "185.238.137.254",
       "type": "pdns",
       "ln": 2
     },
@@ -547,14 +571,68 @@
       "ln": 2
     },
     {
+      "host": "cdna.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cdnc.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "cdncontainer.com",
       "links": "176.121.14.143",
       "type": "pdns",
       "ln": 2
     },
     {
+      "host": "cdne.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cdnf.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "cdnforplugins.com",
       "links": "176.121.14.143",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cdnq.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cdnr.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cdnv.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cdnx.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cdnz.space",
+      "links": "8.209.69.3",
       "type": "pdns",
       "ln": 2
     },
@@ -573,12 +651,6 @@
     {
       "host": "cloudflare-ssl.com",
       "links": "45.142.213.55",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "cocksetiz.club",
-      "links": "102.130.114.139",
       "type": "pdns",
       "ln": 2
     },
@@ -607,14 +679,14 @@
       "ln": 2
     },
     {
-      "host": "dns-servers-update.net",
-      "links": "185.180.231.45",
+      "host": "dcdn.space",
+      "links": "8.209.69.3",
       "type": "pdns",
       "ln": 2
     },
     {
       "host": "dns-servers-update.net",
-      "links": "185.238.137.254",
+      "links": "185.180.231.45",
       "type": "pdns",
       "ln": 2
     },
@@ -650,12 +722,6 @@
     },
     {
       "host": "doubiecliick.net",
-      "links": "185.238.137.254",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "doubiecliick.net",
       "links": "46.173.214.113",
       "type": "pdns",
       "ln": 2
@@ -663,6 +729,12 @@
     {
       "host": "doubiecliick.net",
       "links": "46.173.214.126",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "erp.jcdn.space",
+      "links": "8.209.69.3",
       "type": "pdns",
       "ln": 2
     },
@@ -688,6 +760,18 @@
       "host": "fixflowers-spb.ru",
       "links": "e8d6de5b18251d807fbec66a74fde4223ed13727",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "frcdn.site",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "gcdn.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -938,12 +1022,6 @@
     },
     {
       "host": "googleexpert.name",
-      "links": "185.238.137.254",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "googleexpert.name",
       "links": "46.173.214.113",
       "type": "pdns",
       "ln": 2
@@ -980,12 +1058,6 @@
     },
     {
       "host": "googleinfo.name",
-      "links": "185.238.137.254",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "googleinfo.name",
       "links": "46.173.214.113",
       "type": "pdns",
       "ln": 2
@@ -1010,12 +1082,6 @@
     },
     {
       "host": "googlemaster.name",
-      "links": "185.238.137.254",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "googlemaster.name",
       "links": "46.173.214.113",
       "type": "pdns",
       "ln": 2
@@ -1034,12 +1100,6 @@
     },
     {
       "host": "googleplus.name",
-      "links": "185.238.137.254",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "googleplus.name",
       "links": "46.173.214.113",
       "type": "pdns",
       "ln": 2
@@ -1053,12 +1113,6 @@
     {
       "host": "googletag.name",
       "links": "185.180.231.45",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "googletag.name",
-      "links": "185.238.137.254",
       "type": "pdns",
       "ln": 2
     },
@@ -1087,6 +1141,36 @@
       "ln": 2
     },
     {
+      "host": "gstaticf.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "gstaticv.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "gtcdn.site",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "gtgcdn.site",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "gtmcdn.site",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "gulnarachebotaeva.ru",
       "links": "4d8e2becdfb0a3309e46e243b1f98b46ae049d36",
       "type": "certs",
@@ -1096,6 +1180,24 @@
       "host": "habibatimuslimah.com",
       "links": "4d8e2becdfb0a3309e46e243b1f98b46ae049d36",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "hawaa.xcdn.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hcdn.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hostmaster.acdn.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -1111,8 +1213,26 @@
       "ln": 2
     },
     {
+      "host": "icdn.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "info.jcdn.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ip101.ip-51-222-114.net",
       "links": "51.222.114.101",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "jcdn.space",
+      "links": "8.209.69.3",
       "type": "pdns",
       "ln": 2
     },
@@ -1154,12 +1274,6 @@
     },
     {
       "host": "jquery-ui.net",
-      "links": "185.238.137.254",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "jquery-ui.net",
       "links": "46.173.214.113",
       "type": "pdns",
       "ln": 2
@@ -1171,20 +1285,8 @@
       "ln": 2
     },
     {
-      "host": "jquery.africa",
-      "links": "102.130.114.139",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "jquery.su",
       "links": "185.180.231.45",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "jquery.su",
-      "links": "185.238.137.254",
       "type": "pdns",
       "ln": 2
     },
@@ -1197,12 +1299,6 @@
     {
       "host": "jquery24.com",
       "links": "185.180.231.45",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "jquery24.com",
-      "links": "185.238.137.254",
       "type": "pdns",
       "ln": 2
     },
@@ -1215,6 +1311,12 @@
     {
       "host": "jsbraintreegateway.com",
       "links": "45.156.22.194",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "kcdn.space",
+      "links": "8.209.69.3",
       "type": "pdns",
       "ln": 2
     },
@@ -1286,12 +1388,6 @@
     },
     {
       "host": "magentoinfo.name",
-      "links": "185.238.137.254",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "magentoinfo.name",
       "links": "46.173.214.113",
       "type": "pdns",
       "ln": 2
@@ -1311,12 +1407,6 @@
     {
       "host": "mail.jquery-ui.net",
       "links": "185.180.231.45",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mail.jquery-ui.net",
-      "links": "185.238.137.254",
       "type": "pdns",
       "ln": 2
     },
@@ -1381,6 +1471,18 @@
       "ln": 2
     },
     {
+      "host": "mysql08.hcdn.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ncdn.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ns1.bralntree.com",
       "links": "46.173.214.126",
       "type": "pdns",
@@ -1425,6 +1527,18 @@
     {
       "host": "ns500758.ip-198-27-83.net",
       "links": "198.27.83.62",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ocdn.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "pay.cdne.space",
+      "links": "8.209.69.3",
       "type": "pdns",
       "ln": 2
     },
@@ -1477,21 +1591,9 @@
       "ln": 2
     },
     {
-      "host": "priorchip.com",
-      "links": "102.130.114.139",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "pulltonicnew.store",
       "links": "e8d6de5b18251d807fbec66a74fde4223ed13727",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "purechal.com",
-      "links": "185.238.137.254",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -1503,6 +1605,12 @@
     {
       "host": "purechal.com",
       "links": "46.173.214.126",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "qcdn.space",
+      "links": "8.209.69.3",
       "type": "pdns",
       "ln": 2
     },
@@ -1675,6 +1783,18 @@
       "ln": 2
     },
     {
+      "host": "tcdn.space",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "thepandorastrees.top",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "toto992.xyz",
       "links": "47.254.169.220",
       "type": "pdns",
@@ -1683,6 +1803,12 @@
     {
       "host": "vm1187077.firstbyte.club",
       "links": "45.144.67.88",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "wcdn.space",
+      "links": "8.209.69.3",
       "type": "pdns",
       "ln": 2
     },
@@ -1712,12 +1838,6 @@
     },
     {
       "host": "www.ajaxtracker.com",
-      "links": "185.238.137.254",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.ajaxtracker.com",
       "links": "46.173.214.113",
       "type": "pdns",
       "ln": 2
@@ -1725,12 +1845,6 @@
     {
       "host": "www.ajaxtracker.com",
       "links": "46.173.214.126",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.analytics-gtm.com",
-      "links": "185.238.137.254",
       "type": "pdns",
       "ln": 2
     },
@@ -1749,12 +1863,6 @@
     {
       "host": "www.bing-analytics.com",
       "links": "185.120.56.90",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.bing-visitors.com",
-      "links": "185.238.137.254",
       "type": "pdns",
       "ln": 2
     },
@@ -1802,12 +1910,6 @@
     },
     {
       "host": "www.cdn-cgi.net",
-      "links": "185.238.137.254",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.cdn-cgi.net",
       "links": "46.173.214.113",
       "type": "pdns",
       "ln": 2
@@ -1815,12 +1917,6 @@
     {
       "host": "www.cdn-cgi.net",
       "links": "46.173.214.126",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.coupon-popup.net",
-      "links": "185.238.137.254",
       "type": "pdns",
       "ln": 2
     },
@@ -1839,12 +1935,6 @@
     {
       "host": "www.digilabitalia.it",
       "links": "188.165.227.126",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.dns-servers-update.net",
-      "links": "185.238.137.254",
       "type": "pdns",
       "ln": 2
     },
@@ -2012,12 +2102,6 @@
     },
     {
       "host": "www.jquery-ui.net",
-      "links": "185.238.137.254",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.jquery-ui.net",
       "links": "46.173.214.113",
       "type": "pdns",
       "ln": 2
@@ -2096,12 +2180,6 @@
     },
     {
       "host": "www.purechal.com",
-      "links": "185.238.137.254",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.purechal.com",
       "links": "46.173.214.113",
       "type": "pdns",
       "ln": 2
@@ -2144,12 +2222,6 @@
     },
     {
       "host": "www.yahoo-tracker.com",
-      "links": "185.238.137.254",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.yahoo-tracker.com",
       "links": "46.173.214.113",
       "type": "pdns",
       "ln": 2
@@ -2157,6 +2229,12 @@
     {
       "host": "www.yahoo-tracker.com",
       "links": "46.173.214.126",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "xcdn.space",
+      "links": "8.209.69.3",
       "type": "pdns",
       "ln": 2
     },
@@ -2186,12 +2264,6 @@
     },
     {
       "host": "yahoo-tracker.com",
-      "links": "185.238.137.254",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "yahoo-tracker.com",
       "links": "46.173.214.113",
       "type": "pdns",
       "ln": 2
@@ -2199,6 +2271,24 @@
     {
       "host": "yahoo-tracker.com",
       "links": "46.173.214.126",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "yellowdenim.top",
+      "links": "8.209.69.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "zaspinoy.com",
+      "links": "e8d6de5b18251d807fbec66a74fde4223ed13727",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "zcdn.space",
+      "links": "8.209.69.3",
       "type": "pdns",
       "ln": 2
     }
