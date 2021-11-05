@@ -175,6 +175,12 @@
       "ln": 2
     },
     {
+      "host": "8888.google",
+      "links": "7df3a7303438834d902d0564d96b0d5883d1c0b8",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "ThreatFox: Cobalt Strike",
       "links": "360safe.info",
       "type": "z",
@@ -1435,6 +1441,12 @@
       "ln": 2
     },
     {
+      "host": "chmowd.xyz",
+      "links": "7df3a7303438834d902d0564d96b0d5883d1c0b8",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "cifgtom.com",
       "links": "107.181.161.197",
       "type": "pdns",
@@ -1605,6 +1617,12 @@
     {
       "host": "dns64.dns.google",
       "links": "6875777f458559ce1daf42d91f25fe5b2721d8ee",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "dns64.dns.google",
+      "links": "7df3a7303438834d902d0564d96b0d5883d1c0b8",
       "type": "certs",
       "ln": 2
     },
@@ -2980,6 +2998,12 @@
       "host": "skank.mom",
       "links": "172.93.201.63",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "skyao.xyz",
+      "links": "0dc95187933afbb5a002e7bde78be6821c02eb3e",
+      "type": "certs",
       "ln": 2
     },
     {

@@ -481,6 +481,12 @@
       "ln": 2
     },
     {
+      "host": "afcerd.com",
+      "links": "199.192.31.106",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "afdeling-informatie.nl",
       "links": "199.192.27.68",
       "type": "pdns",
@@ -1299,12 +1305,6 @@
     {
       "host": "host2.helanomo.com",
       "links": "162.0.238.241",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "idealprofiel-registratie.site",
-      "links": "63.250.35.57",
       "type": "pdns",
       "ln": 2
     },
