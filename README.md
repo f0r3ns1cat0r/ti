@@ -14,6 +14,11 @@ This repository contains the IP addresses of the monitored Mozi-nodes
 * https://kn0wledge.fr/projects/mozitools
 * https://blog.netlab.360.com/mozi-another-botnet-using-dht/
 
+## Mirai DDOS Victims
+
+Mirai is a malware that turns networked devices running Linux into remotely controlled bots that can be used as part of a botnet in large-scale network attacks.
+We monitor the activity of some CnC servers and publish the targets of DDOS attacks in this repository
+
 ## IoC Extender
 
 List of IoCs generated using IP addresses and SSL certificates as a relationship. Initial IoCs importing from ThreatFox by ABUSE.ch, Emerging Threats Rules, HP Threat Research
