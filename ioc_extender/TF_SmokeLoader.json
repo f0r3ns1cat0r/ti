@@ -3200,6 +3200,12 @@
     },
     {
       "host": "misha.at",
+      "links": "178.30.101.69",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "misha.at",
       "links": "187.156.129.121",
       "type": "pdns",
       "ln": 2
@@ -3321,6 +3327,12 @@
     {
       "host": "nusotiso4.su",
       "links": "211.171.233.126",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "nusotiso4.su",
+      "links": "211.171.233.127",
       "type": "pdns",
       "ln": 2
     },
