@@ -139,6 +139,12 @@
       "ln": 2
     },
     {
+      "host": "c756a8be75a3f.org",
+      "links": "1be5f0983b9d22c7e169311ab2ee49ba52e8d5d0",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "ca98741.com",
       "links": "2afdd105f3574fc7f38431441c7cfbdbd77147d8",
       "type": "certs",
@@ -273,6 +279,12 @@
     {
       "host": "realtek-hd.com",
       "links": "2afdd105f3574fc7f38431441c7cfbdbd77147d8",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "uwisflp.info",
+      "links": "1be5f0983b9d22c7e169311ab2ee49ba52e8d5d0",
       "type": "certs",
       "ln": 2
     }

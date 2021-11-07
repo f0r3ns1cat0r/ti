@@ -44,6 +44,12 @@
     },
     {
       "host": "forwardstorage.biz",
+      "links": "192.34.109.101",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "forwardstorage.biz",
       "links": "194.143.146.10",
       "type": "pdns",
       "ln": 2
@@ -81,6 +87,12 @@
     {
       "host": "forwardstorage.biz",
       "links": "95.182.122.84",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "gcl-gb.biz",
+      "links": "192.34.109.101",
       "type": "pdns",
       "ln": 2
     },

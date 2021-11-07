@@ -1382,6 +1382,12 @@
     },
     {
       "host": "awsmetrics.com",
+      "links": "50.116.48.202",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "awsmetrics.com",
       "links": "61c5c77a7f01cb220decd55a217330dd046f8750",
       "type": "certs",
       "ln": 2
@@ -1779,6 +1785,12 @@
     {
       "host": "dfvhpf.com",
       "links": "216edef2f26a94071007aab8ec5e36c6b072c949",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "dg2buy.com",
+      "links": "004a44ff4929e5fd91538276fe45fb57c11bb06f",
       "type": "certs",
       "ln": 2
     },
@@ -2233,6 +2245,12 @@
       "ln": 2
     },
     {
+      "host": "hnup.top",
+      "links": "7df3a7303438834d902d0564d96b0d5883d1c0b8",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "horunekulo.website",
       "links": "78f7946fee67a734fb1b74cf64e34c192ad64ca6",
       "type": "certs",
@@ -2497,6 +2515,12 @@
       "ln": 2
     },
     {
+      "host": "leboncoin-paiement.digital",
+      "links": "004a44ff4929e5fd91538276fe45fb57c11bb06f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "lenmons.xyz",
       "links": "0dc95187933afbb5a002e7bde78be6821c02eb3e",
       "type": "certs",
@@ -2529,6 +2553,12 @@
     {
       "host": "li2285-110.members.linode.com",
       "links": "139.177.203.110",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "li393-202.members.linode.com",
+      "links": "50.116.48.202",
       "type": "pdns",
       "ln": 2
     },
@@ -3567,6 +3597,12 @@
     {
       "host": "uoftprofs.com",
       "links": "216edef2f26a94071007aab8ec5e36c6b072c949",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "update134.com",
+      "links": "004a44ff4929e5fd91538276fe45fb57c11bb06f",
       "type": "certs",
       "ln": 2
     },

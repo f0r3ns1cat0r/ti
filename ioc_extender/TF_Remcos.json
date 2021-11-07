@@ -19,6 +19,12 @@
   ],
   "data": [
     {
+      "host": "185-86-106-246.pool.ovpn.com",
+      "links": "185.86.106.246",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "217-64-149-78.pool.ovpn.com",
       "links": "217.64.149.78",
       "type": "pdns",
@@ -182,6 +188,12 @@
     },
     {
       "host": "destinyrem.kozow.com",
+      "links": "159.148.186.19",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "destinyrem.kozow.com",
       "links": "159.148.186.28",
       "type": "pdns",
       "ln": 2
@@ -247,8 +259,20 @@
       "ln": 2
     },
     {
+      "host": "host-185-86-106-246.tornevall.net",
+      "links": "185.86.106.246",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "iloims.webredirect.org",
       "links": "159.148.186.15",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iloims.webredirect.org",
+      "links": "159.148.186.19",
       "type": "pdns",
       "ln": 2
     },
@@ -343,8 +367,20 @@
       "ln": 2
     },
     {
+      "host": "remman1.ddns.net",
+      "links": "37.120.138.208",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "remman2.ddns.net",
       "links": "217.64.151.84",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "remman2.ddns.net",
+      "links": "37.120.138.208",
       "type": "pdns",
       "ln": 2
     },
@@ -355,8 +391,26 @@
       "ln": 2
     },
     {
+      "host": "remman3.ddns.net",
+      "links": "37.120.138.208",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "remman4.ddns.net",
       "links": "217.64.151.84",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "remman4.ddns.net",
+      "links": "37.120.138.208",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "salford1.ddns.net",
+      "links": "185.86.106.246",
       "type": "pdns",
       "ln": 2
     },
@@ -368,7 +422,19 @@
     },
     {
       "host": "salford2.ddns.net",
+      "links": "185.86.106.246",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "salford2.ddns.net",
       "links": "217.64.149.78",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "salford3.ddns.net",
+      "links": "185.86.106.246",
       "type": "pdns",
       "ln": 2
     },
@@ -387,6 +453,12 @@
     {
       "host": "server105.nyc.us.na.ikev2.vpnable.net",
       "links": "37.120.138.222",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "server105.nyc.us.na.openvpn.vpnable.net",
+      "links": "37.120.138.208",
       "type": "pdns",
       "ln": 2
     },

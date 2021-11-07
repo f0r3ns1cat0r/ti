@@ -2029,6 +2029,12 @@
       "ln": 2
     },
     {
+      "host": "q1books.com",
+      "links": "d2c944c339dd984991d830625ca906ba93463fe5",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "r.rostrly.com",
       "links": "162.0.213.148",
       "type": "pdns",
@@ -2164,6 +2170,12 @@
       "host": "server1.politikoz.io",
       "links": "199.192.19.85",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "server1.q1bookscdn.com",
+      "links": "826e72979d5297285176543807d299cb5f802db3",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -2947,6 +2959,18 @@
       "ln": 2
     },
     {
+      "host": "www.cunerier.com",
+      "links": "826e72979d5297285176543807d299cb5f802db3",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.cunerier.com",
+      "links": "d2c944c339dd984991d830625ca906ba93463fe5",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "www.curiget.xyz",
       "links": "162.0.239.203",
       "type": "pdns",
@@ -3148,6 +3172,12 @@
       "host": "www.nursingessaygurus.nursingassignmentacers.com",
       "links": "162.0.213.60",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.q1books.com",
+      "links": "d2c944c339dd984991d830625ca906ba93463fe5",
+      "type": "certs",
       "ln": 2
     },
     {
