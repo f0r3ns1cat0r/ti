@@ -68,6 +68,12 @@
     },
     {
       "host": "HP Threat Research: TA551",
+      "links": "ladderadamsd.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "HP Threat Research: TA551",
       "links": "seriessavings2018b.com",
       "type": "z",
       "ln": 2
@@ -99,6 +105,12 @@
     {
       "host": "changepost2019b.com",
       "links": "194.62.42.19",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "covermillsd.com",
+      "links": "194.62.42.44",
       "type": "pdns",
       "ln": 2
     },
@@ -159,6 +171,12 @@
     {
       "host": "kinoshka.cc",
       "links": "188.119.113.48",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ladderadamsd.com",
+      "links": "194.62.42.44",
       "type": "pdns",
       "ln": 2
     },

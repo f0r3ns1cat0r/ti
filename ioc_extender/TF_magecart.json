@@ -379,6 +379,12 @@
       "ln": 2
     },
     {
+      "host": "alerts-verify-action.com",
+      "links": "4d8e2becdfb0a3309e46e243b1f98b46ae049d36",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "amazon-server12-cdn.com",
       "links": "176.119.1.157",
       "type": "pdns",
@@ -1210,6 +1216,12 @@
       "host": "hottrackcdn.com",
       "links": "176.121.14.143",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hq28735.com",
+      "links": "4d8e2becdfb0a3309e46e243b1f98b46ae049d36",
+      "type": "certs",
       "ln": 2
     },
     {
