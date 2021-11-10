@@ -1,0 +1,256 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ET Trojan: LYCEUM",
+      "links": "centosupdatecdn.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: LYCEUM",
+      "links": "digitalmarketingagency.net",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: LYCEUM",
+      "links": "dnsanalizer.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: LYCEUM",
+      "links": "dnscatalog.net",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: LYCEUM",
+      "links": "dnscdn.org",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: LYCEUM",
+      "links": "securednsservice.net",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: LYCEUM",
+      "links": "uctpostgraduate.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: LYCEUM",
+      "links": "updatecdn.net",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "bjp1.digitalmarketingagency.net",
+      "links": "192.241.207.170",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "centosupdatecdn.com",
+      "links": "51.222.114.101",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cpanel.digitalmarketingagency.net",
+      "links": "192.241.207.170",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "digitalmarketingagency.net",
+      "links": "192.241.207.170",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "dnsanalizer.com",
+      "links": "107.175.215.157",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "dnscatalog.net",
+      "links": "51.222.114.101",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "dnscdn.org",
+      "links": "51.81.29.59",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "in.securednsservice.net",
+      "links": "192.169.7.136",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ip101.ip-51-222-114.net",
+      "links": "51.222.114.101",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ip59.ip-51-81-29.us",
+      "links": "51.81.29.59",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.digitalmarketingagency.net",
+      "links": "192.241.207.170",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.centosupdatecdn.com",
+      "links": "51.222.114.101",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.dnsanalizer.com",
+      "links": "107.175.215.157",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.dnscatalog.net",
+      "links": "51.222.114.101",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.dnscdn.org",
+      "links": "51.81.29.59",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.securednsservice.net",
+      "links": "192.169.7.136",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.uctpostgraduate.com",
+      "links": "192.169.7.136",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.updatecdn.net",
+      "links": "51.81.29.59",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.centosupdatecdn.com",
+      "links": "51.222.114.101",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.dnsanalizer.com",
+      "links": "107.175.215.157",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.dnscatalog.net",
+      "links": "51.222.114.101",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.dnscdn.org",
+      "links": "51.81.29.59",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.securednsservice.net",
+      "links": "192.169.7.136",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.uctpostgraduate.com",
+      "links": "192.169.7.136",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.updatecdn.net",
+      "links": "51.81.29.59",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "securednsservice.net",
+      "links": "192.169.7.136",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "uctpostgraduate.com",
+      "links": "192.169.7.136",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "updatecdn.net",
+      "links": "51.81.29.59",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "webdisk.digitalmarketingagency.net",
+      "links": "192.241.207.170",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "webmail.digitalmarketingagency.net",
+      "links": "192.241.207.170",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "whm.digitalmarketingagency.net",
+      "links": "192.241.207.170",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

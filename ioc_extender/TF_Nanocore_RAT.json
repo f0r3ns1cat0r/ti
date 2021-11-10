@@ -1,0 +1,40 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ThreatFox: Nanocore RAT",
+      "links": "lockerrollercooller.mywire.org",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "darkworldblackerlocker.dumb1.com",
+      "links": "198.46.132.206",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "lockerrollercooller.mywire.org",
+      "links": "198.46.132.206",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}
