@@ -2947,6 +2947,18 @@
       "ln": 2
     },
     {
+      "host": "andbal.com",
+      "links": "187.212.186.104",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "andbal.com",
+      "links": "188.172.93.164",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "asatorlp.music.blog",
       "links": "16cf58adc98ba44eabcf951f1a6f32d3d14d61e6",
       "type": "certs",
@@ -4221,6 +4233,12 @@
     {
       "host": "misha.at",
       "links": "187.156.129.121",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "misha.at",
+      "links": "187.212.186.104",
       "type": "pdns",
       "ln": 2
     },

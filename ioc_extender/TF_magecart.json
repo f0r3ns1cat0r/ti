@@ -451,6 +451,12 @@
       "ln": 2
     },
     {
+      "host": "autolnr.store",
+      "links": "1dc7ca935531db252239c91440098887efe4af03",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "bcdn.space",
       "links": "8.209.69.3",
       "type": "pdns",
@@ -1186,6 +1192,12 @@
       "host": "icdn.space",
       "links": "8.209.69.3",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "idropps.store",
+      "links": "1dc7ca935531db252239c91440098887efe4af03",
+      "type": "certs",
       "ln": 2
     },
     {
