@@ -236,12 +236,6 @@
     },
     {
       "host": "ThreatFox: ISFB",
-      "links": "bighomegl.at",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: ISFB",
       "links": "bizplase.com",
       "type": "z",
       "ln": 2
@@ -487,96 +481,6 @@
       "ln": 2
     },
     {
-      "host": "app.bighomegl.at",
-      "links": "165.232.183.49",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "app.bighomegl.at",
-      "links": "165.232.185.116",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "app.bighomegl.at",
-      "links": "185.228.233.17",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "app.bighomegl.at",
-      "links": "188.72.209.113",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "app.bighomegl.at",
-      "links": "194.87.102.249",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "app.bighomegl.at",
-      "links": "46.173.214.55",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "app.bighomegl.at",
-      "links": "65.21.111.57",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "app.bighomegl.at",
-      "links": "8.209.72.87",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "app.bighomegl.at",
-      "links": "83.229.86.230",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "app.flashgameo.at",
-      "links": "165.232.183.49",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "app.flashgameo.at",
-      "links": "165.232.185.116",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "app.flashgameo.at",
-      "links": "185.228.233.17",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "app.flashgameo.at",
-      "links": "65.21.111.57",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "app.flashgameo.at",
-      "links": "8.209.72.87",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "app.flashgameo.at",
-      "links": "83.229.86.230",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "apr.intoolkom.at",
       "links": "185.186.142.217",
       "type": "pdns",
@@ -637,12 +541,6 @@
       "ln": 2
     },
     {
-      "host": "batmsachine.com",
-      "links": "185.186.245.22",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "beinsmter.com",
       "links": "004a44ff4929e5fd91538276fe45fb57c11bb06f",
       "type": "certs",
@@ -651,60 +549,6 @@
     {
       "host": "bemos.site",
       "links": "62.173.147.88",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "bighomegl.at",
-      "links": "165.232.183.49",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "bighomegl.at",
-      "links": "165.232.185.116",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "bighomegl.at",
-      "links": "185.228.233.17",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "bighomegl.at",
-      "links": "188.72.209.113",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "bighomegl.at",
-      "links": "194.87.102.249",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "bighomegl.at",
-      "links": "46.173.214.55",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "bighomegl.at",
-      "links": "65.21.111.57",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "bighomegl.at",
-      "links": "8.209.72.87",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "bighomegl.at",
-      "links": "83.229.86.230",
       "type": "pdns",
       "ln": 2
     },
@@ -766,12 +610,6 @@
       "host": "cdnimages.xyz",
       "links": "004a44ff4929e5fd91538276fe45fb57c11bb06f",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "chat.internautasoluciones.com",
-      "links": "185.186.245.22",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -871,6 +709,12 @@
       "ln": 2
     },
     {
+      "host": "cryptostation.exchange",
+      "links": "004a44ff4929e5fd91538276fe45fb57c11bb06f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "curiosityblogpro.com",
       "links": "004a44ff4929e5fd91538276fe45fb57c11bb06f",
       "type": "certs",
@@ -898,12 +742,6 @@
       "host": "deniz-baligi.com",
       "links": "004a44ff4929e5fd91538276fe45fb57c11bb06f",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "desesrtscales.com",
-      "links": "185.186.245.22",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -981,54 +819,6 @@
     {
       "host": "formarketings.com",
       "links": "79.110.52.248",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "free.monotreener.com",
-      "links": "165.232.183.49",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "free.monotreener.com",
-      "links": "165.232.185.116",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "free.monotreener.com",
-      "links": "185.228.233.17",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "free.monotreener.com",
-      "links": "188.72.209.113",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "free.monotreener.com",
-      "links": "46.173.214.55",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "free.monotreener.com",
-      "links": "65.21.111.57",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "free.monotreener.com",
-      "links": "8.209.72.87",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "free.monotreener.com",
-      "links": "83.229.86.230",
       "type": "pdns",
       "ln": 2
     },
@@ -1118,54 +908,6 @@
     },
     {
       "host": "gtr.antoinfer.com",
-      "links": "165.232.183.49",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "gtr.antoinfer.com",
-      "links": "165.232.185.116",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "gtr.antoinfer.com",
-      "links": "185.228.233.17",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "gtr.antoinfer.com",
-      "links": "194.87.102.249",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "gtr.antoinfer.com",
-      "links": "46.173.214.55",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "gtr.antoinfer.com",
-      "links": "65.21.111.57",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "gtr.antoinfer.com",
-      "links": "8.209.72.87",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "gtr.antoinfer.com",
-      "links": "83.229.86.230",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "gtr.antoinfer.com",
       "links": "95.181.163.74",
       "type": "pdns",
       "ln": 2
@@ -1213,12 +955,6 @@
       "ln": 2
     },
     {
-      "host": "hteadclsspdkmdasd.live",
-      "links": "185.186.245.22",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "i-face-france.com",
       "links": "004a44ff4929e5fd91538276fe45fb57c11bb06f",
       "type": "certs",
@@ -1263,12 +999,6 @@
     {
       "host": "ikaryto.com",
       "links": "95.181.163.74",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ilan.co.com",
-      "links": "65.21.111.57",
       "type": "pdns",
       "ln": 2
     },
@@ -1353,24 +1083,6 @@
     {
       "host": "intromons.com",
       "links": "95.181.163.74",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "io.feen007.at",
-      "links": "165.232.183.49",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "io.feen007.at",
-      "links": "65.21.111.57",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "io.feen007.at",
-      "links": "83.229.86.230",
       "type": "pdns",
       "ln": 2
     },
@@ -1462,24 +1174,6 @@
       "host": "jumperctin.com",
       "links": "004a44ff4929e5fd91538276fe45fb57c11bb06f",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "kas.kargoapp.at",
-      "links": "165.232.183.49",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "kas.kargoapp.at",
-      "links": "65.21.111.57",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "kas.kargoapp.at",
-      "links": "83.229.86.230",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -2029,12 +1723,6 @@
       "ln": 2
     },
     {
-      "host": "shopilan.com",
-      "links": "65.21.111.57",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "shoponlineshop.info",
       "links": "004a44ff4929e5fd91538276fe45fb57c11bb06f",
       "type": "certs",
@@ -2047,20 +1735,8 @@
       "ln": 2
     },
     {
-      "host": "sisadmis.ulare.cl",
-      "links": "185.186.245.22",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "staterio.com",
       "links": "62.173.149.183",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "static.57.111.21.65.clients.your-server.de",
-      "links": "65.21.111.57",
       "type": "pdns",
       "ln": 2
     },
@@ -2109,12 +1785,6 @@
     {
       "host": "tipologie.net",
       "links": "62.173.149.125",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "todo.faroin.at",
-      "links": "165.232.183.49",
       "type": "pdns",
       "ln": 2
     },
@@ -2241,18 +1911,6 @@
     {
       "host": "www.86-106-131-112.cprapid.com",
       "links": "86.106.131.112",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.batmsachine.com",
-      "links": "185.186.245.22",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.desesrtscales.com",
-      "links": "185.186.245.22",
       "type": "pdns",
       "ln": 2
     },

@@ -254,12 +254,6 @@
     },
     {
       "host": "ThreatFox: Formbook",
-      "links": "www.joomlas123.info",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: Formbook",
       "links": "www.jumben.xyz",
       "type": "z",
       "ln": 2
@@ -508,6 +502,18 @@
       "host": "api.bashmasks.art",
       "links": "162.0.239.203",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "api.bashmasks.art",
+      "links": "89eb21182908dd049775975a2fa400cc3ddadead",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "api.bashmasks.art",
+      "links": "91ac0b9aa82f5842cb5bd8acc6339193c0f2cbbf",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -1411,12 +1417,6 @@
       "ln": 2
     },
     {
-      "host": "joomlas123.info",
-      "links": "199.192.24.139",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "jumben.xyz",
       "links": "63.250.44.253",
       "type": "pdns",
@@ -2085,12 +2085,6 @@
     {
       "host": "promedrep.com",
       "links": "199.192.24.12",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "psm-gen.com",
-      "links": "199.192.24.139",
       "type": "pdns",
       "ln": 2
     },
@@ -3097,6 +3091,18 @@
       "ln": 2
     },
     {
+      "host": "www.curiget.xyz",
+      "links": "89eb21182908dd049775975a2fa400cc3ddadead",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.curiget.xyz",
+      "links": "91ac0b9aa82f5842cb5bd8acc6339193c0f2cbbf",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "www.curtex.info",
       "links": "162.0.222.228",
       "type": "pdns",
@@ -3153,12 +3159,6 @@
     {
       "host": "www.jam-nins.com",
       "links": "162.0.216.198",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.joomlas123.info",
-      "links": "199.192.24.139",
       "type": "pdns",
       "ln": 2
     },

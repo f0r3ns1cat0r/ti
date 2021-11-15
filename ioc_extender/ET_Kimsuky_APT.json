@@ -26,38 +26,14 @@
     },
     {
       "host": "access.cdaumauth.cf",
-      "links": "216.189.157.89",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "access.cdaumauth.cf",
       "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
       "type": "certs",
       "ln": 2
     },
     {
       "host": "access.daurninfo.ml",
-      "links": "216.189.157.89",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "access.daurninfo.ml",
       "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "accont.noute.kro.kr",
-      "links": "216.189.157.89",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "acess.lives.kro.kr",
-      "links": "216.189.157.89",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -109,27 +85,9 @@
       "ln": 2
     },
     {
-      "host": "chollian.manager-alert.tk",
-      "links": "216.189.157.89",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "coinchat8.com",
       "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "curt.guntuer.kro.kr",
-      "links": "216.189.157.89",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "download.riseknite.life",
-      "links": "216.189.157.89",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -163,21 +121,9 @@
       "ln": 2
     },
     {
-      "host": "help.yahoc.kro.kr",
-      "links": "216.189.157.89",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "hkmumugo.com",
       "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "home.nete.p-e.kr",
-      "links": "216.189.157.89",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -200,38 +146,14 @@
     },
     {
       "host": "login.hamnail.kro.kr",
-      "links": "216.189.157.89",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "login.hamnail.kro.kr",
       "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "login.hotrnail.ml",
-      "links": "216.189.157.89",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "login.outlook-live.ml",
-      "links": "216.189.157.89",
-      "type": "pdns",
       "ln": 2
     },
     {
       "host": "login.outlook-live.ml",
       "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "logins.hamnail.kro.kr",
-      "links": "216.189.157.89",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -283,18 +205,6 @@
       "ln": 2
     },
     {
-      "host": "mail.danm.kro.kr",
-      "links": "216.189.157.89",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mail3.nate-or.kro.kr",
-      "links": "216.189.157.89",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "mailer.pesini.com",
       "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
       "type": "certs",
@@ -304,12 +214,6 @@
       "host": "mailrelay.pesini.com",
       "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "members.cdaumauth.cf",
-      "links": "216.189.157.89",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -337,12 +241,6 @@
       "ln": 2
     },
     {
-      "host": "myaccount.aoi-mail.ml",
-      "links": "216.189.157.89",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "nephilimpw.com",
       "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
       "type": "certs",
@@ -364,12 +262,6 @@
       "host": "ns1.otsuka.com.tw",
       "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "paege.dmail.r-e.kr",
-      "links": "216.189.157.89",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -409,12 +301,6 @@
       "ln": 2
     },
     {
-      "host": "rnyaccounts.gooqle.kro.kr",
-      "links": "216.189.157.89",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "smtp2.pesini.com",
       "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
       "type": "certs",
@@ -424,12 +310,6 @@
       "host": "spam.pesini.com",
       "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "stat.dauncheck.ml",
-      "links": "216.189.157.89",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -452,12 +332,6 @@
     },
     {
       "host": "user.dauncheck.ml",
-      "links": "216.189.157.89",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "user.dauncheck.ml",
       "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
       "type": "certs",
       "ln": 2
@@ -466,12 +340,6 @@
       "host": "vladisfoxlink.ru",
       "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "webmail.pcjindustries.com",
-      "links": "216.189.157.89",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -502,18 +370,6 @@
       "host": "www.elaiis.com",
       "links": "28144636bb6e85ac3a0f0ebe70c4cacaebe8ae42",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "www2.hotrnail.ml",
-      "links": "216.189.157.89",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www3.daurninfo.ml",
-      "links": "216.189.157.89",
-      "type": "pdns",
       "ln": 2
     },
     {
