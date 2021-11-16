@@ -637,6 +637,12 @@
       "ln": 2
     },
     {
+      "host": "boke0ya.com",
+      "links": "13.56.221.4",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "bostonm.info",
       "links": "162.0.230.164",
       "type": "pdns",
@@ -2275,6 +2281,12 @@
       "ln": 2
     },
     {
+      "host": "starlightswap.com",
+      "links": "13.56.221.4",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "stevebana.xyz",
       "links": "162.0.216.198",
       "type": "pdns",
@@ -2368,6 +2380,18 @@
       "host": "telepath.school",
       "links": "199.192.27.115",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "telepath.school",
+      "links": "61fd18a76331f6cba2ea4f12058a0534d7cc0897",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "telepath.school",
+      "links": "c619b510fe8744928c01739abc0f54e5ddf61280",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -3002,6 +3026,12 @@
     },
     {
       "host": "www.christopherngai.com",
+      "links": "13.56.221.4",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.christopherngai.com",
       "links": "977708d365741bc5f0b736a65f1c4d50bdce4248",
       "type": "certs",
       "ln": 2
@@ -3367,6 +3397,18 @@
       "ln": 2
     },
     {
+      "host": "www.shegimx.com",
+      "links": "61fd18a76331f6cba2ea4f12058a0534d7cc0897",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.shegimx.com",
+      "links": "c619b510fe8744928c01739abc0f54e5ddf61280",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "www.smacey.com",
       "links": "66.29.139.154",
       "type": "pdns",
@@ -3405,6 +3447,18 @@
     {
       "host": "www.systemtrainings.com",
       "links": "5743cb97ea31a5c5af0c00797ee8ad0f83e6b32f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.telepath.school",
+      "links": "61fd18a76331f6cba2ea4f12058a0534d7cc0897",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.telepath.school",
+      "links": "c619b510fe8744928c01739abc0f54e5ddf61280",
       "type": "certs",
       "ln": 2
     },
