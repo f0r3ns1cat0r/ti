@@ -25,6 +25,12 @@
       "ln": 2
     },
     {
+      "host": "ThreatFox: NjRAT",
+      "links": "kiritofsagds.ddns.net",
+      "type": "z",
+      "ln": 2
+    },
+    {
       "host": "azad.live",
       "links": "3a330610d3889b7eb55f43e7698bea1f8e13a6b1",
       "type": "certs",
@@ -34,6 +40,18 @@
       "host": "fact.azad.live",
       "links": "3a330610d3889b7eb55f43e7698bea1f8e13a6b1",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "kiritofsagds.ddns.net",
+      "links": "181.191.218.128",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "revcnn-128.connecttelecom.rio.br",
+      "links": "181.191.218.128",
+      "type": "pdns",
       "ln": 2
     }
   ]

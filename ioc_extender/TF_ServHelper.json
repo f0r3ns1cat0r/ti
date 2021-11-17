@@ -2138,6 +2138,12 @@
     },
     {
       "host": "saidijfjv9as.xyz",
+      "links": "194.180.174.95",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "saidijfjv9as.xyz",
       "links": "194a174f65563208b8ea965d6b0b94cbcabaef5a",
       "type": "certs",
       "ln": 2
@@ -3441,6 +3447,12 @@
     {
       "host": "www.saidijfjv9as.xyz",
       "links": "185.163.45.248",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.saidijfjv9as.xyz",
+      "links": "194.180.174.95",
       "type": "pdns",
       "ln": 2
     },
