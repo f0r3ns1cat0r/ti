@@ -19,8 +19,20 @@
   ],
   "data": [
     {
+      "host": "185-86-106-246.pool.ovpn.com",
+      "links": "185.86.106.246",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ThreatFox: BitRAT",
       "links": "eter102.dvrlists.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: BitRAT",
+      "links": "palmetto22.ddns.net",
       "type": "z",
       "ln": 2
     },
@@ -57,6 +69,36 @@
     {
       "host": "eter103.dvrlists.com",
       "links": "23.94.54.233",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "host-185-86-106-246.tornevall.net",
+      "links": "185.86.106.246",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "palmetto22.ddns.net",
+      "links": "185.86.106.246",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "salford1.ddns.net",
+      "links": "185.86.106.246",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "salford2.ddns.net",
+      "links": "185.86.106.246",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "salford3.ddns.net",
+      "links": "185.86.106.246",
       "type": "pdns",
       "ln": 2
     }

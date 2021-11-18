@@ -62,12 +62,6 @@
     },
     {
       "host": "ET Trojan: LYCEUM",
-      "links": "dnsanalizer.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ET Trojan: LYCEUM",
       "links": "dnscachecloud.com",
       "type": "z",
       "ln": 2
@@ -304,12 +298,6 @@
       "host": "dns.seekvibega.com",
       "links": "da79848954d60beb853d12e34a0f445a919d698b",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "dnsanalizer.com",
-      "links": "107.175.215.157",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -685,12 +673,6 @@
       "ln": 2
     },
     {
-      "host": "ns1.dnsanalizer.com",
-      "links": "107.175.215.157",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ns1.dnscatalog.net",
       "links": "51.222.114.101",
       "type": "pdns",
@@ -723,12 +705,6 @@
     {
       "host": "ns2.centosupdatecdn.com",
       "links": "51.222.114.101",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.dnsanalizer.com",
-      "links": "107.175.215.157",
       "type": "pdns",
       "ln": 2
     },
@@ -806,6 +782,12 @@
     },
     {
       "host": "parkingdoma.webhop.me",
+      "links": "da79848954d60beb853d12e34a0f445a919d698b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "pasta58.com",
       "links": "da79848954d60beb853d12e34a0f445a919d698b",
       "type": "certs",
       "ln": 2
