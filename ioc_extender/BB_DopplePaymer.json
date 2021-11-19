@@ -1,0 +1,40 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "BB Threat Research: DopplePaymer",
+      "links": "zbfgns.xyz",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "l0136cf8.justinstalledpanel.com",
+      "links": "217.12.218.250",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "zbfgns.xyz",
+      "links": "217.12.218.250",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

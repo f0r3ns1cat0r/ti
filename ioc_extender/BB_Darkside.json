@@ -1,0 +1,100 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "BB Threat Research: Darkside",
+      "links": "cafebizup.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "BB Threat Research: Darkside",
+      "links": "login.eyetomsky.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "cafebizup.com",
+      "links": "91.235.128.97",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "login.eyetomsky.com",
+      "links": "38a9b4c1ee60558f61ab50942b57c644e4c15424",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "sparkle-dallas.com",
+      "links": "38a9b4c1ee60558f61ab50942b57c644e4c15424",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "vds21644ua.hyperhost.name",
+      "links": "91.235.128.97",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "vds26257ua.hyperhost.name",
+      "links": "91.235.128.97",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "vds39473ua.hyperhost.name",
+      "links": "91.235.128.97",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "vps19854ua.hyperhost.name",
+      "links": "91.235.128.97",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "vps23223ua.hyperhost.name",
+      "links": "91.235.128.97",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "vps24809ua.hyperhost.name",
+      "links": "91.235.128.97",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "vps27362ua.hyperhost.name",
+      "links": "91.235.128.97",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "vps9671.hyperhost.name",
+      "links": "91.235.128.97",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

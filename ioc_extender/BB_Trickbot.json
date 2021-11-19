@@ -1,0 +1,184 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "BB Threat Research: Trickbot",
+      "links": "buremih.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "BB Threat Research: Trickbot",
+      "links": "derotin.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "BB Threat Research: Trickbot",
+      "links": "dimuyum.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "BB Threat Research: Trickbot",
+      "links": "focuslex.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "BB Threat Research: Trickbot",
+      "links": "hireja.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "BB Threat Research: Trickbot",
+      "links": "newiro.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "BB Threat Research: Trickbot",
+      "links": "nokuje.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "BB Threat Research: Trickbot",
+      "links": "pipipub.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "BB Threat Research: Trickbot",
+      "links": "slicemia.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "BB Threat Research: Trickbot",
+      "links": "touchroof.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "BB Threat Research: Trickbot",
+      "links": "wideri.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "BB Threat Research: Trickbot",
+      "links": "wuluxo.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "autodiscover.hireja.com",
+      "links": "23.106.160.51",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "derotin.com",
+      "links": "108.62.118.29",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "dimuyum.com",
+      "links": "108.62.12.80",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hireja.com",
+      "links": "23.106.160.51",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "imap.hireja.com",
+      "links": "23.106.160.51",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.hireja.com",
+      "links": "23.106.160.51",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mdario.com",
+      "links": "108.62.118.232",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "newiro.com",
+      "links": "108.62.118.232",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "plushawk.com",
+      "links": "108.62.118.29",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "remote.dimuyum.com",
+      "links": "108.62.12.80",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "slicemia.com",
+      "links": "23.81.246.177",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "smtp.hireja.com",
+      "links": "23.106.160.51",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.mdario.com",
+      "links": "108.62.118.232",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.plushawk.com",
+      "links": "108.62.118.29",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www2.slicemia.com",
+      "links": "23.81.246.177",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "2w23cizly9.digitalsmartbizcard.com",
+      "links": "103.253.40.229",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "BB Threat Research: BazarLoader",
+      "links": "gazeteaxpres.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "BB Threat Research: BazarLoader",
+      "links": "resolutionplatform.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "gazeteaxpres.com",
+      "links": "89.34.97.59",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "gazetoexpress.com",
+      "links": "89.34.97.59",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "indeksonline.org",
+      "links": "89.34.97.59",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "klankosova.net",
+      "links": "89.34.97.59",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "resolutionplatform.com",
+      "links": "103.253.40.229",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

@@ -433,6 +433,12 @@
       "ln": 2
     },
     {
+      "host": "arteriapoz.com",
+      "links": "2b3b934000b73d55403b7f96567d0cea2e2ab8bb",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "autolnr.store",
       "links": "1dc7ca935531db252239c91440098887efe4af03",
       "type": "certs",
@@ -448,6 +454,12 @@
       "host": "bcdn.space",
       "links": "8.209.69.3",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "betrliocasnajlozmeya.store",
+      "links": "9c73f26d08c80392fcf32de60e43cfc5586b26f8",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -1456,6 +1468,18 @@
       "host": "ocdn.space",
       "links": "8.209.69.3",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ocenhocetsyapitishhodit.store",
+      "links": "9c73f26d08c80392fcf32de60e43cfc5586b26f8",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "oplata-reg.ru",
+      "links": "4d8e2becdfb0a3309e46e243b1f98b46ae049d36",
+      "type": "certs",
       "ln": 2
     },
     {

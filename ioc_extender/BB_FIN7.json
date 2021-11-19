@@ -1,0 +1,106 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "BB Threat Research: FIN7",
+      "links": "associationable.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "BB Threat Research: FIN7",
+      "links": "hilariousology.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "BB Threat Research: FIN7",
+      "links": "keywordsance.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "BB Threat Research: FIN7",
+      "links": "uncertaintology.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "BB Threat Research: FIN7",
+      "links": "wisecrackism.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "associationable.com",
+      "links": "89.163.214.57",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "consolidatology.com",
+      "links": "89.163.214.57",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "gitance.com",
+      "links": "5.199.139.206",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "keywordsance.com",
+      "links": "149.154.68.48",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "lf711117.justinstalledpanel.com",
+      "links": "149.154.68.48",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "online.versatravel.ru",
+      "links": "149.154.68.48",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "refrigeratoraholic.com",
+      "links": "92.63.105.58",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "uncertaintology.com",
+      "links": "5.199.139.206",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "wisecrackism.com",
+      "links": "92.63.105.58",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

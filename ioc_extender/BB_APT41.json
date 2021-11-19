@@ -1,0 +1,40 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "107.182.24.93.16clouds.com",
+      "links": "107.182.24.93",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "BB Threat Research: APT41",
+      "links": "isbigfish.xyz",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "isbigfish.xyz",
+      "links": "107.182.24.93",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

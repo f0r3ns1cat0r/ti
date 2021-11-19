@@ -162,6 +162,9 @@ HP Threat Research: <select class="th_sel" id="hp_sel" onchange="document.locati
 <div class="sel_div">
 Emerging Threats Trojan: <select class="th_sel" id="et_sel" onchange="document.location.href='?name='+this.value"></select>
 </div>
+<div class="sel_div">
+Blackberry Threat Research: <select class="th_sel" id="bb_sel" onchange="document.location.href='?name='+this.value"></select>
+</div>
 <h3 style="font-size: 16px;margin:0;" id='malname'></h3></div>
 <div style="width:544px;">
 <div class="chart_block" style="width:calc(100% - 30px); height:31px; padding:10px; "><h3 style="font-size: 22px;margin:0;" id='malname2'></h3></div>
@@ -247,6 +250,25 @@ var hp_list='<option></option>';
 	});
 	
 	$.ajax({
+		url: 'bb_list.json',
+		type: "GET",
+		dataType: 'json',
+		}).done(function (results) {
+		results.data.forEach((element) => {
+			if(element.name.replaceAll(' ','_')==params.name)
+				selle = " selected ";
+			else
+				selle = '';
+			
+			bb_list = bb_list + '<option'+selle+' value="'+element.name.replaceAll(' ','_')+'">'+element.name+'</option>'
+		})
+		
+		document.getElementById('bb_sel').innerHTML = bb_list;
+		
+				
+	});
+	
+	$.ajax({
 		url: 'et_list.json',
 		type: "GET",
 		dataType: 'json',
@@ -293,7 +315,9 @@ var hp_list='<option></option>';
 		if(pref=='TF'){
 			malname='ThreatFox: '+params.name.substring(3).replaceAll('_','');
 			imphref="<a target='_blank' href='https://threatfox.abuse.ch/export/'>threatfox.abuse.ch/export/</a>";
-
+		}else if(pref=='BB'){
+			malname='Blackberry Threat Research: '+params.name.substring(3).replaceAll('_',''); 
+			imphref="<a target='_blank' href='https://github.com/blackberry/threat-research-and-intelligence'>github.com/blackberry/threat-research-and-intelligence</a>";
 		}else if(pref=='ET'){
 			malname='Emerging Threats: '+params.name.substring(3).replaceAll('_',''); 
 			imphref="<a target='_blank' href='https://rules.emergingthreats.net/open/'>rules.emergingthreats.net/open/</a>";			

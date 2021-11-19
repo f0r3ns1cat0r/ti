@@ -236,12 +236,6 @@
     },
     {
       "host": "admin.admin.admin.admin.admin.blackpass.info",
-      "links": "190.218.13.32",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.admin.admin.admin.blackpass.info",
       "links": "211.171.233.126",
       "type": "pdns",
       "ln": 2
@@ -284,12 +278,6 @@
     },
     {
       "host": "admin.admin.admin.admin.admin.hostmaster.omerta.cc",
-      "links": "187.212.177.121",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.admin.admin.admin.hostmaster.omerta.cc",
       "links": "189.129.114.216",
       "type": "pdns",
       "ln": 2
@@ -321,12 +309,6 @@
     {
       "host": "admin.admin.admin.admin.admin.hostmaster.thefreshstuffs.at",
       "links": "189.165.34.138",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.admin.admin.admin.hostmaster.thefreshstuffs.at",
-      "links": "31.167.248.197",
       "type": "pdns",
       "ln": 2
     },
@@ -512,12 +494,6 @@
     },
     {
       "host": "admin.admin.admin.admin.admin.www.blackpass.info",
-      "links": "190.218.13.32",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.admin.admin.admin.www.blackpass.info",
       "links": "211.171.233.126",
       "type": "pdns",
       "ln": 2
@@ -632,12 +608,6 @@
     },
     {
       "host": "admin.admin.admin.admin.hostmaster.omerta.cc",
-      "links": "187.212.177.121",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.admin.admin.hostmaster.omerta.cc",
       "links": "189.129.114.216",
       "type": "pdns",
       "ln": 2
@@ -657,12 +627,6 @@
     {
       "host": "admin.admin.admin.admin.hostmaster.thefreshstuffs.at",
       "links": "189.165.34.138",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.admin.admin.hostmaster.thefreshstuffs.at",
-      "links": "31.167.248.197",
       "type": "pdns",
       "ln": 2
     },
@@ -721,12 +685,6 @@
       "ln": 2
     },
     {
-      "host": "admin.admin.admin.admin.mail.thefreshstuffs.at",
-      "links": "31.167.248.197",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "admin.admin.admin.admin.mta-sts.mail.thefreshstuffs.at",
       "links": "187.212.186.104",
       "type": "pdns",
@@ -735,12 +693,6 @@
     {
       "host": "admin.admin.admin.admin.mta-sts.mail.thefreshstuffs.at",
       "links": "189.165.34.138",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.admin.admin.mta-sts.mail.thefreshstuffs.at",
-      "links": "31.167.248.197",
       "type": "pdns",
       "ln": 2
     },
@@ -782,19 +734,7 @@
     },
     {
       "host": "admin.admin.admin.admin.mywebb.org",
-      "links": "61.253.197.172",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.admin.admin.mywebb.org",
       "links": "84.117.126.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.admin.admin.omerta.cc",
-      "links": "187.212.177.121",
       "type": "pdns",
       "ln": 2
     },
@@ -861,18 +801,6 @@
     {
       "host": "admin.admin.admin.admin.thefreshstuffs.at",
       "links": "189.165.34.138",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.admin.admin.thefreshstuffs.at",
-      "links": "31.167.248.197",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.admin.admin.thefreshstuffs.mu",
-      "links": "31.167.248.197",
       "type": "pdns",
       "ln": 2
     },
@@ -974,12 +902,6 @@
     },
     {
       "host": "admin.admin.admin.admin.www.thefreshstuffs.mu",
-      "links": "31.167.248.197",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.admin.admin.www.thefreshstuffs.mu",
       "links": "61.253.197.172",
       "type": "pdns",
       "ln": 2
@@ -1035,12 +957,6 @@
     {
       "host": "admin.admin.admin.hostmaster.omerta.cc",
       "links": "186.145.238.42",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.admin.hostmaster.omerta.cc",
-      "links": "187.212.177.121",
       "type": "pdns",
       "ln": 2
     },
@@ -1131,12 +1047,6 @@
     {
       "host": "admin.admin.admin.mail.thefreshstuffs.at",
       "links": "189.165.34.138",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.admin.mail.thefreshstuffs.at",
-      "links": "31.167.248.197",
       "type": "pdns",
       "ln": 2
     },
@@ -1255,12 +1165,6 @@
       "ln": 2
     },
     {
-      "host": "admin.admin.admin.thefreshstuffs.at",
-      "links": "31.167.248.197",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "admin.admin.admin.thefreshstuffs.mu",
       "links": "61.253.197.172",
       "type": "pdns",
@@ -1328,37 +1232,13 @@
     },
     {
       "host": "admin.admin.admin.www.cocinasintonterias.com",
-      "links": "177.19.107.36",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.admin.www.cocinasintonterias.com",
       "links": "187.170.252.73",
       "type": "pdns",
       "ln": 2
     },
     {
       "host": "admin.admin.admin.www.cocinasintonterias.com",
-      "links": "187.212.177.121",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.admin.www.cocinasintonterias.com",
-      "links": "190.218.13.32",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.admin.www.cocinasintonterias.com",
       "links": "31.166.134.207",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.admin.www.cocinasintonterias.com",
-      "links": "31.167.248.197",
       "type": "pdns",
       "ln": 2
     },
@@ -1562,12 +1442,6 @@
     },
     {
       "host": "admin.admin.hostmaster.omerta.cc",
-      "links": "187.212.177.121",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.hostmaster.omerta.cc",
       "links": "189.129.114.216",
       "type": "pdns",
       "ln": 2
@@ -1682,12 +1556,6 @@
     },
     {
       "host": "admin.admin.mail.thefreshstuffs.at",
-      "links": "31.167.248.197",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.mail.thefreshstuffs.at",
       "links": "61.253.197.172",
       "type": "pdns",
       "ln": 2
@@ -1701,12 +1569,6 @@
     {
       "host": "admin.admin.mta-sts.mail.thefreshstuffs.at",
       "links": "189.165.34.138",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.mta-sts.mail.thefreshstuffs.at",
-      "links": "31.167.248.197",
       "type": "pdns",
       "ln": 2
     },
@@ -1844,12 +1706,6 @@
     },
     {
       "host": "admin.admin.thefreshstuffs.mu",
-      "links": "31.167.248.197",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.thefreshstuffs.mu",
       "links": "61.253.197.172",
       "type": "pdns",
       "ln": 2
@@ -1911,12 +1767,6 @@
     {
       "host": "admin.admin.www.cocinasintonterias.com",
       "links": "61.253.197.172",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.www.cvv-union.at",
-      "links": "177.19.107.36",
       "type": "pdns",
       "ln": 2
     },
@@ -2001,12 +1851,6 @@
     {
       "host": "admin.admin.www.omerta.cc",
       "links": "186.182.55.44",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.www.omerta.cc",
-      "links": "187.212.177.121",
       "type": "pdns",
       "ln": 2
     },
@@ -2114,37 +1958,13 @@
     },
     {
       "host": "admin.cocinasintonterias.com",
-      "links": "177.19.107.36",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.cocinasintonterias.com",
       "links": "187.170.252.73",
       "type": "pdns",
       "ln": 2
     },
     {
       "host": "admin.cocinasintonterias.com",
-      "links": "187.212.177.121",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.cocinasintonterias.com",
-      "links": "190.218.13.32",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.cocinasintonterias.com",
       "links": "31.166.134.207",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.cocinasintonterias.com",
-      "links": "31.167.248.197",
       "type": "pdns",
       "ln": 2
     },
@@ -2318,12 +2138,6 @@
     },
     {
       "host": "admin.mta-sts.mail.thefreshstuffs.at",
-      "links": "31.167.248.197",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.mta-sts.mail.thefreshstuffs.at",
       "links": "92.62.104.245",
       "type": "pdns",
       "ln": 2
@@ -2331,12 +2145,6 @@
     {
       "host": "admin.mywebb.org",
       "links": "176.44.109.1",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.mywebb.org",
-      "links": "187.212.177.121",
       "type": "pdns",
       "ln": 2
     },
@@ -2390,12 +2198,6 @@
     },
     {
       "host": "admin.omerta.cc",
-      "links": "187.212.177.121",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.omerta.cc",
       "links": "189.129.114.216",
       "type": "pdns",
       "ln": 2
@@ -2432,19 +2234,7 @@
     },
     {
       "host": "admin.thefreshstuffs.at",
-      "links": "31.167.248.197",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.thefreshstuffs.at",
       "links": "61.253.197.172",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.thefreshstuffs.mu",
-      "links": "31.167.248.197",
       "type": "pdns",
       "ln": 2
     },
@@ -2480,12 +2270,6 @@
     },
     {
       "host": "admin.www.blackpass.info",
-      "links": "190.218.13.32",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.www.blackpass.info",
       "links": "79.102.181.143",
       "type": "pdns",
       "ln": 2
@@ -2504,43 +2288,13 @@
     },
     {
       "host": "admin.www.cocinasintonterias.com",
-      "links": "177.19.107.36",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.www.cocinasintonterias.com",
       "links": "187.170.252.73",
       "type": "pdns",
       "ln": 2
     },
     {
       "host": "admin.www.cocinasintonterias.com",
-      "links": "187.212.177.121",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.www.cocinasintonterias.com",
-      "links": "190.218.13.32",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.www.cocinasintonterias.com",
       "links": "31.166.134.207",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.www.cocinasintonterias.com",
-      "links": "31.167.248.197",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.www.cvv-union.at",
-      "links": "177.19.107.36",
       "type": "pdns",
       "ln": 2
     },
@@ -2648,12 +2402,6 @@
     },
     {
       "host": "admin.www.thefreshstuffs.mu",
-      "links": "31.167.248.197",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.www.thefreshstuffs.mu",
       "links": "61.253.197.172",
       "type": "pdns",
       "ln": 2
@@ -2738,6 +2486,12 @@
     },
     {
       "host": "andbal.com",
+      "links": "201.103.204.1",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "andbal.com",
       "links": "79.102.181.143",
       "type": "pdns",
       "ln": 2
@@ -2773,26 +2527,8 @@
       "ln": 2
     },
     {
-      "host": "astdg.top",
-      "links": "187.170.252.73",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "astdg.top",
-      "links": "190.218.13.32",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "atvcampingtrips.com",
       "links": "148.101.76.245",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "atvcampingtrips.com",
-      "links": "177.19.107.36",
       "type": "pdns",
       "ln": 2
     },
@@ -2828,12 +2564,6 @@
     },
     {
       "host": "atvcampingtrips.com",
-      "links": "187.212.177.121",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "atvcampingtrips.com",
       "links": "187.232.163.66",
       "type": "pdns",
       "ln": 2
@@ -2846,12 +2576,6 @@
     },
     {
       "host": "atvcampingtrips.com",
-      "links": "190.218.13.32",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "atvcampingtrips.com",
       "links": "221.164.151.208",
       "type": "pdns",
       "ln": 2
@@ -2859,12 +2583,6 @@
     {
       "host": "atvcampingtrips.com",
       "links": "31.166.134.207",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "atvcampingtrips.com",
-      "links": "31.167.248.197",
       "type": "pdns",
       "ln": 2
     },
@@ -2967,12 +2685,6 @@
     {
       "host": "blackpass.info",
       "links": "189.129.115.119",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "blackpass.info",
-      "links": "190.218.13.32",
       "type": "pdns",
       "ln": 2
     },
@@ -3230,6 +2942,12 @@
     },
     {
       "host": "camasirx.com",
+      "links": "201.103.204.1",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "camasirx.com",
       "links": "201.124.27.118",
       "type": "pdns",
       "ln": 2
@@ -3434,12 +3152,6 @@
     },
     {
       "host": "cvv-union.at",
-      "links": "177.19.107.36",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "cvv-union.at",
       "links": "189.129.103.73",
       "type": "pdns",
       "ln": 2
@@ -3493,12 +3205,6 @@
       "ln": 2
     },
     {
-      "host": "dns1.hostingclass.ru",
-      "links": "190.218.13.32",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "dns2.hostingclass.ru",
       "links": "189.129.103.73",
       "type": "pdns",
@@ -3513,12 +3219,6 @@
     {
       "host": "dns4.hostingclass.ru",
       "links": "189.129.103.73",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "dns4.hostingclass.ru",
-      "links": "190.218.13.32",
       "type": "pdns",
       "ln": 2
     },
@@ -3764,12 +3464,6 @@
     },
     {
       "host": "hostmaster.omerta.cc",
-      "links": "187.212.177.121",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "hostmaster.omerta.cc",
       "links": "189.129.114.216",
       "type": "pdns",
       "ln": 2
@@ -3801,12 +3495,6 @@
     {
       "host": "hostmaster.thefreshstuffs.at",
       "links": "189.165.34.138",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "hostmaster.thefreshstuffs.at",
-      "links": "31.167.248.197",
       "type": "pdns",
       "ln": 2
     },
@@ -4004,12 +3692,6 @@
     },
     {
       "host": "mail.thefreshstuffs.at",
-      "links": "31.167.248.197",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mail.thefreshstuffs.at",
       "links": "91.139.196.113",
       "type": "pdns",
       "ln": 2
@@ -4077,6 +3759,12 @@
     {
       "host": "membro.at",
       "links": "189.129.177.158",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "membro.at",
+      "links": "201.103.204.1",
       "type": "pdns",
       "ln": 2
     },
@@ -4245,6 +3933,12 @@
     {
       "host": "misha.at",
       "links": "201.103.191.181",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "misha.at",
+      "links": "201.103.204.1",
       "type": "pdns",
       "ln": 2
     },
@@ -4508,12 +4202,6 @@
     },
     {
       "host": "omerta.cc",
-      "links": "187.212.177.121",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "omerta.cc",
       "links": "189.129.114.216",
       "type": "pdns",
       "ln": 2
@@ -4711,6 +4399,12 @@
       "ln": 2
     },
     {
+      "host": "srtuiyhuali.at",
+      "links": "86.122.134.195",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "sysaheu90.top",
       "links": "2.59.36.20",
       "type": "pdns",
@@ -4766,12 +4460,6 @@
     },
     {
       "host": "thefreshstuffs.at",
-      "links": "31.167.248.197",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "thefreshstuffs.at",
       "links": "61.253.197.172",
       "type": "pdns",
       "ln": 2
@@ -4785,12 +4473,6 @@
     {
       "host": "thefreshstuffs.mu",
       "links": "186.145.238.42",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "thefreshstuffs.mu",
-      "links": "31.167.248.197",
       "type": "pdns",
       "ln": 2
     },
@@ -5210,12 +4892,6 @@
     },
     {
       "host": "www.blackpass.info",
-      "links": "190.218.13.32",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.blackpass.info",
       "links": "84.117.126.143",
       "type": "pdns",
       "ln": 2
@@ -5589,12 +5265,6 @@
     {
       "host": "www.thefreshstuffs.mu",
       "links": "148.101.76.245",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.thefreshstuffs.mu",
-      "links": "31.167.248.197",
       "type": "pdns",
       "ln": 2
     },
