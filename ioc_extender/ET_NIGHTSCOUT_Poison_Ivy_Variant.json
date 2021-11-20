@@ -61,6 +61,12 @@
       "ln": 2
     },
     {
+      "host": "cdn.cloudistcdn.com",
+      "links": "b042807897d1bd5931ea4495b6e1276a859a4c05",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "dcrice.com",
       "links": "606e0a1e366a3d982efecbdacce7e5049c8ade8e",
       "type": "certs",
@@ -136,6 +142,12 @@
       "host": "q.cloudistcdn.com",
       "links": "74.125.203.99",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "q.cloudistcdn.com",
+      "links": "b042807897d1bd5931ea4495b6e1276a859a4c05",
+      "type": "certs",
       "ln": 2
     },
     {

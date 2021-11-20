@@ -319,6 +319,12 @@
       "ln": 2
     },
     {
+      "host": "admin.bianye.net",
+      "links": "96.45.187.245",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "adminassist.us",
       "links": "f501b65d9b42f9ad8cc284032fbbd6c6fa0251cc",
       "type": "certs",
@@ -607,6 +613,12 @@
       "ln": 2
     },
     {
+      "host": "cp.tanliu.net",
+      "links": "96.45.187.245",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "cpanel.youintelligence.com",
       "links": "28ca22bdca06c054d553bd43e63e0907af4c9b4e",
       "type": "certs",
@@ -667,9 +679,21 @@
       "ln": 2
     },
     {
+      "host": "dashboard.longnai.net",
+      "links": "96.45.187.245",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "de-registerdevice.com",
       "links": "004a44ff4929e5fd91538276fe45fb57c11bb06f",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "demo.shayao.net",
+      "links": "96.45.187.245",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -763,6 +787,12 @@
       "ln": 2
     },
     {
+      "host": "email.zhenxie.net",
+      "links": "96.45.187.245",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "enmaxrefund.com",
       "links": "004a44ff4929e5fd91538276fe45fb57c11bb06f",
       "type": "certs",
@@ -778,6 +808,12 @@
       "host": "evhcn.com",
       "links": "004a44ff4929e5fd91538276fe45fb57c11bb06f",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "exchange.taguo.net",
+      "links": "96.45.187.245",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -829,8 +865,20 @@
       "ln": 2
     },
     {
+      "host": "filestore.shuangdou.net",
+      "links": "96.45.187.245",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "finallyelisesclise.co",
       "links": "58e3d346469b490f4203881e7726103cbd030617",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "firstycaleto.shop",
+      "links": "004a44ff4929e5fd91538276fe45fb57c11bb06f",
       "type": "certs",
       "ln": 2
     },
@@ -961,6 +1009,12 @@
       "ln": 2
     },
     {
+      "host": "help.suoxia.net",
+      "links": "96.45.187.245",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "hevenchile.com",
       "links": "004a44ff4929e5fd91538276fe45fb57c11bb06f",
       "type": "certs",
@@ -1051,6 +1105,12 @@
       "ln": 2
     },
     {
+      "host": "imap.xiongbian.net",
+      "links": "96.45.187.245",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "instructpayee.com",
       "links": "004a44ff4929e5fd91538276fe45fb57c11bb06f",
       "type": "certs",
@@ -1060,6 +1120,12 @@
       "host": "iotryfuty.com",
       "links": "004a44ff4929e5fd91538276fe45fb57c11bb06f",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "ipaiw.net",
+      "links": "96.45.187.245",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -1111,6 +1177,12 @@
       "ln": 2
     },
     {
+      "host": "jira.liaoheng.net",
+      "links": "96.45.187.245",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "jitbonus.com",
       "links": "004a44ff4929e5fd91538276fe45fb57c11bb06f",
       "type": "certs",
@@ -1132,6 +1204,12 @@
       "host": "jonnywhale.live",
       "links": "004a44ff4929e5fd91538276fe45fb57c11bb06f",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "jp.shigua.net",
+      "links": "96.45.187.245",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -1201,6 +1279,12 @@
       "ln": 2
     },
     {
+      "host": "liveupdate.rongcun.net",
+      "links": "96.45.187.245",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "login-c06-continue.biz",
       "links": "004a44ff4929e5fd91538276fe45fb57c11bb06f",
       "type": "certs",
@@ -1228,6 +1312,12 @@
       "host": "m-pagologinbr.com",
       "links": "004a44ff4929e5fd91538276fe45fb57c11bb06f",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "m.hedang.net",
+      "links": "96.45.187.245",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -1357,6 +1447,18 @@
       "ln": 2
     },
     {
+      "host": "mysql07.neibang.net",
+      "links": "96.45.187.245",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mysql07.qiesi.net",
+      "links": "96.45.187.245",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "nansyskin.com",
       "links": "004a44ff4929e5fd91538276fe45fb57c11bb06f",
       "type": "certs",
@@ -1429,6 +1531,12 @@
       "ln": 2
     },
     {
+      "host": "paincakeswip-trade.com",
+      "links": "004a44ff4929e5fd91538276fe45fb57c11bb06f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "panarescwap.finance",
       "links": "004a44ff4929e5fd91538276fe45fb57c11bb06f",
       "type": "certs",
@@ -1442,6 +1550,12 @@
     },
     {
       "host": "pentsweser.com",
+      "links": "004a44ff4929e5fd91538276fe45fb57c11bb06f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "pictueredr.com",
       "links": "004a44ff4929e5fd91538276fe45fb57c11bb06f",
       "type": "certs",
       "ln": 2
@@ -1471,9 +1585,27 @@
       "ln": 2
     },
     {
+      "host": "poczta.shezhuang.net",
+      "links": "96.45.187.245",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "privatbank.link",
       "links": "004a44ff4929e5fd91538276fe45fb57c11bb06f",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "projects.biande.net",
+      "links": "96.45.187.245",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "projects.dizong.net",
+      "links": "96.45.187.245",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -1561,9 +1693,27 @@
       "ln": 2
     },
     {
+      "host": "roadwide.net",
+      "links": "96.45.187.245",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "rtuatatcty.com",
       "links": "004a44ff4929e5fd91538276fe45fb57c11bb06f",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "s.gezha.net",
+      "links": "96.45.187.245",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "s.zuogang.net",
+      "links": "96.45.187.245",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -1593,6 +1743,12 @@
     {
       "host": "scleaner.site",
       "links": "58e3d346469b490f4203881e7726103cbd030617",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "secure-paymentnow.com",
+      "links": "004a44ff4929e5fd91538276fe45fb57c11bb06f",
       "type": "certs",
       "ln": 2
     },
@@ -1630,6 +1786,12 @@
       "host": "servicelogin-m06-mail.biz",
       "links": "004a44ff4929e5fd91538276fe45fb57c11bb06f",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "services.suizheng.net",
+      "links": "96.45.187.245",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -1837,9 +1999,27 @@
       "ln": 2
     },
     {
+      "host": "vpn.taguo.net",
+      "links": "96.45.187.245",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "waifongboh.com",
       "links": "58e3d346469b490f4203881e7726103cbd030617",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "wap.mushuang.net",
+      "links": "96.45.187.245",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "webconf.jienei.net",
+      "links": "96.45.187.245",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -1870,6 +2050,12 @@
       "host": "whatischeckitout123.xyz",
       "links": "f501b65d9b42f9ad8cc284032fbbd6c6fa0251cc",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "wiki.jtguqcvk.net",
+      "links": "96.45.187.245",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -1909,8 +2095,20 @@
       "ln": 2
     },
     {
+      "host": "www.dislocationpedia.com",
+      "links": "138.68.136.193",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "www.hellozhifa.com",
       "links": "168.206.185.83",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.host.whywd.net",
+      "links": "96.45.187.245",
       "type": "pdns",
       "ln": 2
     },
@@ -1939,8 +2137,20 @@
       "ln": 2
     },
     {
+      "host": "www.remote.zhushao.net",
+      "links": "96.45.187.245",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "www.saibahoje.com",
       "links": "156.233.205.56",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.server.suigong.net",
+      "links": "96.45.187.245",
       "type": "pdns",
       "ln": 2
     },
