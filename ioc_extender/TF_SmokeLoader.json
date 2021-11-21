@@ -31,12 +31,6 @@
       "ln": 2
     },
     {
-      "host": "1waa.com",
-      "links": "178.208.79.35",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "4028.music.blog",
       "links": "16cf58adc98ba44eabcf951f1a6f32d3d14d61e6",
       "type": "certs",
@@ -374,6 +368,12 @@
     },
     {
       "host": "admin.admin.admin.admin.admin.mywebb.org",
+      "links": "201.103.204.1",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.admin.admin.admin.admin.mywebb.org",
       "links": "31.166.98.159",
       "type": "pdns",
       "ln": 2
@@ -620,6 +620,12 @@
     },
     {
       "host": "admin.admin.admin.admin.lockbitsupp.uz",
+      "links": "189.129.177.158",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.admin.admin.admin.lockbitsupp.uz",
       "links": "189.165.34.138",
       "type": "pdns",
       "ln": 2
@@ -675,6 +681,12 @@
     {
       "host": "admin.admin.admin.admin.mywebb.org",
       "links": "188.49.80.93",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.admin.admin.admin.mywebb.org",
+      "links": "201.103.204.1",
       "type": "pdns",
       "ln": 2
     },
@@ -1034,6 +1046,12 @@
     },
     {
       "host": "admin.admin.admin.mywebb.org",
+      "links": "201.103.204.1",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.admin.admin.mywebb.org",
       "links": "31.166.98.159",
       "type": "pdns",
       "ln": 2
@@ -1159,12 +1177,6 @@
       "ln": 2
     },
     {
-      "host": "admin.admin.admin.www.cocinasintonterias.com",
-      "links": "61.253.197.172",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "admin.admin.admin.www.cvv-union.at",
       "links": "148.101.74.126",
       "type": "pdns",
@@ -1269,12 +1281,6 @@
     {
       "host": "admin.admin.cocinasintonterias.com",
       "links": "31.166.134.207",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.cocinasintonterias.com",
-      "links": "61.253.197.172",
       "type": "pdns",
       "ln": 2
     },
@@ -1490,6 +1496,12 @@
     },
     {
       "host": "admin.admin.mywebb.org",
+      "links": "201.103.204.1",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.admin.mywebb.org",
       "links": "31.166.98.159",
       "type": "pdns",
       "ln": 2
@@ -1621,12 +1633,6 @@
       "ln": 2
     },
     {
-      "host": "admin.admin.www.cocinasintonterias.com",
-      "links": "61.253.197.172",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "admin.admin.www.cvv-union.at",
       "links": "187.156.121.116",
       "type": "pdns",
@@ -1671,6 +1677,12 @@
     {
       "host": "admin.admin.www.lockbitsupp.uz",
       "links": "186.214.130.63",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.admin.www.lockbitsupp.uz",
+      "links": "189.129.177.158",
       "type": "pdns",
       "ln": 2
     },
@@ -1867,6 +1879,30 @@
       "ln": 2
     },
     {
+      "host": "admin.hostmaster.gmpeople.com",
+      "links": "177.206.228.123",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.hostmaster.gmpeople.com",
+      "links": "186.6.254.27",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.hostmaster.gmpeople.com",
+      "links": "89.133.230.171",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.hostmaster.misha.at",
+      "links": "187.212.186.104",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "admin.hostmaster.omerta.cc",
       "links": "186.145.238.42",
       "type": "pdns",
@@ -1915,6 +1951,12 @@
       "ln": 2
     },
     {
+      "host": "admin.kotob.top",
+      "links": "201.103.204.1",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "admin.lockbitapt.uz",
       "links": "176.44.109.1",
       "type": "pdns",
@@ -1941,6 +1983,18 @@
     {
       "host": "admin.lockbitsupp.uz",
       "links": "186.182.55.44",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.lockbitsupp.uz",
+      "links": "189.129.177.158",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.mail.misha.at",
+      "links": "187.212.186.104",
       "type": "pdns",
       "ln": 2
     },
@@ -1994,6 +2048,12 @@
     },
     {
       "host": "admin.mywebb.org",
+      "links": "201.103.204.1",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.mywebb.org",
       "links": "31.166.98.159",
       "type": "pdns",
       "ln": 2
@@ -2031,6 +2091,12 @@
     {
       "host": "admin.omerta.cc",
       "links": "189.129.114.216",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.omerta.cc",
+      "links": "189.129.177.158",
       "type": "pdns",
       "ln": 2
     },
@@ -2169,6 +2235,18 @@
     {
       "host": "admin.www.lockbitsupp.uz",
       "links": "187.156.114.189",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.www.lockbitsupp.uz",
+      "links": "189.129.177.158",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.www.misha.at",
+      "links": "187.212.186.104",
       "type": "pdns",
       "ln": 2
     },
@@ -2421,12 +2499,6 @@
     {
       "host": "b.copihopertdery.org",
       "links": "187.156.121.116",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "babavids.com",
-      "links": "178.208.79.35",
       "type": "pdns",
       "ln": 2
     },
@@ -2936,6 +3008,12 @@
     },
     {
       "host": "cvv-union.at",
+      "links": "187.212.186.104",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cvv-union.at",
       "links": "189.129.103.73",
       "type": "pdns",
       "ln": 2
@@ -2989,6 +3067,12 @@
       "ln": 2
     },
     {
+      "host": "dns1.hostingclass.ru",
+      "links": "189.129.177.158",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "dns2.hostingclass.ru",
       "links": "189.129.103.73",
       "type": "pdns",
@@ -2997,6 +3081,12 @@
     {
       "host": "dns3.hostingclass.ru",
       "links": "189.129.103.73",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "dns3.hostingclass.ru",
+      "links": "189.129.177.158",
       "type": "pdns",
       "ln": 2
     },
@@ -3241,6 +3331,12 @@
       "ln": 2
     },
     {
+      "host": "hostmaster.misha.at",
+      "links": "187.212.186.104",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "hostmaster.omerta.cc",
       "links": "186.145.238.42",
       "type": "pdns",
@@ -3357,6 +3453,12 @@
     {
       "host": "kotob.top",
       "links": "79.102.181.143",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "kotob.top",
+      "links": "86.122.134.195",
       "type": "pdns",
       "ln": 2
     },
@@ -3542,6 +3644,12 @@
     },
     {
       "host": "membro.at",
+      "links": "188.54.120.215",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "membro.at",
       "links": "189.129.177.158",
       "type": "pdns",
       "ln": 2
@@ -3687,6 +3795,12 @@
     {
       "host": "misha.at",
       "links": "187.212.186.104",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "misha.at",
+      "links": "188.54.120.215",
       "type": "pdns",
       "ln": 2
     },
@@ -4195,6 +4309,12 @@
       "ln": 2
     },
     {
+      "host": "symonlineupdate.com",
+      "links": "188.54.120.215",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "sysaheu90.top",
       "links": "2.59.36.20",
       "type": "pdns",
@@ -4453,12 +4573,6 @@
       "ln": 2
     },
     {
-      "host": "v81569.vps.mcdir.ru",
-      "links": "178.208.79.35",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "varmisende.com",
       "links": "179.38.113.243",
       "type": "pdns",
@@ -4671,6 +4785,18 @@
     {
       "host": "www.blackpass.info",
       "links": "187.170.242.180",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.blackpass.info",
+      "links": "188.54.120.215",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.blackpass.info",
+      "links": "31.166.170.180",
       "type": "pdns",
       "ln": 2
     },
@@ -4921,6 +5047,12 @@
       "ln": 2
     },
     {
+      "host": "www.omerta.cc",
+      "links": "86.122.134.195",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "www.por.music.blog",
       "links": "30728b5bc161bfc64c72fa6ced5540e54068dc94",
       "type": "certs",
@@ -4983,6 +5115,12 @@
     {
       "host": "www.shibaswab.com",
       "links": "179.185.139.186",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.shibaswab.com",
+      "links": "211.171.233.127",
       "type": "pdns",
       "ln": 2
     },

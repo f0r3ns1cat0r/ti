@@ -20,8 +20,26 @@
   "data": [
     {
       "host": "BB Threat Research: DopplePaymer",
+      "links": "cdn3wire.net",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "BB Threat Research: DopplePaymer",
       "links": "zbfgns.xyz",
       "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "cdn3wire.net",
+      "links": "193.34.166.213",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "db.lmad.nl",
+      "links": "193.34.166.213",
+      "type": "pdns",
       "ln": 2
     },
     {

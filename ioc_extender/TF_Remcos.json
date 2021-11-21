@@ -19,6 +19,12 @@
   ],
   "data": [
     {
+      "host": "152-89-162-59.pool.ovpn.com",
+      "links": "152.89.162.59",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "185-86-106-246.pool.ovpn.com",
       "links": "185.86.106.246",
       "type": "pdns",
@@ -39,6 +45,12 @@
     {
       "host": "ThreatFox: Remcos",
       "links": "destinyrem.kozow.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Remcos",
+      "links": "edwardjamie.duckdns.org",
       "type": "z",
       "ln": 2
     },
@@ -68,7 +80,31 @@
     },
     {
       "host": "ThreatFox: Remcos",
+      "links": "rem1.camdvr.org",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Remcos",
       "links": "rem16.camdvr.org",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Remcos",
+      "links": "rem16.hopto.org",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Remcos",
+      "links": "rem166.hopto.org",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Remcos",
+      "links": "rem1666.hopto.org",
       "type": "z",
       "ln": 2
     },
@@ -211,6 +247,12 @@
       "ln": 2
     },
     {
+      "host": "edwardjamie.duckdns.org",
+      "links": "23.105.131.220",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "eter101.dvrlists.com",
       "links": "185.140.53.221",
       "type": "pdns",
@@ -259,6 +301,12 @@
       "ln": 2
     },
     {
+      "host": "hokahay.net",
+      "links": "104.254.90.235",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "host-185-86-106-246.tornevall.net",
       "links": "185.86.106.246",
       "type": "pdns",
@@ -285,6 +333,12 @@
     {
       "host": "jamaru1444.myftp.biz",
       "links": "212.193.30.133",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "markethelp.bar",
+      "links": "23.105.131.220",
       "type": "pdns",
       "ln": 2
     },
@@ -349,8 +403,32 @@
       "ln": 2
     },
     {
+      "host": "rem1.camdvr.org",
+      "links": "152.89.162.59",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "rem16.camdvr.org",
       "links": "37.120.138.222",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "rem16.hopto.org",
+      "links": "152.89.162.59",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "rem166.hopto.org",
+      "links": "152.89.162.59",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "rem1666.hopto.org",
+      "links": "152.89.162.59",
       "type": "pdns",
       "ln": 2
     },
@@ -506,6 +584,12 @@
     },
     {
       "host": "trapboijiggy.dvrlists.com",
+      "links": "104.254.90.235",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "trapboijiggy.dvrlists.com",
       "links": "184.75.221.171",
       "type": "pdns",
       "ln": 2
@@ -513,6 +597,12 @@
     {
       "host": "trapboijiggy.dvrlists.com",
       "links": "194.187.251.155",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "twistednerd.dvrlists.com",
+      "links": "104.254.90.235",
       "type": "pdns",
       "ln": 2
     },

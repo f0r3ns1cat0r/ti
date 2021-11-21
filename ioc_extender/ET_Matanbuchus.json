@@ -391,6 +391,12 @@
       "ln": 2
     },
     {
+      "host": "eonsabode.at",
+      "links": "45.8.127.11",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "fancy-creative-agency.digital",
       "links": "176.119.147.59",
       "type": "pdns",
@@ -891,6 +897,12 @@
     {
       "host": "mail.online-bos.com",
       "links": "45.144.66.129",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.vorlciliv.work",
+      "links": "45.8.127.11",
       "type": "pdns",
       "ln": 2
     },

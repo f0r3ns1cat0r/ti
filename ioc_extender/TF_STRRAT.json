@@ -1,0 +1,40 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ThreatFox: STRRAT",
+      "links": "idgerowner.duckdns.org",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "chromsm.linkpc.net",
+      "links": "197.206.4.24",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "idgerowner.duckdns.org",
+      "links": "197.206.4.24",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}
