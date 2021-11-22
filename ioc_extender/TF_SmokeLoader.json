@@ -253,6 +253,12 @@
       "ln": 2
     },
     {
+      "host": "admin.admin.admin.admin.admin.cvv-union.at",
+      "links": "31.166.170.180",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "admin.admin.admin.admin.admin.hostmaster.omerta.cc",
       "links": "186.145.238.42",
       "type": "pdns",
@@ -487,6 +493,12 @@
       "ln": 2
     },
     {
+      "host": "admin.admin.admin.admin.admin.www.cvv-union.at",
+      "links": "31.166.170.180",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "admin.admin.admin.admin.admin.www.lockbitsupp.uz",
       "links": "189.165.34.138",
       "type": "pdns",
@@ -627,6 +639,12 @@
     {
       "host": "admin.admin.admin.admin.lockbitsupp.uz",
       "links": "189.165.34.138",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.admin.admin.admin.lockbitsupp.uz",
+      "links": "211.171.233.127",
       "type": "pdns",
       "ln": 2
     },
@@ -817,6 +835,12 @@
       "ln": 2
     },
     {
+      "host": "admin.admin.admin.admin.www.cvv-union.at",
+      "links": "31.166.170.180",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "admin.admin.admin.admin.www.lockbitsupp.uz",
       "links": "186.214.130.63",
       "type": "pdns",
@@ -909,6 +933,12 @@
     {
       "host": "admin.admin.admin.cvv-union.at",
       "links": "188.49.80.93",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.admin.admin.cvv-union.at",
+      "links": "31.166.170.180",
       "type": "pdns",
       "ln": 2
     },
@@ -1190,6 +1220,12 @@
     },
     {
       "host": "admin.admin.admin.www.cvv-union.at",
+      "links": "31.166.170.180",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.admin.admin.www.cvv-union.at",
       "links": "84.117.126.143",
       "type": "pdns",
       "ln": 2
@@ -1311,6 +1347,12 @@
     {
       "host": "admin.admin.cvv-union.at",
       "links": "188.49.80.93",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.admin.cvv-union.at",
+      "links": "31.166.170.180",
       "type": "pdns",
       "ln": 2
     },
@@ -1658,6 +1700,12 @@
     },
     {
       "host": "admin.admin.www.cvv-union.at",
+      "links": "31.166.170.180",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.admin.www.cvv-union.at",
       "links": "84.117.126.143",
       "type": "pdns",
       "ln": 2
@@ -1695,6 +1743,12 @@
     {
       "host": "admin.admin.www.lockbitsupp.uz",
       "links": "189.165.34.138",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.admin.www.lockbitsupp.uz",
+      "links": "211.171.233.127",
       "type": "pdns",
       "ln": 2
     },
@@ -1743,6 +1797,12 @@
     {
       "host": "admin.admin.www.omerta.cc",
       "links": "84.117.126.143",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.admin.www.trackersapi.at",
+      "links": "31.166.170.180",
       "type": "pdns",
       "ln": 2
     },
@@ -1845,6 +1905,12 @@
     {
       "host": "admin.cvv-union.at",
       "links": "31.166.134.207",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.cvv-union.at",
+      "links": "31.166.170.180",
       "type": "pdns",
       "ln": 2
     },
@@ -1989,6 +2055,12 @@
     {
       "host": "admin.lockbitsupp.uz",
       "links": "189.129.177.158",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.lockbitsupp.uz",
+      "links": "211.171.233.127",
       "type": "pdns",
       "ln": 2
     },
@@ -2245,6 +2317,12 @@
       "ln": 2
     },
     {
+      "host": "admin.www.lockbitsupp.uz",
+      "links": "211.171.233.127",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "admin.www.misha.at",
       "links": "187.212.186.104",
       "type": "pdns",
@@ -2289,6 +2367,12 @@
     {
       "host": "admin.www.shibaswab.com",
       "links": "187.170.251.170",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.www.trackersapi.at",
+      "links": "31.166.170.180",
       "type": "pdns",
       "ln": 2
     },
@@ -2404,12 +2488,6 @@
       "host": "ashevillevegans.tech.blog",
       "links": "1d12ea2b595ead21aacb57cc9ea33795adee98b2",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "astdg.top",
-      "links": "186.145.238.42",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -2559,6 +2637,12 @@
     {
       "host": "blackpass.info",
       "links": "189.129.115.119",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "blackpass.info",
+      "links": "211.171.233.126",
       "type": "pdns",
       "ln": 2
     },
@@ -3356,6 +3440,12 @@
     },
     {
       "host": "hostmaster.omerta.cc",
+      "links": "31.166.170.180",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hostmaster.omerta.cc",
       "links": "84.117.126.143",
       "type": "pdns",
       "ln": 2
@@ -3446,6 +3536,12 @@
     },
     {
       "host": "kotob.top",
+      "links": "211.171.233.127",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "kotob.top",
       "links": "31.166.170.180",
       "type": "pdns",
       "ln": 2
@@ -3459,6 +3555,12 @@
     {
       "host": "kotob.top",
       "links": "86.122.134.195",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "kotob.top",
+      "links": "87.119.100.220",
       "type": "pdns",
       "ln": 2
     },
@@ -3680,6 +3782,12 @@
     },
     {
       "host": "membro.at",
+      "links": "87.119.100.220",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "membro.at",
       "links": "92.62.104.245",
       "type": "pdns",
       "ln": 2
@@ -3861,6 +3969,12 @@
     {
       "host": "misha.at",
       "links": "79.102.181.143",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "misha.at",
+      "links": "87.119.100.220",
       "type": "pdns",
       "ln": 2
     },
@@ -4300,6 +4414,12 @@
       "host": "singhzaby.music.blog",
       "links": "30728b5bc161bfc64c72fa6ced5540e54068dc94",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "srtuiyhuali.at",
+      "links": "187.212.186.104",
+      "type": "pdns",
       "ln": 2
     },
     {
