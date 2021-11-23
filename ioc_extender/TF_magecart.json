@@ -451,6 +451,12 @@
       "ln": 2
     },
     {
+      "host": "artskladspb.store",
+      "links": "4d8e2becdfb0a3309e46e243b1f98b46ae049d36",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "autolnr.store",
       "links": "1dc7ca935531db252239c91440098887efe4af03",
       "type": "certs",
@@ -688,6 +694,12 @@
       "host": "dnscatalog.net",
       "links": "51.222.114.101",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "doctor-amelin.store",
+      "links": "9c73f26d08c80392fcf32de60e43cfc5586b26f8",
+      "type": "certs",
       "ln": 2
     },
     {

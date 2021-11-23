@@ -410,6 +410,12 @@
     },
     {
       "host": "BB Threat Research: TA575-Dridex",
+      "links": "bonesdir.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "BB Threat Research: TA575-Dridex",
       "links": "breadxfishllc.com",
       "type": "z",
       "ln": 2
@@ -3344,6 +3350,12 @@
     },
     {
       "host": "dantaylor.us",
+      "links": "93a2a9f090fd4625d392cfe956f33100d8342159",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "dantaylor.us",
       "links": "a6861df4df0c785f3007cb426b94ee7052acc6f1",
       "type": "certs",
       "ln": 2
@@ -3369,6 +3381,12 @@
     {
       "host": "darkhaven.net",
       "links": "69f2d7d42daa9c08f816393c2dc05ca6e5e82ee5",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "darkhaven.net",
+      "links": "93a2a9f090fd4625d392cfe956f33100d8342159",
       "type": "certs",
       "ln": 2
     },
@@ -3489,6 +3507,12 @@
     {
       "host": "dav.darkhaven.net",
       "links": "69f2d7d42daa9c08f816393c2dc05ca6e5e82ee5",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "dav.darkhaven.net",
+      "links": "93a2a9f090fd4625d392cfe956f33100d8342159",
       "type": "certs",
       "ln": 2
     },
@@ -4237,6 +4261,12 @@
       "ln": 2
     },
     {
+      "host": "evo.im",
+      "links": "a002a0dd91e8b1e0d7fee0bd3aacd081a8a82b3c",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "evokeschools.com",
       "links": "0583a3efae17fb86bae6b737af341ee95a100b53",
       "type": "certs",
@@ -4317,6 +4347,12 @@
     {
       "host": "evolution-cms.com",
       "links": "4ad0a89d096e53d7e948918bb95c48fe382222e3",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "evolution-cms.com",
+      "links": "a002a0dd91e8b1e0d7fee0bd3aacd081a8a82b3c",
       "type": "certs",
       "ln": 2
     },
@@ -6435,6 +6471,12 @@
     {
       "host": "metatron.darkhaven.net",
       "links": "69f2d7d42daa9c08f816393c2dc05ca6e5e82ee5",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "metatron.darkhaven.net",
+      "links": "93a2a9f090fd4625d392cfe956f33100d8342159",
       "type": "certs",
       "ln": 2
     },
@@ -9662,6 +9704,12 @@
     },
     {
       "host": "v4.darkhaven.net",
+      "links": "93a2a9f090fd4625d392cfe956f33100d8342159",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "v4.darkhaven.net",
       "links": "a6861df4df0c785f3007cb426b94ee7052acc6f1",
       "type": "certs",
       "ln": 2
@@ -9681,6 +9729,12 @@
     {
       "host": "v6.darkhaven.net",
       "links": "69f2d7d42daa9c08f816393c2dc05ca6e5e82ee5",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "v6.darkhaven.net",
+      "links": "93a2a9f090fd4625d392cfe956f33100d8342159",
       "type": "certs",
       "ln": 2
     },
@@ -10994,6 +11048,12 @@
     },
     {
       "host": "www.dantaylor.us",
+      "links": "93a2a9f090fd4625d392cfe956f33100d8342159",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.dantaylor.us",
       "links": "a6861df4df0c785f3007cb426b94ee7052acc6f1",
       "type": "certs",
       "ln": 2
@@ -11247,6 +11307,12 @@
     {
       "host": "www.evolution-cms.com",
       "links": "4ad0a89d096e53d7e948918bb95c48fe382222e3",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.evolution-cms.com",
+      "links": "a002a0dd91e8b1e0d7fee0bd3aacd081a8a82b3c",
       "type": "certs",
       "ln": 2
     },
@@ -13099,6 +13165,12 @@
       "ln": 2
     },
     {
+      "host": "www.yesmls.com",
+      "links": "ee17b069e8368c6e41414e510869225473f1b408",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "www.zerchingloansspanish.com",
       "links": "0583a3efae17fb86bae6b737af341ee95a100b53",
       "type": "certs",
@@ -13291,9 +13363,21 @@
       "ln": 2
     },
     {
+      "host": "yesmls.com",
+      "links": "ee17b069e8368c6e41414e510869225473f1b408",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "yesmlspremium.com",
       "links": "3.14.194.204",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "yesmlspremium.com",
+      "links": "ee17b069e8368c6e41414e510869225473f1b408",
+      "type": "certs",
       "ln": 2
     },
     {

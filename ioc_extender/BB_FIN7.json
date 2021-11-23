@@ -73,6 +73,12 @@
       "ln": 2
     },
     {
+      "host": "keywordsance.com",
+      "links": "adfa6198bd1037c152a30481c73579e6c691e049",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "lf711117.justinstalledpanel.com",
       "links": "149.154.68.48",
       "type": "pdns",
@@ -82,6 +88,12 @@
       "host": "online.versatravel.ru",
       "links": "149.154.68.48",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "online.versatravel.ru",
+      "links": "adfa6198bd1037c152a30481c73579e6c691e049",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -100,6 +112,12 @@
       "host": "wisecrackism.com",
       "links": "92.63.105.58",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.online.versatravel.ru",
+      "links": "adfa6198bd1037c152a30481c73579e6c691e049",
+      "type": "certs",
       "ln": 2
     }
   ]
