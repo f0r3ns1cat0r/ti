@@ -697,6 +697,12 @@
       "ln": 2
     },
     {
+      "host": "ns1.microsoftsonline.net",
+      "links": "da79848954d60beb853d12e34a0f445a919d698b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "ns1.securednsservice.net",
       "links": "192.169.7.136",
       "type": "pdns",

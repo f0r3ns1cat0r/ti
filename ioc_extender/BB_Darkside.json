@@ -37,8 +37,20 @@
       "ln": 2
     },
     {
+      "host": "eyetomsky.com",
+      "links": "ca4d4fed1782e95e03d60624d1d916492fc480b0",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "login.eyetomsky.com",
       "links": "38a9b4c1ee60558f61ab50942b57c644e4c15424",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "login.eyetomsky.com",
+      "links": "ca4d4fed1782e95e03d60624d1d916492fc480b0",
       "type": "certs",
       "ln": 2
     },

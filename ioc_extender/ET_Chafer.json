@@ -583,6 +583,12 @@
       "ln": 2
     },
     {
+      "host": "ns1.microsoftsonline.net",
+      "links": "da79848954d60beb853d12e34a0f445a919d698b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "ns1.mycrossweb.com",
       "links": "51.68.136.30",
       "type": "pdns",
