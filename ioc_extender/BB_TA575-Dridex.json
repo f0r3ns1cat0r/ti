@@ -422,6 +422,12 @@
     },
     {
       "host": "BB Threat Research: TA575-Dridex",
+      "links": "bluelink.co",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "BB Threat Research: TA575-Dridex",
       "links": "breadxfishllc.com",
       "type": "z",
       "ln": 2
@@ -927,6 +933,12 @@
     {
       "host": "alert.notify-epay.com",
       "links": "31.42.177.51",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "aliasintelligence.com",
+      "links": "108.139.1.38",
       "type": "pdns",
       "ln": 2
     },
@@ -1449,12 +1461,6 @@
     {
       "host": "asklsc.com",
       "links": "18.194.82.179",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "auth.ec.linicalworks.com",
-      "links": "3.129.9.39",
       "type": "pdns",
       "ln": 2
     },
@@ -2293,6 +2299,30 @@
       "ln": 2
     },
     {
+      "host": "bluelink.co",
+      "links": "108.138.246.102",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "bluelink.co",
+      "links": "108.138.246.55",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "bluelink.co",
+      "links": "108.138.246.61",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "bluelink.co",
+      "links": "108.138.246.96",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "boardgamesquare.com",
       "links": "bb115e0fc99ec38bbb585a2dade63ca00f36c716",
       "type": "certs",
@@ -2755,12 +2785,6 @@
       "ln": 2
     },
     {
-      "host": "claim-mex.com",
-      "links": "45.153.241.89",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "clientgeneration.co",
       "links": "139.180.163.253",
       "type": "pdns",
@@ -2806,6 +2830,12 @@
       "host": "com.au",
       "links": "d73c80655d305bc81be1fc7c055618ac08a4cf97",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "confin.live",
+      "links": "108.138.246.102",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -2884,6 +2914,12 @@
       "host": "coryelldemocrats.com",
       "links": "b85237f195b6119b9ce453937d83c2d763c21e21",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "count-server.sharethis.com",
+      "links": "108.138.246.61",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -3543,6 +3579,12 @@
     {
       "host": "d1q9ljqir4kc24.cloudfront.net",
       "links": "13.225.142.42",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "d2idu5mmj5r5g3.cloudfront.net",
+      "links": "108.139.1.38",
       "type": "pdns",
       "ln": 2
     },
@@ -4238,12 +4280,6 @@
     },
     {
       "host": "docusign.sbs",
-      "links": "3.129.9.39",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "docusign.sbs",
       "links": "3.137.178.143",
       "type": "pdns",
       "ln": 2
@@ -4395,12 +4431,6 @@
     {
       "host": "e4jduanp5dez.cloudmaestro.com",
       "links": "34.197.161.191",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "eclinicalworks.works",
-      "links": "3.129.9.39",
       "type": "pdns",
       "ln": 2
     },
@@ -4712,12 +4742,6 @@
     },
     {
       "host": "expensify.online",
-      "links": "3.129.9.39",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "expensify.online",
       "links": "3.137.178.143",
       "type": "pdns",
       "ln": 2
@@ -4738,6 +4762,18 @@
       "host": "fb-staging.doctolib.fr",
       "links": "bb115e0fc99ec38bbb585a2dade63ca00f36c716",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "fbprod.flipboard.com",
+      "links": "108.138.246.102",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "fbprod.flipboard.com",
+      "links": "108.138.246.55",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -5330,6 +5366,18 @@
     },
     {
       "host": "happyvalleybets.com",
+      "links": "108.139.1.38",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "happyvalleybets.com",
+      "links": "108.139.1.51",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "happyvalleybets.com",
       "links": "13.225.142.100",
       "type": "pdns",
       "ln": 2
@@ -5551,8 +5599,8 @@
       "ln": 2
     },
     {
-      "host": "icalworks.com",
-      "links": "3.129.9.39",
+      "host": "husfly.com",
+      "links": "108.138.246.61",
       "type": "pdns",
       "ln": 2
     },
@@ -5785,6 +5833,12 @@
       "ln": 2
     },
     {
+      "host": "ilpost.link",
+      "links": "108.138.246.96",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "imperva.com",
       "links": "22c62cf246ecaa39e8e92e84dd82e03d68aff633",
       "type": "certs",
@@ -5860,12 +5914,6 @@
       "host": "incapsula.com",
       "links": "b740543686ed422676b8dd817da36c64a783490a",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "inicalworks.com",
-      "links": "3.129.9.39",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -5968,6 +6016,12 @@
       "host": "integral.openorders.app",
       "links": "ea6919bf367f447052c04c6e1ff4691a6193478d",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "intermediates.downdogapp.com",
+      "links": "108.138.246.102",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -6328,12 +6382,6 @@
       "host": "life-energy.net",
       "links": "df39b61f6aab4ffa0522a3d3b850d0e9257c0eb0",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "linicalworks.com",
-      "links": "3.129.9.39",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -7249,6 +7297,12 @@
       "ln": 2
     },
     {
+      "host": "morsecode.ninja",
+      "links": "108.138.246.96",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "multiplier.group",
       "links": "139.180.163.253",
       "type": "pdns",
@@ -7795,6 +7849,12 @@
       "ln": 2
     },
     {
+      "host": "octopuos.io",
+      "links": "108.139.1.51",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "oefhnveb5ej7.cloudmaestro.com",
       "links": "107.23.11.241",
       "type": "pdns",
@@ -8155,6 +8215,12 @@
       "ln": 2
     },
     {
+      "host": "petrockplush.com",
+      "links": "108.138.246.61",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "pharmer.dev",
       "links": "ea6919bf367f447052c04c6e1ff4691a6193478d",
       "type": "certs",
@@ -8499,6 +8565,12 @@
     {
       "host": "protonmail.com",
       "links": "185.70.42.12",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "przestoj.pl",
+      "links": "108.138.246.96",
       "type": "pdns",
       "ln": 2
     },
@@ -9175,6 +9247,12 @@
       "ln": 2
     },
     {
+      "host": "sigma-squared.org",
+      "links": "108.138.246.55",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "simplyjaserah.com",
       "links": "0583a3efae17fb86bae6b737af341ee95a100b53",
       "type": "certs",
@@ -9382,12 +9460,6 @@
       "host": "somepoemsyoumightlike.com",
       "links": "b85237f195b6119b9ce453937d83c2d763c21e21",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "sophos-pro.com",
-      "links": "3.129.9.39",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -9621,12 +9693,6 @@
     {
       "host": "stocklink.xyz",
       "links": "145.239.107.153",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "sts.ec.linicalworks.com",
-      "links": "3.129.9.39",
       "type": "pdns",
       "ln": 2
     },
@@ -10489,12 +10555,6 @@
       "ln": 2
     },
     {
-      "host": "wallet.elruond.com",
-      "links": "45.153.241.89",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "web.arnoldrender.de",
       "links": "3d3433fe8c357928eabfcb3d7eb6afcf236f5585",
       "type": "certs",
@@ -11089,6 +11149,12 @@
       "ln": 2
     },
     {
+      "host": "ws.chat.olx.pl",
+      "links": "108.138.246.96",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "www.12-step.live",
       "links": "ea6919bf367f447052c04c6e1ff4691a6193478d",
       "type": "certs",
@@ -11362,12 +11428,6 @@
       "host": "www.arnottslodge.com",
       "links": "b85237f195b6119b9ce453937d83c2d763c21e21",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "www.auth.ec.linicalworks.com",
-      "links": "3.129.9.39",
-      "type": "pdns",
       "ln": 2
     },
     {
