@@ -721,6 +721,12 @@
       "ln": 2
     },
     {
+      "host": "fromkisjfoadfs.store",
+      "links": "9c73f26d08c80392fcf32de60e43cfc5586b26f8",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "gacorcuy.com",
       "links": "4d8e2becdfb0a3309e46e243b1f98b46ae049d36",
       "type": "certs",
@@ -1615,9 +1621,9 @@
       "ln": 2
     },
     {
-      "host": "ru.jquery-ssl.com",
-      "links": "80.249.149.129",
-      "type": "pdns",
+      "host": "refa33.store",
+      "links": "9c73f26d08c80392fcf32de60e43cfc5586b26f8",
+      "type": "certs",
       "ln": 2
     },
     {

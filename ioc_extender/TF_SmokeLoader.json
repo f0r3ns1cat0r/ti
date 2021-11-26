@@ -217,6 +217,12 @@
       "ln": 2
     },
     {
+      "host": "a.startoftrackbyc.com",
+      "links": "187.156.119.65",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "admin.admin.admin.admin.admin.blackpass.info",
       "links": "179.38.113.243",
       "type": "pdns",
@@ -1526,12 +1532,6 @@
     },
     {
       "host": "admin.admin.securebiz.org",
-      "links": "177.98.129.71",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.securebiz.org",
       "links": "187.170.242.180",
       "type": "pdns",
       "ln": 2
@@ -2332,12 +2332,6 @@
       "host": "ashevillevegans.tech.blog",
       "links": "1d12ea2b595ead21aacb57cc9ea33795adee98b2",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "atvcampingtrips.com",
-      "links": "177.98.129.71",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -3602,6 +3596,12 @@
     },
     {
       "host": "membro.at",
+      "links": "187.156.119.65",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "membro.at",
       "links": "187.156.23.225",
       "type": "pdns",
       "ln": 2
@@ -3639,6 +3639,12 @@
     {
       "host": "membro.at",
       "links": "201.103.204.1",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "membro.at",
+      "links": "201.124.33.88",
       "type": "pdns",
       "ln": 2
     },
@@ -3788,6 +3794,12 @@
     },
     {
       "host": "misha.at",
+      "links": "187.156.119.65",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "misha.at",
       "links": "187.156.125.180",
       "type": "pdns",
       "ln": 2
@@ -3849,6 +3861,12 @@
     {
       "host": "misha.at",
       "links": "201.103.204.1",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "misha.at",
+      "links": "201.124.33.88",
       "type": "pdns",
       "ln": 2
     },
@@ -4262,12 +4280,6 @@
     },
     {
       "host": "securebiz.org",
-      "links": "177.98.129.71",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "securebiz.org",
       "links": "187.170.242.180",
       "type": "pdns",
       "ln": 2
@@ -4317,6 +4329,18 @@
     {
       "host": "srtuiyhuali.at",
       "links": "187.212.186.104",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "srtuiyhuali.at",
+      "links": "201.124.33.88",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "srtuiyhuali.at",
+      "links": "211.171.233.127",
       "type": "pdns",
       "ln": 2
     },

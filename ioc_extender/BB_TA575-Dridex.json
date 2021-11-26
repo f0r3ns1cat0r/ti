@@ -1123,6 +1123,12 @@
       "ln": 2
     },
     {
+      "host": "api.themoviedb.org",
+      "links": "108.138.246.55",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "app.arnoldrender.de",
       "links": "3d3433fe8c357928eabfcb3d7eb6afcf236f5585",
       "type": "certs",
@@ -3595,6 +3601,12 @@
       "ln": 2
     },
     {
+      "host": "d3fmj8i9t8k2ey.cloudfront.net",
+      "links": "108.138.246.96",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "dadiao88.xyz",
       "links": "e5696d3c1872c8ab002ae6f27ce2be5163c5a226",
       "type": "certs",
@@ -3982,6 +3994,12 @@
       "host": "dcmcontracting.net",
       "links": "4459504a51193b5fa1cfe2c370f59bc99528032f",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "dd0lkvdzkf1g0.cloudfront.net",
+      "links": "108.139.1.51",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -9883,6 +9901,12 @@
       "ln": 2
     },
     {
+      "host": "terrafrom.io",
+      "links": "108.138.246.61",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "terratechconsultants.com",
       "links": "0583a3efae17fb86bae6b737af341ee95a100b53",
       "type": "certs",
@@ -10185,6 +10209,12 @@
     {
       "host": "tihomes.com",
       "links": "3.1.214.119",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "tiktok.com",
+      "links": "108.138.246.55",
       "type": "pdns",
       "ln": 2
     },
@@ -10528,6 +10558,12 @@
       "host": "v6.darkhaven.net",
       "links": "a6861df4df0c785f3007cb426b94ee7052acc6f1",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "visitsignal.com",
+      "links": "108.138.246.96",
+      "type": "pdns",
       "ln": 2
     },
     {
