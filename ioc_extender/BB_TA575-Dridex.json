@@ -2329,6 +2329,12 @@
       "ln": 2
     },
     {
+      "host": "bnbt-group.com",
+      "links": "108.139.1.20",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "boardgamesquare.com",
       "links": "bb115e0fc99ec38bbb585a2dade63ca00f36c716",
       "type": "certs",
@@ -2805,6 +2811,12 @@
     {
       "host": "clienthq.co",
       "links": "139.180.163.253",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cmimath.com",
+      "links": "108.138.246.55",
       "type": "pdns",
       "ln": 2
     },
@@ -3583,8 +3595,20 @@
       "ln": 2
     },
     {
+      "host": "d17ndjuagurpsr.cloudfront.net",
+      "links": "108.138.246.55",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "d1q9ljqir4kc24.cloudfront.net",
       "links": "13.225.142.42",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "d1twj4iwyvfk0l.cloudfront.net",
+      "links": "108.138.246.102",
       "type": "pdns",
       "ln": 2
     },
@@ -4555,6 +4579,12 @@
       "ln": 2
     },
     {
+      "host": "eukufundent.xyz",
+      "links": "108.138.246.61",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "europasia.wris.co",
       "links": "128.199.243.169",
       "type": "pdns",
@@ -5396,6 +5426,12 @@
     },
     {
       "host": "happyvalleybets.com",
+      "links": "108.139.1.84",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "happyvalleybets.com",
       "links": "13.225.142.100",
       "type": "pdns",
       "ln": 2
@@ -6061,6 +6097,12 @@
       "ln": 2
     },
     {
+      "host": "jingisukansakaba-yamadaya.com",
+      "links": "108.139.1.84",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "jisuysw.xyz",
       "links": "daad82709e747bf44cd7a4bba841531e61c1301e",
       "type": "certs",
@@ -6295,9 +6337,21 @@
       "ln": 2
     },
     {
+      "host": "ldsync.com",
+      "links": "108.139.1.51",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "leadbotz.com",
       "links": "b85237f195b6119b9ce453937d83c2d763c21e21",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "leadingcashsystems.com",
+      "links": "108.139.1.51",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -7087,6 +7141,12 @@
       "ln": 2
     },
     {
+      "host": "mexico-healthquestionnaire.com",
+      "links": "108.138.246.55",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "miapple.ca",
       "links": "0583a3efae17fb86bae6b737af341ee95a100b53",
       "type": "certs",
@@ -7303,6 +7363,12 @@
       "ln": 2
     },
     {
+      "host": "montage-contents.samsungiotcloud.com",
+      "links": "108.138.246.55",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "morningwar.xyz",
       "links": "80.253.244.101",
       "type": "pdns",
@@ -7341,6 +7407,12 @@
     {
       "host": "myeasymove.sdlauctions.co.uk",
       "links": "139.162.202.74",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mylearningcentre.xyz",
+      "links": "108.138.246.102",
       "type": "pdns",
       "ln": 2
     },
@@ -7420,6 +7492,12 @@
       "host": "nancyrutter.com",
       "links": "b85237f195b6119b9ce453937d83c2d763c21e21",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "netflixnochebuena.com",
+      "links": "108.138.246.55",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -8317,6 +8395,12 @@
       "ln": 2
     },
     {
+      "host": "poulsboartofhealth.com",
+      "links": "108.139.1.38",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "powerstep.com",
       "links": "18.207.90.8",
       "type": "pdns",
@@ -8901,6 +8985,12 @@
     {
       "host": "rescueconnection.ci.san-marcos.tx.us",
       "links": "64.224.206.35",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "revojok.com",
+      "links": "108.139.1.84",
       "type": "pdns",
       "ln": 2
     },
@@ -9879,6 +9969,12 @@
     {
       "host": "telcodata.us",
       "links": "5e5c7ccc54bd9d83a8972a52abd7e627d4ff067b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "telcodata.us",
+      "links": "a48511690599ed987c514cabc2425c357033cc49",
       "type": "certs",
       "ln": 2
     },
@@ -14661,6 +14757,12 @@
     {
       "host": "zorak.telcodata.us",
       "links": "5e5c7ccc54bd9d83a8972a52abd7e627d4ff067b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "zorak.telcodata.us",
+      "links": "a48511690599ed987c514cabc2425c357033cc49",
       "type": "certs",
       "ln": 2
     },
