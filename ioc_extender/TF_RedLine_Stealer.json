@@ -25,6 +25,12 @@
       "ln": 2
     },
     {
+      "host": "146-185-239-5.cprapid.com",
+      "links": "146.185.239.5",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ThreatFox: RedLine Stealer",
       "links": "denverbbq.net",
       "type": "z",
@@ -62,6 +68,12 @@
     },
     {
       "host": "ThreatFox: RedLine Stealer",
+      "links": "jaromawanave.xyz",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: RedLine Stealer",
       "links": "manazyxsa.xyz",
       "type": "z",
       "ln": 2
@@ -93,6 +105,12 @@
     {
       "host": "ThreatFox: RedLine Stealer",
       "links": "topstart.site",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: RedLine Stealer",
+      "links": "viehostra.xyz",
       "type": "z",
       "ln": 2
     },
@@ -535,6 +553,18 @@
       "ln": 2
     },
     {
+      "host": "ip67.ip-51-79-57.net",
+      "links": "51.79.57.67",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "jaromawanave.xyz",
+      "links": "146.185.239.5",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "jgh.pilotzone.site",
       "links": "0c85fe63c3e652c4d3fbd3c6726fa6ca70b8f461",
       "type": "certs",
@@ -628,6 +658,12 @@
       "host": "mousehoused.site",
       "links": "77380c80933313fd7e7b52a445e17ec964e94335",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mywildlifecalendar.com",
+      "links": "146.185.239.5",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -1048,6 +1084,12 @@
       "host": "vg.topstart.site",
       "links": "09b12ada43368507714bbb8948f63b2ad9f70b69",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "viehostra.xyz",
+      "links": "51.79.57.67",
+      "type": "pdns",
       "ln": 2
     },
     {

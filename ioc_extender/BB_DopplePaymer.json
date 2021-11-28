@@ -56,6 +56,12 @@
     },
     {
       "host": "srv04.unique-design.nl",
+      "links": "193.34.166.213",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "srv04.unique-design.nl",
       "links": "a73a4734d2a37857a2ec9a0b7063cea712ba35db",
       "type": "certs",
       "ln": 2

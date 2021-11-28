@@ -29,6 +29,18 @@
       "links": "zuppohealth.com",
       "type": "z",
       "ln": 2
+    },
+    {
+      "host": "nlmain20.email",
+      "links": "185.81.114.138",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "zuppohealth.com",
+      "links": "185.81.114.138",
+      "type": "pdns",
+      "ln": 2
     }
   ]
 }

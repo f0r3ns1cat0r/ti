@@ -1514,6 +1514,12 @@
     },
     {
       "host": "nacuasujciiwi3.xyz",
+      "links": "94.158.245.69",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "nacuasujciiwi3.xyz",
       "links": "af45f6035c17cd809e33c46b116e5aed11edcef0",
       "type": "certs",
       "ln": 2
@@ -2152,6 +2158,12 @@
       "host": "sadivuuvua.xyz",
       "links": "7b6b19272b89152e26135096877df13f54f9cd9f",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "sadivuuvua.xyz",
+      "links": "94.158.245.69",
+      "type": "pdns",
       "ln": 2
     },
     {

@@ -85,6 +85,18 @@
       "ln": 2
     },
     {
+      "host": "bbb.edu-cisco.org",
+      "links": "85.93.88.165",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "bbb.edu-cisco.org",
+      "links": "dca4a29b711e656b72c67fa704bbe1b9481d37f2",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "clublatino.xyz",
       "links": "162.244.80.181",
       "type": "pdns",
@@ -118,6 +130,12 @@
       "host": "macrodown.com",
       "links": "85.93.88.165",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "macrodown.com",
+      "links": "dca4a29b711e656b72c67fa704bbe1b9481d37f2",
+      "type": "certs",
       "ln": 2
     },
     {

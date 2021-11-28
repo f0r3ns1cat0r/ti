@@ -92,6 +92,12 @@
     },
     {
       "host": "ThreatFox: BazarBackdoor",
+      "links": "tribegloverd.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: BazarBackdoor",
       "links": "vystarcu.space",
       "type": "z",
       "ln": 2
@@ -163,6 +169,12 @@
       "ln": 2
     },
     {
+      "host": "idahowelding.org",
+      "links": "194.62.42.148",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "insaneico2013b.com",
       "links": "194.62.42.115",
       "type": "pdns",
@@ -225,6 +237,12 @@
     {
       "host": "topproperty1998b.com",
       "links": "194.62.42.45",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "tribegloverd.com",
+      "links": "194.62.42.148",
       "type": "pdns",
       "ln": 2
     },
