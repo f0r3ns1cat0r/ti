@@ -254,6 +254,12 @@
     },
     {
       "host": "eter101.dvrlists.com",
+      "links": "191.101.130.129",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "eter101.dvrlists.com",
       "links": "23.94.54.233",
       "type": "pdns",
       "ln": 2
@@ -261,6 +267,12 @@
     {
       "host": "eter102.dvrlists.com",
       "links": "185.140.53.221",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "eter102.dvrlists.com",
+      "links": "191.101.130.129",
       "type": "pdns",
       "ln": 2
     },
@@ -385,8 +397,8 @@
       "ln": 2
     },
     {
-      "host": "podzeye.duckdns.org",
-      "links": "79.134.225.37",
+      "host": "palmetto22.ddns.net",
+      "links": "191.101.130.4",
       "type": "pdns",
       "ln": 2
     },
@@ -482,6 +494,12 @@
     },
     {
       "host": "salford1.ddns.net",
+      "links": "191.101.130.4",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "salford1.ddns.net",
       "links": "217.64.149.78",
       "type": "pdns",
       "ln": 2
@@ -489,6 +507,12 @@
     {
       "host": "salford2.ddns.net",
       "links": "185.86.106.246",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "salford2.ddns.net",
+      "links": "191.101.130.4",
       "type": "pdns",
       "ln": 2
     },
@@ -501,6 +525,12 @@
     {
       "host": "salford3.ddns.net",
       "links": "185.86.106.246",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "salford3.ddns.net",
+      "links": "191.101.130.4",
       "type": "pdns",
       "ln": 2
     },

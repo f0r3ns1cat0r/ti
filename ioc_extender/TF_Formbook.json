@@ -1291,6 +1291,18 @@
       "ln": 2
     },
     {
+      "host": "ecomheroes.dev",
+      "links": "4cc0e649f820c68e67280af7ecb14e81b036819c",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "ecomheroes.dev",
+      "links": "89ac4899727d9f85714de2eb0c3041c2608584fd",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "erpnext.thebahrimedia.com",
       "links": "66.29.133.79",
       "type": "pdns",
@@ -3226,6 +3238,18 @@
       "host": "www.magetu.info",
       "links": "162.0.216.35",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.magetu.info",
+      "links": "4cc0e649f820c68e67280af7ecb14e81b036819c",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.magetu.info",
+      "links": "89ac4899727d9f85714de2eb0c3041c2608584fd",
+      "type": "certs",
       "ln": 2
     },
     {

@@ -1603,6 +1603,12 @@
       "ln": 2
     },
     {
+      "host": "click-collect.link",
+      "links": "233dc7c632eb4774476d700031f1795fefad39f4",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "click-collect.sale",
       "links": "0dc95187933afbb5a002e7bde78be6821c02eb3e",
       "type": "certs",
@@ -1701,6 +1707,12 @@
     {
       "host": "dataplane.theyardservice.com",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "dataquazar-tools.net",
+      "links": "233dc7c632eb4774476d700031f1795fefad39f4",
       "type": "certs",
       "ln": 2
     },
@@ -1891,6 +1903,12 @@
       "ln": 2
     },
     {
+      "host": "ee23072.com",
+      "links": "233dc7c632eb4774476d700031f1795fefad39f4",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "effective-eq.com",
       "links": "195.123.246.121",
       "type": "pdns",
@@ -1912,12 +1930,6 @@
       "host": "essayx.xyz",
       "links": "37fe1a6d44b89d2d613ee65b440b9c6c46bce1c9",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "exchange.tosayoj.com",
-      "links": "23.81.246.189",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -2793,6 +2805,12 @@
     {
       "host": "misirhan.ga",
       "links": "0dc95187933afbb5a002e7bde78be6821c02eb3e",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "ml3656.com",
+      "links": "233dc7c632eb4774476d700031f1795fefad39f4",
       "type": "certs",
       "ln": 2
     },
