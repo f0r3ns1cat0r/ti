@@ -1,0 +1,682 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "1oo7.net",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: APT28",
+      "links": "reasonwithusefulpolicy.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: APT28",
+      "links": "schooltillhungryprocess.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "accounts.ukr.net.checklogin.userarea.click",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "accounts.ukr.net.userarea.click",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "adobeincorp.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "aeroservicemax.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "akamaisoftupdate.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cdn-nrdata.live",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "checklogin.in",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "checkmalware.info",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ciscosupports.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cmdswitch.xyz",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "com.checklogin.in",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cpanel.shotgumscy.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "dancemusicstream.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "daysheduler.org",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "doorbehindentirerelationship.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "eservicesystems.net",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "esetsmart.org",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "extstat.info",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "facebook.com.checklogin.in",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "familynearbysuitablenumber.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "faststoragefiles.org",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "fbapp.link",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "fundseats.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "google-settingsapi.fbapp.link",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "groupsincevisibleend.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "historicalfilms720hd.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hostapp.link",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hostmaster.cmdswitch.xyz",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hostmaster.daysheduler.org",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hostmaster.doorbehindentirerelationship.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hostmaster.extstat.info",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hostmaster.familynearbysuitablenumber.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hostmaster.faststoragefiles.org",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hostmaster.historicalfilms720hd.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hostmaster.hourduringstrictsense.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hostmaster.kenlynton.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hostmaster.linuxkrnl.net",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hostmaster.systembetweendifficultquality.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hostmaster.tablebeforehelpfulperson.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hostmaster.userzone.one",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hostmaster.webcache.one",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hostmaster.winupdatesysmic.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hourduringstrictsense.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "i.ua.account-check.hostapp.link",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "intelmeserver.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "kenlynton.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "linuxkrnl.net",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "login-yahoo.fbapp.link",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.1oo7.net",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.akamaisoftupdate.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.bg.userarea.click",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.eservicesystems.net",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.linuxkrnl.net",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.msrdr.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.msrwr.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.reservecorpind.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.shotgumscy.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.topcinemaclub.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.umizg.org",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.updatesystems.net",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.winupdatesysmic.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "memcached.in",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "moldtravelgroup.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "msfontserver.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "msrole.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "msrwr.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "nationalzonehouse.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "newfilmts.org",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.eservicesystems.net",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.msrole.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.updatesystems.net",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.winupdatesysmic.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.eservicesystems.net",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.msrole.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.updatesystems.net",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.winupdatesysmic.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "outlook-update.live",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "passport.abv.bg.userarea.click",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "powerfromfamousbank.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "powernoderesources.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "reasonwithusefulpolicy.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "reservecorpind.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "scalingreserve.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "schooltillhungryprocess.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "shotgumscy.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "soft-storage.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "soligro.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "systembetweendifficultquality.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "tablebeforehelpfulperson.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "topcinemaclub.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "twitter.com.checklogin.in",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "twitter.com.webapp.memcached.in",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "umizg.org",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "updatesystems.net",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "userarea.click",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "userarea.top",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "userzone.one",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "utmserver.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "virtsvc.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "webcache.one",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "webdisk.shotgumscy.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "webmail.shotgumscy.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "winupdatesysmic.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.esetsmart.org",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.extstat.info",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.nationalzonehouse.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.shotgumscy.com",
+      "links": "52.45.178.122",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

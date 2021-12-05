@@ -163,12 +163,6 @@
       "ln": 2
     },
     {
-      "host": "88527.hosted-by-virtualdc.ru",
-      "links": "185.120.57.215",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "8888.google",
       "links": "0dc95187933afbb5a002e7bde78be6821c02eb3e",
       "type": "certs",
@@ -219,6 +213,12 @@
     {
       "host": "ThreatFox: Cobalt Strike",
       "links": "answersfromtheadvisors.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Cobalt Strike",
+      "links": "arctiusa.com",
       "type": "z",
       "ln": 2
     },
@@ -542,12 +542,6 @@
     },
     {
       "host": "ThreatFox: Cobalt Strike",
-      "links": "howiwo.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: Cobalt Strike",
       "links": "hubojo.com",
       "type": "z",
       "ln": 2
@@ -555,12 +549,6 @@
     {
       "host": "ThreatFox: Cobalt Strike",
       "links": "hufamal.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: Cobalt Strike",
-      "links": "hulixo.com",
       "type": "z",
       "ln": 2
     },
@@ -674,19 +662,7 @@
     },
     {
       "host": "ThreatFox: Cobalt Strike",
-      "links": "loopcareer.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: Cobalt Strike",
       "links": "macrodown.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: Cobalt Strike",
-      "links": "macuwuf.com",
       "type": "z",
       "ln": 2
     },
@@ -842,12 +818,6 @@
     },
     {
       "host": "ThreatFox: Cobalt Strike",
-      "links": "rusoti.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: Cobalt Strike",
       "links": "salitue8.com",
       "type": "z",
       "ln": 2
@@ -879,12 +849,6 @@
     {
       "host": "ThreatFox: Cobalt Strike",
       "links": "shopyscripts.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: Cobalt Strike",
-      "links": "sitehealthcheck.org",
       "type": "z",
       "ln": 2
     },
@@ -1017,12 +981,6 @@
     {
       "host": "ThreatFox: Cobalt Strike",
       "links": "vivaklo.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: Cobalt Strike",
-      "links": "vonavu.com",
       "type": "z",
       "ln": 2
     },
@@ -1370,12 +1328,6 @@
     },
     {
       "host": "bankingshoestohome.com",
-      "links": "185.120.57.215",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "bankingshoestohome.com",
       "links": "185.188.182.132",
       "type": "pdns",
       "ln": 2
@@ -1492,6 +1444,12 @@
       "host": "bluecratemilk.com",
       "links": "216edef2f26a94071007aab8ec5e36c6b072c949",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "bluefinanceandtech.com",
+      "links": "162.244.81.10",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -1790,12 +1748,6 @@
     },
     {
       "host": "dibilwithdibil.net",
-      "links": "185.120.57.215",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "dibilwithdibil.net",
       "links": "185.195.25.72",
       "type": "pdns",
       "ln": 2
@@ -1869,12 +1821,6 @@
     {
       "host": "download.google-images.ml",
       "links": "37.61.205.212",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "download.nordvpnfree.com",
-      "links": "176.121.14.49",
       "type": "pdns",
       "ln": 2
     },
@@ -1993,20 +1939,8 @@
       "ln": 2
     },
     {
-      "host": "findoutgoldthere.net",
-      "links": "185.120.57.215",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "findyournewdomainname.net",
       "links": "176.118.164.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "findyournewdomainname.net",
-      "links": "185.120.57.215",
       "type": "pdns",
       "ln": 2
     },
@@ -2037,12 +1971,6 @@
     {
       "host": "fishsmokelab.net",
       "links": "176.118.164.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "fishsmokelab.net",
-      "links": "185.120.57.215",
       "type": "pdns",
       "ln": 2
     },
@@ -2134,12 +2062,6 @@
       "host": "gandmar.xyz",
       "links": "233dc7c632eb4774476d700031f1795fefad39f4",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "gitlab.wiwege.com",
-      "links": "23.83.133.29",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -2283,12 +2205,6 @@
     {
       "host": "https-center.net",
       "links": "176.118.164.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "https-center.net",
-      "links": "185.120.57.215",
       "type": "pdns",
       "ln": 2
     },
@@ -2569,12 +2485,6 @@
       "ln": 2
     },
     {
-      "host": "loopcareer.com",
-      "links": "176.121.14.49",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "lovemoment.xyz",
       "links": "233dc7c632eb4774476d700031f1795fefad39f4",
       "type": "certs",
@@ -2659,6 +2569,12 @@
       "ln": 2
     },
     {
+      "host": "mail.bluefinanceandtech.com",
+      "links": "162.244.81.10",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "mail.cloud-documents.com",
       "links": "3.214.68.117",
       "type": "pdns",
@@ -2679,12 +2595,6 @@
     {
       "host": "mail.nefida.com",
       "links": "23.106.223.105",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mail.sitehealthcheck.org",
-      "links": "34.203.235.59",
       "type": "pdns",
       "ln": 2
     },
@@ -2924,12 +2834,6 @@
     },
     {
       "host": "newdomainfornewdomain.net",
-      "links": "185.120.57.215",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "newdomainfornewdomain.net",
       "links": "185.173.37.186",
       "type": "pdns",
       "ln": 2
@@ -2956,12 +2860,6 @@
       "host": "nilimaadagency.com",
       "links": "216edef2f26a94071007aab8ec5e36c6b072c949",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "nordvpnfree.com",
-      "links": "176.121.14.49",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -3001,6 +2899,12 @@
       "ln": 2
     },
     {
+      "host": "ns1.bluefinanceandtech.com",
+      "links": "162.244.81.10",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ns1.gabriel.host",
       "links": "162.244.82.249",
       "type": "pdns",
@@ -3025,6 +2929,12 @@
       "ln": 2
     },
     {
+      "host": "ns2.bluefinanceandtech.com",
+      "links": "162.244.81.10",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ns2.jesage.com",
       "links": "172.93.201.138",
       "type": "pdns",
@@ -3033,12 +2943,6 @@
     {
       "host": "oldboytakecar.net",
       "links": "176.118.164.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "oldboytakecar.net",
-      "links": "185.120.57.215",
       "type": "pdns",
       "ln": 2
     },
@@ -3080,7 +2984,19 @@
     },
     {
       "host": "onembr.com",
+      "links": "162.244.81.10",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "onembr.com",
       "links": "3a9827cfea1293276cb852d78fec6873cb787304",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "onembr.com",
+      "links": "bd535029c318862b51640381c7bc9b9538a9fbac",
       "type": "certs",
       "ln": 2
     },
@@ -3136,6 +3052,12 @@
       "host": "paxobuy.com",
       "links": "108.62.118.236",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "pensive-bell.162-244-81-10.plesk.page",
+      "links": "bd535029c318862b51640381c7bc9b9538a9fbac",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -3205,6 +3127,12 @@
       "ln": 2
     },
     {
+      "host": "qmmqm.com",
+      "links": "233dc7c632eb4774476d700031f1795fefad39f4",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "qorunegolu.club",
       "links": "37.120.222.205",
       "type": "pdns",
@@ -3219,6 +3147,12 @@
     {
       "host": "rawfuns.com",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "rffrf.com",
+      "links": "233dc7c632eb4774476d700031f1795fefad39f4",
       "type": "certs",
       "ln": 2
     },
@@ -3350,6 +3284,12 @@
     },
     {
       "host": "sharp-nobel.162-244-81-10.plesk.page",
+      "links": "162.244.81.10",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "sharp-nobel.162-244-81-10.plesk.page",
       "links": "3a9827cfea1293276cb852d78fec6873cb787304",
       "type": "certs",
       "ln": 2
@@ -3364,12 +3304,6 @@
       "host": "shopyscripts.com",
       "links": "216edef2f26a94071007aab8ec5e36c6b072c949",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "sitehealthcheck.org",
-      "links": "34.203.235.59",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -3578,12 +3512,6 @@
     },
     {
       "host": "tosayoj.com",
-      "links": "23.81.246.189",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "tosayoj.com",
       "links": "6c634d1979c38d776713b965ee14c6cf43a3e62a",
       "type": "certs",
       "ln": 2
@@ -3769,12 +3697,6 @@
       "ln": 2
     },
     {
-      "host": "wiwege.com",
-      "links": "23.83.133.29",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "wlthplum.com",
       "links": "18.196.101.17",
       "type": "pdns",
@@ -3789,6 +3711,12 @@
     {
       "host": "wlthplum.com",
       "links": "da874fd45768af4e15154e08e67c4aa43f2b1973",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "woodmouatassim.com",
+      "links": "233dc7c632eb4774476d700031f1795fefad39f4",
       "type": "certs",
       "ln": 2
     },
@@ -3860,12 +3788,6 @@
     },
     {
       "host": "www.https-center.net",
-      "links": "185.120.57.215",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.https-center.net",
       "links": "185.195.25.72",
       "type": "pdns",
       "ln": 2
@@ -3874,12 +3796,6 @@
       "host": "www.komdsecko.net",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "www.landcook.com",
-      "links": "173.234.155.146",
-      "type": "pdns",
       "ln": 2
     },
     {

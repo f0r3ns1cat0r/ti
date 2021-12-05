@@ -91,6 +91,12 @@
       "ln": 2
     },
     {
+      "host": "31-42-177-52.cprapid.com",
+      "links": "31.42.177.52",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "3akip.com",
       "links": "bb115e0fc99ec38bbb585a2dade63ca00f36c716",
       "type": "certs",
@@ -393,6 +399,12 @@
     {
       "host": "BB Threat Research: TA575-Dridex",
       "links": "afis.ch",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "BB Threat Research: TA575-Dridex",
+      "links": "aforealtors.com",
       "type": "z",
       "ln": 2
     },
@@ -764,6 +776,12 @@
     },
     {
       "host": "BB Threat Research: TA575-Dridex",
+      "links": "tapnconnect.ca",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "BB Threat Research: TA575-Dridex",
       "links": "telcodata.us",
       "type": "z",
       "ln": 2
@@ -871,9 +889,27 @@
       "ln": 2
     },
     {
+      "host": "account.protonvpn.com",
+      "links": "164c369cf14f2f29cc4ba709528cce6b5f490576",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "account.protonvpn.com",
+      "links": "45e19010414652f02bf969528bea3a014e7b1831",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "activate.finvari.com",
       "links": "bb115e0fc99ec38bbb585a2dade63ca00f36c716",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "activationslink.net",
+      "links": "103.246.144.167",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -895,9 +931,33 @@
       "ln": 2
     },
     {
+      "host": "aero-lukoil.com",
+      "links": "63c773164970d2cb467269896df990fb043bd7e6",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "afis.ch",
+      "links": "164c369cf14f2f29cc4ba709528cce6b5f490576",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "afis.ch",
       "links": "185.70.42.12",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "afis.ch",
+      "links": "45e19010414652f02bf969528bea3a014e7b1831",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "aforealtors.com",
+      "links": "63c773164970d2cb467269896df990fb043bd7e6",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -922,12 +982,6 @@
       "host": "alert.notify-epay.com",
       "links": "31.42.177.51",
       "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "alert.notify-epay.com",
-      "links": "f4c97935ff1896911fcf69d6017e3b27636f121f",
-      "type": "certs",
       "ln": 2
     },
     {
@@ -1135,6 +1189,12 @@
       "ln": 2
     },
     {
+      "host": "app.bergweltenwinterwandern.de",
+      "links": "f64e00b4f6c6881256c08917b9c56396c5a6e3aa",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "app.horra.fr",
       "links": "bb115e0fc99ec38bbb585a2dade63ca00f36c716",
       "type": "certs",
@@ -1155,6 +1215,18 @@
     {
       "host": "app.movenation.world",
       "links": "bb115e0fc99ec38bbb585a2dade63ca00f36c716",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "app.protonmail.ch",
+      "links": "164c369cf14f2f29cc4ba709528cce6b5f490576",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "app.protonmail.ch",
+      "links": "45e19010414652f02bf969528bea3a014e7b1831",
       "type": "certs",
       "ln": 2
     },
@@ -1461,12 +1533,6 @@
     {
       "host": "asklsc.com",
       "links": "18.194.82.179",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "auth.ec.linicalworks.com",
-      "links": "3.137.178.143",
       "type": "pdns",
       "ln": 2
     },
@@ -1963,6 +2029,12 @@
       "ln": 2
     },
     {
+      "host": "benuatogel.gay",
+      "links": "63c773164970d2cb467269896df990fb043bd7e6",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "bergenglenestates.com",
       "links": "34.214.10.160",
       "type": "pdns",
@@ -1971,6 +2043,12 @@
     {
       "host": "bergweltenwinterwandern.de",
       "links": "77e11949ecc39f0d95f17d0bb84eba2183acd010",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "bergweltenwinterwandern.de",
+      "links": "f64e00b4f6c6881256c08917b9c56396c5a6e3aa",
       "type": "certs",
       "ln": 2
     },
@@ -1989,6 +2067,18 @@
     {
       "host": "beta.defikingdoms.com",
       "links": "ea6919bf367f447052c04c6e1ff4691a6193478d",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "beta.protonmail.com",
+      "links": "164c369cf14f2f29cc4ba709528cce6b5f490576",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "beta.protonmail.com",
+      "links": "45e19010414652f02bf969528bea3a014e7b1831",
       "type": "certs",
       "ln": 2
     },
@@ -2271,6 +2361,12 @@
     {
       "host": "blog.bergweltenwinterwandern.de",
       "links": "77e11949ecc39f0d95f17d0bb84eba2183acd010",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "blog.bergweltenwinterwandern.de",
+      "links": "f64e00b4f6c6881256c08917b9c56396c5a6e3aa",
       "type": "certs",
       "ln": 2
     },
@@ -2978,6 +3074,12 @@
     },
     {
       "host": "cpanel.activationslink.net",
+      "links": "103.246.144.167",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cpanel.activationslink.net",
       "links": "288c786dd15ddda56e1f7ba87d1ed7f56e2c1d48",
       "type": "certs",
       "ln": 2
@@ -3110,6 +3212,12 @@
     },
     {
       "host": "cpanel.noticias-de.com",
+      "links": "07071c2c3468723bef3cbdcbf25f9d20300c37a9",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpanel.noticias-de.com",
       "links": "e4ddae20033d9369700a32734a3824602057dd8e",
       "type": "certs",
       "ln": 2
@@ -3166,6 +3274,12 @@
       "host": "cpanel.selfcareadvocacy.com",
       "links": "fa08791a20ac9aa7087ceb02fca39292315c788d",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcalendars.activationslink.net",
+      "links": "103.246.144.167",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -3302,6 +3416,12 @@
     },
     {
       "host": "cpcalendars.noticias-de.com",
+      "links": "07071c2c3468723bef3cbdcbf25f9d20300c37a9",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcalendars.noticias-de.com",
       "links": "e4ddae20033d9369700a32734a3824602057dd8e",
       "type": "certs",
       "ln": 2
@@ -3352,6 +3472,12 @@
       "host": "cpcalendars.selfcareadvocacy.com",
       "links": "fa08791a20ac9aa7087ceb02fca39292315c788d",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcontacts.activationslink.net",
+      "links": "103.246.144.167",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -3483,6 +3609,12 @@
     {
       "host": "cpcontacts.miriamdyak.com",
       "links": "c3c2e3b9083d7855989b87a700235f9c7c4b07c8",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcontacts.noticias-de.com",
+      "links": "07071c2c3468723bef3cbdcbf25f9d20300c37a9",
       "type": "certs",
       "ln": 2
     },
@@ -4231,12 +4363,6 @@
       "ln": 2
     },
     {
-      "host": "docusign.sbs",
-      "links": "3.137.178.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "dogpapers.com",
       "links": "0583a3efae17fb86bae6b737af341ee95a100b53",
       "type": "certs",
@@ -4387,12 +4513,6 @@
       "ln": 2
     },
     {
-      "host": "eclinicalworks.works",
-      "links": "3.137.178.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ecommerce.nightowl.sg",
       "links": "3.1.214.119",
       "type": "pdns",
@@ -4467,6 +4587,12 @@
     {
       "host": "en.bergweltenwinterwandern.de",
       "links": "77e11949ecc39f0d95f17d0bb84eba2183acd010",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "en.bergweltenwinterwandern.de",
+      "links": "f64e00b4f6c6881256c08917b9c56396c5a6e3aa",
       "type": "certs",
       "ln": 2
     },
@@ -4699,12 +4825,6 @@
       "ln": 2
     },
     {
-      "host": "expensify.online",
-      "links": "3.137.178.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "expressobaterias.com",
       "links": "bb115e0fc99ec38bbb585a2dade63ca00f36c716",
       "type": "certs",
@@ -4795,6 +4915,12 @@
       "ln": 2
     },
     {
+      "host": "finish-egy.com",
+      "links": "63c773164970d2cb467269896df990fb043bd7e6",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "firebase.goweb247.com",
       "links": "ea6919bf367f447052c04c6e1ff4691a6193478d",
       "type": "certs",
@@ -4839,6 +4965,12 @@
     {
       "host": "forum.bergweltenwinterwandern.de",
       "links": "77e11949ecc39f0d95f17d0bb84eba2183acd010",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "forum.bergweltenwinterwandern.de",
+      "links": "f64e00b4f6c6881256c08917b9c56396c5a6e3aa",
       "type": "certs",
       "ln": 2
     },
@@ -5089,6 +5221,12 @@
       "ln": 2
     },
     {
+      "host": "glorymask.xyz",
+      "links": "80.253.244.101",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "godparentgifts.co.uk",
       "links": "145.239.107.153",
       "type": "pdns",
@@ -5335,6 +5473,12 @@
       "ln": 2
     },
     {
+      "host": "hippoicon.com",
+      "links": "185.219.135.60",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "hmely.com",
       "links": "e9359d542c50239eb0d52ff1d5c8956a43c8fc05",
       "type": "certs",
@@ -5518,18 +5662,6 @@
       "host": "huminz.com",
       "links": "e190fe806a1d98855f7f8b4202bb9ffd38dd74d9",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "i5oi4omb14940.some-vps-name.local",
-      "links": "f4c97935ff1896911fcf69d6017e3b27636f121f",
-      "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "icalworks.com",
-      "links": "3.137.178.143",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -5830,12 +5962,6 @@
       "host": "incapsula.com",
       "links": "b740543686ed422676b8dd817da36c64a783490a",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "inicalworks.com",
-      "links": "3.137.178.143",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -6301,12 +6427,6 @@
       "ln": 2
     },
     {
-      "host": "linicalworks.com",
-      "links": "3.137.178.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "link.inflow.finance",
       "links": "bb115e0fc99ec38bbb585a2dade63ca00f36c716",
       "type": "certs",
@@ -6493,6 +6613,12 @@
       "ln": 2
     },
     {
+      "host": "m.bergweltenwinterwandern.de",
+      "links": "f64e00b4f6c6881256c08917b9c56396c5a6e3aa",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "mail.activationslink.net",
       "links": "288c786dd15ddda56e1f7ba87d1ed7f56e2c1d48",
       "type": "certs",
@@ -6542,6 +6668,12 @@
     },
     {
       "host": "mail.docjoan.xyz",
+      "links": "80.253.244.101",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.glorymask.xyz",
       "links": "80.253.244.101",
       "type": "pdns",
       "ln": 2
@@ -6680,6 +6812,12 @@
     },
     {
       "host": "mail.noticias-de.com",
+      "links": "07071c2c3468723bef3cbdcbf25f9d20300c37a9",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.noticias-de.com",
       "links": "e4ddae20033d9369700a32734a3824602057dd8e",
       "type": "certs",
       "ln": 2
@@ -6717,6 +6855,18 @@
     {
       "host": "mail.pocztafirmowa.online",
       "links": "e9ad44e5378be8315f61e94c137da4fe6c4fb473",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.protonmail.com",
+      "links": "164c369cf14f2f29cc4ba709528cce6b5f490576",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.protonmail.com",
+      "links": "45e19010414652f02bf969528bea3a014e7b1831",
       "type": "certs",
       "ln": 2
     },
@@ -7345,6 +7495,12 @@
       "ln": 2
     },
     {
+      "host": "news.bergweltenwinterwandern.de",
+      "links": "f64e00b4f6c6881256c08917b9c56396c5a6e3aa",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "nibloz.xyz",
       "links": "80.253.244.101",
       "type": "pdns",
@@ -7538,6 +7694,12 @@
     },
     {
       "host": "noticias-de.com",
+      "links": "07071c2c3468723bef3cbdcbf25f9d20300c37a9",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "noticias-de.com",
       "links": "e4ddae20033d9369700a32734a3824602057dd8e",
       "type": "certs",
       "ln": 2
@@ -7705,6 +7867,12 @@
       "ln": 2
     },
     {
+      "host": "ns2.walesspan.com",
+      "links": "185.219.135.60",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ns2.web-planet-casino.com",
       "links": "145.239.107.153",
       "type": "pdns",
@@ -7719,6 +7887,18 @@
     {
       "host": "ns2.zep-unehistoiredhommes.com",
       "links": "145.239.107.153",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns43.mukhost.uk",
+      "links": "103.246.144.167",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns44.mukhost.uk",
+      "links": "103.246.144.167",
       "type": "pdns",
       "ln": 2
     },
@@ -7791,6 +7971,18 @@
     {
       "host": "old.phonesites.com",
       "links": "ea6919bf367f447052c04c6e1ff4691a6193478d",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "old.protonmail.com",
+      "links": "164c369cf14f2f29cc4ba709528cce6b5f490576",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "old.protonmail.com",
+      "links": "45e19010414652f02bf969528bea3a014e7b1831",
       "type": "certs",
       "ln": 2
     },
@@ -8167,6 +8359,18 @@
       "ln": 2
     },
     {
+      "host": "pm.me",
+      "links": "164c369cf14f2f29cc4ba709528cce6b5f490576",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "pm.me",
+      "links": "45e19010414652f02bf969528bea3a014e7b1831",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "pocztafirmowa.online",
       "links": "e9ad44e5378be8315f61e94c137da4fe6c4fb473",
       "type": "certs",
@@ -8199,6 +8403,12 @@
     {
       "host": "portal.bergweltenwinterwandern.de",
       "links": "77e11949ecc39f0d95f17d0bb84eba2183acd010",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "portal.bergweltenwinterwandern.de",
+      "links": "f64e00b4f6c6881256c08917b9c56396c5a6e3aa",
       "type": "certs",
       "ln": 2
     },
@@ -8467,9 +8677,45 @@
       "ln": 2
     },
     {
+      "host": "protonmail.ch",
+      "links": "164c369cf14f2f29cc4ba709528cce6b5f490576",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "protonmail.ch",
+      "links": "45e19010414652f02bf969528bea3a014e7b1831",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "protonmail.com",
+      "links": "164c369cf14f2f29cc4ba709528cce6b5f490576",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "protonmail.com",
       "links": "185.70.42.12",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "protonmail.com",
+      "links": "45e19010414652f02bf969528bea3a014e7b1831",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "protonvpn.com",
+      "links": "164c369cf14f2f29cc4ba709528cce6b5f490576",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "protonvpn.com",
+      "links": "45e19010414652f02bf969528bea3a014e7b1831",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -8767,6 +9013,12 @@
       "ln": 2
     },
     {
+      "host": "registrar-servers.com",
+      "links": "63c773164970d2cb467269896df990fb043bd7e6",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "registration.mshomestays.com",
       "links": "bb115e0fc99ec38bbb585a2dade63ca00f36c716",
       "type": "certs",
@@ -8776,6 +9028,12 @@
       "host": "rekry.tammerforce.com",
       "links": "18.194.82.179",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "rgo-poker.top",
+      "links": "63c773164970d2cb467269896df990fb043bd7e6",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -9019,6 +9277,18 @@
       "ln": 2
     },
     {
+      "host": "secure.protonmail.com",
+      "links": "164c369cf14f2f29cc4ba709528cce6b5f490576",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "secure.protonmail.com",
+      "links": "45e19010414652f02bf969528bea3a014e7b1831",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "selfcareadvocacy.com",
       "links": "2c82673e136dc5ab934dda321057598c548a6164",
       "type": "certs",
@@ -9034,6 +9304,12 @@
       "host": "selfcareadvocacy.com",
       "links": "fa08791a20ac9aa7087ceb02fca39292315c788d",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "server38.mukhost.uk",
+      "links": "103.246.144.167",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -9211,6 +9487,12 @@
       "ln": 2
     },
     {
+      "host": "skaner.al",
+      "links": "63c773164970d2cb467269896df990fb043bd7e6",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "slect4youbaba.xyz",
       "links": "199.192.26.145",
       "type": "pdns",
@@ -9340,12 +9622,6 @@
       "host": "somepoemsyoumightlike.com",
       "links": "b85237f195b6119b9ce453937d83c2d763c21e21",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "sophos-pro.com",
-      "links": "3.137.178.143",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -9555,6 +9831,12 @@
     {
       "host": "stainlessflatpack.com.au",
       "links": "b85237f195b6119b9ce453937d83c2d763c21e21",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "staritdev.xyz",
+      "links": "63c773164970d2cb467269896df990fb043bd7e6",
       "type": "certs",
       "ln": 2
     },
@@ -9883,6 +10165,12 @@
       "ln": 2
     },
     {
+      "host": "test.bergweltenwinterwandern.de",
+      "links": "f64e00b4f6c6881256c08917b9c56396c5a6e3aa",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "test.inlarva.com",
       "links": "bb115e0fc99ec38bbb585a2dade63ca00f36c716",
       "type": "certs",
@@ -10105,6 +10393,12 @@
       "ln": 2
     },
     {
+      "host": "toronggo24.com",
+      "links": "63c773164970d2cb467269896df990fb043bd7e6",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "totemkingdom.wris.co",
       "links": "128.199.243.169",
       "type": "pdns",
@@ -10231,6 +10525,12 @@
       "ln": 2
     },
     {
+      "host": "tunauta.com",
+      "links": "185.70.42.12",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "turbohost.dev",
       "links": "ea6919bf367f447052c04c6e1ff4691a6193478d",
       "type": "certs",
@@ -10258,6 +10558,12 @@
       "host": "tvyap3z9ejp7.cloudmaestro.com",
       "links": "44.196.235.19",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ugovingolddynamic.com",
+      "links": "63c773164970d2cb467269896df990fb043bd7e6",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -10429,6 +10735,18 @@
       "ln": 2
     },
     {
+      "host": "vcardgen.com",
+      "links": "63c773164970d2cb467269896df990fb043bd7e6",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "vm2180206.12ssd.had.wf",
+      "links": "103.246.144.167",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "voyobee.com",
       "links": "ea6919bf367f447052c04c6e1ff4691a6193478d",
       "type": "certs",
@@ -10483,9 +10801,21 @@
       "ln": 2
     },
     {
+      "host": "web.bergweltenwinterwandern.de",
+      "links": "f64e00b4f6c6881256c08917b9c56396c5a6e3aa",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "web.rebekah-flora.com",
       "links": "ea6919bf367f447052c04c6e1ff4691a6193478d",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webdisk.activationslink.net",
+      "links": "103.246.144.167",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -10622,6 +10952,12 @@
     },
     {
       "host": "webdisk.noticias-de.com",
+      "links": "07071c2c3468723bef3cbdcbf25f9d20300c37a9",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webdisk.noticias-de.com",
       "links": "e4ddae20033d9369700a32734a3824602057dd8e",
       "type": "certs",
       "ln": 2
@@ -10672,6 +11008,12 @@
       "host": "webdisk.selfcareadvocacy.com",
       "links": "fa08791a20ac9aa7087ceb02fca39292315c788d",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webmail.activationslink.net",
+      "links": "103.246.144.167",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -10803,6 +11145,12 @@
     {
       "host": "webmail.miriamdyak.com",
       "links": "c3c2e3b9083d7855989b87a700235f9c7c4b07c8",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webmail.noticias-de.com",
+      "links": "07071c2c3468723bef3cbdcbf25f9d20300c37a9",
       "type": "certs",
       "ln": 2
     },
@@ -10957,6 +11305,12 @@
       "ln": 2
     },
     {
+      "host": "wordpress.bergweltenwinterwandern.de",
+      "links": "f64e00b4f6c6881256c08917b9c56396c5a6e3aa",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "wordscreateworld.com",
       "links": "3.1.214.119",
       "type": "pdns",
@@ -10983,6 +11337,12 @@
     {
       "host": "wp.bergweltenwinterwandern.de",
       "links": "77e11949ecc39f0d95f17d0bb84eba2183acd010",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "wp.bergweltenwinterwandern.de",
+      "links": "f64e00b4f6c6881256c08917b9c56396c5a6e3aa",
       "type": "certs",
       "ln": 2
     },
@@ -14479,6 +14839,12 @@
       "ln": 2
     },
     {
+      "host": "zicorba.com",
+      "links": "63c773164970d2cb467269896df990fb043bd7e6",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "zk4wuj95ixry.cloudmaestro.com",
       "links": "107.23.11.241",
       "type": "pdns",
@@ -14566,6 +14932,12 @@
       "host": "zorak.telcodata.us",
       "links": "e7e77cf6e0d65568adf9dbb5fd83f1f84fc2f3a5",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "zump2.attapp.com.br",
+      "links": "103.246.144.167",
+      "type": "pdns",
       "ln": 2
     }
   ]

@@ -73,6 +73,12 @@
       "ln": 2
     },
     {
+      "host": "5f9dcc31379cd2f22ef225945d3f8b6cbc7239e3.duckdns.org",
+      "links": "8fb2dcc1de77d9f8dc8c779078371b8171331b45",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "86-106-131-112.cprapid.com",
       "links": "86.106.131.112",
       "type": "pdns",
@@ -93,12 +99,6 @@
     {
       "host": "ThreatFox: ISFB",
       "links": "autosblogs.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: ISFB",
-      "links": "avanoruk.com",
       "type": "z",
       "ln": 2
     },
@@ -277,6 +277,12 @@
       "ln": 2
     },
     {
+      "host": "apr.intoolkom.at",
+      "links": "91.224.22.142",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "arfcj3.xyz",
       "links": "552b287c36d53f9d00c26151090ec6d9482ea341",
       "type": "certs",
@@ -301,14 +307,14 @@
       "ln": 2
     },
     {
-      "host": "autosblogs.com",
-      "links": "86.106.131.112",
+      "host": "art.microsoftsofymicrosoftsoft.at",
+      "links": "91.224.22.142",
       "type": "pdns",
       "ln": 2
     },
     {
-      "host": "avanoruk.com",
-      "links": "194.226.139.129",
+      "host": "autosblogs.com",
+      "links": "86.106.131.112",
       "type": "pdns",
       "ln": 2
     },
@@ -345,12 +351,6 @@
     {
       "host": "bvolebukoneh.site",
       "links": "37.120.206.70",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "clients.blakdkfkfokdkd.live",
-      "links": "161.129.64.100",
       "type": "pdns",
       "ln": 2
     },
@@ -445,9 +445,21 @@
       "ln": 2
     },
     {
+      "host": "fgx.dangerboy.at",
+      "links": "91.224.22.142",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "formarketings.com",
       "links": "79.110.52.248",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "formarketings.com",
+      "links": "8fb2dcc1de77d9f8dc8c779078371b8171331b45",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -459,6 +471,12 @@
     {
       "host": "gderrrpololo.net",
       "links": "552b287c36d53f9d00c26151090ec6d9482ea341",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "glade-picnic.ru",
+      "links": "c1fffc9e111faad70d016674579d74d5e68ab652",
       "type": "certs",
       "ln": 2
     },
@@ -566,12 +584,6 @@
     },
     {
       "host": "ikaryto.com",
-      "links": "194.226.139.129",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ikaryto.com",
       "links": "77.87.212.159",
       "type": "pdns",
       "ln": 2
@@ -585,12 +597,6 @@
     {
       "host": "immontyr.com",
       "links": "185.186.142.217",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "immontyr.com",
-      "links": "194.226.139.129",
       "type": "pdns",
       "ln": 2
     },
@@ -651,12 +657,6 @@
     {
       "host": "irolano.com",
       "links": "185.186.142.217",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "irolano.com",
-      "links": "194.226.139.129",
       "type": "pdns",
       "ln": 2
     },
@@ -841,6 +841,12 @@
       "ln": 2
     },
     {
+      "host": "microsoftsofymicrosoftsoft.at",
+      "links": "91.224.22.142",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "mindvantage.com",
       "links": "161.129.64.100",
       "type": "pdns",
@@ -927,6 +933,12 @@
     {
       "host": "pop.biopiof.at",
       "links": "77.87.212.159",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "pop.biopiof.at",
+      "links": "91.224.22.142",
       "type": "pdns",
       "ln": 2
     },
@@ -1168,6 +1180,12 @@
       "host": "www.37-120-206-70.cprapid.com",
       "links": "37.120.206.70",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.5f9dcc31379cd2f22ef225945d3f8b6cbc7239e3.duckdns.org",
+      "links": "8fb2dcc1de77d9f8dc8c779078371b8171331b45",
+      "type": "certs",
       "ln": 2
     },
     {

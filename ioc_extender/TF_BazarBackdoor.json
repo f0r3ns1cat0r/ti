@@ -32,6 +32,12 @@
     },
     {
       "host": "ThreatFox: BazarBackdoor",
+      "links": "bluecartservice.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: BazarBackdoor",
       "links": "connectbentleyd.com",
       "type": "z",
       "ln": 2
@@ -50,19 +56,7 @@
     },
     {
       "host": "ThreatFox: BazarBackdoor",
-      "links": "hornhartmand.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: BazarBackdoor",
       "links": "insaneico2013b.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: BazarBackdoor",
-      "links": "lamboils.com",
       "type": "z",
       "ln": 2
     },
@@ -86,12 +80,6 @@
     },
     {
       "host": "ThreatFox: BazarBackdoor",
-      "links": "topproperty1998b.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: BazarBackdoor",
       "links": "tribegloverd.com",
       "type": "z",
       "ln": 2
@@ -103,15 +91,33 @@
       "ln": 2
     },
     {
+      "host": "aaa.chroniccollege.com",
+      "links": "e9cc91f196749b191de96bdf10a7c7052779bae2",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "antiquefund1998b.com",
       "links": "194.62.42.113",
       "type": "pdns",
       "ln": 2
     },
     {
+      "host": "arodovax.com",
+      "links": "e9cc91f196749b191de96bdf10a7c7052779bae2",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "asldjram.com",
       "links": "139.177.207.16",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "bluecartservice.com",
+      "links": "e9cc91f196749b191de96bdf10a7c7052779bae2",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -139,12 +145,6 @@
       "ln": 2
     },
     {
-      "host": "cpcalendars.185-53-46-32.cprapid.com",
-      "links": "185.53.46.32",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "danielsaudits.com",
       "links": "45.95.11.199",
       "type": "pdns",
@@ -157,14 +157,14 @@
       "ln": 2
     },
     {
-      "host": "foxcargo2016b.com",
-      "links": "194.62.42.115",
-      "type": "pdns",
+      "host": "fonts-analytics.com",
+      "links": "e9cc91f196749b191de96bdf10a7c7052779bae2",
+      "type": "certs",
       "ln": 2
     },
     {
-      "host": "hornhartmand.com",
-      "links": "185.53.46.32",
+      "host": "foxcargo2016b.com",
+      "links": "194.62.42.115",
       "type": "pdns",
       "ln": 2
     },
@@ -177,12 +177,6 @@
     {
       "host": "insaneico2013b.com",
       "links": "194.62.42.115",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "lamboils.com",
-      "links": "194.62.42.42",
       "type": "pdns",
       "ln": 2
     },
@@ -217,26 +211,8 @@
       "ln": 2
     },
     {
-      "host": "santiagoposts.com",
-      "links": "194.62.42.45",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "thriveparrad.com",
-      "links": "194.62.42.45",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "tokensantanad.com",
       "links": "185.53.46.149",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "topproperty1998b.com",
-      "links": "194.62.42.45",
       "type": "pdns",
       "ln": 2
     },
@@ -247,21 +223,15 @@
       "ln": 2
     },
     {
-      "host": "vaughanrealtys.com",
-      "links": "194.62.42.42",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "walnutaudit2018b.com",
-      "links": "194.62.42.42",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "warmmcbrided.com",
       "links": "194.62.42.147",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.aaa.chroniccollege.com",
+      "links": "e9cc91f196749b191de96bdf10a7c7052779bae2",
+      "type": "certs",
       "ln": 2
     }
   ]

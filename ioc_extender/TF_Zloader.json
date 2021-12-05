@@ -1,0 +1,286 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "151-248-116-197.cloudvps.regruhosting.ru",
+      "links": "151.248.116.197",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "151-248-116-197.ovz.vps.regruhosting.ru",
+      "links": "151.248.116.197",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "151-248-116-197.xen.vps.regruhosting.ru",
+      "links": "151.248.116.197",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Zloader",
+      "links": "fkqqhmkavarmsxnucflq.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ahrhfijohcxjdbnnmnbq.com",
+      "links": "151.248.116.197",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "aofacfbgxiuuxxsbiajb.com",
+      "links": "151.248.116.197",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "blog.vltat.ru",
+      "links": "151.248.116.197",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cloud.vltat.ru",
+      "links": "151.248.116.197",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "dwgjkjsrxlcyflkngowh.com",
+      "links": "151.248.116.197",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "dxibtqkflhpytmskflhp.com",
+      "links": "151.248.116.197",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ejswqwdbpgfvqyspcbnd.com",
+      "links": "151.248.116.197",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "fkqqhmkavarmsxnucflq.com",
+      "links": "151.248.116.197",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ftofailhvgnfxgvgkjsj.com",
+      "links": "151.248.116.197",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "home.vltat.ru",
+      "links": "151.248.116.197",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hytvejdhypibwwvqiaxc.com",
+      "links": "151.248.116.197",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "kkiwabiawfqeffuqgehe.com",
+      "links": "151.248.116.197",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "lltuobgryojxuwssbojx.com",
+      "links": "151.248.116.197",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mjwougyhwlgculcwnvhb.com",
+      "links": "151.248.116.197",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mlfecxgcxgpwuqyimpjj.com",
+      "links": "151.248.116.197",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mqijfposijdnidpwcpkf.com",
+      "links": "151.248.116.197",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mwcarmfpucrqwkbxenqk.com",
+      "links": "151.248.116.197",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "nemudxonrtncnssdggmc.com",
+      "links": "151.248.116.197",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "poqquiolmpmxnqbwnoyu.com",
+      "links": "151.248.116.197",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "qyfurihpsbhbuvitilgw.com",
+      "links": "151.248.116.197",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "shhkxdewbjavgrfgkqoy.com",
+      "links": "151.248.116.197",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "test.vltat.ru",
+      "links": "151.248.116.197",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ts.vltat.ru",
+      "links": "151.248.116.197",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "varmsxnucflqkogwpejd.com",
+      "links": "151.248.116.197",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "vsnnpemqluecuybdkqlu.com",
+      "links": "151.248.116.197",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "vt.vltat.ru",
+      "links": "151.248.116.197",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "vuvdptqejgfgnifbtqbw.com",
+      "links": "151.248.116.197",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "wlgsfimgawjushksbruq.com",
+      "links": "151.248.116.197",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.ahrhfijohcxjdbnnmnbq.com",
+      "links": "151.248.116.197",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.aofacfbgxiuuxxsbiajb.com",
+      "links": "151.248.116.197",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.ftofailhvgnfxgvgkjsj.com",
+      "links": "151.248.116.197",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.hytvejdhypibwwvqiaxc.com",
+      "links": "151.248.116.197",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.mlfecxgcxgpwuqyimpjj.com",
+      "links": "151.248.116.197",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.qyfurihpsbhbuvitilgw.com",
+      "links": "151.248.116.197",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.shhkxdewbjavgrfgkqoy.com",
+      "links": "151.248.116.197",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.vuvdptqejgfgnifbtqbw.com",
+      "links": "151.248.116.197",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.wlgsfimgawjushksbruq.com",
+      "links": "151.248.116.197",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.yybysufealtubvyvuvdj.com",
+      "links": "151.248.116.197",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "wxcrwqjiuybhbiatrdbn.com",
+      "links": "151.248.116.197",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "yybysufealtubvyvuvdj.com",
+      "links": "151.248.116.197",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}
