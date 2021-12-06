@@ -34,3 +34,4 @@ We monitor the activity of some CnC servers and publish the targets of DDOS atta
 
 ## Feedback
 We will really appreciate any feedback in the Discussions section of the GitHub repo. Please use the Issues tab if you have questions about the content of any of the lists provided.
+* https://twitter.com/tiresearch1
