@@ -37,6 +37,18 @@
       "ln": 2
     },
     {
+      "host": "179.177.63.84.dynamic.adsl.gvt.net.br",
+      "links": "179.177.63.84",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "179.178.63.84.dynamic.adsl.gvt.net.br",
+      "links": "179.177.63.84",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "4028.music.blog",
       "links": "16cf58adc98ba44eabcf951f1a6f32d3d14d61e6",
       "type": "certs",
@@ -99,6 +111,12 @@
     {
       "host": "ThreatFox: SmokeLoader",
       "links": "999080321test51-service10020125999080321.xyz",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: SmokeLoader",
+      "links": "amogohuigotuli.at",
       "type": "z",
       "ln": 2
     },
@@ -207,6 +225,12 @@
     {
       "host": "ThreatFox: SmokeLoader",
       "links": "misha.at",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: SmokeLoader",
+      "links": "rcacademy.at",
       "type": "z",
       "ln": 2
     },
@@ -2581,6 +2605,24 @@
       "ln": 2
     },
     {
+      "host": "amogohuigotuli.at",
+      "links": "186.182.55.44",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "amogohuigotuli.at",
+      "links": "187.156.56.69",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "amogohuigotuli.at",
+      "links": "86.122.134.195",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "andbal.com",
       "links": "148.255.0.249",
       "type": "pdns",
@@ -4658,6 +4700,24 @@
     },
     {
       "host": "host-data-coin-11.com",
+      "links": "176.107.160.194",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "host-data-coin-11.com",
+      "links": "193.187.173.247",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "host-data-coin-11.com",
+      "links": "193.233.16.108",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "host-data-coin-11.com",
       "links": "31.184.249.165",
       "type": "pdns",
       "ln": 2
@@ -4868,6 +4928,12 @@
     },
     {
       "host": "kotob.top",
+      "links": "179.177.63.84",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "kotob.top",
       "links": "186.182.55.44",
       "type": "pdns",
       "ln": 2
@@ -4875,6 +4941,12 @@
     {
       "host": "kotob.top",
       "links": "187.156.125.180",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "kotob.top",
+      "links": "187.156.56.69",
       "type": "pdns",
       "ln": 2
     },
@@ -4904,7 +4976,19 @@
     },
     {
       "host": "kotob.top",
+      "links": "189.165.51.125",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "kotob.top",
       "links": "189.165.53.172",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "kotob.top",
+      "links": "190.107.133.19",
       "type": "pdns",
       "ln": 2
     },
@@ -4935,6 +5019,12 @@
     {
       "host": "kotob.top",
       "links": "211.171.233.127",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "kotob.top",
+      "links": "27.147.183.45",
       "type": "pdns",
       "ln": 2
     },
@@ -5246,7 +5336,31 @@
     },
     {
       "host": "mayak-lombard.ru",
+      "links": "178.30.120.23",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mayak-lombard.ru",
       "links": "187.212.186.104",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mayak-lombard.ru",
+      "links": "189.129.92.173",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mayak-lombard.ru",
+      "links": "189.165.51.125",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mayak-lombard.ru",
+      "links": "211.171.233.126",
       "type": "pdns",
       "ln": 2
     },
@@ -5312,7 +5426,25 @@
     },
     {
       "host": "membro.at",
+      "links": "189.129.92.173",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "membro.at",
+      "links": "189.165.51.125",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "membro.at",
       "links": "189.165.53.172",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "membro.at",
+      "links": "190.107.133.19",
       "type": "pdns",
       "ln": 2
     },
@@ -5522,7 +5654,19 @@
     },
     {
       "host": "misha.at",
+      "links": "189.165.51.125",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "misha.at",
       "links": "189.165.53.172",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "misha.at",
+      "links": "190.107.133.19",
       "type": "pdns",
       "ln": 2
     },
@@ -6001,6 +6145,12 @@
       "ln": 2
     },
     {
+      "host": "privacytoolzforyou-7000.com",
+      "links": "193.233.16.108",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "pxa.tw",
       "links": "3a838b58eeda9108469bea37f7821534ec010095",
       "type": "certs",
@@ -6016,6 +6166,18 @@
       "host": "quawanicasabathgl7.car.blog",
       "links": "1d12ea2b595ead21aacb57cc9ea33795adee98b2",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "rcacademy.at",
+      "links": "187.212.186.104",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "rcacademy.at",
+      "links": "211.171.233.126",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -6164,7 +6326,25 @@
     },
     {
       "host": "srtuiyhuali.at",
+      "links": "176.44.77.97",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "srtuiyhuali.at",
       "links": "177.207.84.36",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "srtuiyhuali.at",
+      "links": "178.30.120.23",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "srtuiyhuali.at",
+      "links": "179.177.63.84",
       "type": "pdns",
       "ln": 2
     },
@@ -6188,7 +6368,19 @@
     },
     {
       "host": "srtuiyhuali.at",
+      "links": "189.165.51.125",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "srtuiyhuali.at",
       "links": "190.140.246.135",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "srtuiyhuali.at",
+      "links": "190.218.32.79",
       "type": "pdns",
       "ln": 2
     },
@@ -6206,6 +6398,12 @@
     },
     {
       "host": "srtuiyhuali.at",
+      "links": "27.147.183.45",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "srtuiyhuali.at",
       "links": "31.166.170.180",
       "type": "pdns",
       "ln": 2
@@ -6213,6 +6411,24 @@
     {
       "host": "srtuiyhuali.at",
       "links": "86.122.134.195",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "srtuiyhuali.at",
+      "links": "87.119.100.220",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "stats404.info",
+      "links": "176.107.160.194",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "stats404.info",
+      "links": "193.187.173.247",
       "type": "pdns",
       "ln": 2
     },
@@ -6524,7 +6740,19 @@
     },
     {
       "host": "tisatp45.top",
+      "links": "179.177.63.84",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "tisatp45.top",
       "links": "187.212.186.104",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "tisnay23.top",
+      "links": "176.44.77.97",
       "type": "pdns",
       "ln": 2
     },
@@ -7238,6 +7466,12 @@
     },
     {
       "host": "xacokuo80.top",
+      "links": "193.233.16.108",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "xacokuo80.top",
       "links": "31.184.249.165",
       "type": "pdns",
       "ln": 2
@@ -7521,6 +7755,12 @@
     {
       "host": "zavodooo.ru",
       "links": "190.218.32.79",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "zavodooo.ru",
+      "links": "211.171.233.126",
       "type": "pdns",
       "ln": 2
     },

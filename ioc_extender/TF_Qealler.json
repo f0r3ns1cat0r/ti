@@ -20,6 +20,12 @@
   "data": [
     {
       "host": "3xpl0its.duckdns.org",
+      "links": "181.214.206.236",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "3xpl0its.duckdns.org",
       "links": "181.214.206.249",
       "type": "pdns",
       "ln": 2
@@ -28,6 +34,12 @@
       "host": "ThreatFox: Qealler",
       "links": "3xpl0its.duckdns.org",
       "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "mail.s101812-241.ds.trackeral.com",
+      "links": "181.214.206.236",
+      "type": "pdns",
       "ln": 2
     },
     {

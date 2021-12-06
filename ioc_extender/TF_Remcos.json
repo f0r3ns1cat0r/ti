@@ -74,6 +74,12 @@
     },
     {
       "host": "ThreatFox: Remcos",
+      "links": "newlogs.ddns.net",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Remcos",
       "links": "ogidi.ddns.net",
       "type": "z",
       "ln": 2
@@ -295,6 +301,12 @@
       "ln": 2
     },
     {
+      "host": "favorali.duckdns.org",
+      "links": "185.140.53.137",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "gadeopticg.myddns.me",
       "links": "185.244.30.240",
       "type": "pdns",
@@ -343,6 +355,18 @@
       "ln": 2
     },
     {
+      "host": "milestone.dynu.net",
+      "links": "89.238.150.43",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "milestone2.accesscam.org",
+      "links": "89.238.150.43",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "miracle.hopto.org",
       "links": "185.244.30.240",
       "type": "pdns",
@@ -351,6 +375,12 @@
     {
       "host": "nas-smokerlolilol.direct.quickconnect.to",
       "links": "87.101.92.171",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "newlogs.ddns.net",
+      "links": "185.140.53.137",
       "type": "pdns",
       "ln": 2
     },
@@ -399,6 +429,12 @@
     {
       "host": "palmetto22.ddns.net",
       "links": "191.101.130.4",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "podzeye.duckdns.org",
+      "links": "79.134.225.37",
       "type": "pdns",
       "ln": 2
     },
@@ -543,6 +579,12 @@
     {
       "host": "saptransmissions.dvrlists.com",
       "links": "87.101.92.171",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "saptransmissions.dvrlists.com",
+      "links": "89.238.150.43",
       "type": "pdns",
       "ln": 2
     },
