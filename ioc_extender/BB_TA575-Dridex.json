@@ -49,6 +49,12 @@
       "ln": 2
     },
     {
+      "host": "1847596854221.xyz",
+      "links": "63c773164970d2cb467269896df990fb043bd7e6",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "1u.ms",
       "links": "206.81.28.151",
       "type": "pdns",
@@ -4358,8 +4364,20 @@
     },
     {
       "host": "docjoan.xyz",
+      "links": "626625cea59e85cef1d53614112c15b27142de76",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "docjoan.xyz",
       "links": "80.253.244.101",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "docjoan.xyz",
+      "links": "e8dd512d326d123b5c95c5a7f22cc0c5c26a1ce0",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -6201,6 +6219,18 @@
     {
       "host": "killcovid19.shop",
       "links": "ea6919bf367f447052c04c6e1ff4691a6193478d",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "kindholand.xyz",
+      "links": "626625cea59e85cef1d53614112c15b27142de76",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "kindholand.xyz",
+      "links": "e8dd512d326d123b5c95c5a7f22cc0c5c26a1ce0",
       "type": "certs",
       "ln": 2
     },
@@ -9897,6 +9927,12 @@
     {
       "host": "svgvip.com",
       "links": "6ff78fcf93551f5868d6a5079f56e3d64901e105",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "swdevmx.com",
+      "links": "63c773164970d2cb467269896df990fb043bd7e6",
       "type": "certs",
       "ln": 2
     },

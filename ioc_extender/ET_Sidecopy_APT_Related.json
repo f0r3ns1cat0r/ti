@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ET Trojan: Sidecopy APT Related",
+      "links": "afghannewsnetwork.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: Sidecopy APT Related",
+      "links": "afrepublic.xyz",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: Sidecopy APT Related",
+      "links": "newsroom247.xyz",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: Sidecopy APT Related",
+      "links": "republicofaf.xyz",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "afghannewsnetwork.com",
+      "links": "194.163.139.250",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "afrepublic.xyz",
+      "links": "194.163.139.250",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "newsroom247.xyz",
+      "links": "144.126.141.41",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "republicofaf.xyz",
+      "links": "194.163.139.250",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "vmi599656.contaboserver.net",
+      "links": "194.163.139.250",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "vmi627176.contaboserver.net",
+      "links": "144.126.141.41",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

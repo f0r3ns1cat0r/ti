@@ -85,6 +85,12 @@
       "ln": 2
     },
     {
+      "host": "alpaca-yoyogi.com",
+      "links": "f3ba45ed8d7fbe302bedc36c12e9fc10c33058cb",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "alter.drivethrough.top",
       "links": "45fff0130b3bce2f9d86740cd45f97cb2b8d367a",
       "type": "certs",
@@ -783,6 +789,12 @@
     {
       "host": "newportschoolupdateserver.com",
       "links": "edb3aeda7e27e80de86704f1be44eecbd399440a",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "nicotto-clover.com",
+      "links": "f3ba45ed8d7fbe302bedc36c12e9fc10c33058cb",
       "type": "certs",
       "ln": 2
     },
