@@ -307,12 +307,6 @@
       "ln": 2
     },
     {
-      "host": "gadeopticg.myddns.me",
-      "links": "185.244.30.240",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "hokahay.net",
       "links": "104.254.90.235",
       "type": "pdns",
@@ -369,6 +363,12 @@
     {
       "host": "miracle.hopto.org",
       "links": "185.244.30.240",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mirroronthewall.hopto.org",
+      "links": "185.140.53.137",
       "type": "pdns",
       "ln": 2
     },
