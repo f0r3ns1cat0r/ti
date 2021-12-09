@@ -842,12 +842,6 @@
     },
     {
       "host": "BB Threat Research: TA575-Dridex",
-      "links": "xgdsmy.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "BB Threat Research: TA575-Dridex",
       "links": "yesmlspremium.com",
       "type": "z",
       "ln": 2
@@ -1441,6 +1435,12 @@
       "ln": 2
     },
     {
+      "host": "arsha.cafe",
+      "links": "63c773164970d2cb467269896df990fb043bd7e6",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "ascreenrepairinc.com",
       "links": "0583a3efae17fb86bae6b737af341ee95a100b53",
       "type": "certs",
@@ -1593,6 +1593,12 @@
     {
       "host": "autodiscover.huminz.com",
       "links": "870871f9e77eb1bcaf25114044b2c1afb1e9bdf7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "autodiscover.huminz.com",
+      "links": "ca006177882d57850aa4851ccbaac74f12fe204f",
       "type": "certs",
       "ln": 2
     },
@@ -3139,6 +3145,12 @@
       "ln": 2
     },
     {
+      "host": "cpanel.huminz.com",
+      "links": "ca006177882d57850aa4851ccbaac74f12fe204f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "cpanel.leveragestudiotw.com",
       "links": "381c1ef7bf947d4ba5ac089aa0f1f9b67a920fb9",
       "type": "certs",
@@ -3343,6 +3355,12 @@
       "ln": 2
     },
     {
+      "host": "cpcalendars.huminz.com",
+      "links": "ca006177882d57850aa4851ccbaac74f12fe204f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "cpcalendars.leveragestudiotw.com",
       "links": "381c1ef7bf947d4ba5ac089aa0f1f9b67a920fb9",
       "type": "certs",
@@ -3537,6 +3555,12 @@
     {
       "host": "cpcontacts.huminz.com",
       "links": "870871f9e77eb1bcaf25114044b2c1afb1e9bdf7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcontacts.huminz.com",
+      "links": "ca006177882d57850aa4851ccbaac74f12fe204f",
       "type": "certs",
       "ln": 2
     },
@@ -5684,6 +5708,12 @@
     },
     {
       "host": "huminz.com",
+      "links": "ca006177882d57850aa4851ccbaac74f12fe204f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "huminz.com",
       "links": "d7a9dc33f84278806b46100e6baa88115ecdb6d0",
       "type": "certs",
       "ln": 2
@@ -6753,6 +6783,12 @@
     {
       "host": "mail.huminz.com",
       "links": "99609578aa99009cc9c34780bfce401cf1a8e8f8",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.huminz.com",
+      "links": "ca006177882d57850aa4851ccbaac74f12fe204f",
       "type": "certs",
       "ln": 2
     },
@@ -10921,6 +10957,12 @@
       "ln": 2
     },
     {
+      "host": "webdisk.huminz.com",
+      "links": "ca006177882d57850aa4851ccbaac74f12fe204f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "webdisk.leveragestudiotw.com",
       "links": "381c1ef7bf947d4ba5ac089aa0f1f9b67a920fb9",
       "type": "certs",
@@ -11115,6 +11157,12 @@
     {
       "host": "webmail.huminz.com",
       "links": "870871f9e77eb1bcaf25114044b2c1afb1e9bdf7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webmail.huminz.com",
+      "links": "ca006177882d57850aa4851ccbaac74f12fe204f",
       "type": "certs",
       "ln": 2
     },
@@ -14638,18 +14686,6 @@
       "host": "www.zerchingloansspanish.com",
       "links": "b85237f195b6119b9ce453937d83c2d763c21e21",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "xaqdw.com",
-      "links": "107.186.19.96",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "xgdsmy.com",
-      "links": "107.186.19.96",
-      "type": "pdns",
       "ln": 2
     },
     {
