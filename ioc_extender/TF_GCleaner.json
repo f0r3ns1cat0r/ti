@@ -43,6 +43,12 @@
       "ln": 2
     },
     {
+      "host": "counteredilin.top",
+      "links": "185.14.30.72",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "forwardstorage.biz",
       "links": "192.34.109.101",
       "type": "pdns",
@@ -99,6 +105,12 @@
     {
       "host": "g-localdevice.biz",
       "links": "78.40.109.119",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "gcl-gb.biz",
+      "links": "185.14.30.72",
       "type": "pdns",
       "ln": 2
     },

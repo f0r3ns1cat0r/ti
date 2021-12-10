@@ -530,6 +530,12 @@
     },
     {
       "host": "counteredilin.top",
+      "links": "185.14.30.72",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "counteredilin.top",
       "links": "195.123.234.34",
       "type": "pdns",
       "ln": 2
@@ -844,6 +850,12 @@
       "host": "follytresh.co",
       "links": "bf7cb9e90d42b65bdd6bee9e12a73c68babf9f1e",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "gcl-gb.biz",
+      "links": "185.14.30.72",
+      "type": "pdns",
       "ln": 2
     },
     {

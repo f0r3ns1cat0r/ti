@@ -133,6 +133,12 @@
       "ln": 2
     },
     {
+      "host": "africanexporthouse.com",
+      "links": "54d805c925e71008f7b8fe1dff8313ebf54d53d7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "alifemap.com",
       "links": "188.68.250.182",
       "type": "pdns",
@@ -201,6 +207,12 @@
     {
       "host": "dailydews.com",
       "links": "b4fd059ed1fa73afbefdc5c9138068323ec4f4d6",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "dailydews.com",
+      "links": "db1a85cd07453401e7dc7fd9b612ab7a0495a7e5",
       "type": "certs",
       "ln": 2
     },
@@ -326,6 +338,12 @@
     },
     {
       "host": "mail.dailydews.com",
+      "links": "db1a85cd07453401e7dc7fd9b612ab7a0495a7e5",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.dailydews.com",
       "links": "e96fb656183e6e1a4407293771f6e7188f50eb81",
       "type": "certs",
       "ln": 2
@@ -370,6 +388,12 @@
       "host": "myexpertforum.com",
       "links": "45.80.148.166",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "myexpertforum.com",
+      "links": "54d805c925e71008f7b8fe1dff8313ebf54d53d7",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -538,6 +562,12 @@
       "host": "www.africanexporthouse.com",
       "links": "45.80.148.166",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.africanexporthouse.com",
+      "links": "54d805c925e71008f7b8fe1dff8313ebf54d53d7",
+      "type": "certs",
       "ln": 2
     },
     {
