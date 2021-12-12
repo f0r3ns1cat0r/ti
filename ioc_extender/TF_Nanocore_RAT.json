@@ -25,6 +25,12 @@
       "ln": 2
     },
     {
+      "host": "ThreatFox: Nanocore RAT",
+      "links": "mec.sytes.net",
+      "type": "z",
+      "ln": 2
+    },
+    {
       "host": "darkworldblackerlocker.dumb1.com",
       "links": "198.46.132.206",
       "type": "pdns",
@@ -33,6 +39,18 @@
     {
       "host": "lockerrollercooller.mywire.org",
       "links": "198.46.132.206",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mec.sytes.net",
+      "links": "194.5.97.207",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "rickjohssn.ddns.net",
+      "links": "194.5.97.207",
       "type": "pdns",
       "ln": 2
     }
