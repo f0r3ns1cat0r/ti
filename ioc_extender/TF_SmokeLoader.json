@@ -680,12 +680,6 @@
     },
     {
       "host": "admin.admin.admin.admin.admin.www.blackpass.info",
-      "links": "218.233.73.201",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.admin.admin.admin.www.blackpass.info",
       "links": "89.201.145.218",
       "type": "pdns",
       "ln": 2
@@ -1123,12 +1117,6 @@
       "ln": 2
     },
     {
-      "host": "admin.admin.admin.admin.www.blackpass.info",
-      "links": "218.233.73.201",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "admin.admin.admin.admin.www.cvv-union.at",
       "links": "187.156.121.116",
       "type": "pdns",
@@ -1245,12 +1233,6 @@
     {
       "host": "admin.admin.admin.blackpass.info",
       "links": "211.171.233.126",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.admin.blackpass.info",
-      "links": "218.233.73.201",
       "type": "pdns",
       "ln": 2
     },
@@ -1736,12 +1718,6 @@
     },
     {
       "host": "admin.admin.blackpass.info",
-      "links": "218.233.73.201",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.blackpass.info",
       "links": "89.201.145.218",
       "type": "pdns",
       "ln": 2
@@ -2204,12 +2180,6 @@
     },
     {
       "host": "admin.admin.www.cvv-union.at",
-      "links": "218.233.73.202",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.www.cvv-union.at",
       "links": "31.166.170.180",
       "type": "pdns",
       "ln": 2
@@ -2403,12 +2373,6 @@
     {
       "host": "admin.cvv-union.at",
       "links": "186.7.38.172",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.cvv-union.at",
-      "links": "218.233.73.202",
       "type": "pdns",
       "ln": 2
     },
@@ -2810,12 +2774,6 @@
     },
     {
       "host": "admin.www.blackpass.info",
-      "links": "218.233.73.201",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.www.blackpass.info",
       "links": "89.201.145.218",
       "type": "pdns",
       "ln": 2
@@ -2829,12 +2787,6 @@
     {
       "host": "admin.www.cvv-union.at",
       "links": "186.7.38.172",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.www.cvv-union.at",
-      "links": "218.233.73.202",
       "type": "pdns",
       "ln": 2
     },
@@ -2997,6 +2949,12 @@
     {
       "host": "amogohuigotuli.at",
       "links": "190.43.145.172",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "amogohuigotuli.at",
+      "links": "201.124.33.166",
       "type": "pdns",
       "ln": 2
     },
@@ -4201,6 +4159,12 @@
       "ln": 2
     },
     {
+      "host": "coin-coin-data-6.com",
+      "links": "37.0.10.199",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "constructionclaimssolution.com",
       "links": "16cf58adc98ba44eabcf951f1a6f32d3d14d61e6",
       "type": "certs",
@@ -4329,12 +4293,6 @@
     {
       "host": "cvv-union.at",
       "links": "189.165.53.172",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "cvv-union.at",
-      "links": "218.233.73.202",
       "type": "pdns",
       "ln": 2
     },
@@ -4808,12 +4766,6 @@
     },
     {
       "host": "fernandomayol.com",
-      "links": "190.43.145.172",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "fernandomayol.com",
       "links": "218.233.73.201",
       "type": "pdns",
       "ln": 2
@@ -4875,12 +4827,6 @@
     {
       "host": "finbelportal.com",
       "links": "190.219.225.108",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "finbelportal.com",
-      "links": "190.43.145.172",
       "type": "pdns",
       "ln": 2
     },
@@ -5594,6 +5540,12 @@
     },
     {
       "host": "kotob.top",
+      "links": "201.124.33.166",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "kotob.top",
       "links": "211.171.233.126",
       "type": "pdns",
       "ln": 2
@@ -5739,12 +5691,6 @@
     {
       "host": "kuapakualaman.com",
       "links": "190.219.225.108",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "kuapakualaman.com",
-      "links": "190.43.145.172",
       "type": "pdns",
       "ln": 2
     },
@@ -5979,6 +5925,12 @@
     {
       "host": "mayak-lombard.ru",
       "links": "190.107.133.19",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mayak-lombard.ru",
+      "links": "201.124.33.166",
       "type": "pdns",
       "ln": 2
     },
@@ -7196,6 +7148,12 @@
     },
     {
       "host": "srtuiyhuali.at",
+      "links": "201.124.33.166",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "srtuiyhuali.at",
       "links": "201.124.33.88",
       "type": "pdns",
       "ln": 2
@@ -7904,12 +7862,6 @@
     },
     {
       "host": "www.blackpass.info",
-      "links": "218.233.73.201",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.blackpass.info",
       "links": "31.166.170.180",
       "type": "pdns",
       "ln": 2
@@ -7989,12 +7941,6 @@
     {
       "host": "www.cvv-union.at",
       "links": "188.54.52.64",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.cvv-union.at",
-      "links": "218.233.73.202",
       "type": "pdns",
       "ln": 2
     },
@@ -8503,6 +8449,54 @@
       "ln": 2
     },
     {
+      "host": "xsasianpinaycdn01.xyz",
+      "links": "50d59ec66cbdeaa41ae1403f2d9a53b5778784ac",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "xsasianpinaycdn02.xyz",
+      "links": "50d59ec66cbdeaa41ae1403f2d9a53b5778784ac",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "xsasianpinaycdn03.xyz",
+      "links": "50d59ec66cbdeaa41ae1403f2d9a53b5778784ac",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "xsasianpinaycdn04.xyz",
+      "links": "50d59ec66cbdeaa41ae1403f2d9a53b5778784ac",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "xsasianpinaycdn05.xyz",
+      "links": "50d59ec66cbdeaa41ae1403f2d9a53b5778784ac",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "xsasianpinaycdn06.xyz",
+      "links": "50d59ec66cbdeaa41ae1403f2d9a53b5778784ac",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "xsasianpinaycdn07.xyz",
+      "links": "50d59ec66cbdeaa41ae1403f2d9a53b5778784ac",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "xsasianpinaycdn08.xyz",
+      "links": "50d59ec66cbdeaa41ae1403f2d9a53b5778784ac",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "xtremestream01.xyz",
       "links": "3a838b58eeda9108469bea37f7821534ec010095",
       "type": "certs",
@@ -8643,6 +8637,12 @@
     {
       "host": "zavodooo.ru",
       "links": "190.218.32.79",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "zavodooo.ru",
+      "links": "201.124.33.166",
       "type": "pdns",
       "ln": 2
     },
