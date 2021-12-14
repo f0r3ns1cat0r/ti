@@ -19,6 +19,12 @@
   ],
   "data": [
     {
+      "host": "391521.msk-ovz.ru",
+      "links": "31.148.99.169",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ThreatFox: Gozi",
       "links": "bizneshear.com",
       "type": "z",
@@ -183,6 +189,12 @@
     {
       "host": "massidfberiatersksilkavayssstezya.ru",
       "links": "31.148.99.142",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "massidfberiatersksilkavayssstezya.ru",
+      "links": "31.148.99.169",
       "type": "pdns",
       "ln": 2
     },

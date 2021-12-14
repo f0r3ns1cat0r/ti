@@ -2257,6 +2257,12 @@
       "ln": 2
     },
     {
+      "host": "mail.miicrosoftofice.com",
+      "links": "162.244.81.10",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "mail.todevelopskills.com",
       "links": "85.93.88.165",
       "type": "pdns",
@@ -2349,6 +2355,12 @@
     {
       "host": "microsoft.softsecur.com",
       "links": "88.80.147.245",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "miicrosoftofice.com",
+      "links": "162.244.81.10",
       "type": "pdns",
       "ln": 2
     },
@@ -2533,6 +2545,12 @@
       "ln": 2
     },
     {
+      "host": "ns1.miicrosoftofice.com",
+      "links": "162.244.81.10",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ns2.besttus.com",
       "links": "3.214.68.117",
       "type": "pdns",
@@ -2546,6 +2564,12 @@
     },
     {
       "host": "ns2.bluefinanceandtech.com",
+      "links": "162.244.81.10",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.miicrosoftofice.com",
       "links": "162.244.81.10",
       "type": "pdns",
       "ln": 2

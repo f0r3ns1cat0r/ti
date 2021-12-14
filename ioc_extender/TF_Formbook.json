@@ -631,6 +631,12 @@
       "ln": 2
     },
     {
+      "host": "blog.cryptocurrencynews.link",
+      "links": "162.0.228.30",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "blog.samihakabir.com",
       "links": "162.0.222.228",
       "type": "pdns",
@@ -765,6 +771,12 @@
     {
       "host": "cdek.getpay.kz",
       "links": "199.192.27.115",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ceomier.xyz",
+      "links": "162.0.228.30",
       "type": "pdns",
       "ln": 2
     },
@@ -1219,6 +1231,12 @@
       "ln": 2
     },
     {
+      "host": "cryptocurrencynews.link",
+      "links": "162.0.228.30",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "cunerier.com",
       "links": "162.0.219.212",
       "type": "pdns",
@@ -1233,6 +1251,12 @@
     {
       "host": "curap.online",
       "links": "63.250.34.114",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cureyps.online",
+      "links": "162.0.228.30",
       "type": "pdns",
       "ln": 2
     },
@@ -1363,9 +1387,21 @@
       "ln": 2
     },
     {
+      "host": "eihncuz.online",
+      "links": "162.0.228.30",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "erpnext.thebahrimedia.com",
       "links": "66.29.133.79",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "firearms-missouri.com",
+      "links": "ca6a9ec2bc8388df4d5c76898f2a7dae938c8a0c",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -1394,7 +1430,19 @@
     },
     {
       "host": "gentciu.com",
+      "links": "162.0.228.30",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "gentciu.com",
       "links": "63.250.47.240",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "gerlom.online",
+      "links": "162.0.228.30",
       "type": "pdns",
       "ln": 2
     },
@@ -1447,6 +1495,12 @@
       "ln": 2
     },
     {
+      "host": "hyipboybtc.com",
+      "links": "a6ccbe695b4da4deaccb0b0a38fe07311845d428",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "importradee.com",
       "links": "162.0.214.62",
       "type": "pdns",
@@ -1471,8 +1525,20 @@
       "ln": 2
     },
     {
+      "host": "iplookgeolocation.com",
+      "links": "ca6a9ec2bc8388df4d5c76898f2a7dae938c8a0c",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "iptu.cariocariodigital.org",
       "links": "162.0.233.137",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iselh.com",
+      "links": "162.0.213.148",
       "type": "pdns",
       "ln": 2
     },
@@ -1558,6 +1624,12 @@
       "host": "lights.com.bd",
       "links": "162.0.222.228",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "localhost.localdomain",
+      "links": "ca6a9ec2bc8388df4d5c76898f2a7dae938c8a0c",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -1795,6 +1867,12 @@
       "ln": 2
     },
     {
+      "host": "meyudre.online",
+      "links": "162.0.228.30",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "midgex.info",
       "links": "192.64.115.131",
       "type": "pdns",
@@ -2023,6 +2101,12 @@
       "ln": 2
     },
     {
+      "host": "ns1.passamcq.com",
+      "links": "162.0.214.234",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ns1.ribs.com.ng",
       "links": "198.187.30.150",
       "type": "pdns",
@@ -2127,6 +2211,12 @@
     {
       "host": "ns2.newinterval.com",
       "links": "199.192.23.253",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.passamcq.com",
+      "links": "162.0.214.234",
       "type": "pdns",
       "ln": 2
     },
@@ -2236,6 +2326,12 @@
       "host": "passamcq.com",
       "links": "96da428f0e01a1b16c4c2900b1ac5f486a08a113",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "pedantic-hellman.162-0-228-30.plesk.page",
+      "links": "162.0.228.30",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -2385,6 +2481,12 @@
     {
       "host": "senmec23.com",
       "links": "66.29.131.244",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "seriom.xyz",
+      "links": "162.0.228.30",
       "type": "pdns",
       "ln": 2
     },
@@ -2631,6 +2733,24 @@
     {
       "host": "thesixthbeatle.com",
       "links": "199.192.24.12",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "thimelic.online",
+      "links": "162.0.228.30",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "trionys.xyz",
+      "links": "162.0.228.30",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "trumgry.xyz",
+      "links": "162.0.228.30",
       "type": "pdns",
       "ln": 2
     },
@@ -2908,6 +3028,12 @@
       "host": "whm.nadatogel.art",
       "links": "a55dc729e2ea7dfed28d75dd5f223da66ab65b5d",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "woyclus.xyz",
+      "links": "162.0.228.30",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -3277,6 +3403,18 @@
       "ln": 2
     },
     {
+      "host": "www.chaing-list.xyz",
+      "links": "a6ccbe695b4da4deaccb0b0a38fe07311845d428",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.chaing-list.xyz",
+      "links": "ca6a9ec2bc8388df4d5c76898f2a7dae938c8a0c",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "www.chaytel.com",
       "links": "162.0.219.214",
       "type": "pdns",
@@ -3370,6 +3508,12 @@
       "host": "www.cowbex.info",
       "links": "91d0d7231af3571266553d0cacd0fb22c95a0c73",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.cryptocurrencynews.link",
+      "links": "162.0.228.30",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -3483,6 +3627,12 @@
     {
       "host": "www.help2others.in",
       "links": "3cd70b6b939e1317f15799407bf2d9042b6528e2",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.hyipboybtc.com",
+      "links": "a6ccbe695b4da4deaccb0b0a38fe07311845d428",
       "type": "certs",
       "ln": 2
     },
@@ -3909,6 +4059,12 @@
     {
       "host": "www.yeasuc.com",
       "links": "6609e8bdd4b84186fb9f6728a5f6cb59934a3da6",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "xenophon.to",
+      "links": "ca6a9ec2bc8388df4d5c76898f2a7dae938c8a0c",
       "type": "certs",
       "ln": 2
     },
