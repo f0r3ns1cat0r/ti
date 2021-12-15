@@ -194,6 +194,12 @@
     },
     {
       "host": "ThreatFox: ISFB",
+      "links": "karfaganda.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: ISFB",
       "links": "kaztam.com",
       "type": "z",
       "ln": 2
@@ -231,6 +237,12 @@
     {
       "host": "ThreatFox: ISFB",
       "links": "pop.biopiof.at",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: ISFB",
+      "links": "technoshoper.com",
       "type": "z",
       "ln": 2
     },
@@ -769,6 +781,12 @@
       "ln": 2
     },
     {
+      "host": "karfaganda.com",
+      "links": "552b287c36d53f9d00c26151090ec6d9482ea341",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "kaztam.com",
       "links": "199.192.24.31",
       "type": "pdns",
@@ -1186,6 +1204,12 @@
       "host": "storyzoid.com",
       "links": "199.192.24.38",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "technoshoper.com",
+      "links": "552b287c36d53f9d00c26151090ec6d9482ea341",
+      "type": "certs",
       "ln": 2
     },
     {

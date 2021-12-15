@@ -187,6 +187,12 @@
       "ln": 2
     },
     {
+      "host": "8888.google",
+      "links": "9314509d8d3201af207649a68c93115cf94e68fd",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "ThreatFox: Cobalt Strike",
       "links": "360safe.info",
       "type": "z",
@@ -1267,6 +1273,12 @@
       "ln": 2
     },
     {
+      "host": "chmowd.xyz",
+      "links": "9314509d8d3201af207649a68c93115cf94e68fd",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "cifgtom.com",
       "links": "107.181.161.197",
       "type": "pdns",
@@ -1503,6 +1515,12 @@
     {
       "host": "dns64.dns.google",
       "links": "6875777f458559ce1daf42d91f25fe5b2721d8ee",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "dns64.dns.google",
+      "links": "9314509d8d3201af207649a68c93115cf94e68fd",
       "type": "certs",
       "ln": 2
     },
@@ -1756,6 +1774,12 @@
       "host": "franktomaz.com",
       "links": "217.12.204.178",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "franktomaz.com",
+      "links": "6a945ef10c28ba24dff328297a6b3e4032e6023b",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -2320,6 +2344,12 @@
       "host": "mbg.support",
       "links": "143.198.158.146",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mbp-ma.com",
+      "links": "50d59ec66cbdeaa41ae1403f2d9a53b5778784ac",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -2899,6 +2929,12 @@
       "ln": 2
     },
     {
+      "host": "sfreud.cc",
+      "links": "6a945ef10c28ba24dff328297a6b3e4032e6023b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "sfreud.ws",
       "links": "19b571f3638f0ba11a8ba6e9c421b0b4a90c2184",
       "type": "certs",
@@ -2925,6 +2961,12 @@
     {
       "host": "sharp-nobel.162-244-81-10.plesk.page",
       "links": "3a9827cfea1293276cb852d78fec6873cb787304",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "shentoumall.com",
+      "links": "9314509d8d3201af207649a68c93115cf94e68fd",
       "type": "certs",
       "ln": 2
     },
@@ -3253,6 +3295,12 @@
       "ln": 2
     },
     {
+      "host": "vpnkerio.com",
+      "links": "9314509d8d3201af207649a68c93115cf94e68fd",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "vps.ljt369.top",
       "links": "47.243.136.32",
       "type": "pdns",
@@ -3267,6 +3315,12 @@
     {
       "host": "vt.livehost.live",
       "links": "50d59ec66cbdeaa41ae1403f2d9a53b5778784ac",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "vt.livehost.live",
+      "links": "9314509d8d3201af207649a68c93115cf94e68fd",
       "type": "certs",
       "ln": 2
     },

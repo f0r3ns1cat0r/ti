@@ -470,6 +470,12 @@
     },
     {
       "host": "eonsabode.at",
+      "links": "176.107.160.86",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "eonsabode.at",
       "links": "176.119.147.59",
       "type": "pdns",
       "ln": 2
@@ -1083,6 +1089,12 @@
     {
       "host": "lpkobiznes.me",
       "links": "176.107.160.133",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "lpkobiznes.me",
+      "links": "176.107.160.86",
       "type": "pdns",
       "ln": 2
     },
@@ -1851,6 +1863,12 @@
     {
       "host": "webmail.online-bos.com",
       "links": "45.144.66.129",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.lpkobiznes.me",
+      "links": "176.107.160.86",
       "type": "pdns",
       "ln": 2
     },
