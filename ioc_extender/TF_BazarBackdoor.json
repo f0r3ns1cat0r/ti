@@ -38,12 +38,6 @@
     },
     {
       "host": "ThreatFox: BazarBackdoor",
-      "links": "connectbentleyd.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: BazarBackdoor",
       "links": "danielsaudits.com",
       "type": "z",
       "ln": 2
@@ -127,20 +121,8 @@
       "ln": 2
     },
     {
-      "host": "clarkerentalss.com",
-      "links": "194.62.42.202",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "coilhogand.com",
       "links": "194.62.42.113",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "connectbentleyd.com",
-      "links": "194.62.42.202",
       "type": "pdns",
       "ln": 2
     },

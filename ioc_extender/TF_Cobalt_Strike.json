@@ -1141,21 +1141,9 @@
       "ln": 2
     },
     {
-      "host": "biliyilish.com",
-      "links": "3.214.68.117",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "binanceico.com",
       "links": "0dc95187933afbb5a002e7bde78be6821c02eb3e",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "blackhoall.com",
-      "links": "3.214.68.117",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -1441,12 +1429,6 @@
       "ln": 2
     },
     {
-      "host": "dc-0ba78becaefc.aphroditellc.com",
-      "links": "162.244.82.249",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "deftsecurity.com",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
@@ -1474,12 +1456,6 @@
       "host": "dfvhpf.com",
       "links": "216edef2f26a94071007aab8ec5e36c6b072c949",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "dibilwithdibil.net",
-      "links": "176.118.164.143",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -1688,12 +1664,6 @@
     },
     {
       "host": "findyournewdomainname.net",
-      "links": "176.118.164.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "findyournewdomainname.net",
       "links": "185.173.37.186",
       "type": "pdns",
       "ln": 2
@@ -1707,12 +1677,6 @@
     {
       "host": "findyournewdomainname.net",
       "links": "91.224.22.176",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "fishsmokelab.net",
-      "links": "176.118.164.143",
       "type": "pdns",
       "ln": 2
     },
@@ -1921,12 +1885,6 @@
       "ln": 2
     },
     {
-      "host": "https-center.net",
-      "links": "176.118.164.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ii57533.com",
       "links": "0dc95187933afbb5a002e7bde78be6821c02eb3e",
       "type": "certs",
@@ -1965,6 +1923,12 @@
     {
       "host": "intelupdate.dns1.us",
       "links": "50d59ec66cbdeaa41ae1403f2d9a53b5778784ac",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "intelupdate.dns1.us",
+      "links": "9314509d8d3201af207649a68c93115cf94e68fd",
       "type": "certs",
       "ln": 2
     },
@@ -2504,12 +2468,6 @@
     },
     {
       "host": "newdomainfornewdomain.net",
-      "links": "176.118.164.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "newdomainfornewdomain.net",
       "links": "185.173.37.186",
       "type": "pdns",
       "ln": 2
@@ -2601,12 +2559,6 @@
     {
       "host": "ns2.miicrosoftofice.com",
       "links": "162.244.81.10",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "oldboytakecar.net",
-      "links": "176.118.164.143",
       "type": "pdns",
       "ln": 2
     },
@@ -3200,12 +3152,6 @@
     },
     {
       "host": "traxtibidox.net",
-      "links": "176.118.164.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "traxtibidox.net",
       "links": "185.173.37.186",
       "type": "pdns",
       "ln": 2
@@ -3475,12 +3421,6 @@
       "ln": 2
     },
     {
-      "host": "www.https-center.net",
-      "links": "176.118.164.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "www.komdsecko.net",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
@@ -3578,6 +3518,18 @@
     },
     {
       "host": "xsasianpinaycdn08.xyz",
+      "links": "50d59ec66cbdeaa41ae1403f2d9a53b5778784ac",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "xsasianpinaycdn09.xyz",
+      "links": "9314509d8d3201af207649a68c93115cf94e68fd",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "xsasianpinaycdn10.xyz",
       "links": "50d59ec66cbdeaa41ae1403f2d9a53b5778784ac",
       "type": "certs",
       "ln": 2

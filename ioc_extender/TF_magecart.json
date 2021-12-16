@@ -1009,6 +1009,12 @@
       "ln": 2
     },
     {
+      "host": "cloudflare-ssl.com",
+      "links": "dd51cd0fe791c5a0c1e422fa6c76f407a48ee3cf",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "coeentext.ru",
       "links": "2b3b934000b73d55403b7f96567d0cea2e2ab8bb",
       "type": "certs",
@@ -1231,12 +1237,6 @@
       "ln": 2
     },
     {
-      "host": "frcdn.site",
-      "links": "8.209.69.3",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "fromkisjfoadfs.store",
       "links": "9c73f26d08c80392fcf32de60e43cfc5586b26f8",
       "type": "certs",
@@ -1364,12 +1364,6 @@
     },
     {
       "host": "google-analytisc.com",
-      "links": "47.254.173.109",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "google-analytisc.com",
       "links": "47.88.12.192",
       "type": "pdns",
       "ln": 2
@@ -1394,12 +1388,6 @@
     },
     {
       "host": "google-assignments.com",
-      "links": "47.254.173.109",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "google-assignments.com",
       "links": "47.88.12.192",
       "type": "pdns",
       "ln": 2
@@ -1413,12 +1401,6 @@
     {
       "host": "google-codes.com",
       "links": "185.120.56.90",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "google-codes.com",
-      "links": "47.254.173.109",
       "type": "pdns",
       "ln": 2
     },
@@ -1460,12 +1442,6 @@
     },
     {
       "host": "google-conversion.com",
-      "links": "47.254.173.109",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "google-conversion.com",
       "links": "47.88.12.192",
       "type": "pdns",
       "ln": 2
@@ -1490,12 +1466,6 @@
     },
     {
       "host": "google-create.com",
-      "links": "47.254.173.109",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "google-create.com",
       "links": "47.88.12.192",
       "type": "pdns",
       "ln": 2
@@ -1513,20 +1483,8 @@
       "ln": 2
     },
     {
-      "host": "google-gate.com",
-      "links": "47.254.170.220",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "google-globals.com",
       "links": "185.120.56.90",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "google-globals.com",
-      "links": "47.254.173.109",
       "type": "pdns",
       "ln": 2
     },
@@ -1551,12 +1509,6 @@
     {
       "host": "google-note.com",
       "links": "185.120.56.90",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "google-note.com",
-      "links": "47.254.173.109",
       "type": "pdns",
       "ln": 2
     },
@@ -1581,12 +1533,6 @@
     {
       "host": "google-opinion.com",
       "links": "185.120.56.90",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "google-opinion.com",
-      "links": "47.254.173.109",
       "type": "pdns",
       "ln": 2
     },
@@ -1628,12 +1574,6 @@
     },
     {
       "host": "google-sanek.com",
-      "links": "47.254.173.109",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "google-sanek.com",
       "links": "47.88.12.192",
       "type": "pdns",
       "ln": 2
@@ -1664,12 +1604,6 @@
     },
     {
       "host": "google-squery.com",
-      "links": "47.254.173.109",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "google-squery.com",
       "links": "47.88.12.192",
       "type": "pdns",
       "ln": 2
@@ -1695,12 +1629,6 @@
     {
       "host": "google-thumbs.com",
       "links": "185.120.56.90",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "google-thumbs.com",
-      "links": "47.254.173.109",
       "type": "pdns",
       "ln": 2
     },
@@ -2635,6 +2563,12 @@
       "ln": 2
     },
     {
+      "host": "ovpn-as.its",
+      "links": "dd51cd0fe791c5a0c1e422fa6c76f407a48ee3cf",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "owa.hommily.com",
       "links": "47.88.27.175",
       "type": "pdns",
@@ -2649,12 +2583,6 @@
     {
       "host": "paypal-merchants.com",
       "links": "185.120.56.90",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "paypal-merchants.com",
-      "links": "47.254.173.109",
       "type": "pdns",
       "ln": 2
     },
@@ -2679,12 +2607,6 @@
     {
       "host": "paypal-moneypay.com",
       "links": "185.120.56.90",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "paypal-moneypay.com",
-      "links": "47.254.173.109",
       "type": "pdns",
       "ln": 2
     },
@@ -2833,8 +2755,20 @@
       "ln": 2
     },
     {
+      "host": "roditelyamorazvode.ru",
+      "links": "2b3b934000b73d55403b7f96567d0cea2e2ab8bb",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "ruraligdwb.store",
       "links": "2b3b934000b73d55403b7f96567d0cea2e2ab8bb",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "rusalmebel.store",
+      "links": "5b410f323f84cc0ea3f41697444153e11400c683",
       "type": "certs",
       "ln": 2
     },
@@ -3008,12 +2942,6 @@
     },
     {
       "host": "ssl-authorization.com",
-      "links": "47.254.173.109",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ssl-authorization.com",
       "links": "47.88.12.192",
       "type": "pdns",
       "ln": 2
@@ -3169,12 +3097,6 @@
       "ln": 2
     },
     {
-      "host": "toto992.xyz",
-      "links": "47.254.169.220",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "travelstartour.ru",
       "links": "2b3b934000b73d55403b7f96567d0cea2e2ab8bb",
       "type": "certs",
@@ -3325,12 +3247,6 @@
       "ln": 2
     },
     {
-      "host": "www.bing-analytics.com",
-      "links": "47.254.173.109",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "www.bing-visitors.com",
       "links": "2c09059d52b37da81f70710c330eedd46d285e7a",
       "type": "certs",
@@ -3440,12 +3356,6 @@
     },
     {
       "host": "www.google-assignments.com",
-      "links": "47.254.173.109",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.google-assignments.com",
       "links": "47.88.12.192",
       "type": "pdns",
       "ln": 2
@@ -3459,12 +3369,6 @@
     {
       "host": "www.google-conversion.com",
       "links": "185.120.56.90",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.google-conversion.com",
-      "links": "47.254.173.109",
       "type": "pdns",
       "ln": 2
     },
@@ -3494,12 +3398,6 @@
     },
     {
       "host": "www.google-note.com",
-      "links": "47.254.173.109",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.google-note.com",
       "links": "47.88.12.192",
       "type": "pdns",
       "ln": 2
@@ -3524,12 +3422,6 @@
     },
     {
       "host": "www.google-opinion.com",
-      "links": "47.254.173.109",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.google-opinion.com",
       "links": "8.209.114.220",
       "type": "pdns",
       "ln": 2
@@ -3537,12 +3429,6 @@
     {
       "host": "www.google-sanek.com",
       "links": "185.120.56.90",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.google-sanek.com",
-      "links": "47.254.173.109",
       "type": "pdns",
       "ln": 2
     },
@@ -3567,12 +3453,6 @@
     {
       "host": "www.google-squery.com",
       "links": "185.120.56.90",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.google-squery.com",
-      "links": "47.254.173.109",
       "type": "pdns",
       "ln": 2
     },
@@ -3674,12 +3554,6 @@
     },
     {
       "host": "www.paypal-merchants.com",
-      "links": "47.254.173.109",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.paypal-merchants.com",
       "links": "47.88.12.192",
       "type": "pdns",
       "ln": 2
@@ -3699,12 +3573,6 @@
     {
       "host": "www.paypal-moneypay.com",
       "links": "185.120.56.90",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.paypal-moneypay.com",
-      "links": "47.254.173.109",
       "type": "pdns",
       "ln": 2
     },
@@ -3765,12 +3633,6 @@
     {
       "host": "www.yahoo-manager.com",
       "links": "185.120.56.90",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.yahoo-manager.com",
-      "links": "47.254.173.109",
       "type": "pdns",
       "ln": 2
     },
@@ -3842,12 +3704,6 @@
     },
     {
       "host": "yahoo-manager.com",
-      "links": "47.254.173.109",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "yahoo-manager.com",
       "links": "8.209.114.220",
       "type": "pdns",
       "ln": 2
@@ -3855,12 +3711,6 @@
     {
       "host": "yahoo-tasks.com",
       "links": "185.120.56.90",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "yahoo-tasks.com",
-      "links": "47.254.173.109",
       "type": "pdns",
       "ln": 2
     },
