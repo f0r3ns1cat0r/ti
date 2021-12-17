@@ -44,12 +44,6 @@
     },
     {
       "host": "db.qrrd.ru",
-      "links": "185.162.8.12",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "db.qrrd.ru",
       "links": "f1f7546c6658dd59f6bcde986e1051bd72446a7c",
       "type": "certs",
       "ln": 2
