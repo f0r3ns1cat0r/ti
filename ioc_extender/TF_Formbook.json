@@ -1735,6 +1735,12 @@
       "ln": 2
     },
     {
+      "host": "mail.hyipboybtc.com",
+      "links": "63.250.44.253",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "mail.lights.com.bd",
       "links": "162.0.222.228",
       "type": "pdns",
@@ -2533,6 +2539,12 @@
       "ln": 2
     },
     {
+      "host": "server1.hyipboybtc.com",
+      "links": "63.250.44.253",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "server1.katanacapital.tech",
       "links": "27a02278a2cb6dbfa358c3515f7caaf9f7037cf8",
       "type": "certs",
@@ -2566,6 +2578,12 @@
       "host": "server1.q1bookscdn.com",
       "links": "826e72979d5297285176543807d299cb5f802db3",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "server1.telemetry.mx",
+      "links": "192.64.115.131",
+      "type": "pdns",
       "ln": 2
     },
     {

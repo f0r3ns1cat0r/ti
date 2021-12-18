@@ -475,6 +475,12 @@
       "ln": 2
     },
     {
+      "host": "chinaqingnian.com",
+      "links": "206.237.157.39",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "cnpc.com",
       "links": "5572f138f4ba9cab3aa444fc49cf24d6d7932e93",
       "type": "certs",
@@ -1471,6 +1477,12 @@
       "ln": 2
     },
     {
+      "host": "roadwide.net",
+      "links": "206.237.157.39",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "rthur.co",
       "links": "ce078e35847244a3d112e15aa72c9177e9db15fe",
       "type": "certs",
@@ -1912,6 +1924,12 @@
       "host": "www.carecti.com",
       "links": "64916fff794ae728dc188099b0486284a753221c",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.chinaqingnian.com",
+      "links": "206.237.157.39",
+      "type": "pdns",
       "ln": 2
     },
     {

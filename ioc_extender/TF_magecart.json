@@ -524,6 +524,12 @@
     },
     {
       "host": "apayments.top",
+      "links": "47.254.173.161",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "apayments.top",
       "links": "47.74.87.193",
       "type": "pdns",
       "ln": 2
@@ -2144,6 +2150,12 @@
     },
     {
       "host": "livechatlnc.com",
+      "links": "47.254.173.161",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "livechatlnc.com",
       "links": "47.74.87.193",
       "type": "pdns",
       "ln": 2
@@ -2599,6 +2611,12 @@
       "ln": 2
     },
     {
+      "host": "paypal-login61.com",
+      "links": "5b410f323f84cc0ea3f41697444153e11400c683",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "paypal-merchants.com",
       "links": "185.120.56.90",
       "type": "pdns",
@@ -2743,6 +2761,12 @@
       "ln": 2
     },
     {
+      "host": "rahatroll.ru",
+      "links": "2b3b934000b73d55403b7f96567d0cea2e2ab8bb",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "raskrasmenya.ru",
       "links": "5b410f323f84cc0ea3f41697444153e11400c683",
       "type": "certs",
@@ -2756,6 +2780,12 @@
     },
     {
       "host": "refoudmoney.store",
+      "links": "5b410f323f84cc0ea3f41697444153e11400c683",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "rejtingimira.store",
       "links": "5b410f323f84cc0ea3f41697444153e11400c683",
       "type": "certs",
       "ln": 2
@@ -3020,6 +3050,12 @@
     },
     {
       "host": "stripe-auth-api.com",
+      "links": "47.254.173.161",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "stripe-auth-api.com",
       "links": "47.74.87.193",
       "type": "pdns",
       "ln": 2
@@ -3051,6 +3087,12 @@
     {
       "host": "tagmanaqer.com",
       "links": "47.254.169.220",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "tagmanaqer.com",
+      "links": "47.254.173.161",
       "type": "pdns",
       "ln": 2
     },
@@ -3783,6 +3825,12 @@
     {
       "host": "zumen-coin.ru",
       "links": "2b3b934000b73d55403b7f96567d0cea2e2ab8bb",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "zvezdaroka.store",
+      "links": "5b410f323f84cc0ea3f41697444153e11400c683",
       "type": "certs",
       "ln": 2
     }
