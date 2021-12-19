@@ -1453,6 +1453,12 @@
       "ln": 2
     },
     {
+      "host": "community.lisamariakeck.com",
+      "links": "8a115c209cc06970cae97447b8f7498e9a72d264",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "copobu.com",
       "links": "216edef2f26a94071007aab8ec5e36c6b072c949",
       "type": "certs",
@@ -3190,6 +3196,12 @@
       "host": "surveyfox.net",
       "links": "143.244.158.239",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "surveyfox.net",
+      "links": "8a115c209cc06970cae97447b8f7498e9a72d264",
+      "type": "certs",
       "ln": 2
     },
     {

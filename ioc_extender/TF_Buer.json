@@ -1,0 +1,118 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ThreatFox: Buer",
+      "links": "softwareconsbank.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "clinic-doctor.com",
+      "links": "bd1feb86b5ea7cccbf71597e1ea1bd8372dcc9b7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "eapk.com",
+      "links": "bd1feb86b5ea7cccbf71597e1ea1bd8372dcc9b7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "ecater.co",
+      "links": "bd1feb86b5ea7cccbf71597e1ea1bd8372dcc9b7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "namuh.com",
+      "links": "bd1feb86b5ea7cccbf71597e1ea1bd8372dcc9b7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "omr.co",
+      "links": "bd1feb86b5ea7cccbf71597e1ea1bd8372dcc9b7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "raytowndental.com",
+      "links": "bd1feb86b5ea7cccbf71597e1ea1bd8372dcc9b7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "softwareconsbank.com",
+      "links": "bd1feb86b5ea7cccbf71597e1ea1bd8372dcc9b7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "solucionesindustriales.co",
+      "links": "bd1feb86b5ea7cccbf71597e1ea1bd8372dcc9b7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.clinic-doctor.com",
+      "links": "bd1feb86b5ea7cccbf71597e1ea1bd8372dcc9b7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.eapk.com",
+      "links": "bd1feb86b5ea7cccbf71597e1ea1bd8372dcc9b7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.ecater.co",
+      "links": "bd1feb86b5ea7cccbf71597e1ea1bd8372dcc9b7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.namuh.com",
+      "links": "bd1feb86b5ea7cccbf71597e1ea1bd8372dcc9b7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.omr.co",
+      "links": "bd1feb86b5ea7cccbf71597e1ea1bd8372dcc9b7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.raytowndental.com",
+      "links": "bd1feb86b5ea7cccbf71597e1ea1bd8372dcc9b7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.solucionesindustriales.co",
+      "links": "bd1feb86b5ea7cccbf71597e1ea1bd8372dcc9b7",
+      "type": "certs",
+      "ln": 2
+    }
+  ]
+}
