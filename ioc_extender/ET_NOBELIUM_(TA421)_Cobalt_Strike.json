@@ -19,12 +19,6 @@
   ],
   "data": [
     {
-      "host": "5213b4b6.cdn.giftbox4u.com",
-      "links": "37.120.247.135",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ET Trojan: NOBELIUM (TA421) Cobalt Strike",
       "links": "alifemap.com",
       "type": "z",
@@ -157,12 +151,6 @@
       "ln": 2
     },
     {
-      "host": "app.giftbox4u.com",
-      "links": "37.120.247.135",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "appsync-api.us-east-1.avsvmcloud.come8h2vel9711jjcpte3so6iore1ovoe0t.appsync-api.us-east-1.avsvmcloud.com-1.avsvmcloud.com",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
@@ -183,12 +171,6 @@
     {
       "host": "b.ns.stockmarketon.com",
       "links": "51.254.241.158",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "cdn.giftbox4u.com",
-      "links": "37.120.247.135",
       "type": "pdns",
       "ln": 2
     },
@@ -289,12 +271,6 @@
       "ln": 2
     },
     {
-      "host": "dns.giftbox4u.com",
-      "links": "37.120.247.135",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "dns1.rchosts.com",
       "links": "51.89.50.153",
       "type": "pdns",
@@ -307,12 +283,6 @@
       "ln": 2
     },
     {
-      "host": "exchange.giftbox4u.com",
-      "links": "37.120.247.135",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "freescanonline.com",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
@@ -320,12 +290,6 @@
     },
     {
       "host": "giftbox4u.com",
-      "links": "37.120.247.135",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "gw.giftbox4u.com",
       "links": "37.120.247.135",
       "type": "pdns",
       "ln": 2
@@ -355,24 +319,6 @@
       "ln": 2
     },
     {
-      "host": "imap.giftbox4u.com",
-      "links": "37.120.247.135",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "imap1.giftbox4u.com",
-      "links": "37.120.247.135",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "imap2.giftbox4u.com",
-      "links": "37.120.247.135",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "incomeupdate.com",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
@@ -397,21 +343,9 @@
       "ln": 2
     },
     {
-      "host": "jbhifi.giftbox4u.com",
-      "links": "37.120.247.135",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "lab.symantecsafe.org",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "m.jbhifi.giftbox4u.com",
-      "links": "37.120.247.135",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -487,44 +421,8 @@
       "ln": 2
     },
     {
-      "host": "mail1.giftbox4u.com",
-      "links": "37.120.247.135",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mail8.giftbox4u.com",
-      "links": "37.120.247.135",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mailhost.giftbox4u.com",
-      "links": "37.120.247.135",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "mailrelay.alifemap.com",
       "links": "188.68.250.182",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mailsrv.giftbox4u.com",
-      "links": "37.120.247.135",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mx0.giftbox4u.com",
-      "links": "37.120.247.135",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mx02.giftbox4u.com",
-      "links": "37.120.247.135",
       "type": "pdns",
       "ln": 2
     },
@@ -607,18 +505,6 @@
       "ln": 2
     },
     {
-      "host": "pop.giftbox4u.com",
-      "links": "37.120.247.135",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "pop3.giftbox4u.com",
-      "links": "37.120.247.135",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "rawfuns.com",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
@@ -631,56 +517,14 @@
       "ln": 2
     },
     {
-      "host": "root.giftbox4u.com",
-      "links": "37.120.247.135",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "sdfsd.cityloss.com",
-      "links": "51.38.85.225",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "sdfsd.cityloss.com",
       "links": "980a71d12946be6b4983207c9e7a45d164808486",
       "type": "certs",
       "ln": 2
     },
     {
-      "host": "server2.giftbox4u.com",
-      "links": "37.120.247.135",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "server45.xinix.in",
       "links": "194.135.81.18",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "smtp.giftbox4u.com",
-      "links": "37.120.247.135",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "smtp2.giftbox4u.com",
-      "links": "37.120.247.135",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "smtps.giftbox4u.com",
-      "links": "37.120.247.135",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "sniper.giftbox4u.com",
-      "links": "37.120.247.135",
       "type": "pdns",
       "ln": 2
     },
