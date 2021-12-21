@@ -686,8 +686,20 @@
     },
     {
       "host": "databasfin.top",
+      "links": "185.14.30.72",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "databasfin.top",
       "links": "195.123.233.249",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "databasfin.top",
+      "links": "573b96f0609b7b854fffe87418c58a476699b392",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -922,6 +934,18 @@
       "host": "ermanenerilin.top",
       "links": "185.70.187.180",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ermanenerilin.top",
+      "links": "23.227.203.75",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ermanenerilin.top",
+      "links": "5cc611658c27d89b6a30f7f7dd488a3dd9dfcc76",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -2114,6 +2138,18 @@
     },
     {
       "host": "rocesdilin.top",
+      "links": "23.227.203.75",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "rocesdilin.top",
+      "links": "5cc611658c27d89b6a30f7f7dd488a3dd9dfcc76",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "rocesdilin.top",
       "links": "89.41.182.117",
       "type": "pdns",
       "ln": 2
@@ -2312,8 +2348,20 @@
     },
     {
       "host": "temberlipfo.top",
+      "links": "185.14.30.72",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "temberlipfo.top",
       "links": "195.123.233.249",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "temberlipfo.top",
+      "links": "573b96f0609b7b854fffe87418c58a476699b392",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -2372,8 +2420,20 @@
     },
     {
       "host": "undertin.top",
+      "links": "23.227.203.75",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "undertin.top",
       "links": "45.147.228.138",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "undertin.top",
+      "links": "5cc611658c27d89b6a30f7f7dd488a3dd9dfcc76",
+      "type": "certs",
       "ln": 2
     },
     {

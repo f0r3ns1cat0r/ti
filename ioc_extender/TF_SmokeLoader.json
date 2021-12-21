@@ -4832,6 +4832,12 @@
     },
     {
       "host": "file-file-host8.com",
+      "links": "5.188.89.62",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "file-file-host8.com",
       "links": "8.211.3.231",
       "type": "pdns",
       "ln": 2
@@ -5205,6 +5211,12 @@
     {
       "host": "host-data-coin-11.com",
       "links": "47.251.42.216",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "host-data-coin-11.com",
+      "links": "5.188.89.62",
       "type": "pdns",
       "ln": 2
     },
@@ -7497,6 +7509,12 @@
     {
       "host": "stats404.info",
       "links": "47.251.42.216",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "stats404.info",
+      "links": "5.188.89.62",
       "type": "pdns",
       "ln": 2
     },
