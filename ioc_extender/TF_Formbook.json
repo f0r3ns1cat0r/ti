@@ -817,6 +817,12 @@
       "ln": 2
     },
     {
+      "host": "christopherngai.com",
+      "links": "dceaf95c7f61fc7f8f452b77847cd7c5de0ecacf",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "cindylumail.com",
       "links": "199.192.24.12",
       "type": "pdns",
@@ -2116,6 +2122,18 @@
       "host": "novergi.com",
       "links": "199.192.26.235",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns.yunohost.org",
+      "links": "341d6589885031750ccde2bcc198e56b8c8db05b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "ns.yunohost.org",
+      "links": "5507922b90b7a62e2e7c34a476032844d1981d65",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -3505,6 +3523,18 @@
       "ln": 2
     },
     {
+      "host": "www.casnop.com",
+      "links": "341d6589885031750ccde2bcc198e56b8c8db05b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.casnop.com",
+      "links": "5507922b90b7a62e2e7c34a476032844d1981d65",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "www.chaing-list.xyz",
       "links": "63.250.44.253",
       "type": "pdns",
@@ -3543,6 +3573,12 @@
     {
       "host": "www.christopherngai.com",
       "links": "977708d365741bc5f0b736a65f1c4d50bdce4248",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.christopherngai.com",
+      "links": "dceaf95c7f61fc7f8f452b77847cd7c5de0ecacf",
       "type": "certs",
       "ln": 2
     },
@@ -3955,6 +3991,18 @@
       "ln": 2
     },
     {
+      "host": "www.nehyam.com",
+      "links": "341d6589885031750ccde2bcc198e56b8c8db05b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.nehyam.com",
+      "links": "5507922b90b7a62e2e7c34a476032844d1981d65",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "www.nelivo.com",
       "links": "66.29.133.79",
       "type": "pdns",
@@ -4195,8 +4243,32 @@
       "ln": 2
     },
     {
+      "host": "www.yunohost.org",
+      "links": "341d6589885031750ccde2bcc198e56b8c8db05b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.yunohost.org",
+      "links": "5507922b90b7a62e2e7c34a476032844d1981d65",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "xenophon.to",
       "links": "ca6a9ec2bc8388df4d5c76898f2a7dae938c8a0c",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "xmpp-upload.yunohost.org",
+      "links": "341d6589885031750ccde2bcc198e56b8c8db05b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "xmpp-upload.yunohost.org",
+      "links": "5507922b90b7a62e2e7c34a476032844d1981d65",
       "type": "certs",
       "ln": 2
     },
@@ -4221,6 +4293,18 @@
     {
       "host": "yeasuc.com",
       "links": "1bdb661af548391c719c3c3f2c5e0daac152131e",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "yunohost.org",
+      "links": "341d6589885031750ccde2bcc198e56b8c8db05b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "yunohost.org",
+      "links": "5507922b90b7a62e2e7c34a476032844d1981d65",
       "type": "certs",
       "ln": 2
     },

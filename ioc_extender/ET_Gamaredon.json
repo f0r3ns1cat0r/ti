@@ -6379,6 +6379,12 @@
       "ln": 2
     },
     {
+      "host": "ns2.microsoftsonline.net",
+      "links": "da79848954d60beb853d12e34a0f445a919d698b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "nymphalidaes.online",
       "links": "173.199.70.149",
       "type": "pdns",
@@ -7024,6 +7030,12 @@
       "host": "sinensisa.online",
       "links": "89.108.79.114",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "softfilemanage.com",
+      "links": "da79848954d60beb853d12e34a0f445a919d698b",
+      "type": "certs",
       "ln": 2
     },
     {

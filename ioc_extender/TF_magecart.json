@@ -1165,6 +1165,12 @@
       "ln": 2
     },
     {
+      "host": "eb765ay-rev87iew3.com",
+      "links": "2b3b934000b73d55403b7f96567d0cea2e2ab8bb",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "ehlektrika-uslugi.ru",
       "links": "5b410f323f84cc0ea3f41697444153e11400c683",
       "type": "certs",
@@ -3310,6 +3316,12 @@
       "host": "webscriptcdn.com",
       "links": "176.121.14.143",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "worldanime.store",
+      "links": "5b410f323f84cc0ea3f41697444153e11400c683",
+      "type": "certs",
       "ln": 2
     },
     {
