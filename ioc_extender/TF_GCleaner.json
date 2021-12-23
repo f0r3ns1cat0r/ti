@@ -49,6 +49,12 @@
       "ln": 2
     },
     {
+      "host": "commerciallim.top",
+      "links": "185.14.30.72",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "counteredilin.top",
       "links": "185.14.30.72",
       "type": "pdns",
@@ -56,6 +62,18 @@
     },
     {
       "host": "databasfin.top",
+      "links": "185.14.30.72",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "domalipfo.top",
+      "links": "185.14.30.72",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "eceivedilin.top",
       "links": "185.14.30.72",
       "type": "pdns",
       "ln": 2
@@ -253,12 +271,6 @@
       "ln": 2
     },
     {
-      "host": "mail.netzeroliving.org",
-      "links": "46.16.13.201",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "mordyf07.top",
       "links": "46.16.13.201",
       "type": "pdns",
@@ -273,12 +285,6 @@
     {
       "host": "morwjt02.top",
       "links": "91.107.126.10",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "netzeroliving.org",
-      "links": "46.16.13.201",
       "type": "pdns",
       "ln": 2
     },

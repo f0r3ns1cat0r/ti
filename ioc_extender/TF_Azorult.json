@@ -25,6 +25,18 @@
       "ln": 2
     },
     {
+      "host": "audio.zetrexx.com",
+      "links": "52.6.206.192",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "babtrabbab.biz",
+      "links": "52.6.206.192",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ftp.suspam.com",
       "links": "0cf16e642192b4e51098e13968e09109e373f29e",
       "type": "certs",
@@ -40,6 +52,24 @@
       "host": "ftp.suspam.com",
       "links": "491208fb0a0e5ddfa229563efb549171260d13ce",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "global-popular.com",
+      "links": "52.6.206.192",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "icloudserv.com",
+      "links": "52.6.206.192",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.icloud-mail.net",
+      "links": "52.6.206.192",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -61,6 +91,30 @@
       "ln": 2
     },
     {
+      "host": "motinkon.com",
+      "links": "52.6.206.192",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.sovantha.com",
+      "links": "52.6.206.192",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.sovantha.com",
+      "links": "52.6.206.192",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "penzahosp3.getrqpop.com",
+      "links": "52.6.206.192",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "pop.suspam.com",
       "links": "0cf16e642192b4e51098e13968e09109e373f29e",
       "type": "certs",
@@ -76,6 +130,18 @@
       "host": "pop.suspam.com",
       "links": "491208fb0a0e5ddfa229563efb549171260d13ce",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "robitgroups.com",
+      "links": "52.6.206.192",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "slot0.global-popular.com",
+      "links": "52.6.206.192",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -97,6 +163,12 @@
       "ln": 2
     },
     {
+      "host": "spacewb.tech",
+      "links": "52.6.206.192",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "suspam.com",
       "links": "0cf16e642192b4e51098e13968e09109e373f29e",
       "type": "certs",
@@ -112,6 +184,30 @@
       "host": "suspam.com",
       "links": "491208fb0a0e5ddfa229563efb549171260d13ce",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "suspam.com",
+      "links": "52.6.206.192",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.ctcodeinfo.com",
+      "links": "52.6.206.192",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.getrqpop.com",
+      "links": "52.6.206.192",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "zetrexx.com",
+      "links": "52.6.206.192",
+      "type": "pdns",
       "ln": 2
     }
   ]

@@ -55,12 +55,6 @@
       "ln": 2
     },
     {
-      "host": "15474-26924.bacloud.info",
-      "links": "185.64.106.97",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "15637-27168.bacloud.info",
       "links": "88.119.161.120",
       "type": "pdns",
@@ -97,12 +91,6 @@
       "ln": 2
     },
     {
-      "host": "28347174871.ga",
-      "links": "185.141.24.117",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "2mx.mail.cryptosale.me",
       "links": "88.119.175.71",
       "type": "pdns",
@@ -124,6 +112,12 @@
       "host": "360safe.info",
       "links": "119.28.1.111",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "37ebab1e3ecc87e7b0b84157d81f96ca.649d116b21d03d00ab398ce1f7b0e6d3.traefik.default",
+      "links": "6e20ec3845b0ed6292399ee60a8549428613f2b7",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -267,12 +261,6 @@
     {
       "host": "ThreatFox: Cobalt Strike",
       "links": "bartyba.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: Cobalt Strike",
-      "links": "bennssi.com",
       "type": "z",
       "ln": 2
     },
@@ -854,12 +842,6 @@
     },
     {
       "host": "ThreatFox: Cobalt Strike",
-      "links": "vivaklo.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: Cobalt Strike",
       "links": "wezaju.com",
       "type": "z",
       "ln": 2
@@ -1166,12 +1148,6 @@
     },
     {
       "host": "bankingshoestohome.com",
-      "links": "185.188.182.132",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "bankingshoestohome.com",
       "links": "91.224.22.176",
       "type": "pdns",
       "ln": 2
@@ -1216,12 +1192,6 @@
       "host": "bbb.edu-cisco.org",
       "links": "dca4a29b711e656b72c67fa704bbe1b9481d37f2",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "bennssi.com",
-      "links": "185.141.24.117",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -1579,6 +1549,12 @@
       "ln": 2
     },
     {
+      "host": "dkeeper.top",
+      "links": "9314509d8d3201af207649a68c93115cf94e68fd",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "dmadirectab.com",
       "links": "216edef2f26a94071007aab8ec5e36c6b072c949",
       "type": "certs",
@@ -1790,19 +1766,7 @@
     },
     {
       "host": "findyournewdomainname.net",
-      "links": "185.188.182.132",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "findyournewdomainname.net",
       "links": "91.224.22.176",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "fishsmokelab.net",
-      "links": "185.188.182.132",
       "type": "pdns",
       "ln": 2
     },
@@ -2437,6 +2401,12 @@
       "ln": 2
     },
     {
+      "host": "mantosombra.com",
+      "links": "6e20ec3845b0ed6292399ee60a8549428613f2b7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "manulief.com",
       "links": "3.19.152.209",
       "type": "pdns",
@@ -2624,12 +2594,6 @@
     },
     {
       "host": "newdomainfornewdomain.net",
-      "links": "185.188.182.132",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "newdomainfornewdomain.net",
       "links": "195.66.114.167",
       "type": "pdns",
       "ln": 2
@@ -2727,12 +2691,6 @@
     {
       "host": "oldboytakecar.net",
       "links": "185.173.37.186",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "oldboytakecar.net",
-      "links": "185.188.182.132",
       "type": "pdns",
       "ln": 2
     },
@@ -2913,6 +2871,12 @@
     {
       "host": "pumolenory.xyz",
       "links": "78f7946fee67a734fb1b74cf64e34c192ad64ca6",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "pythagore-junior.net",
+      "links": "9314509d8d3201af207649a68c93115cf94e68fd",
       "type": "certs",
       "ln": 2
     },
@@ -3369,12 +3333,6 @@
     {
       "host": "traxtibidox.net",
       "links": "185.173.37.186",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "traxtibidox.net",
-      "links": "185.188.182.132",
       "type": "pdns",
       "ln": 2
     },
