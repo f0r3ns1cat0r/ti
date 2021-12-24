@@ -50,6 +50,12 @@
     },
     {
       "host": "HP Threat Research: TA551",
+      "links": "specialcaseyd.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "HP Threat Research: TA551",
       "links": "thriveparrad.com",
       "type": "z",
       "ln": 2
@@ -247,6 +253,18 @@
       "ln": 2
     },
     {
+      "host": "mail.brasecaps.work",
+      "links": "138.124.180.201",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.oklahomareda.work",
+      "links": "138.124.180.220",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "pedrosimanez.fun",
       "links": "138.124.180.201",
       "type": "pdns",
@@ -261,6 +279,12 @@
     {
       "host": "santiagoposts.com",
       "links": "194.62.42.45",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "specialcaseyd.com",
+      "links": "138.124.180.220",
       "type": "pdns",
       "ln": 2
     },
