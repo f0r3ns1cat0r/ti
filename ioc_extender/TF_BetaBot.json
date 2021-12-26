@@ -1,0 +1,88 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ThreatFox: BetaBot",
+      "links": "rusianlover.icu",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "border.camdvr.org",
+      "links": "45.147.229.22",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "fastmail33.2waky.com",
+      "links": "45.147.229.22",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "fgjkhjkeh.icu",
+      "links": "45.147.229.22",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hartzrentals.64-b.it",
+      "links": "45.147.229.22",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "platetower.dnsrd.com",
+      "links": "45.147.229.22",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "pppfinder.icu",
+      "links": "45.147.229.22",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "rusianlover.icu",
+      "links": "45.147.229.22",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "servicecenter.mywire.org",
+      "links": "45.147.229.22",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "turnipbowl.dynip.org",
+      "links": "45.147.229.22",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "vrm-blocks.toythieves.com",
+      "links": "45.147.229.22",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

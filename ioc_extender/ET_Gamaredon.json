@@ -103,6 +103,12 @@
       "ln": 2
     },
     {
+      "host": "80-78-253-86.cloudvps.regruhosting.ru",
+      "links": "80.78.253.86",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "89-108-78-252.cloudvps.regruhosting.ru",
       "links": "89.108.78.252",
       "type": "pdns",
@@ -1372,6 +1378,12 @@
       "host": "busy-liskov.199-247-8-121.plesk.page",
       "links": "199.247.8.121",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "byeserver.com",
+      "links": "da79848954d60beb853d12e34a0f445a919d698b",
+      "type": "certs",
       "ln": 2
     },
     {

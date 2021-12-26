@@ -584,6 +584,12 @@
     },
     {
       "host": "ThreatFox: Cobalt Strike",
+      "links": "maxcloud.tech",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Cobalt Strike",
       "links": "maxeleh.com",
       "type": "z",
       "ln": 2
@@ -2425,6 +2431,12 @@
       "ln": 2
     },
     {
+      "host": "maxcloud.tech",
+      "links": "8a3dc1e7bb3bd7e1665e42fd908079d8bc44f008",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "mbg.support",
       "links": "143.198.158.146",
       "type": "pdns",
@@ -2865,6 +2877,24 @@
     {
       "host": "primecentral.ikea-family3.shop",
       "links": "9c946a63c5d70e3de38c30dc0fee096b3b56bb0d",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "primelink.codershop.shop",
+      "links": "8a3dc1e7bb3bd7e1665e42fd908079d8bc44f008",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "primelink.codsanshop.shop",
+      "links": "8a3dc1e7bb3bd7e1665e42fd908079d8bc44f008",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "primelink.codsishop.shop",
+      "links": "8a3dc1e7bb3bd7e1665e42fd908079d8bc44f008",
       "type": "certs",
       "ln": 2
     },

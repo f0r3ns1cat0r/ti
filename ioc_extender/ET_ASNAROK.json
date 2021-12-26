@@ -25,7 +25,13 @@
       "ln": 2
     },
     {
-      "host": "44.ragnarokfromasgard.com",
+      "host": "01.sophosfirewallupdate.com",
+      "links": "52.214.97.178",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "78.filedownloaderserverx.com",
       "links": "52.214.97.178",
       "type": "pdns",
       "ln": 2
@@ -61,6 +67,12 @@
       "ln": 2
     },
     {
+      "host": "bit.filedownloaderserverx.com",
+      "links": "52.214.97.178",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "filedownloaderserver.com",
       "links": "52.214.97.178",
       "type": "pdns",
@@ -80,6 +92,12 @@
     },
     {
       "host": "filedownloaderserverx.com",
+      "links": "52.214.97.178",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "minecraft.ragnarokfromasgard.com",
       "links": "52.214.97.178",
       "type": "pdns",
       "ln": 2

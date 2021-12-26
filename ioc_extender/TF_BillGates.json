@@ -1,0 +1,40 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "300gsyn.it",
+      "links": "192.236.198.127",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: BillGates",
+      "links": "300gsyn.it",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "hwsrv-929018.hostwindsdns.com",
+      "links": "192.236.198.127",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

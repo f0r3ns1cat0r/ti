@@ -7741,20 +7741,8 @@
       "ln": 2
     },
     {
-      "host": "ns1.tnanews.net",
-      "links": "145.239.107.153",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ns1.walesspan.com",
       "links": "185.219.135.60",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns1.web-planet-casino.com",
-      "links": "145.239.107.153",
       "type": "pdns",
       "ln": 2
     },
@@ -7825,20 +7813,8 @@
       "ln": 2
     },
     {
-      "host": "ns2.tnanews.net",
-      "links": "145.239.107.153",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ns2.walesspan.com",
       "links": "185.219.135.60",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.web-planet-casino.com",
-      "links": "145.239.107.153",
       "type": "pdns",
       "ln": 2
     },
@@ -9812,6 +9788,12 @@
     },
     {
       "host": "talentfavorite.net",
+      "links": "145.239.107.153",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "taleoftwofutures.com",
       "links": "145.239.107.153",
       "type": "pdns",
       "ln": 2
