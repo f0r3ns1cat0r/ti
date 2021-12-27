@@ -31,6 +31,18 @@
       "ln": 2
     },
     {
+      "host": "ThreatFox: BillGates",
+      "links": "cao.300gsyn.it",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "cao.300gsyn.it",
+      "links": "192.236.198.127",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "hwsrv-929018.hostwindsdns.com",
       "links": "192.236.198.127",
       "type": "pdns",

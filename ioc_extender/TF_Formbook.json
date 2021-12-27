@@ -2221,6 +2221,12 @@
       "ln": 2
     },
     {
+      "host": "ns1.grackle.services",
+      "links": "162.0.216.51",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ns1.lights.com.bd",
       "links": "162.0.222.228",
       "type": "pdns",
@@ -2325,6 +2331,12 @@
     {
       "host": "ns2.gogokh.com",
       "links": "162.0.223.225",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.grackle.services",
+      "links": "162.0.216.51",
       "type": "pdns",
       "ln": 2
     },
@@ -2445,6 +2457,12 @@
     {
       "host": "olx.pl-safepay.shop",
       "links": "199.192.27.115",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "osaroboighodaro.com",
+      "links": "162.0.230.164",
       "type": "pdns",
       "ln": 2
     },
@@ -4114,6 +4132,12 @@
       "host": "www.olenfex.com",
       "links": "e922fc91777cd22338e0f6a1531c0d89d8c62f3c",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.osaroboighodaro.com",
+      "links": "162.0.230.164",
+      "type": "pdns",
       "ln": 2
     },
     {

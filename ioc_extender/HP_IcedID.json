@@ -644,6 +644,12 @@
     },
     {
       "host": "confidermaf.top",
+      "links": "3bd100dc2c99762ed3eb9b54ee607449451ef168",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "confidermaf.top",
       "links": "45.153.241.0",
       "type": "pdns",
       "ln": 2
@@ -1934,6 +1940,12 @@
     },
     {
       "host": "ndmarkrepo.top",
+      "links": "185.70.186.133",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ndmarkrepo.top",
       "links": "195.123.234.91",
       "type": "pdns",
       "ln": 2
@@ -1976,6 +1988,12 @@
     },
     {
       "host": "nobadynovoy.top",
+      "links": "3bd100dc2c99762ed3eb9b54ee607449451ef168",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "nobadynovoy.top",
       "links": "45.153.241.0",
       "type": "pdns",
       "ln": 2
@@ -1996,6 +2014,12 @@
       "host": "obviouslsok.top",
       "links": "185.186.245.229",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "obviouslsok.top",
+      "links": "3bd100dc2c99762ed3eb9b54ee607449451ef168",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -2487,6 +2511,12 @@
     {
       "host": "septembergloved.fun",
       "links": "185.186.245.229",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "service.sevana.biz",
+      "links": "178.128.239.82",
       "type": "pdns",
       "ln": 2
     },
