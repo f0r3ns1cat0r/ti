@@ -31,8 +31,20 @@
       "ln": 2
     },
     {
+      "host": "newtrendmicro.com",
+      "links": "dff134feae3dd8007201c7ac9f4897a8710966c9",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "upgrade.newtrendmicro.com",
       "links": "3eae0e5f0235abfa2e353cee99905c3f924aab61",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "upgrade.newtrendmicro.com",
+      "links": "dff134feae3dd8007201c7ac9f4897a8710966c9",
       "type": "certs",
       "ln": 2
     }
