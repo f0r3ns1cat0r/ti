@@ -3643,6 +3643,12 @@
       "ln": 2
     },
     {
+      "host": "www.brateix.info",
+      "links": "de1fdeba0e7a8ecc92e89d3f1fd9d44fbac7c58f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "www.bunies3.com",
       "links": "162.0.214.62",
       "type": "pdns",
@@ -4527,6 +4533,12 @@
     {
       "host": "yeasuc.com",
       "links": "1bdb661af548391c719c3c3f2c5e0daac152131e",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "yellowcloudvps.com",
+      "links": "de1fdeba0e7a8ecc92e89d3f1fd9d44fbac7c58f",
       "type": "certs",
       "ln": 2
     },

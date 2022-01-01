@@ -199,6 +199,12 @@
       "ln": 2
     },
     {
+      "host": "s--0.com",
+      "links": "bb86ecd96c886770fb1d0056be03ec96aa8405fc",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "smtp1.cqaos.com",
       "links": "606e0a1e366a3d982efecbdacce7e5049c8ade8e",
       "type": "certs",
@@ -225,6 +231,12 @@
     {
       "host": "wishjimmy.com",
       "links": "617f46ae5fe830a5e7abceb0a3e6aeeebb1d6d14",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "zackgray11.com",
+      "links": "bb86ecd96c886770fb1d0056be03ec96aa8405fc",
       "type": "certs",
       "ln": 2
     }

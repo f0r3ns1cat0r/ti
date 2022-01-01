@@ -80,12 +80,6 @@
     },
     {
       "host": "ET Trojan: LYCEUM",
-      "links": "dnscdn.org",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ET Trojan: LYCEUM",
       "links": "dnscloudservice.com",
       "type": "z",
       "ln": 2
@@ -351,12 +345,6 @@
     {
       "host": "dnscatalog.net",
       "links": "51.222.114.101",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "dnscdn.org",
-      "links": "51.81.29.59",
       "type": "pdns",
       "ln": 2
     },
@@ -1150,6 +1138,12 @@
       "host": "whm.digitalmarketingagency.net",
       "links": "192.241.207.170",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "win7update.net",
+      "links": "da79848954d60beb853d12e34a0f445a919d698b",
+      "type": "certs",
       "ln": 2
     },
     {

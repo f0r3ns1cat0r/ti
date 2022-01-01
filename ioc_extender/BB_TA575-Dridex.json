@@ -187,8 +187,20 @@
       "ln": 2
     },
     {
+      "host": "5leylvveoq47.cloudmaestro.com",
+      "links": "54.147.226.2",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "7sm5ved84k6r.cloudmaestro.com",
       "links": "107.23.11.241",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "7sm5ved84k6r.cloudmaestro.com",
+      "links": "35.173.209.220",
       "type": "pdns",
       "ln": 2
     },
@@ -1918,12 +1930,6 @@
       "host": "babaenfejbaz.xyz",
       "links": "337602621358681fc10667a3bbe6f13e04c74882",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "babaslect.xyz",
-      "links": "199.192.26.145",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -5107,12 +5113,6 @@
       "ln": 2
     },
     {
-      "host": "fotbalbaba.xyz",
-      "links": "199.192.26.145",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "framebyframe.com.sg",
       "links": "3.1.214.119",
       "type": "pdns",
@@ -5781,6 +5781,18 @@
     {
       "host": "hr4tqnltvxi7.cloudmaestro.com",
       "links": "34.197.161.191",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hr4tqnltvxi7.cloudmaestro.com",
+      "links": "35.173.209.220",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hr4tqnltvxi7.cloudmaestro.com",
+      "links": "54.147.226.2",
       "type": "pdns",
       "ln": 2
     },
@@ -7719,6 +7731,18 @@
     {
       "host": "nightingale.com",
       "links": "34.197.161.191",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "nightingale.com",
+      "links": "35.173.209.220",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "nightingale.com",
+      "links": "54.147.226.2",
       "type": "pdns",
       "ln": 2
     },
@@ -10749,6 +10773,12 @@
     {
       "host": "tsix9xucevx7.cloudmaestro.com",
       "links": "107.23.11.241",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "tsix9xucevx7.cloudmaestro.com",
+      "links": "35.173.209.220",
       "type": "pdns",
       "ln": 2
     },
@@ -15237,6 +15267,18 @@
     {
       "host": "zk4wuj95ixry.cloudmaestro.com",
       "links": "34.197.161.191",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "zk4wuj95ixry.cloudmaestro.com",
+      "links": "35.173.209.220",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "zk4wuj95ixry.cloudmaestro.com",
+      "links": "54.147.226.2",
       "type": "pdns",
       "ln": 2
     },

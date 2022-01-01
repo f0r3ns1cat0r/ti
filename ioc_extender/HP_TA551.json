@@ -50,6 +50,12 @@
     },
     {
       "host": "HP Threat Research: TA551",
+      "links": "roomnielsend.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "HP Threat Research: TA551",
       "links": "specialcaseyd.com",
       "type": "z",
       "ln": 2
@@ -265,6 +271,12 @@
       "ln": 2
     },
     {
+      "host": "ns1.fedonly.fit",
+      "links": "194.156.99.243",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "pedrosimanez.fun",
       "links": "138.124.180.201",
       "type": "pdns",
@@ -273,6 +285,12 @@
     {
       "host": "problemsok.top",
       "links": "138.124.180.201",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "roomnielsend.com",
+      "links": "194.156.99.243",
       "type": "pdns",
       "ln": 2
     },
