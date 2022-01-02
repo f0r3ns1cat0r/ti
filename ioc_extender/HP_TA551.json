@@ -50,6 +50,12 @@
     },
     {
       "host": "HP Threat Research: TA551",
+      "links": "metaljeffersond.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "HP Threat Research: TA551",
       "links": "roomnielsend.com",
       "type": "z",
       "ln": 2
@@ -265,8 +271,26 @@
       "ln": 2
     },
     {
+      "host": "mail.gdoamspmes.site",
+      "links": "45.142.215.92",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "mail.oklahomareda.work",
       "links": "138.124.180.220",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "metaljeffersond.com",
+      "links": "45.142.215.92",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "newstygeknews.site",
+      "links": "45.142.215.92",
       "type": "pdns",
       "ln": 2
     },

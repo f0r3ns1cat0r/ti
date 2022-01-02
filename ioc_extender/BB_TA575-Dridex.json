@@ -25,8 +25,20 @@
       "ln": 2
     },
     {
+      "host": "0nwz4y286uk3.cloudmaestro.com",
+      "links": "54.147.226.2",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "0svgwf2jzex5.cloudmaestro.com",
       "links": "107.23.11.241",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "0svgwf2jzex5.cloudmaestro.com",
+      "links": "35.173.209.220",
       "type": "pdns",
       "ln": 2
     },
@@ -63,6 +75,12 @@
     {
       "host": "243zgzl0cd8n.cloudmaestro.com",
       "links": "34.197.161.191",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "243zgzl0cd8n.cloudmaestro.com",
+      "links": "54.147.226.2",
       "type": "pdns",
       "ln": 2
     },
@@ -175,6 +193,12 @@
       "ln": 2
     },
     {
+      "host": "4pt2iaakhhjk.cloudmaestro.com",
+      "links": "54.147.226.2",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "588t2137qq3h.cloudmaestro.com",
       "links": "34.197.161.191",
       "type": "pdns",
@@ -223,8 +247,20 @@
       "ln": 2
     },
     {
+      "host": "88etac2zufja.cloudmaestro.com",
+      "links": "54.147.226.2",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "8ba7s1y1is6k.cloudmaestro.com",
       "links": "107.23.11.241",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "8ba7s1y1is6k.cloudmaestro.com",
+      "links": "35.173.209.220",
       "type": "pdns",
       "ln": 2
     },
@@ -315,6 +351,18 @@
     {
       "host": "95wmf9dwmwzg.lagrangesystems.net",
       "links": "34.197.161.191",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "95wmf9dwmwzg.lagrangesystems.net",
+      "links": "35.173.209.220",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "95wmf9dwmwzg.lagrangesystems.net",
+      "links": "54.147.226.2",
       "type": "pdns",
       "ln": 2
     },
@@ -878,6 +926,12 @@
     },
     {
       "host": "activationslink.net",
+      "links": "91.211.251.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "activationslink.net",
       "links": "a2dc25d5c2063e2cb448e89607eee3bd8cc61a42",
       "type": "certs",
       "ln": 2
@@ -921,6 +975,12 @@
     {
       "host": "ajfybhvbuypc.cloudmaestro.com",
       "links": "107.23.11.241",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ajfybhvbuypc.cloudmaestro.com",
+      "links": "35.173.209.220",
       "type": "pdns",
       "ln": 2
     },
@@ -1419,6 +1479,12 @@
     {
       "host": "arrowsheds.com",
       "links": "107.23.11.241",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "arrowsheds.com",
+      "links": "35.173.209.220",
       "type": "pdns",
       "ln": 2
     },
@@ -2533,6 +2599,12 @@
       "ln": 2
     },
     {
+      "host": "brainmd.com",
+      "links": "54.147.226.2",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "brev.today",
       "links": "bb115e0fc99ec38bbb585a2dade63ca00f36c716",
       "type": "certs",
@@ -3122,6 +3194,12 @@
     },
     {
       "host": "cpanel.activationslink.net",
+      "links": "91.211.251.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cpanel.activationslink.net",
       "links": "a2dc25d5c2063e2cb448e89607eee3bd8cc61a42",
       "type": "certs",
       "ln": 2
@@ -3325,6 +3403,12 @@
       "ln": 2
     },
     {
+      "host": "cpanel.thelicensekeys.org",
+      "links": "91.211.251.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "cpcalendars.activationslink.net",
       "links": "103.246.144.167",
       "type": "pdns",
@@ -3334,6 +3418,12 @@
       "host": "cpcalendars.activationslink.net",
       "links": "288c786dd15ddda56e1f7ba87d1ed7f56e2c1d48",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcalendars.activationslink.net",
+      "links": "91.211.251.14",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -3535,6 +3625,12 @@
       "ln": 2
     },
     {
+      "host": "cpcalendars.thelicensekeys.org",
+      "links": "91.211.251.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "cpcontacts.activationslink.net",
       "links": "103.246.144.167",
       "type": "pdns",
@@ -3544,6 +3640,12 @@
       "host": "cpcontacts.activationslink.net",
       "links": "288c786dd15ddda56e1f7ba87d1ed7f56e2c1d48",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcontacts.activationslink.net",
+      "links": "91.211.251.14",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -3741,6 +3843,12 @@
     {
       "host": "cpcontacts.thelicensekeys.org",
       "links": "103.246.144.167",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cpcontacts.thelicensekeys.org",
+      "links": "91.211.251.14",
       "type": "pdns",
       "ln": 2
     },
@@ -4605,6 +4713,12 @@
     {
       "host": "dpyz8nn7676o.cloudmaestro.com",
       "links": "107.23.11.241",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "dpyz8nn7676o.cloudmaestro.com",
+      "links": "35.173.209.220",
       "type": "pdns",
       "ln": 2
     },
@@ -5569,8 +5683,20 @@
       "ln": 2
     },
     {
+      "host": "great-johnson.162-244-82-101.plesk.page",
+      "links": "162.244.82.101",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "gy037knh517g.cloudmaestro.com",
       "links": "107.23.11.241",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "gy037knh517g.cloudmaestro.com",
+      "links": "35.173.209.220",
       "type": "pdns",
       "ln": 2
     },
@@ -6265,6 +6391,12 @@
       "ln": 2
     },
     {
+      "host": "jee6p0ubxyap.cloudmaestro.com",
+      "links": "54.147.226.2",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "jisuysw.xyz",
       "links": "daad82709e747bf44cd7a4bba841531e61c1301e",
       "type": "certs",
@@ -6429,6 +6561,12 @@
     {
       "host": "l0wqnatve4mc.cloudmaestro.com",
       "links": "107.23.11.241",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "l0wqnatve4mc.cloudmaestro.com",
+      "links": "35.173.209.220",
       "type": "pdns",
       "ln": 2
     },
@@ -6801,6 +6939,18 @@
     {
       "host": "ly9ckqohkqpe.webscalenetworks.net",
       "links": "34.197.161.191",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ly9ckqohkqpe.webscalenetworks.net",
+      "links": "35.173.209.220",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ly9ckqohkqpe.webscalenetworks.net",
+      "links": "54.147.226.2",
       "type": "pdns",
       "ln": 2
     },
@@ -7441,6 +7591,12 @@
       "ln": 2
     },
     {
+      "host": "michaels8th.com",
+      "links": "145.239.107.153",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "militarywraps.com",
       "links": "0583a3efae17fb86bae6b737af341ee95a100b53",
       "type": "certs",
@@ -7993,6 +8149,12 @@
       "ln": 2
     },
     {
+      "host": "ns1.taleoftwofutures.com",
+      "links": "145.239.107.153",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ns1.thejazzfiles.com",
       "links": "145.239.107.153",
       "type": "pdns",
@@ -8065,6 +8227,12 @@
       "ln": 2
     },
     {
+      "host": "ns2.taleoftwofutures.com",
+      "links": "145.239.107.153",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ns2.thejazzfiles.com",
       "links": "145.239.107.153",
       "type": "pdns",
@@ -8125,6 +8293,12 @@
       "ln": 2
     },
     {
+      "host": "o7fhnxj7188l.cloudmaestro.com",
+      "links": "54.147.226.2",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "o8e22h7f20f6.cloudmaestro.com",
       "links": "107.23.11.241",
       "type": "pdns",
@@ -8139,6 +8313,18 @@
     {
       "host": "oefhnveb5ej7.cloudmaestro.com",
       "links": "34.197.161.191",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "oefhnveb5ej7.cloudmaestro.com",
+      "links": "35.173.209.220",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "oefhnveb5ej7.cloudmaestro.com",
+      "links": "54.147.226.2",
       "type": "pdns",
       "ln": 2
     },
@@ -8959,6 +9145,12 @@
       "ln": 2
     },
     {
+      "host": "q4r27we6dh6r.cloudmaestro.com",
+      "links": "35.173.209.220",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "qryq7hjeocmy.cloudmaestro.com",
       "links": "107.23.11.241",
       "type": "pdns",
@@ -9271,6 +9463,12 @@
       "ln": 2
     },
     {
+      "host": "riobeach.com",
+      "links": "35.173.209.220",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "riskwise.ca",
       "links": "2a326f8a96762a270cca72b0dd0c96e0aefea1f6",
       "type": "certs",
@@ -9571,8 +9769,20 @@
       "ln": 2
     },
     {
+      "host": "shelterlogic.ca",
+      "links": "35.173.209.220",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "shelterlogic.com",
       "links": "107.23.11.241",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "shelterlogic.com",
+      "links": "35.173.209.220",
       "type": "pdns",
       "ln": 2
     },
@@ -9735,6 +9945,18 @@
     {
       "host": "slickwraps.com",
       "links": "34.197.161.191",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "slickwraps.com",
+      "links": "35.173.209.220",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "slickwraps.com",
+      "links": "54.147.226.2",
       "type": "pdns",
       "ln": 2
     },
@@ -10143,6 +10365,18 @@
     {
       "host": "t3xzcgv828zl.cloudmaestro.com",
       "links": "34.197.161.191",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "t3xzcgv828zl.cloudmaestro.com",
+      "links": "35.173.209.220",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "t3xzcgv828zl.cloudmaestro.com",
+      "links": "54.147.226.2",
       "type": "pdns",
       "ln": 2
     },
@@ -10603,6 +10837,12 @@
       "ln": 2
     },
     {
+      "host": "thelicensekeys.org",
+      "links": "91.211.251.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "thespeakspanish.com",
       "links": "4d8199a1bf3e47f994bb5fa5a05affaade30d55e",
       "type": "certs",
@@ -10803,6 +11043,18 @@
     {
       "host": "tvyap3z9ejp7.cloudmaestro.com",
       "links": "34.197.161.191",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "tvyap3z9ejp7.cloudmaestro.com",
+      "links": "35.173.209.220",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "tvyap3z9ejp7.cloudmaestro.com",
+      "links": "54.147.226.2",
       "type": "pdns",
       "ln": 2
     },
@@ -11018,6 +11270,12 @@
     },
     {
       "host": "walesspan.com",
+      "links": "162.244.82.101",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "walesspan.com",
       "links": "185.219.135.60",
       "type": "pdns",
       "ln": 2
@@ -11074,6 +11332,12 @@
       "host": "webdisk.activationslink.net",
       "links": "288c786dd15ddda56e1f7ba87d1ed7f56e2c1d48",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webdisk.activationslink.net",
+      "links": "91.211.251.14",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -11275,6 +11539,12 @@
       "ln": 2
     },
     {
+      "host": "webdisk.thelicensekeys.org",
+      "links": "91.211.251.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "webmail.activationslink.net",
       "links": "103.246.144.167",
       "type": "pdns",
@@ -11284,6 +11554,12 @@
       "host": "webmail.activationslink.net",
       "links": "288c786dd15ddda56e1f7ba87d1ed7f56e2c1d48",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webmail.activationslink.net",
+      "links": "91.211.251.14",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -11491,6 +11767,12 @@
       "ln": 2
     },
     {
+      "host": "webmail.thelicensekeys.org",
+      "links": "91.211.251.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "website.wris.co",
       "links": "128.199.243.169",
       "type": "pdns",
@@ -11535,6 +11817,12 @@
     {
       "host": "wldlh6oprdez.cloudmaestro.com",
       "links": "107.23.11.241",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "wldlh6oprdez.cloudmaestro.com",
+      "links": "35.173.209.220",
       "type": "pdns",
       "ln": 2
     },
@@ -15139,8 +15427,20 @@
       "ln": 2
     },
     {
+      "host": "xuqsnwwo9gk4.cloudmaestro.com",
+      "links": "35.173.209.220",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "yc8nkpkob6tc.cloudmaestro.com",
       "links": "34.197.161.191",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "yc8nkpkob6tc.cloudmaestro.com",
+      "links": "54.147.226.2",
       "type": "pdns",
       "ln": 2
     },
@@ -15285,6 +15585,12 @@
     {
       "host": "zk6lp3a65gnq.cloudmaestro.com",
       "links": "34.197.161.191",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "zk6lp3a65gnq.cloudmaestro.com",
+      "links": "54.147.226.2",
       "type": "pdns",
       "ln": 2
     },

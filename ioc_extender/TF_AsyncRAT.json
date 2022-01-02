@@ -1,0 +1,40 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ThreatFox: AsyncRAT",
+      "links": "ghr4b4.ddns.net",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "adsl196-168-85-206-196.adsl196-3.iam.net.ma",
+      "links": "196.206.85.168",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ghr4b4.ddns.net",
+      "links": "196.206.85.168",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

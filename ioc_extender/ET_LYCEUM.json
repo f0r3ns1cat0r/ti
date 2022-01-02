@@ -793,12 +793,6 @@
       "ln": 2
     },
     {
-      "host": "ns1.dnscdn.org",
-      "links": "51.81.29.59",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ns1.microsoftsonline.net",
       "links": "da79848954d60beb853d12e34a0f445a919d698b",
       "type": "certs",
@@ -819,12 +813,6 @@
     {
       "host": "ns2.dnscatalog.net",
       "links": "51.222.114.101",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.dnscdn.org",
-      "links": "51.81.29.59",
       "type": "pdns",
       "ln": 2
     },
