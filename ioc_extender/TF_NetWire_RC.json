@@ -25,6 +25,12 @@
       "ln": 2
     },
     {
+      "host": "217-64-149-171.pool.ovpn.com",
+      "links": "217.64.149.171",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ThreatFox: NetWire RC",
       "links": "netwire.linkpc.net",
       "type": "z",
@@ -33,6 +39,12 @@
     {
       "host": "netwire.linkpc.net",
       "links": "185.157.160.229",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "netwire.linkpc.net",
+      "links": "217.64.149.171",
       "type": "pdns",
       "ln": 2
     }
