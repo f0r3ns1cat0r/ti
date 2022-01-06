@@ -427,12 +427,6 @@
       "ln": 2
     },
     {
-      "host": "mailrelay.alifemap.com",
-      "links": "188.68.250.182",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "myexpertforum.com",
       "links": "45.80.148.166",
       "type": "pdns",
@@ -441,6 +435,12 @@
     {
       "host": "myexpertforum.com",
       "links": "54d805c925e71008f7b8fe1dff8313ebf54d53d7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "nazi.uy",
+      "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
       "ln": 2
     },

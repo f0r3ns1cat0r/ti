@@ -236,12 +236,6 @@
     },
     {
       "host": "ThreatFox: magecart",
-      "links": "googletagsmanagers.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: magecart",
       "links": "gstaticf.space",
       "type": "z",
       "ln": 2
@@ -721,12 +715,6 @@
       "ln": 2
     },
     {
-      "host": "cdn.datatabies.net",
-      "links": "45.144.67.88",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "cdncontainer.com",
       "links": "176.121.14.143",
       "type": "pdns",
@@ -862,12 +850,6 @@
       "host": "danceholl.store",
       "links": "4d8e2becdfb0a3309e46e243b1f98b46ae049d36",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "datatabies.net",
-      "links": "45.144.67.88",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -1124,12 +1106,6 @@
     },
     {
       "host": "google-activate.com",
-      "links": "47.254.170.220",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "google-activate.com",
       "links": "47.254.178.32",
       "type": "pdns",
       "ln": 2
@@ -1273,14 +1249,8 @@
       "ln": 2
     },
     {
-      "host": "google-opinion.com",
-      "links": "8.209.114.220",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "google-sagepay.com",
-      "links": "47.254.170.220",
+      "links": "185.105.3.223",
       "type": "pdns",
       "ln": 2
     },
@@ -1329,12 +1299,6 @@
     {
       "host": "google-squery.com",
       "links": "8.209.114.220",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "google-tagsmanager.com",
-      "links": "47.254.170.220",
       "type": "pdns",
       "ln": 2
     },
@@ -1462,12 +1426,6 @@
       "host": "googletagmanagers.com",
       "links": "32df0c6254bf9f4e528519400a7444c2a6ec980d",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "googletagsmanagers.com",
-      "links": "135.181.98.72",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -1910,12 +1868,6 @@
     },
     {
       "host": "livechatlnc.com",
-      "links": "45.144.67.88",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "livechatlnc.com",
       "links": "47.254.173.161",
       "type": "pdns",
       "ln": 2
@@ -2026,12 +1978,6 @@
       "host": "medtaxi22.store",
       "links": "a951f9fc12e88f31f5ab333398650165dd884eb1",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "merchant-analytics.com",
-      "links": "47.254.170.220",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -2149,6 +2095,12 @@
       "ln": 2
     },
     {
+      "host": "monax.cam",
+      "links": "e6de7555610b4185511c4ff67a2498c9afbc1b90",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "mossantex.store",
       "links": "9c73f26d08c80392fcf32de60e43cfc5586b26f8",
       "type": "certs",
@@ -2170,12 +2122,6 @@
       "host": "muznakuhne.store",
       "links": "5b410f323f84cc0ea3f41697444153e11400c683",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "mx.merchant-analytics.com",
-      "links": "47.254.170.220",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -2437,6 +2383,12 @@
       "ln": 2
     },
     {
+      "host": "patmushta.info",
+      "links": "185.105.3.223",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "paypal-login61.com",
       "links": "5b410f323f84cc0ea3f41697444153e11400c683",
       "type": "certs",
@@ -2559,6 +2511,12 @@
     {
       "host": "prstore.site",
       "links": "9c73f26d08c80392fcf32de60e43cfc5586b26f8",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "puertamoreno.com",
+      "links": "e6de7555610b4185511c4ff67a2498c9afbc1b90",
       "type": "certs",
       "ln": 2
     },
@@ -2773,6 +2731,18 @@
       "ln": 2
     },
     {
+      "host": "slehb.ru",
+      "links": "a951f9fc12e88f31f5ab333398650165dd884eb1",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "slehby.ru",
+      "links": "a951f9fc12e88f31f5ab333398650165dd884eb1",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "smoke46.store",
       "links": "a951f9fc12e88f31f5ab333398650165dd884eb1",
       "type": "certs",
@@ -2857,12 +2827,6 @@
       "ln": 2
     },
     {
-      "host": "static.72.98.181.135.clients.your-server.de",
-      "links": "135.181.98.72",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "stduroven.store",
       "links": "4d8e2becdfb0a3309e46e243b1f98b46ae049d36",
       "type": "certs",
@@ -2883,12 +2847,6 @@
     {
       "host": "stripe-auth-api.com",
       "links": "178.20.44.93",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "stripe-auth-api.com",
-      "links": "45.144.67.88",
       "type": "pdns",
       "ln": 2
     },
@@ -2925,12 +2883,6 @@
     {
       "host": "tagmanaqer.com",
       "links": "178.20.44.93",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "tagmanaqer.com",
-      "links": "45.144.67.88",
       "type": "pdns",
       "ln": 2
     },
@@ -3260,12 +3212,6 @@
     },
     {
       "host": "www.google-activate.com",
-      "links": "47.254.170.220",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.google-activate.com",
       "links": "47.254.178.32",
       "type": "pdns",
       "ln": 2
@@ -3279,12 +3225,6 @@
     {
       "host": "www.google-activate.com",
       "links": "8.209.69.16",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.google-activated.com",
-      "links": "47.254.170.220",
       "type": "pdns",
       "ln": 2
     },
@@ -3338,12 +3278,6 @@
     },
     {
       "host": "www.google-note.com",
-      "links": "8.209.114.220",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.google-opinion.com",
       "links": "8.209.114.220",
       "type": "pdns",
       "ln": 2
@@ -3417,12 +3351,6 @@
     {
       "host": "www.manutdfuns.com",
       "links": "176.9.51.172",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.merchant-analytics.com",
-      "links": "47.254.170.220",
       "type": "pdns",
       "ln": 2
     },

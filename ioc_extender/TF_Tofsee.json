@@ -26,6 +26,12 @@
     },
     {
       "host": "ThreatFox: Tofsee",
+      "links": "patmushta.info",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Tofsee",
       "links": "quadoil.ru",
       "type": "z",
       "ln": 2
@@ -33,6 +39,12 @@
     {
       "host": "anz10.com",
       "links": "47.89.250.79",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "google-sagepay.com",
+      "links": "185.105.3.223",
       "type": "pdns",
       "ln": 2
     },
@@ -45,6 +57,12 @@
     {
       "host": "parubey.info",
       "links": "185.215.113.58",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "patmushta.info",
+      "links": "185.105.3.223",
       "type": "pdns",
       "ln": 2
     },

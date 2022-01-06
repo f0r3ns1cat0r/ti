@@ -55,12 +55,6 @@
       "ln": 2
     },
     {
-      "host": "15637-27168.bacloud.info",
-      "links": "88.119.161.120",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "15639-27172.bacloud.info",
       "links": "88.119.175.71",
       "type": "pdns",
@@ -800,12 +794,6 @@
     },
     {
       "host": "ThreatFox: Cobalt Strike",
-      "links": "towndas.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: Cobalt Strike",
       "links": "usanewsalabama.com",
       "type": "z",
       "ln": 2
@@ -1117,12 +1105,6 @@
       "ln": 2
     },
     {
-      "host": "bankingshoestohome.com",
-      "links": "91.224.22.176",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "banksgmb.com",
       "links": "162.244.82.77",
       "type": "pdns",
@@ -1390,12 +1372,6 @@
       "host": "cms1329.com",
       "links": "0dc95187933afbb5a002e7bde78be6821c02eb3e",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "coastbeard.com",
-      "links": "23.82.140.51",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -1761,18 +1737,6 @@
     {
       "host": "findyournewdomainname.net",
       "links": "185.173.37.186",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "findyournewdomainname.net",
-      "links": "91.224.22.176",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "fishsmokelab.net",
-      "links": "91.224.22.176",
       "type": "pdns",
       "ln": 2
     },
@@ -2611,12 +2575,6 @@
       "ln": 2
     },
     {
-      "host": "mubuwu.com",
-      "links": "23.82.140.51",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "muslepmgr.site",
       "links": "9314509d8d3201af207649a68c93115cf94e68fd",
       "type": "certs",
@@ -2662,6 +2620,12 @@
       "host": "navnteam.site",
       "links": "172.93.201.63",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "nazi.uy",
+      "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -2757,12 +2721,6 @@
     {
       "host": "oldboytakecar.net",
       "links": "185.173.37.186",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "oldboytakecar.net",
-      "links": "91.224.22.176",
       "type": "pdns",
       "ln": 2
     },
@@ -3277,12 +3235,6 @@
       "ln": 2
     },
     {
-      "host": "static.169.87.76.144.clients.your-server.de",
-      "links": "144.76.87.169",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "static.theyardservice.com",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
@@ -3441,12 +3393,6 @@
     {
       "host": "traxtibidox.net",
       "links": "185.173.37.186",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "traxtibidox.net",
-      "links": "91.224.22.176",
       "type": "pdns",
       "ln": 2
     },
@@ -3693,12 +3639,6 @@
     {
       "host": "www.fanyglo.com",
       "links": "162.244.80.235",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.fotgmb.com",
-      "links": "107.181.161.198",
       "type": "pdns",
       "ln": 2
     },
