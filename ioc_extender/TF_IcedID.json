@@ -4016,6 +4016,12 @@
     },
     {
       "host": "joikarendal.com",
+      "links": "194.147.115.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "joikarendal.com",
       "links": "23.254.253.106",
       "type": "pdns",
       "ln": 2
@@ -5026,6 +5032,12 @@
       "host": "nostroporto.casa",
       "links": "e9ce51522a1d2aee3c340311d3fda4ac5943eb94",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "ns1.araves.am",
+      "links": "194.147.115.14",
+      "type": "pdns",
       "ln": 2
     },
     {

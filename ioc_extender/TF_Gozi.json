@@ -169,6 +169,12 @@
       "ln": 2
     },
     {
+      "host": "etq.news",
+      "links": "ab606e8fb65ca36acf275098818ef1a688e36d14",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "expired.maxname.ru",
       "links": "743a3b269bed3112ada96de119bc6972d1317736",
       "type": "certs",
@@ -208,6 +214,12 @@
       "host": "inbiz-cons.com",
       "links": "162.0.213.149",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "inbiz-cons.com",
+      "links": "ab606e8fb65ca36acf275098818ef1a688e36d14",
+      "type": "certs",
       "ln": 2
     },
     {
