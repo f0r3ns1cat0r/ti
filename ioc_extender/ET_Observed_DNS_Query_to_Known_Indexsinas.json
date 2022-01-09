@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ET Trojan: Observed DNS Query to Known Indexsinas",
+      "links": "a.ccmd.website",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "a.beike.website",
+      "links": "14.18.234.70",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "a.ccmd.website",
+      "links": "14.18.234.70",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "b.ccmd.website",
+      "links": "14.18.234.70",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "g.ccmd.website",
+      "links": "14.18.234.70",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "l.f2pool.info",
+      "links": "14.18.234.70",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "m.ccmd.website",
+      "links": "14.18.234.70",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "x.f2pool.info",
+      "links": "14.18.234.70",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

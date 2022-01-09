@@ -674,6 +674,12 @@
     },
     {
       "host": "ThreatFox: Cobalt Strike",
+      "links": "royal-union-d714.officeupdate.workers.dev",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Cobalt Strike",
       "links": "salitue8.com",
       "type": "z",
       "ln": 2
@@ -2599,6 +2605,18 @@
       "ln": 2
     },
     {
+      "host": "officeupdate.workers.dev",
+      "links": "25d8795b29262c2183a45584554f69d2e7e12a76",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "officeupdate.workers.dev",
+      "links": "9ace3bcae3486c878e76b59541a7c33efd5cca75",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "oldboytakecar.net",
       "links": "185.173.37.186",
       "type": "pdns",
@@ -2835,6 +2853,18 @@
     {
       "host": "rokustreamingstickplus.shop",
       "links": "233dc7c632eb4774476d700031f1795fefad39f4",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "royal-union-d714.officeupdate.workers.dev",
+      "links": "25d8795b29262c2183a45584554f69d2e7e12a76",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "royal-union-d714.officeupdate.workers.dev",
+      "links": "9ace3bcae3486c878e76b59541a7c33efd5cca75",
       "type": "certs",
       "ln": 2
     },
