@@ -715,6 +715,18 @@
       "ln": 2
     },
     {
+      "host": "u876134.nsupdate.info",
+      "links": "a3bd146c1d08d600d541e82a16f4c135e7318522",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "u876134.nsupdate.info",
+      "links": "d13d19cf77bb8ea27d56b4899493bb92ced99a52",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "visentinel.com",
       "links": "103.231.91.59",
       "type": "pdns",
@@ -748,6 +760,18 @@
       "host": "zealous-chatterjee.207-244-235-224.plesk.page",
       "links": "207.244.235.224",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "zealous-chatterjee.207-244-235-224.plesk.page",
+      "links": "a3bd146c1d08d600d541e82a16f4c135e7318522",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "zealous-chatterjee.207-244-235-224.plesk.page",
+      "links": "d13d19cf77bb8ea27d56b4899493bb92ced99a52",
+      "type": "certs",
       "ln": 2
     }
   ]

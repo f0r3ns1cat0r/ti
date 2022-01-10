@@ -68,6 +68,12 @@
     },
     {
       "host": "ad-postback.biz",
+      "links": "37.220.10.229",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ad-postback.biz",
       "links": "82.118.234.104",
       "type": "pdns",
       "ln": 2
@@ -429,6 +435,12 @@
     {
       "host": "uszpoyem.rest",
       "links": "185.14.30.72",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "web-stat.biz",
+      "links": "37.220.10.229",
       "type": "pdns",
       "ln": 2
     },
