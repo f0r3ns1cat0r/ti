@@ -1,0 +1,40 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "4api.net",
+      "links": "107.191.42.179",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: Quasar",
+      "links": "black-crystal.net",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "black-crystal.net",
+      "links": "107.191.42.179",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

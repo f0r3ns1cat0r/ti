@@ -1,0 +1,58 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ET Trojan: APT-Sidewinder",
+      "links": "afcat.xyz",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "afcat.xyz",
+      "links": "144.126.141.41",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "afcat.xyz",
+      "links": "d518ea29a94b6b81682d5c97d25eb10bcedc26c5",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "newsroom247.xyz",
+      "links": "144.126.141.41",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "newsroom247.xyz",
+      "links": "d518ea29a94b6b81682d5c97d25eb10bcedc26c5",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "vmi627176.contaboserver.net",
+      "links": "144.126.141.41",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

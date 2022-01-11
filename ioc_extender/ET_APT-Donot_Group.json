@@ -1,0 +1,46 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ET Trojan: APT-Donot Group",
+      "links": "request.soundedge.live",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ip227.ip-51-38-206.eu",
+      "links": "51.38.206.227",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "request.soundedge.live",
+      "links": "51.38.206.227",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "soundedge.live",
+      "links": "51.38.206.227",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}
