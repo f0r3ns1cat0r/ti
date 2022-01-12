@@ -2096,6 +2096,12 @@
     },
     {
       "host": "dasreropolo.quest",
+      "links": "637be2b2469a919f941fde0c715fda7b61d17b95",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "dasreropolo.quest",
       "links": "89.41.182.159",
       "type": "pdns",
       "ln": 2
@@ -2656,6 +2662,12 @@
       "host": "encounterilin.top",
       "links": "23.106.215.93",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "encounterilin.top",
+      "links": "637be2b2469a919f941fde0c715fda7b61d17b95",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -4525,6 +4537,108 @@
       "ln": 2
     },
     {
+      "host": "mail1.araves.org",
+      "links": "194.147.115.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail1.fof.am",
+      "links": "194.147.115.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail1.fpwc.am",
+      "links": "194.147.115.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail1.fpwc.de",
+      "links": "194.147.115.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail1.fpwc.org",
+      "links": "194.147.115.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail1.greenmobility.am",
+      "links": "194.147.115.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail1.holani.am",
+      "links": "194.147.115.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail1.set.am",
+      "links": "194.147.115.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail1.sunchild.am",
+      "links": "194.147.115.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail1.sunchild.tv",
+      "links": "194.147.115.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail1.sunchildtv.org",
+      "links": "194.147.115.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail1.wildernessandculture.org",
+      "links": "194.147.115.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail1.wildlifeandculturefund.org",
+      "links": "194.147.115.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail1.wildlifeculturefund.org",
+      "links": "194.147.115.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail1.wildliferescue.am",
+      "links": "194.147.115.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail1.wrc.am",
+      "links": "194.147.115.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail1.yerevanzoo.am",
+      "links": "194.147.115.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "mainfilduenigra.top",
       "links": "139.60.161.60",
       "type": "pdns",
@@ -5059,13 +5173,103 @@
       "ln": 2
     },
     {
+      "host": "ns1.fof.am",
+      "links": "194.147.115.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.fpwc.am",
+      "links": "194.147.115.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.fpwc.de",
+      "links": "194.147.115.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.fpwc.org",
+      "links": "194.147.115.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.greenmobility.am",
+      "links": "194.147.115.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.holani.am",
+      "links": "194.147.115.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.set.am",
+      "links": "194.147.115.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ns1.sunchild.am",
       "links": "194.147.115.14",
       "type": "pdns",
       "ln": 2
     },
     {
+      "host": "ns1.sunchild.tv",
+      "links": "194.147.115.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.sunchildtv.org",
+      "links": "194.147.115.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ns1.vef.am",
+      "links": "194.147.115.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.wildernessandculture.org",
+      "links": "194.147.115.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.wildlifeandculturefund.org",
+      "links": "194.147.115.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.wildlifeculturefund.org",
+      "links": "194.147.115.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.wildliferescue.am",
+      "links": "194.147.115.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.wrc.am",
+      "links": "194.147.115.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.yerevanzoo.am",
       "links": "194.147.115.14",
       "type": "pdns",
       "ln": 2

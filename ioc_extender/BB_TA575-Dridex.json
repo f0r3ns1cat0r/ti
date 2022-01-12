@@ -217,6 +217,12 @@
       "ln": 2
     },
     {
+      "host": "71.99.35a9.ip4.static.sl-reverse.com",
+      "links": "169.53.153.113",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "7sm5ved84k6r.cloudmaestro.com",
       "links": "107.23.11.241",
       "type": "pdns",
@@ -2863,6 +2869,12 @@
       "ln": 2
     },
     {
+      "host": "chiefhurry.xyz",
+      "links": "192.119.175.76",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "chilicorn.org",
       "links": "18.194.82.179",
       "type": "pdns",
@@ -4622,6 +4634,12 @@
     },
     {
       "host": "docjoan.xyz",
+      "links": "192.119.175.76",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "docjoan.xyz",
       "links": "626625cea59e85cef1d53614112c15b27142de76",
       "type": "certs",
       "ln": 2
@@ -5169,6 +5187,12 @@
     {
       "host": "fdwae1kyfklq.cloudmaestro.com",
       "links": "34.197.161.191",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "fightwith.xyz",
+      "links": "192.119.175.76",
       "type": "pdns",
       "ln": 2
     },
@@ -7039,6 +7063,12 @@
       "ln": 2
     },
     {
+      "host": "mail.chiefhurry.xyz",
+      "links": "192.119.175.76",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "mail.dancingwithchange.com",
       "links": "3d6f582b8c3811ef9c6361a04746348916cdfe89",
       "type": "certs",
@@ -7076,7 +7106,19 @@
     },
     {
       "host": "mail.docjoan.xyz",
+      "links": "192.119.175.76",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.docjoan.xyz",
       "links": "80.253.244.101",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.fightwith.xyz",
+      "links": "192.119.175.76",
       "type": "pdns",
       "ln": 2
     },
@@ -8179,6 +8221,18 @@
       "ln": 2
     },
     {
+      "host": "ns1.michaels8th.com",
+      "links": "145.239.107.153",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.oaktreebeam.net",
+      "links": "192.119.175.76",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ns1.richardmccomb.com",
       "links": "145.239.107.153",
       "type": "pdns",
@@ -8253,6 +8307,18 @@
     {
       "host": "ns2.medicalspecialist.net.au",
       "links": "145.239.107.153",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.michaels8th.com",
+      "links": "145.239.107.153",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.oaktreebeam.net",
+      "links": "192.119.175.76",
       "type": "pdns",
       "ln": 2
     },
@@ -8343,6 +8409,12 @@
     {
       "host": "o7fhnxj7188l.cloudmaestro.com",
       "links": "54.147.226.2",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "oaktreebeam.net",
+      "links": "192.119.175.76",
       "type": "pdns",
       "ln": 2
     },
@@ -9193,6 +9265,12 @@
       "ln": 2
     },
     {
+      "host": "qe0l.docjoan.xyz",
+      "links": "192.119.175.76",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "qryq7hjeocmy.cloudmaestro.com",
       "links": "107.23.11.241",
       "type": "pdns",
@@ -9301,6 +9379,12 @@
       "ln": 2
     },
     {
+      "host": "ravencoinmemes.com",
+      "links": "204.12.222.138",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "realcomponents.com",
       "links": "0583a3efae17fb86bae6b737af341ee95a100b53",
       "type": "certs",
@@ -9382,6 +9466,12 @@
       "host": "realm.nodekawiki.net",
       "links": "ea6919bf367f447052c04c6e1ff4691a6193478d",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "recursing-mendel.162-244-82-101.plesk.page",
+      "links": "162.244.82.101",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -9631,6 +9721,18 @@
       "ln": 2
     },
     {
+      "host": "rvnclub.art",
+      "links": "204.12.222.138",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "rvncommunity.com",
+      "links": "204.12.222.138",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "safeproducts.club",
       "links": "4d8199a1bf3e47f994bb5fa5a05affaade30d55e",
       "type": "certs",
@@ -9717,6 +9819,12 @@
     {
       "host": "savingpop.com",
       "links": "169.45.79.24",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "savingpop.com",
+      "links": "169.53.153.113",
       "type": "pdns",
       "ln": 2
     },
@@ -11113,6 +11221,12 @@
       "ln": 2
     },
     {
+      "host": "uai8.docjoan.xyz",
+      "links": "192.119.175.76",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ultimatelearningplatform.com",
       "links": "18.194.82.179",
       "type": "pdns",
@@ -11200,6 +11314,12 @@
       "host": "uluxus.com",
       "links": "b85237f195b6119b9ce453937d83c2d763c21e21",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "undergroundrapworld.com",
+      "links": "204.12.222.138",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -11325,6 +11445,12 @@
     {
       "host": "vps-a1b06807.vps.ovh.ca",
       "links": "139.99.170.93",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "vw4s.docjoan.xyz",
+      "links": "192.119.175.76",
       "type": "pdns",
       "ln": 2
     },

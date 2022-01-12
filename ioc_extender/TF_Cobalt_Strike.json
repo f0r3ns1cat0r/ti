@@ -91,6 +91,12 @@
       "ln": 2
     },
     {
+      "host": "2qau.tormatv.org.uk",
+      "links": "8.39.147.87",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "3-17-155-168.cprapid.com",
       "links": "3.17.155.168",
       "type": "pdns",
@@ -441,6 +447,12 @@
     {
       "host": "ThreatFox: Cobalt Strike",
       "links": "gaosrta.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Cobalt Strike",
+      "links": "gasonz.com",
       "type": "z",
       "ln": 2
     },
@@ -1627,6 +1639,12 @@
       "ln": 2
     },
     {
+      "host": "enzw.cn",
+      "links": "92.118.188.46",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "erabias.com",
       "links": "109.236.81.61",
       "type": "pdns",
@@ -1795,6 +1813,12 @@
       "ln": 2
     },
     {
+      "host": "gasonz.com",
+      "links": "8.39.147.87",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "gloudioliusdd.ru",
       "links": "78f7946fee67a734fb1b74cf64e34c192ad64ca6",
       "type": "certs",
@@ -1810,6 +1834,12 @@
       "host": "googlecnd.com",
       "links": "15d13fff57063017dc70f676cd40d101f164fcaf",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "googlecnd.com",
+      "links": "92.118.188.46",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -1966,6 +1996,12 @@
       "host": "ip7.ip-66-70-246.net",
       "links": "66.70.246.7",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "irxtxrhfkqwjerb.com",
+      "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -2845,6 +2881,12 @@
       "ln": 2
     },
     {
+      "host": "ripe-back-s31.walesspan.com",
+      "links": "162.244.82.77",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "rodfnwk.com",
       "links": "233dc7c632eb4774476d700031f1795fefad39f4",
       "type": "certs",
@@ -3259,6 +3301,12 @@
       "ln": 2
     },
     {
+      "host": "us-east.lazerpenguin.com",
+      "links": "167.172.20.187",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "video.rtechs.org",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
@@ -3471,6 +3519,12 @@
     {
       "host": "www.davevud.com",
       "links": "23.82.19.130",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.enzw.cn",
+      "links": "92.118.188.46",
       "type": "pdns",
       "ln": 2
     },

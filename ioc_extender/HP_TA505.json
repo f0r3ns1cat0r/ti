@@ -26,6 +26,12 @@
     },
     {
       "host": "HP Threat Research: TA505",
+      "links": "cdn03664-dl-fileshare.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "HP Threat Research: TA505",
       "links": "diarromonico.com",
       "type": "z",
       "ln": 2
@@ -67,6 +73,12 @@
       "ln": 2
     },
     {
+      "host": "cdn03664-dl-fileshare.com",
+      "links": "79.141.161.168",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "dc-1f523edf8254.sekam.co",
       "links": "51.195.150.10",
       "type": "pdns",
@@ -76,6 +88,12 @@
       "host": "diarromonico.com",
       "links": "51.195.150.10",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "digionlinebeheer.us",
+      "links": "5511745394ac8ab9de8f97f35553f4be03d0a6d4",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -94,6 +112,12 @@
       "host": "fidufagios.com",
       "links": "169.239.128.11",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "fidufagios.com",
+      "links": "5511745394ac8ab9de8f97f35553f4be03d0a6d4",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -139,6 +163,12 @@
       "ln": 2
     },
     {
+      "host": "vwgijjaj.kairosnegocioonline.com",
+      "links": "79.141.161.168",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "webmail.sekam.co",
       "links": "51.195.150.10",
       "type": "pdns",
@@ -151,8 +181,20 @@
       "ln": 2
     },
     {
+      "host": "www.digionlinebeheer.us",
+      "links": "5511745394ac8ab9de8f97f35553f4be03d0a6d4",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "www.reycledigipassupdateserv.cc",
       "links": "169.239.128.11",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "zv2jzjop.abundanthopeonline.com",
+      "links": "79.141.161.168",
       "type": "pdns",
       "ln": 2
     }

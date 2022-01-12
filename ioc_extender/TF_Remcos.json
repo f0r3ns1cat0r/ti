@@ -200,6 +200,12 @@
     },
     {
       "host": "airvpn.izrm.net",
+      "links": "104.254.90.251",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "airvpn.izrm.net",
       "links": "184.75.221.171",
       "type": "pdns",
       "ln": 2

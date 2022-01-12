@@ -571,6 +571,12 @@
       "ln": 2
     },
     {
+      "host": "bakurun.com",
+      "links": "198.54.112.233",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "bamko.link",
       "links": "63.250.34.114",
       "type": "pdns",
@@ -1723,6 +1729,12 @@
       "ln": 2
     },
     {
+      "host": "jonyundt.xyz",
+      "links": "199.192.22.53",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "jumben.xyz",
       "links": "63.250.44.253",
       "type": "pdns",
@@ -2371,6 +2383,12 @@
       "ln": 2
     },
     {
+      "host": "ns1.yellowcloudvps.com",
+      "links": "199.192.17.149",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ns1.zipieu.club",
       "links": "63.250.47.240",
       "type": "pdns",
@@ -2481,6 +2499,12 @@
     {
       "host": "ns2.visionistsolutions.com",
       "links": "162.0.213.148",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.yellowcloudvps.com",
+      "links": "199.192.17.149",
       "type": "pdns",
       "ln": 2
     },
@@ -4558,6 +4582,12 @@
       "host": "yeasuc.com",
       "links": "1bdb661af548391c719c3c3f2c5e0daac152131e",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "yellowcloudvps.com",
+      "links": "199.192.17.149",
+      "type": "pdns",
       "ln": 2
     },
     {
