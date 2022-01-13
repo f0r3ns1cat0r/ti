@@ -19,12 +19,6 @@
   ],
   "data": [
     {
-      "host": "185-157-160-229.pool.ovpn.com",
-      "links": "185.157.160.229",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "217-64-149-171.pool.ovpn.com",
       "links": "217.64.149.171",
       "type": "pdns",
@@ -63,12 +57,6 @@
     {
       "host": "mickeyjones.ddns.net",
       "links": "184.105.237.196",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "netwire.linkpc.net",
-      "links": "185.157.160.229",
       "type": "pdns",
       "ln": 2
     },

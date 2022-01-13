@@ -25,6 +25,12 @@
       "ln": 2
     },
     {
+      "host": "391531.msk-ovz.ru",
+      "links": "31.148.99.170",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "791service.ru",
       "links": "b367556a24630fe7cf4cd07c0398a72b07e3b6e6",
       "type": "certs",
@@ -376,6 +382,12 @@
       "host": "stratosferiss.ru",
       "links": "07f4b7361855de185f6514af1e5bbd7348e2e00b",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "stratosferiss.ru",
+      "links": "31.148.99.170",
+      "type": "pdns",
       "ln": 2
     },
     {

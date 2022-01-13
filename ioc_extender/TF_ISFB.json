@@ -19,12 +19,6 @@
   ],
   "data": [
     {
-      "host": "164341.monovm.com",
-      "links": "193.239.85.58",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "164502.monovm.com",
       "links": "193.239.84.219",
       "type": "pdns",
@@ -37,8 +31,8 @@
       "ln": 2
     },
     {
-      "host": "37-120-206-70.cprapid.com",
-      "links": "37.120.206.70",
+      "host": "371058.cloud4box.ru",
+      "links": "109.248.203.145",
       "type": "pdns",
       "ln": 2
     },
@@ -67,33 +61,9 @@
       "ln": 2
     },
     {
-      "host": "449625.cloud4box.ru",
-      "links": "185.186.142.217",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "5f9dcc31379cd2f22ef225945d3f8b6cbc7239e3.duckdns.org",
       "links": "8fb2dcc1de77d9f8dc8c779078371b8171331b45",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "653995-cu08488.tmweb.ru",
-      "links": "78.40.217.65",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "664009-cd05207.tmweb.ru",
-      "links": "78.40.217.65",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "668385-ce83662.tmweb.ru",
-      "links": "78.40.217.65",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -135,12 +105,6 @@
     {
       "host": "ThreatFox: ISFB",
       "links": "blakdkfkfokdkd.live",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: ISFB",
-      "links": "bvolebukoneh.site",
       "type": "z",
       "ln": 2
     },
@@ -307,6 +271,12 @@
       "ln": 2
     },
     {
+      "host": "animeku.ru",
+      "links": "109.248.203.145",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "apr.intoolkom.at",
       "links": "185.105.116.46",
       "type": "pdns",
@@ -327,12 +297,6 @@
     {
       "host": "apr.intoolkom.at",
       "links": "185.87.48.138",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "apr.intoolkom.at",
-      "links": "194.87.185.146",
       "type": "pdns",
       "ln": 2
     },
@@ -398,12 +362,6 @@
     },
     {
       "host": "art.microsoftsofymicrosoftsoft.at",
-      "links": "194.87.185.146",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "art.microsoftsofymicrosoftsoft.at",
       "links": "212.192.246.23",
       "type": "pdns",
       "ln": 2
@@ -446,12 +404,6 @@
     },
     {
       "host": "avyanok.com",
-      "links": "194.87.185.146",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "avyanok.com",
       "links": "78.40.217.65",
       "type": "pdns",
       "ln": 2
@@ -483,12 +435,6 @@
     {
       "host": "bonesofthegreatgoose.com",
       "links": "91.224.22.142",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "bvolebukoneh.site",
-      "links": "37.120.206.70",
       "type": "pdns",
       "ln": 2
     },
@@ -596,12 +542,6 @@
     },
     {
       "host": "fgx.dangerboy.at",
-      "links": "194.87.185.146",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "fgx.dangerboy.at",
       "links": "212.192.246.23",
       "type": "pdns",
       "ln": 2
@@ -637,8 +577,8 @@
       "ln": 2
     },
     {
-      "host": "gderrrpololo.net",
-      "links": "193.239.85.58",
+      "host": "ftp.animeku.ru",
+      "links": "109.248.203.145",
       "type": "pdns",
       "ln": 2
     },
@@ -681,6 +621,12 @@
     {
       "host": "greygoodbones.com",
       "links": "91.224.22.142",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "gstatici.com",
+      "links": "109.248.203.145",
       "type": "pdns",
       "ln": 2
     },
@@ -770,12 +716,6 @@
     },
     {
       "host": "ikaryto.com",
-      "links": "194.87.185.146",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ikaryto.com",
       "links": "212.192.246.23",
       "type": "pdns",
       "ln": 2
@@ -813,12 +753,6 @@
     {
       "host": "immontyr.com",
       "links": "185.87.48.138",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "immontyr.com",
-      "links": "194.87.185.146",
       "type": "pdns",
       "ln": 2
     },
@@ -884,12 +818,6 @@
     },
     {
       "host": "intooltak.com",
-      "links": "194.87.185.146",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "intooltak.com",
       "links": "212.192.246.23",
       "type": "pdns",
       "ln": 2
@@ -921,12 +849,6 @@
     {
       "host": "intromons.com",
       "links": "185.105.116.46",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "intromons.com",
-      "links": "194.87.185.146",
       "type": "pdns",
       "ln": 2
     },
@@ -1087,6 +1009,12 @@
       "ln": 2
     },
     {
+      "host": "mail.animeku.ru",
+      "links": "109.248.203.145",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "mail.blakdkfkfokdkd.live",
       "links": "161.129.64.100",
       "type": "pdns",
@@ -1178,12 +1106,6 @@
     },
     {
       "host": "microsoftsofymicrosoftsoft.at",
-      "links": "194.87.185.146",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "microsoftsofymicrosoftsoft.at",
       "links": "212.192.246.23",
       "type": "pdns",
       "ln": 2
@@ -1227,6 +1149,24 @@
     {
       "host": "ns1.device-pro.ru",
       "links": "62.173.147.236",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.lovely-boobs.info",
+      "links": "109.248.203.145",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.nice-boobs.info",
+      "links": "109.248.203.145",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.niceboobs.info",
+      "links": "109.248.203.145",
       "type": "pdns",
       "ln": 2
     },
@@ -1292,12 +1232,6 @@
     },
     {
       "host": "poi.redhatbabby.at",
-      "links": "194.87.185.146",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "poi.redhatbabby.at",
       "links": "212.192.246.23",
       "type": "pdns",
       "ln": 2
@@ -1353,12 +1287,6 @@
     {
       "host": "pop.biopiof.at",
       "links": "185.87.48.138",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "pop.biopiof.at",
-      "links": "194.87.185.146",
       "type": "pdns",
       "ln": 2
     },
@@ -1580,12 +1508,6 @@
     },
     {
       "host": "v10.avyanok.com",
-      "links": "194.87.185.146",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "v10.avyanok.com",
       "links": "78.40.217.65",
       "type": "pdns",
       "ln": 2
@@ -1636,12 +1558,6 @@
       "host": "vorehollenu.club",
       "links": "552b287c36d53f9d00c26151090ec6d9482ea341",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "w03yynex.store",
-      "links": "77.87.212.159",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -1699,12 +1615,6 @@
       "ln": 2
     },
     {
-      "host": "www.37-120-206-70.cprapid.com",
-      "links": "37.120.206.70",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "www.5f9dcc31379cd2f22ef225945d3f8b6cbc7239e3.duckdns.org",
       "links": "8fb2dcc1de77d9f8dc8c779078371b8171331b45",
       "type": "certs",
@@ -1717,8 +1627,8 @@
       "ln": 2
     },
     {
-      "host": "www.device-pro.ru",
-      "links": "62.173.147.236",
+      "host": "www.animeku.ru",
+      "links": "109.248.203.145",
       "type": "pdns",
       "ln": 2
     },

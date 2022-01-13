@@ -25,6 +25,18 @@
       "ln": 2
     },
     {
+      "host": "BB Threat Research: BazarLoader",
+      "links": "resolutionplatform.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "bb7nuyant1xhz01.chocolatier-online.com",
+      "links": "103.253.40.229",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "gazeteaxpres.com",
       "links": "178769bf1b55a1dc38ca041781003471a37e48d7",
       "type": "certs",
@@ -57,6 +69,12 @@
     {
       "host": "klankosova.net",
       "links": "89.34.97.59",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "resolutionplatform.com",
+      "links": "103.253.40.229",
       "type": "pdns",
       "ln": 2
     }

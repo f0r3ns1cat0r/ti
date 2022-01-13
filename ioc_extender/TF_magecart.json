@@ -25,6 +25,12 @@
       "ln": 2
     },
     {
+      "host": "01.stripe-auth-api.com",
+      "links": "185.105.118.22",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "1.carmirror-innovationsofthefuture.fun",
       "links": "8aea0c55bf308c868a836e0131fa6a017e8eb663",
       "type": "certs",
@@ -343,18 +349,6 @@
       "ln": 2
     },
     {
-      "host": "acdn.space",
-      "links": "8.209.69.3",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.acdn.space",
-      "links": "8.209.69.3",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "admin.yunu.ru",
       "links": "5b410f323f84cc0ea3f41697444153e11400c683",
       "type": "certs",
@@ -385,20 +379,8 @@
       "ln": 2
     },
     {
-      "host": "anashed.xcdn.space",
-      "links": "8.209.69.3",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "apayments.top",
       "links": "178.20.44.93",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "apayments.top",
-      "links": "185.105.118.22",
       "type": "pdns",
       "ln": 2
     },
@@ -418,12 +400,6 @@
       "host": "app.yunu.ru",
       "links": "5b410f323f84cc0ea3f41697444153e11400c683",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "appsfree.xcdn.space",
-      "links": "8.209.69.3",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -496,12 +472,6 @@
       "host": "bbbeeduperspektiva.store",
       "links": "5b410f323f84cc0ea3f41697444153e11400c683",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "bcdn.space",
-      "links": "8.209.69.3",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -616,12 +586,6 @@
       "host": "bytsecure.com",
       "links": "e6de7555610b4185511c4ff67a2498c9afbc1b90",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "c5n.acdn.space",
-      "links": "8.209.69.3",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -742,12 +706,6 @@
       "host": "danceholl.store",
       "links": "4d8e2becdfb0a3309e46e243b1f98b46ae049d36",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "dcdn.space",
-      "links": "8.209.69.3",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -901,12 +859,6 @@
       "ln": 2
     },
     {
-      "host": "gcdn.space",
-      "links": "8.209.69.3",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "gegelanallitics.com",
       "links": "176.9.51.172",
       "type": "pdns",
@@ -967,12 +919,6 @@
       "ln": 2
     },
     {
-      "host": "google-activate.com",
-      "links": "92.242.40.191",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "google-activated.com",
       "links": "47.254.178.32",
       "type": "pdns",
@@ -991,12 +937,6 @@
       "ln": 2
     },
     {
-      "host": "google-activated.com",
-      "links": "92.242.40.191",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "google-analytisc.com",
       "links": "47.88.12.192",
       "type": "pdns",
@@ -1017,12 +957,6 @@
     {
       "host": "google-assignments.com",
       "links": "8.209.114.220",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "google-codes.com",
-      "links": "185.195.26.104",
       "type": "pdns",
       "ln": 2
     },
@@ -1070,12 +1004,6 @@
     },
     {
       "host": "google-create.com",
-      "links": "185.195.26.104",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "google-create.com",
       "links": "47.88.12.192",
       "type": "pdns",
       "ln": 2
@@ -1090,12 +1018,6 @@
       "host": "google-create.com",
       "links": "e6de7555610b4185511c4ff67a2498c9afbc1b90",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "google-globals.com",
-      "links": "185.195.26.104",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -1148,24 +1070,12 @@
     },
     {
       "host": "google-sagepay.com",
-      "links": "92.242.40.191",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "google-sagepay.com",
       "links": "e6de7555610b4185511c4ff67a2498c9afbc1b90",
       "type": "certs",
       "ln": 2
     },
     {
       "host": "google-sanek.com",
-      "links": "185.195.26.104",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "google-sanek.com",
       "links": "47.88.12.192",
       "type": "pdns",
       "ln": 2
@@ -1178,12 +1088,6 @@
     },
     {
       "host": "google-squery.com",
-      "links": "185.195.26.104",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "google-squery.com",
       "links": "47.88.12.192",
       "type": "pdns",
       "ln": 2
@@ -1191,12 +1095,6 @@
     {
       "host": "google-squery.com",
       "links": "8.209.114.220",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "google-thumbs.com",
-      "links": "185.195.26.104",
       "type": "pdns",
       "ln": 2
     },
@@ -1357,18 +1255,6 @@
       "ln": 2
     },
     {
-      "host": "hawaa.xcdn.space",
-      "links": "8.209.69.3",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "hcdn.space",
-      "links": "8.209.69.3",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "hdkinoru.ru",
       "links": "9c73f26d08c80392fcf32de60e43cfc5586b26f8",
       "type": "certs",
@@ -1384,12 +1270,6 @@
       "host": "hoffwalldecor.com",
       "links": "5b410f323f84cc0ea3f41697444153e11400c683",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "hostmaster.acdn.space",
-      "links": "8.209.69.3",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -1423,12 +1303,6 @@
       "ln": 2
     },
     {
-      "host": "icdn.space",
-      "links": "8.209.69.3",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "idropps.store",
       "links": "1dc7ca935531db252239c91440098887efe4af03",
       "type": "certs",
@@ -1456,18 +1330,6 @@
       "host": "investire365.com",
       "links": "4d8e2becdfb0a3309e46e243b1f98b46ae049d36",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "ip101.ip-51-222-114.net",
-      "links": "51.222.114.101",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "jcdn.space",
-      "links": "8.209.69.3",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -1546,12 +1408,6 @@
       "host": "karamatemanyylouva.store",
       "links": "5b410f323f84cc0ea3f41697444153e11400c683",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "kcdn.space",
-      "links": "8.209.69.3",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -1723,12 +1579,6 @@
       "ln": 2
     },
     {
-      "host": "mail.snoopbotty.ru",
-      "links": "185.195.26.104",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "malrunews.ru",
       "links": "5b410f323f84cc0ea3f41697444153e11400c683",
       "type": "certs",
@@ -1791,12 +1641,6 @@
     {
       "host": "merchant-analytics.com",
       "links": "8.209.69.16",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "merchant-analytics.com",
-      "links": "92.242.40.191",
       "type": "pdns",
       "ln": 2
     },
@@ -1879,12 +1723,6 @@
       "ln": 2
     },
     {
-      "host": "mx.merchant-analytics.com",
-      "links": "92.242.40.191",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "myartlil.store",
       "links": "5b410f323f84cc0ea3f41697444153e11400c683",
       "type": "certs",
@@ -1894,12 +1732,6 @@
       "host": "nastroyka-getkurs.ru",
       "links": "5b410f323f84cc0ea3f41697444153e11400c683",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "ncdn.space",
-      "links": "8.209.69.3",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -1951,30 +1783,6 @@
       "ln": 2
     },
     {
-      "host": "ns1.centosupdatecdn.com",
-      "links": "51.222.114.101",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns1.dnscatalog.net",
-      "links": "51.222.114.101",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.centosupdatecdn.com",
-      "links": "51.222.114.101",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.dnscatalog.net",
-      "links": "51.222.114.101",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ns500758.ip-198-27-83.net",
       "links": "198.27.83.62",
       "type": "pdns",
@@ -1990,12 +1798,6 @@
       "host": "nutriescapa.com",
       "links": "4d8e2becdfb0a3309e46e243b1f98b46ae049d36",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "ocdn.space",
-      "links": "8.209.69.3",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -2072,12 +1874,6 @@
     },
     {
       "host": "paypal-merchants.com",
-      "links": "185.195.26.104",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "paypal-merchants.com",
       "links": "47.88.12.192",
       "type": "pdns",
       "ln": 2
@@ -2085,12 +1881,6 @@
     {
       "host": "paypal-merchants.com",
       "links": "8.209.114.220",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "paypal-moneypay.com",
-      "links": "185.195.26.104",
       "type": "pdns",
       "ln": 2
     },
@@ -2194,12 +1984,6 @@
       "host": "purepoint.ru",
       "links": "5b410f323f84cc0ea3f41697444153e11400c683",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "qcdn.space",
-      "links": "8.209.69.3",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -2347,12 +2131,6 @@
       "ln": 2
     },
     {
-      "host": "snoopbotty.ru",
-      "links": "185.195.26.104",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "solo-toys.ru",
       "links": "5b410f323f84cc0ea3f41697444153e11400c683",
       "type": "certs",
@@ -2389,14 +2167,14 @@
       "ln": 2
     },
     {
-      "host": "srv2.papillon-online.net",
-      "links": "176.9.51.172",
-      "type": "pdns",
+      "host": "srochniy-vikup-avto-142.ru",
+      "links": "e6de7555610b4185511c4ff67a2498c9afbc1b90",
+      "type": "certs",
       "ln": 2
     },
     {
-      "host": "ssl-authorization.com",
-      "links": "185.195.26.104",
+      "host": "srv2.papillon-online.net",
+      "links": "176.9.51.172",
       "type": "pdns",
       "ln": 2
     },
@@ -2427,12 +2205,6 @@
     {
       "host": "stripe-auth-api.com",
       "links": "178.20.44.93",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "stripe-auth-api.com",
-      "links": "185.105.118.22",
       "type": "pdns",
       "ln": 2
     },
@@ -2487,12 +2259,6 @@
     {
       "host": "tagmanaqer.com",
       "links": "47.74.87.193",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "tcdn.space",
-      "links": "8.209.69.3",
       "type": "pdns",
       "ln": 2
     },
@@ -2557,18 +2323,6 @@
       "ln": 2
     },
     {
-      "host": "vds2169853.my-ihor.ru",
-      "links": "185.105.118.22",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "vds2172951.my-ihor.ru",
-      "links": "185.105.118.22",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "vedexx.ru",
       "links": "5b410f323f84cc0ea3f41697444153e11400c683",
       "type": "certs",
@@ -2593,12 +2347,6 @@
       "ln": 2
     },
     {
-      "host": "wcdn.space",
-      "links": "8.209.69.3",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "webadstracker.com",
       "links": "176.121.14.143",
       "type": "pdns",
@@ -2612,6 +2360,12 @@
     },
     {
       "host": "wefocus.asia",
+      "links": "e6de7555610b4185511c4ff67a2498c9afbc1b90",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "wholesomevalues.com",
       "links": "e6de7555610b4185511c4ff67a2498c9afbc1b90",
       "type": "certs",
       "ln": 2
@@ -2731,12 +2485,6 @@
       "ln": 2
     },
     {
-      "host": "www.google-activate.com",
-      "links": "92.242.40.191",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "www.google-activated.com",
       "links": "47.254.178.32",
       "type": "pdns",
@@ -2755,12 +2503,6 @@
       "ln": 2
     },
     {
-      "host": "www.google-activated.com",
-      "links": "92.242.40.191",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "www.google-assignments.com",
       "links": "47.88.12.192",
       "type": "pdns",
@@ -2798,12 +2540,6 @@
     },
     {
       "host": "www.google-sanek.com",
-      "links": "185.195.26.104",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.google-sanek.com",
       "links": "47.88.12.192",
       "type": "pdns",
       "ln": 2
@@ -2811,12 +2547,6 @@
     {
       "host": "www.google-sanek.com",
       "links": "8.209.114.220",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.google-squery.com",
-      "links": "185.195.26.104",
       "type": "pdns",
       "ln": 2
     },
@@ -2893,18 +2623,6 @@
       "ln": 2
     },
     {
-      "host": "www.merchant-analytics.com",
-      "links": "92.242.40.191",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.paypal-merchants.com",
-      "links": "185.195.26.104",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "www.paypal-merchants.com",
       "links": "47.88.12.192",
       "type": "pdns",
@@ -2913,12 +2631,6 @@
     {
       "host": "www.paypal-merchants.com",
       "links": "8.209.114.220",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.paypal-moneypay.com",
-      "links": "185.195.26.104",
       "type": "pdns",
       "ln": 2
     },
@@ -2949,12 +2661,6 @@
     {
       "host": "www.sixmofreegate.com",
       "links": "176.9.51.172",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.ssl-authorization.com",
-      "links": "185.195.26.104",
       "type": "pdns",
       "ln": 2
     },
@@ -3087,6 +2793,12 @@
     {
       "host": "zhebeleff.store",
       "links": "5b410f323f84cc0ea3f41697444153e11400c683",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "zqw8977.com",
+      "links": "e6de7555610b4185511c4ff67a2498c9afbc1b90",
       "type": "certs",
       "ln": 2
     },

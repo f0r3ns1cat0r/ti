@@ -109,12 +109,6 @@
       "ln": 2
     },
     {
-      "host": "fanyglo.com",
-      "links": "162.244.80.235",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "festive-antonelli.162-244-80-254.plesk.page",
       "links": "162.244.80.254",
       "type": "pdns",
@@ -229,6 +223,12 @@
       "ln": 2
     },
     {
+      "host": "ns1.saferoiworks.com",
+      "links": "162.244.80.254",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ns2.belatedconstructs.com",
       "links": "162.244.80.254",
       "type": "pdns",
@@ -236,6 +236,12 @@
     },
     {
       "host": "ns2.groupmentro.com",
+      "links": "162.244.80.254",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.saferoiworks.com",
       "links": "162.244.80.254",
       "type": "pdns",
       "ln": 2
@@ -253,14 +259,14 @@
       "ln": 2
     },
     {
-      "host": "securesoftme.com",
-      "links": "162.244.80.181",
+      "host": "saferoiworks.com",
+      "links": "162.244.80.254",
       "type": "pdns",
       "ln": 2
     },
     {
-      "host": "softnewspaper.com",
-      "links": "162.244.80.235",
+      "host": "securesoftme.com",
+      "links": "162.244.80.181",
       "type": "pdns",
       "ln": 2
     },
@@ -273,12 +279,6 @@
     {
       "host": "todevelopskills.com",
       "links": "85.93.88.165",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.fanyglo.com",
-      "links": "162.244.80.235",
       "type": "pdns",
       "ln": 2
     }

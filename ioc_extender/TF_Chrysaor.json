@@ -80,12 +80,6 @@
     },
     {
       "host": "ThreatFox: Chrysaor",
-      "links": "randomlane.net",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: Chrysaor",
       "links": "regularhours.net",
       "type": "z",
       "ln": 2
@@ -171,6 +165,12 @@
     {
       "host": "accapellasforyou.com",
       "links": "2398719f04a0f2a1602deb5c7876ea4f0adb6aa7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "acetool.co",
+      "links": "ce078e35847244a3d112e15aa72c9177e9db15fe",
       "type": "certs",
       "ln": 2
     },
@@ -619,6 +619,12 @@
       "ln": 2
     },
     {
+      "host": "defiqueen.com",
+      "links": "ce078e35847244a3d112e15aa72c9177e9db15fe",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "deioncube.me",
       "links": "17f9ea37af24bb70f6a667c26f31607661b50a42",
       "type": "certs",
@@ -733,6 +739,12 @@
       "ln": 2
     },
     {
+      "host": "emetaverse.ai",
+      "links": "ce078e35847244a3d112e15aa72c9177e9db15fe",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "enhances.xyz",
       "links": "212a5baea8c97b02ddb9d6efbc4dd80032f8ac79",
       "type": "certs",
@@ -826,12 +838,6 @@
       "host": "fbifile.com",
       "links": "f501b65d9b42f9ad8cc284032fbbd6c6fa0251cc",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "fghldko.com",
-      "links": "168.206.185.83",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -967,12 +973,6 @@
       "ln": 2
     },
     {
-      "host": "hellozhifa.com",
-      "links": "168.206.185.83",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "highquality.io",
       "links": "5b36224b70c1dc6ec15d88962715ccf0bd8975d5",
       "type": "certs",
@@ -1039,27 +1039,9 @@
       "ln": 2
     },
     {
-      "host": "hostmaster.randomlane.net",
-      "links": "159.65.59.167",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "hostmaster.theappanalytics.com",
-      "links": "178.62.22.186",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "hrconsulting.net.au",
       "links": "58e3d346469b490f4203881e7726103cbd030617",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "hudu.dmrit.net",
-      "links": "159.65.59.167",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -1222,12 +1204,6 @@
       "host": "kleven.co",
       "links": "5572f138f4ba9cab3aa444fc49cf24d6d7932e93",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "ksxingye.com",
-      "links": "168.206.185.83",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -1525,15 +1501,9 @@
       "ln": 2
     },
     {
-      "host": "qhdpnmu.com",
-      "links": "168.206.185.83",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "randomlane.net",
-      "links": "159.65.59.167",
-      "type": "pdns",
+      "host": "poverty.la",
+      "links": "5b36224b70c1dc6ec15d88962715ccf0bd8975d5",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -2071,12 +2041,6 @@
       "ln": 2
     },
     {
-      "host": "www.hellozhifa.com",
-      "links": "168.206.185.83",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "www.jbhouseartworks.com",
       "links": "156.233.205.56",
       "type": "pdns",
@@ -2104,12 +2068,6 @@
       "host": "www.simplyhungry.com",
       "links": "94f2dfb7b49dc32d3e73daae611ad283812bd6fc",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "www.ysj9.com",
-      "links": "168.206.185.83",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -2193,12 +2151,6 @@
     {
       "host": "yscztwjs.com",
       "links": "154.64.35.9",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ysj9.com",
-      "links": "168.206.185.83",
       "type": "pdns",
       "ln": 2
     },

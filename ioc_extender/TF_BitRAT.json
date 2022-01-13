@@ -19,12 +19,6 @@
   ],
   "data": [
     {
-      "host": "185-86-106-246.pool.ovpn.com",
-      "links": "185.86.106.246",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ThreatFox: BitRAT",
       "links": "eter102.dvrlists.com",
       "type": "z",
@@ -93,12 +87,6 @@
     {
       "host": "eter103.dvrlists.com",
       "links": "23.94.54.233",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "host-185-86-106-246.tornevall.net",
-      "links": "185.86.106.246",
       "type": "pdns",
       "ln": 2
     },

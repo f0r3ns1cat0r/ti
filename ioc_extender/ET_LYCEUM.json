@@ -50,12 +50,6 @@
     },
     {
       "host": "ET Trojan: LYCEUM",
-      "links": "centosupdatecdn.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ET Trojan: LYCEUM",
       "links": "cybersecnet.org",
       "type": "z",
       "ln": 2
@@ -69,12 +63,6 @@
     {
       "host": "ET Trojan: LYCEUM",
       "links": "dnscachecloud.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ET Trojan: LYCEUM",
-      "links": "dnscatalog.net",
       "type": "z",
       "ln": 2
     },
@@ -105,12 +93,6 @@
     {
       "host": "ET Trojan: LYCEUM",
       "links": "sysadminnews.info",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ET Trojan: LYCEUM",
-      "links": "updatecdn.net",
       "type": "z",
       "ln": 2
     },
@@ -247,12 +229,6 @@
       "ln": 2
     },
     {
-      "host": "centosupdatecdn.com",
-      "links": "51.222.114.101",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "cfrbackup.com",
       "links": "da79848954d60beb853d12e34a0f445a919d698b",
       "type": "certs",
@@ -340,12 +316,6 @@
       "host": "dnscachecloud.com",
       "links": "da79848954d60beb853d12e34a0f445a919d698b",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "dnscatalog.net",
-      "links": "51.222.114.101",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -526,18 +496,6 @@
       "host": "internet.softupdate-online.top",
       "links": "da79848954d60beb853d12e34a0f445a919d698b",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "ip101.ip-51-222-114.net",
-      "links": "51.222.114.101",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ip59.ip-51-81-29.us",
-      "links": "51.81.29.59",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -781,51 +739,15 @@
       "ln": 2
     },
     {
-      "host": "ns1.centosupdatecdn.com",
-      "links": "51.222.114.101",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns1.dnscatalog.net",
-      "links": "51.222.114.101",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ns1.microsoftsonline.net",
       "links": "da79848954d60beb853d12e34a0f445a919d698b",
       "type": "certs",
       "ln": 2
     },
     {
-      "host": "ns1.updatecdn.net",
-      "links": "51.81.29.59",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.centosupdatecdn.com",
-      "links": "51.222.114.101",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.dnscatalog.net",
-      "links": "51.222.114.101",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ns2.microsoftsonline.net",
       "links": "da79848954d60beb853d12e34a0f445a919d698b",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "ns2.updatecdn.net",
-      "links": "51.81.29.59",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -1054,12 +976,6 @@
       "host": "update.softupdate-online.top",
       "links": "da79848954d60beb853d12e34a0f445a919d698b",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "updatecdn.net",
-      "links": "51.81.29.59",
-      "type": "pdns",
       "ln": 2
     },
     {

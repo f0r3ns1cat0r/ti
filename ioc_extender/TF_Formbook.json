@@ -571,12 +571,6 @@
       "ln": 2
     },
     {
-      "host": "bakurun.com",
-      "links": "198.54.112.233",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "bamko.link",
       "links": "63.250.34.114",
       "type": "pdns",
@@ -741,12 +735,6 @@
     {
       "host": "bunies3.com",
       "links": "162.0.214.62",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "bvblearn.com",
-      "links": "63.250.47.240",
       "type": "pdns",
       "ln": 2
     },
@@ -1033,6 +1021,12 @@
       "ln": 2
     },
     {
+      "host": "cpanel.server1.coolstories22.com.ng",
+      "links": "f70022349b3945e2d3a3abe8ea20a6c540f531b5",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "cpanel.systemtrainings.com",
       "links": "162.0.230.164",
       "type": "pdns",
@@ -1171,6 +1165,12 @@
       "ln": 2
     },
     {
+      "host": "cpcalendars.server1.coolstories22.com.ng",
+      "links": "f70022349b3945e2d3a3abe8ea20a6c540f531b5",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "cpcalendars.systemtrainings.com",
       "links": "162.0.230.164",
       "type": "pdns",
@@ -1306,6 +1306,12 @@
       "host": "cpcontacts.rostrly.com",
       "links": "162.0.213.148",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cpcontacts.server1.coolstories22.com.ng",
+      "links": "f70022349b3945e2d3a3abe8ea20a6c540f531b5",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -1471,12 +1477,6 @@
       "ln": 2
     },
     {
-      "host": "eckus.info",
-      "links": "198.187.30.150",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ecomheroes.dev",
       "links": "162.0.216.35",
       "type": "pdns",
@@ -1539,12 +1539,6 @@
     {
       "host": "gentciu.com",
       "links": "162.0.228.30",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "gentciu.com",
-      "links": "63.250.47.240",
       "type": "pdns",
       "ln": 2
     },
@@ -1639,12 +1633,6 @@
       "ln": 2
     },
     {
-      "host": "host2.helanomo.com",
-      "links": "162.0.238.241",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "hyipboybtc.com",
       "links": "63.250.44.253",
       "type": "pdns",
@@ -1725,12 +1713,6 @@
     {
       "host": "jofogas.getpay.shop",
       "links": "199.192.27.115",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "jonyundt.xyz",
-      "links": "199.192.22.53",
       "type": "pdns",
       "ln": 2
     },
@@ -1873,12 +1855,6 @@
       "ln": 2
     },
     {
-      "host": "mail.bvblearn.com",
-      "links": "63.250.47.240",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "mail.cadetcollegeofrangpur.net",
       "links": "162.0.222.228",
       "type": "pdns",
@@ -1987,6 +1963,12 @@
       "ln": 2
     },
     {
+      "host": "mail.server1.coolstories22.com.ng",
+      "links": "f70022349b3945e2d3a3abe8ea20a6c540f531b5",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "mail.shimanta.com",
       "links": "162.0.222.228",
       "type": "pdns",
@@ -2026,12 +2008,6 @@
       "host": "mail.visionistsolutions.com",
       "links": "997090ad885a1b75fe994c4d6a8af7ccb5c3d1bb",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "mail.zipieu.club",
-      "links": "63.250.47.240",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -2341,12 +2317,6 @@
       "ln": 2
     },
     {
-      "host": "ns1.ribs.com.ng",
-      "links": "198.187.30.150",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ns1.samihakabir.com",
       "links": "162.0.222.228",
       "type": "pdns",
@@ -2379,18 +2349,6 @@
     {
       "host": "ns1.visionistsolutions.com",
       "links": "162.0.213.148",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns1.yellowcloudvps.com",
-      "links": "199.192.17.149",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns1.zipieu.club",
-      "links": "63.250.47.240",
       "type": "pdns",
       "ln": 2
     },
@@ -2503,18 +2461,6 @@
       "ln": 2
     },
     {
-      "host": "ns2.yellowcloudvps.com",
-      "links": "199.192.17.149",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.zipieu.club",
-      "links": "63.250.47.240",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "odoo.thebahrimedia.com",
       "links": "66.29.133.79",
       "type": "pdns",
@@ -2613,12 +2559,6 @@
     {
       "host": "posta.getpay.shop",
       "links": "199.192.27.115",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "primeacces786.cloudns.cl",
-      "links": "63.250.47.240",
       "type": "pdns",
       "ln": 2
     },
@@ -2775,6 +2715,12 @@
     {
       "host": "server1.coolstories22.com.ng",
       "links": "d121f5ee301143e2fdc52363312acbd188428ff6",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "server1.coolstories22.com.ng",
+      "links": "f70022349b3945e2d3a3abe8ea20a6c540f531b5",
       "type": "certs",
       "ln": 2
     },
@@ -2937,12 +2883,6 @@
     {
       "host": "suxfi.com",
       "links": "199.192.31.106",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "svr.zipieu.club",
-      "links": "63.250.47.240",
       "type": "pdns",
       "ln": 2
     },
@@ -3325,6 +3265,12 @@
       "ln": 2
     },
     {
+      "host": "webmail.server1.coolstories22.com.ng",
+      "links": "f70022349b3945e2d3a3abe8ea20a6c540f531b5",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "webmail.systemtrainings.com",
       "links": "162.0.230.164",
       "type": "pdns",
@@ -3357,6 +3303,12 @@
     {
       "host": "whm.nadatogel.art",
       "links": "a55dc729e2ea7dfed28d75dd5f223da66ab65b5d",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "whm.server1.coolstories22.com.ng",
+      "links": "f70022349b3945e2d3a3abe8ea20a6c540f531b5",
       "type": "certs",
       "ln": 2
     },
@@ -3697,12 +3649,6 @@
       "ln": 2
     },
     {
-      "host": "www.bvblearn.com",
-      "links": "63.250.47.240",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "www.byonf.com",
       "links": "162.0.213.148",
       "type": "pdns",
@@ -3825,6 +3771,12 @@
     {
       "host": "www.cinmax.xyz",
       "links": "d121f5ee301143e2fdc52363312acbd188428ff6",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.cinmax.xyz",
+      "links": "f70022349b3945e2d3a3abe8ea20a6c540f531b5",
       "type": "certs",
       "ln": 2
     },
@@ -4411,6 +4363,12 @@
       "ln": 2
     },
     {
+      "host": "www.server1.coolstories22.com.ng",
+      "links": "f70022349b3945e2d3a3abe8ea20a6c540f531b5",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "www.services-coli-post.shop",
       "links": "162.0.239.203",
       "type": "pdns",
@@ -4586,12 +4544,6 @@
     },
     {
       "host": "yellowcloudvps.com",
-      "links": "199.192.17.149",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "yellowcloudvps.com",
       "links": "de1fdeba0e7a8ecc92e89d3f1fd9d44fbac7c58f",
       "type": "certs",
       "ln": 2
@@ -4611,12 +4563,6 @@
     {
       "host": "zealous-brahmagupta.199-192-23-253.plesk.page",
       "links": "199.192.23.253",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "zipieu.club",
-      "links": "63.250.47.240",
       "type": "pdns",
       "ln": 2
     },

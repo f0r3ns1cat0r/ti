@@ -55,12 +55,6 @@
       "ln": 2
     },
     {
-      "host": "193-124-206-65.cloudvps.regruhosting.ru",
-      "links": "193.124.206.65",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "194-67-116-250.cloudvps.regruhosting.ru",
       "links": "5a95083c25b703c8abb50902fe770c9e79462cd5",
       "type": "certs",
@@ -100,18 +94,6 @@
       "host": "6z98os.id597.link",
       "links": "da79848954d60beb853d12e34a0f445a919d698b",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "80-78-253-86.cloudvps.regruhosting.ru",
-      "links": "80.78.253.86",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "89-108-78-252.cloudvps.regruhosting.ru",
-      "links": "89.108.78.252",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -697,12 +679,6 @@
       "ln": 2
     },
     {
-      "host": "arh.start-el.com",
-      "links": "193.124.206.65",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "arianos.ru",
       "links": "194.180.174.147",
       "type": "pdns",
@@ -1117,12 +1093,6 @@
       "ln": 2
     },
     {
-      "host": "beta.start-el.com",
-      "links": "193.124.206.65",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "biblidinae.online",
       "links": "23.148.3.66",
       "type": "pdns",
@@ -1400,6 +1370,18 @@
     },
     {
       "host": "blattodea.ru",
+      "links": "89.108.115.235",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "blattodea.ru",
+      "links": "89.108.70.22",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "blattodea.ru",
       "links": "89.108.77.204",
       "type": "pdns",
       "ln": 2
@@ -1407,6 +1389,12 @@
     {
       "host": "blattodea.ru",
       "links": "89.108.78.252",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "blattodea.ru",
+      "links": "89.108.79.114",
       "type": "pdns",
       "ln": 2
     },
@@ -1480,12 +1468,6 @@
       "host": "bur.vueleslie.com",
       "links": "da79848954d60beb853d12e34a0f445a919d698b",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "busy-liskov.199-247-8-121.plesk.page",
-      "links": "199.247.8.121",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -1929,6 +1911,18 @@
     {
       "host": "clank.hazari.ru",
       "links": "89.108.115.234",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "clank.hazari.ru",
+      "links": "89.108.115.235",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "clank.hazari.ru",
+      "links": "89.108.70.22",
       "type": "pdns",
       "ln": 2
     },
@@ -2608,6 +2602,12 @@
       "host": "feteh-asefa.com",
       "links": "da79848954d60beb853d12e34a0f445a919d698b",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "fgh.abanotermehotels.ru",
+      "links": "89.108.70.22",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -3386,6 +3386,18 @@
     },
     {
       "host": "hierodula.online",
+      "links": "89.108.115.235",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hierodula.online",
+      "links": "89.108.70.22",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hierodula.online",
       "links": "89.108.77.204",
       "type": "pdns",
       "ln": 2
@@ -3694,6 +3706,12 @@
       "host": "infestexe.com",
       "links": "da79848954d60beb853d12e34a0f445a919d698b",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "info.datastrategy.ru",
+      "links": "89.108.70.22",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -4478,6 +4496,18 @@
     },
     {
       "host": "lovers.semara.ru",
+      "links": "89.108.115.235",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "lovers.semara.ru",
+      "links": "89.108.70.22",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "lovers.semara.ru",
       "links": "89.108.77.204",
       "type": "pdns",
       "ln": 2
@@ -4700,6 +4730,18 @@
     },
     {
       "host": "lump.semara.ru",
+      "links": "89.108.115.235",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "lump.semara.ru",
+      "links": "89.108.70.22",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "lump.semara.ru",
       "links": "89.108.77.204",
       "type": "pdns",
       "ln": 2
@@ -4759,14 +4801,8 @@
       "ln": 2
     },
     {
-      "host": "m.start-el.com",
-      "links": "193.124.206.65",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "m.start-el.ru",
-      "links": "193.124.206.65",
+      "host": "lycaenidae.ru",
+      "links": "89.108.70.22",
       "type": "pdns",
       "ln": 2
     },
@@ -4783,6 +4819,12 @@
       "ln": 2
     },
     {
+      "host": "mail.abanotermehotels.ru",
+      "links": "89.108.70.22",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "mail.bertis.ru",
       "links": "173.199.70.149",
       "type": "pdns",
@@ -4795,6 +4837,12 @@
       "ln": 2
     },
     {
+      "host": "mail.datastrategy.ru",
+      "links": "89.108.70.22",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "mail.heteroptera.ru",
       "links": "89.108.83.23",
       "type": "pdns",
@@ -4804,6 +4852,12 @@
       "host": "mail.isroddp.com",
       "links": "73209463937f97c1ae8be060f4e1743e909b3a6d",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail20.abanotermehotels.ru",
+      "links": "89.108.70.22",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -5881,6 +5935,12 @@
       "ln": 2
     },
     {
+      "host": "pseudon.ru",
+      "links": "89.108.79.114",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "pwsmbx.com",
       "links": "da79848954d60beb853d12e34a0f445a919d698b",
       "type": "certs",
@@ -6097,6 +6157,12 @@
       "ln": 2
     },
     {
+      "host": "scorpiones.online",
+      "links": "89.108.79.114",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "security-acount.info",
       "links": "da79848954d60beb853d12e34a0f445a919d698b",
       "type": "certs",
@@ -6235,6 +6301,12 @@
       "ln": 2
     },
     {
+      "host": "sinensisa.online",
+      "links": "89.108.79.114",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "slovorti.ru",
       "links": "80.78.253.86",
       "type": "pdns",
@@ -6355,9 +6427,21 @@
       "ln": 2
     },
     {
+      "host": "surutu.ru",
+      "links": "89.108.79.114",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "sysadminnews.info",
       "links": "da79848954d60beb853d12e34a0f445a919d698b",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "tagdesam.ru",
+      "links": "89.108.115.235",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -6656,6 +6740,18 @@
     },
     {
       "host": "tomond.ru",
+      "links": "89.108.115.235",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "tomond.ru",
+      "links": "89.108.70.22",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "tomond.ru",
       "links": "89.108.77.204",
       "type": "pdns",
       "ln": 2
@@ -6883,8 +6979,14 @@
       "ln": 2
     },
     {
-      "host": "vm7117.vps.agava.net",
-      "links": "89.108.78.252",
+      "host": "viraglo.site",
+      "links": "89.108.79.114",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "vitrokaz.site",
+      "links": "89.108.79.114",
       "type": "pdns",
       "ln": 2
     },
@@ -7015,9 +7117,21 @@
       "ln": 2
     },
     {
+      "host": "www.marinos.ru",
+      "links": "89.108.79.114",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "xfindphoneloc.com",
       "links": "da79848954d60beb853d12e34a0f445a919d698b",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "xiphosura.online",
+      "links": "89.108.79.114",
+      "type": "pdns",
       "ln": 2
     },
     {

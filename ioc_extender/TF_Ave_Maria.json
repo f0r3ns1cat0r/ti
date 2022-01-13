@@ -31,6 +31,18 @@
       "ln": 2
     },
     {
+      "host": "ThreatFox: Ave Maria",
+      "links": "membership.myddns.rocks",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ceecom.tech",
+      "links": "197.210.70.197",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "chrisle79.ddns.net",
       "links": "205.185.118.52",
       "type": "pdns",
@@ -51,6 +63,12 @@
     {
       "host": "lockerrollercooller.mywire.org",
       "links": "198.46.132.206",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "membership.myddns.rocks",
+      "links": "197.210.70.197",
       "type": "pdns",
       "ln": 2
     }
