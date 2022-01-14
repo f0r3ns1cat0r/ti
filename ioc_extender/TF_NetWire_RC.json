@@ -49,6 +49,12 @@
       "ln": 2
     },
     {
+      "host": "infoupdates.sytes.net",
+      "links": "0f64ae8a25ca7fdc078971dc9309666e99027a10",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "mathkros79.ddns.net",
       "links": "184.105.237.196",
       "type": "pdns",
@@ -70,6 +76,12 @@
       "host": "owo.myftp.biz",
       "links": "184.105.237.196",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "securedns360.hopto.org",
+      "links": "0f64ae8a25ca7fdc078971dc9309666e99027a10",
+      "type": "certs",
       "ln": 2
     },
     {

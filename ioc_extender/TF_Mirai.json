@@ -31,6 +31,12 @@
       "ln": 2
     },
     {
+      "host": "ThreatFox: Mirai",
+      "links": "saturnbotnet.net",
+      "type": "z",
+      "ln": 2
+    },
+    {
       "host": "a26-67.avsvmcloud.com",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
@@ -52,6 +58,12 @@
       "host": "cdn.theyardservice.com",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "condor3784.dedicatedpanel.com",
+      "links": "148.72.158.94",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -148,6 +160,12 @@
       "host": "rawfuns.com",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "saturnbotnet.net",
+      "links": "148.72.158.94",
+      "type": "pdns",
       "ln": 2
     },
     {

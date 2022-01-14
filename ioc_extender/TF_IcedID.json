@@ -4873,6 +4873,12 @@
       "ln": 2
     },
     {
+      "host": "ns1.greenmobility.am",
+      "links": "194.147.115.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ns1.sunchild.am",
       "links": "194.147.115.14",
       "type": "pdns",
@@ -7089,12 +7095,6 @@
     {
       "host": "yikot.top",
       "links": "156.250.28.207",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ymiraymiradil.club",
-      "links": "185.186.245.229",
       "type": "pdns",
       "ln": 2
     },

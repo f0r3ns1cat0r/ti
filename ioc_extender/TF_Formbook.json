@@ -1543,6 +1543,12 @@
       "ln": 2
     },
     {
+      "host": "gentciu.com",
+      "links": "63.250.47.240",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "gerlom.online",
       "links": "162.0.228.30",
       "type": "pdns",
@@ -2930,6 +2936,12 @@
     },
     {
       "host": "telepath.school",
+      "links": "251faad95ba43edcc5455d01d5f38b6d9054cf03",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "telepath.school",
       "links": "61fd18a76331f6cba2ea4f12058a0534d7cc0897",
       "type": "certs",
       "ln": 2
@@ -4279,6 +4291,12 @@
       "ln": 2
     },
     {
+      "host": "www.olx.pl-safepay.shop",
+      "links": "199.192.27.115",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "www.osaroboighodaro.com",
       "links": "162.0.230.164",
       "type": "pdns",
@@ -4382,6 +4400,12 @@
     },
     {
       "host": "www.shegimx.com",
+      "links": "251faad95ba43edcc5455d01d5f38b6d9054cf03",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.shegimx.com",
       "links": "61fd18a76331f6cba2ea4f12058a0534d7cc0897",
       "type": "certs",
       "ln": 2
@@ -4437,6 +4461,12 @@
     {
       "host": "www.systemtrainings.com",
       "links": "5743cb97ea31a5c5af0c00797ee8ad0f83e6b32f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.telepath.school",
+      "links": "251faad95ba43edcc5455d01d5f38b6d9054cf03",
       "type": "certs",
       "ln": 2
     },
@@ -4563,6 +4593,12 @@
     {
       "host": "zealous-brahmagupta.199-192-23-253.plesk.page",
       "links": "199.192.23.253",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "zipieu.club",
+      "links": "63.250.47.240",
       "type": "pdns",
       "ln": 2
     },
