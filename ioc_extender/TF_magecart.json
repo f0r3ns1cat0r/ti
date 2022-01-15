@@ -877,6 +877,12 @@
       "ln": 2
     },
     {
+      "host": "google-activate.com",
+      "links": "92.242.40.191",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "google-activated.com",
       "links": "47.254.178.32",
       "type": "pdns",
@@ -891,6 +897,12 @@
     {
       "host": "google-activated.com",
       "links": "8.209.69.16",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "google-activated.com",
+      "links": "92.242.40.191",
       "type": "pdns",
       "ln": 2
     },
@@ -1011,6 +1023,12 @@
     {
       "host": "google-sagepay.com",
       "links": "8.209.69.16",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "google-sagepay.com",
+      "links": "92.242.40.191",
       "type": "pdns",
       "ln": 2
     },
@@ -2271,6 +2289,12 @@
     {
       "host": "www.google-activate.com",
       "links": "8.209.69.16",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.google-activate.com",
+      "links": "92.242.40.191",
       "type": "pdns",
       "ln": 2
     },

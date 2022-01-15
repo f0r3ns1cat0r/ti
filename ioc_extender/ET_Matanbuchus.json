@@ -1412,6 +1412,12 @@
     },
     {
       "host": "olxsecurepay.com",
+      "links": "141.8.193.150",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "olxsecurepay.com",
       "links": "176.107.160.133",
       "type": "pdns",
       "ln": 2
@@ -1503,6 +1509,12 @@
     {
       "host": "online-bos.com",
       "links": "91.224.22.21",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "online-bos24.com",
+      "links": "141.8.193.150",
       "type": "pdns",
       "ln": 2
     },

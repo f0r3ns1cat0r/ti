@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ET Trojan: FIN8 SARDONIC",
+      "links": "git-api.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "blog.fox-team.ga",
+      "links": "140.82.121.4",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "git-api.com",
+      "links": "140.82.121.4",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "gitmerge.com",
+      "links": "140.82.121.4",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ngahon.ga",
+      "links": "140.82.121.4",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "stronghost.ru",
+      "links": "140.82.121.4",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.blacklinux.ga",
+      "links": "140.82.121.4",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}
