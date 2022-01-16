@@ -19,6 +19,12 @@
   ],
   "data": [
     {
+      "host": "152-89-162-59.pool.ovpn.com",
+      "links": "152.89.162.59",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ThreatFox: Remcos",
       "links": "destinyrem.kozow.com",
       "type": "z",
@@ -44,6 +50,12 @@
     },
     {
       "host": "ThreatFox: Remcos",
+      "links": "gene.ddnsgeek.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Remcos",
       "links": "newlogs.ddns.net",
       "type": "z",
       "ln": 2
@@ -51,6 +63,30 @@
     {
       "host": "ThreatFox: Remcos",
       "links": "ogidi.ddns.net",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Remcos",
+      "links": "rem1.camdvr.org",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Remcos",
+      "links": "rem16.hopto.org",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Remcos",
+      "links": "rem166.hopto.org",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Remcos",
+      "links": "rem1666.hopto.org",
       "type": "z",
       "ln": 2
     },
@@ -115,8 +151,20 @@
       "ln": 2
     },
     {
+      "host": "airvpn.izrm.net",
+      "links": "104.254.90.251",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "angry-allen.207-244-235-224.plesk.page",
       "links": "207.244.235.224",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "bnc09.xyz",
+      "links": "185.19.85.169",
       "type": "pdns",
       "ln": 2
     },
@@ -164,6 +212,12 @@
     },
     {
       "host": "eter101.dvrlists.com",
+      "links": "185.19.85.169",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "eter101.dvrlists.com",
       "links": "185.19.85.178",
       "type": "pdns",
       "ln": 2
@@ -207,6 +261,12 @@
     {
       "host": "eter103.dvrlists.com",
       "links": "185.140.53.221",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "eter103.dvrlists.com",
+      "links": "185.19.85.169",
       "type": "pdns",
       "ln": 2
     },
@@ -225,6 +285,12 @@
     {
       "host": "frank.moda",
       "links": "87.101.92.171",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "gene.ddnsgeek.com",
+      "links": "152.89.162.59",
       "type": "pdns",
       "ln": 2
     },
@@ -315,6 +381,30 @@
     {
       "host": "podzeye.duckdns.org",
       "links": "79.134.225.37",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "rem1.camdvr.org",
+      "links": "152.89.162.59",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "rem16.hopto.org",
+      "links": "152.89.162.59",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "rem166.hopto.org",
+      "links": "152.89.162.59",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "rem1666.hopto.org",
+      "links": "152.89.162.59",
       "type": "pdns",
       "ln": 2
     },

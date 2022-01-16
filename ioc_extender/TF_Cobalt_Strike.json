@@ -85,6 +85,12 @@
       "ln": 2
     },
     {
+      "host": "2qau.tormatv.org.uk",
+      "links": "8.39.147.87",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "3-17-155-168.cprapid.com",
       "links": "3.17.155.168",
       "type": "pdns",
@@ -411,6 +417,18 @@
     {
       "host": "ThreatFox: Cobalt Strike",
       "links": "gaosrta.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Cobalt Strike",
+      "links": "gasonz.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Cobalt Strike",
+      "links": "geotypico.com",
       "type": "z",
       "ln": 2
     },
@@ -752,6 +770,12 @@
     },
     {
       "host": "ThreatFox: Cobalt Strike",
+      "links": "update.aliyunsecurity.online",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Cobalt Strike",
       "links": "usanewsalabama.com",
       "type": "z",
       "ln": 2
@@ -921,6 +945,12 @@
     {
       "host": "akastat.app",
       "links": "62.128.111.176",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "aliyunsecurity.online",
+      "links": "114.115.160.181",
       "type": "pdns",
       "ln": 2
     },
@@ -1132,6 +1162,12 @@
       "host": "blakdkfkfokdkd.live",
       "links": "78f7946fee67a734fb1b74cf64e34c192ad64ca6",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "blog.geotypico.com",
+      "links": "47.254.46.83",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -1579,6 +1615,12 @@
       "ln": 2
     },
     {
+      "host": "enzw.cn",
+      "links": "92.118.188.46",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "erabias.com",
       "links": "109.236.81.61",
       "type": "pdns",
@@ -1735,6 +1777,18 @@
       "ln": 2
     },
     {
+      "host": "gasonz.com",
+      "links": "8.39.147.87",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "geotypico.com",
+      "links": "47.254.46.83",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "gloudioliusdd.ru",
       "links": "78f7946fee67a734fb1b74cf64e34c192ad64ca6",
       "type": "certs",
@@ -1750,6 +1804,12 @@
       "host": "googlecnd.com",
       "links": "15d13fff57063017dc70f676cd40d101f164fcaf",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "googlecnd.com",
+      "links": "92.118.188.46",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -2181,6 +2241,12 @@
     {
       "host": "mail.exchangersdirectory.com",
       "links": "170.130.28.38",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.geotypico.com",
+      "links": "47.254.46.83",
       "type": "pdns",
       "ln": 2
     },
@@ -3175,6 +3241,12 @@
       "ln": 2
     },
     {
+      "host": "update.aliyunsecurity.online",
+      "links": "114.115.160.181",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "us-east.lazerpenguin.com",
       "links": "167.172.20.187",
       "type": "pdns",
@@ -3201,6 +3273,12 @@
     {
       "host": "visont.net",
       "links": "185.99.133.145",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "vitaliypivovarovtest.wildixin.com",
+      "links": "18.196.101.17",
       "type": "pdns",
       "ln": 2
     },
@@ -3403,6 +3481,12 @@
       "ln": 2
     },
     {
+      "host": "www.enzw.cn",
+      "links": "92.118.188.46",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "www.healthtechsales.com",
       "links": "143.198.158.146",
       "type": "pdns",
@@ -3453,6 +3537,12 @@
     {
       "host": "xiaobaodns.xyz",
       "links": "0dc95187933afbb5a002e7bde78be6821c02eb3e",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "xishuashua77.com",
+      "links": "10fa06dfa4db5dd6432a75241f4084622ff9d2ee",
       "type": "certs",
       "ln": 2
     },

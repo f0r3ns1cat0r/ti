@@ -32,6 +32,12 @@
     },
     {
       "host": "ThreatFox: Ave Maria",
+      "links": "jerenyankipong.duckdns.org",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Ave Maria",
       "links": "membership.myddns.rocks",
       "type": "z",
       "ln": 2
@@ -57,6 +63,18 @@
     {
       "host": "googleservers.org",
       "links": "205.185.118.52",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "jerenyankipong.duckdns.org",
+      "links": "185.19.85.141",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "legend4000.duckdns.org",
+      "links": "185.19.85.141",
       "type": "pdns",
       "ln": 2
     },
