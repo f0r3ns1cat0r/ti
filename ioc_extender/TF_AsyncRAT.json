@@ -19,20 +19,8 @@
   ],
   "data": [
     {
-      "host": "23-237-25-128.ipv4.nknlabs.io",
-      "links": "23.237.25.128",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ThreatFox: AsyncRAT",
       "links": "ghr4b4.ddns.net",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: AsyncRAT",
-      "links": "zerocool888.duckdns.org",
       "type": "z",
       "ln": 2
     },
@@ -45,12 +33,6 @@
     {
       "host": "ghr4b4.ddns.net",
       "links": "196.206.85.168",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "zerocool888.duckdns.org",
-      "links": "23.237.25.128",
       "type": "pdns",
       "ln": 2
     }
