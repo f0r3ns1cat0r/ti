@@ -961,6 +961,12 @@
       "ln": 2
     },
     {
+      "host": "gothicbeer.com",
+      "links": "ce078e35847244a3d112e15aa72c9177e9db15fe",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "govirtual.io",
       "links": "5572f138f4ba9cab3aa444fc49cf24d6d7932e93",
       "type": "certs",
@@ -1611,6 +1617,12 @@
     {
       "host": "regularhours.net",
       "links": "f501b65d9b42f9ad8cc284032fbbd6c6fa0251cc",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "responsibly.xyz",
+      "links": "ce078e35847244a3d112e15aa72c9177e9db15fe",
       "type": "certs",
       "ln": 2
     },

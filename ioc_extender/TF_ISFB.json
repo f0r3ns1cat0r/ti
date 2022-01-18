@@ -398,6 +398,12 @@
     },
     {
       "host": "art.microsoftsofymicrosoftsoft.at",
+      "links": "91.224.22.36",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "art.microsoftsofymicrosoftsoft.at",
       "links": "92.38.188.112",
       "type": "pdns",
       "ln": 2
@@ -579,6 +585,12 @@
     {
       "host": "fgx.dangerboy.at",
       "links": "91.224.22.142",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "fgx.dangerboy.at",
+      "links": "91.224.22.36",
       "type": "pdns",
       "ln": 2
     },
@@ -1160,6 +1172,12 @@
     },
     {
       "host": "microsoftsofymicrosoftsoft.at",
+      "links": "91.224.22.36",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "microsoftsofymicrosoftsoft.at",
       "links": "92.38.188.112",
       "type": "pdns",
       "ln": 2
@@ -1358,6 +1376,12 @@
     },
     {
       "host": "pop.biopiof.at",
+      "links": "91.224.22.36",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "pop.biopiof.at",
       "links": "92.38.188.112",
       "type": "pdns",
       "ln": 2
@@ -1551,6 +1575,12 @@
     {
       "host": "v10.avyanok.com",
       "links": "78.40.217.65",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "v10.avyanok.com",
+      "links": "91.224.22.36",
       "type": "pdns",
       "ln": 2
     },

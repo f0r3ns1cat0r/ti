@@ -494,6 +494,12 @@
     },
     {
       "host": "eonsabode.at",
+      "links": "185.193.143.128",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "eonsabode.at",
       "links": "193.106.175.102",
       "type": "pdns",
       "ln": 2
@@ -681,6 +687,12 @@
     {
       "host": "halo-photography.agency",
       "links": "91.224.22.21",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "host-data-coin-11.com",
+      "links": "185.193.143.128",
       "type": "pdns",
       "ln": 2
     },
