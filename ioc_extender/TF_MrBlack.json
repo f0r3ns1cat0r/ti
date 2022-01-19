@@ -1,0 +1,52 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ThreatFox: MrBlack",
+      "links": "v8.ter.tf",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "caiyundf.cn",
+      "links": "103.45.185.68",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "myss.ter.tf",
+      "links": "103.45.185.68",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "tyqqq.v6a.cn",
+      "links": "103.45.185.68",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "v8.ter.tf",
+      "links": "103.45.185.68",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

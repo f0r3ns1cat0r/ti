@@ -37,6 +37,12 @@
       "ln": 2
     },
     {
+      "host": "a.ccmd.website",
+      "links": "151.106.6.34",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "a.f2pool.info",
       "links": "14.18.234.70",
       "type": "pdns",
@@ -55,6 +61,12 @@
       "ln": 2
     },
     {
+      "host": "g.ccmd.website",
+      "links": "151.106.6.34",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "l.f2pool.info",
       "links": "14.18.234.70",
       "type": "pdns",
@@ -63,6 +75,12 @@
     {
       "host": "m.ccmd.website",
       "links": "14.18.234.70",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "m.ccmd.website",
+      "links": "151.106.6.34",
       "type": "pdns",
       "ln": 2
     },

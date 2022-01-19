@@ -193,6 +193,12 @@
       "ln": 2
     },
     {
+      "host": "disabel.hopto.org",
+      "links": "194.147.140.207",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "edwardjamie.duckdns.org",
       "links": "23.105.131.220",
       "type": "pdns",
@@ -249,6 +255,12 @@
     {
       "host": "eter103.dvrlists.com",
       "links": "185.19.85.169",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "eter103.dvrlists.com",
+      "links": "191.101.130.129",
       "type": "pdns",
       "ln": 2
     },
@@ -333,6 +345,12 @@
     {
       "host": "ogidi.ddns.net",
       "links": "185.244.30.240",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ogidi.ddns.net",
+      "links": "194.147.140.207",
       "type": "pdns",
       "ln": 2
     },

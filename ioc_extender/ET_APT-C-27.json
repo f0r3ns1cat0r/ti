@@ -1,0 +1,40 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "295.yao.cl",
+      "links": "205.251.155.71",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: APT-C-27",
+      "links": "encryptit.qc.to",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "encryptit.qc.to",
+      "links": "205.251.155.71",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}
