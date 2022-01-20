@@ -289,12 +289,6 @@
       "ln": 2
     },
     {
-      "host": "apiweb248.theappanalytics.com",
-      "links": "178.62.22.186",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ardezo.net",
       "links": "f501b65d9b42f9ad8cc284032fbbd6c6fa0251cc",
       "type": "certs",
@@ -651,6 +645,12 @@
     {
       "host": "dcns.soniceducation.com",
       "links": "5572f138f4ba9cab3aa444fc49cf24d6d7932e93",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "dcns.soniceducation.com",
+      "links": "ce078e35847244a3d112e15aa72c9177e9db15fe",
       "type": "certs",
       "ln": 2
     },
@@ -1083,12 +1083,6 @@
     {
       "host": "hostmaster.active-folders.com",
       "links": "156.233.205.56",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "hostmaster.active-folders.com",
-      "links": "168.206.185.83",
       "type": "pdns",
       "ln": 2
     },
@@ -1864,12 +1858,6 @@
       "host": "theappanalytics.com",
       "links": "04bf516d5bd957290e56d93c121224173debe07d",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "theappanalytics.com",
-      "links": "178.62.22.186",
-      "type": "pdns",
       "ln": 2
     },
     {

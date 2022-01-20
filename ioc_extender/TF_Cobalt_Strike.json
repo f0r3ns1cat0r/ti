@@ -170,6 +170,12 @@
     },
     {
       "host": "8888.google",
+      "links": "4e5aec62bf06b70740511e03828fb1c6e84f5370",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "8888.google",
       "links": "50d59ec66cbdeaa41ae1403f2d9a53b5778784ac",
       "type": "certs",
       "ln": 2
@@ -626,12 +632,6 @@
     },
     {
       "host": "ThreatFox: Cobalt Strike",
-      "links": "nacicaw.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: Cobalt Strike",
       "links": "nemupim.com",
       "type": "z",
       "ln": 2
@@ -939,6 +939,30 @@
     {
       "host": "adobeautoupdate.dns1.us",
       "links": "10fa06dfa4db5dd6432a75241f4084622ff9d2ee",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "adobeautoupdate.dns1.us",
+      "links": "4e5aec62bf06b70740511e03828fb1c6e84f5370",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "adobeupdate.ddns.info",
+      "links": "4e5aec62bf06b70740511e03828fb1c6e84f5370",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "adobeupdate.dns2.us",
+      "links": "10fa06dfa4db5dd6432a75241f4084622ff9d2ee",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "adobeupdate.dns2.us",
+      "links": "4e5aec62bf06b70740511e03828fb1c6e84f5370",
       "type": "certs",
       "ln": 2
     },
@@ -1346,6 +1370,12 @@
     },
     {
       "host": "chmowd.xyz",
+      "links": "4e5aec62bf06b70740511e03828fb1c6e84f5370",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "chmowd.xyz",
       "links": "50d59ec66cbdeaa41ae1403f2d9a53b5778784ac",
       "type": "certs",
       "ln": 2
@@ -1604,6 +1634,12 @@
     },
     {
       "host": "dns64.dns.google",
+      "links": "4e5aec62bf06b70740511e03828fb1c6e84f5370",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "dns64.dns.google",
       "links": "50d59ec66cbdeaa41ae1403f2d9a53b5778784ac",
       "type": "certs",
       "ln": 2
@@ -1641,6 +1677,12 @@
     {
       "host": "drazbargura.xyz",
       "links": "78f7946fee67a734fb1b74cf64e34c192ad64ca6",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "dtxplatform.ma",
+      "links": "4e5aec62bf06b70740511e03828fb1c6e84f5370",
       "type": "certs",
       "ln": 2
     },
@@ -1867,12 +1909,6 @@
       "ln": 2
     },
     {
-      "host": "gloudioliusdd.ru",
-      "links": "78f7946fee67a734fb1b74cf64e34c192ad64ca6",
-      "type": "certs",
-      "ln": 2
-    },
-    {
       "host": "gohealths.com",
       "links": "216edef2f26a94071007aab8ec5e36c6b072c949",
       "type": "certs",
@@ -2031,6 +2067,12 @@
     {
       "host": "intelupdate.dns1.us",
       "links": "10fa06dfa4db5dd6432a75241f4084622ff9d2ee",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "intelupdate.dns1.us",
+      "links": "4e5aec62bf06b70740511e03828fb1c6e84f5370",
       "type": "certs",
       "ln": 2
     },
@@ -2209,12 +2251,6 @@
       "ln": 2
     },
     {
-      "host": "leruamerlenliusdd.ru",
-      "links": "78f7946fee67a734fb1b74cf64e34c192ad64ca6",
-      "type": "certs",
-      "ln": 2
-    },
-    {
       "host": "li2285-110.members.linode.com",
       "links": "139.177.203.110",
       "type": "pdns",
@@ -2361,12 +2397,6 @@
     {
       "host": "mail.myusapayroll.com",
       "links": "192.34.109.14",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mail.todevelopskills.com",
-      "links": "85.93.88.165",
       "type": "pdns",
       "ln": 2
     },
@@ -2817,12 +2847,6 @@
     {
       "host": "phvsgn.com",
       "links": "10fa06dfa4db5dd6432a75241f4084622ff9d2ee",
-      "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "pikanto-zero.ru",
-      "links": "78f7946fee67a734fb1b74cf64e34c192ad64ca6",
       "type": "certs",
       "ln": 2
     },
@@ -3331,12 +3355,6 @@
       "ln": 2
     },
     {
-      "host": "todevelopskills.com",
-      "links": "85.93.88.165",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "topservicebin.com",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
@@ -3597,6 +3615,12 @@
     {
       "host": "woodmouatassim.com",
       "links": "233dc7c632eb4774476d700031f1795fefad39f4",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "word.azureword.com",
+      "links": "4e5aec62bf06b70740511e03828fb1c6e84f5370",
       "type": "certs",
       "ln": 2
     },
