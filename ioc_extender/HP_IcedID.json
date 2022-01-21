@@ -1021,6 +1021,12 @@
       "ln": 2
     },
     {
+      "host": "emporfilin.top",
+      "links": "ebc1dd243ef14f6851cf20d92bf22565dd7ba749",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "encounterilin.top",
       "links": "23.106.215.93",
       "type": "pdns",
@@ -2980,6 +2986,12 @@
       "host": "thehandof.top",
       "links": "77.83.196.121",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "thehandof.top",
+      "links": "ebc1dd243ef14f6851cf20d92bf22565dd7ba749",
+      "type": "certs",
       "ln": 2
     },
     {
