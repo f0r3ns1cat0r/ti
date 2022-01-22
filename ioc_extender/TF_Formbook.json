@@ -578,12 +578,6 @@
     },
     {
       "host": "basiclablife.com",
-      "links": "063d75b6fb51f16e046cb2c7afb5c6eaeedfce5e",
-      "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "basiclablife.com",
       "links": "12f1da1842f82709b8d1344937d906707dadf31b",
       "type": "certs",
       "ln": 2
@@ -1627,6 +1621,12 @@
       "ln": 2
     },
     {
+      "host": "idealprofiel-registratie.site",
+      "links": "5fb4dfb797847a49768de4cab95e421597999356",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "importradee.com",
       "links": "162.0.214.62",
       "type": "pdns",
@@ -1726,6 +1726,12 @@
       "host": "kapoty.online",
       "links": "63.250.34.114",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "kuppers.info",
+      "links": "5fb4dfb797847a49768de4cab95e421597999356",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -2851,6 +2857,12 @@
       "ln": 2
     },
     {
+      "host": "swiftsol.io",
+      "links": "6ace473e38e7affd40ab76f1195b7bcf3bc6d716",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "systemtrainings.com",
       "links": "162.0.230.164",
       "type": "pdns",
@@ -3470,12 +3482,6 @@
     },
     {
       "host": "www.basiclablife.com",
-      "links": "063d75b6fb51f16e046cb2c7afb5c6eaeedfce5e",
-      "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "www.basiclablife.com",
       "links": "12f1da1842f82709b8d1344937d906707dadf31b",
       "type": "certs",
       "ln": 2
@@ -3943,6 +3949,12 @@
       "ln": 2
     },
     {
+      "host": "www.idealprofiel-registratie.site",
+      "links": "5fb4dfb797847a49768de4cab95e421597999356",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "www.importradee.com",
       "links": "162.0.214.62",
       "type": "pdns",
@@ -3998,8 +4010,20 @@
     },
     {
       "host": "www.kuppers.info",
+      "links": "5fb4dfb797847a49768de4cab95e421597999356",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.kuppers.info",
       "links": "63.250.35.57",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.kuppers.info",
+      "links": "6ace473e38e7affd40ab76f1195b7bcf3bc6d716",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -4390,6 +4414,12 @@
       "host": "www.suxfi.com",
       "links": "199.192.31.106",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.swiftsol.io",
+      "links": "6ace473e38e7affd40ab76f1195b7bcf3bc6d716",
+      "type": "certs",
       "ln": 2
     },
     {

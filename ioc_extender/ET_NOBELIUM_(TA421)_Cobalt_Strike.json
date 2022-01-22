@@ -181,12 +181,6 @@
       "ln": 2
     },
     {
-      "host": "cityloss.com",
-      "links": "980a71d12946be6b4983207c9e7a45d164808486",
-      "type": "certs",
-      "ln": 2
-    },
-    {
       "host": "codevexillium.org",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
@@ -457,21 +451,9 @@
       "ln": 2
     },
     {
-      "host": "ns1.cityloss.com",
-      "links": "980a71d12946be6b4983207c9e7a45d164808486",
-      "type": "certs",
-      "ln": 2
-    },
-    {
       "host": "ns2.cityloss.com",
       "links": "51.38.85.225",
       "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.cityloss.com",
-      "links": "980a71d12946be6b4983207c9e7a45d164808486",
-      "type": "certs",
       "ln": 2
     },
     {
@@ -496,12 +478,6 @@
       "host": "sdfsd.cityloss.com",
       "links": "51.38.85.225",
       "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "sdfsd.cityloss.com",
-      "links": "980a71d12946be6b4983207c9e7a45d164808486",
-      "type": "certs",
       "ln": 2
     },
     {

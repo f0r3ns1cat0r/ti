@@ -25,12 +25,6 @@
       "ln": 2
     },
     {
-      "host": "auth.cqaos.com",
-      "links": "606e0a1e366a3d982efecbdacce7e5049c8ade8e",
-      "type": "certs",
-      "ln": 2
-    },
-    {
       "host": "behtarin-nab65.xyz",
       "links": "bb86ecd96c886770fb1d0056be03ec96aa8405fc",
       "type": "certs",
@@ -51,12 +45,6 @@
     {
       "host": "cdn.cloudistcdn.com",
       "links": "39396bc6cd21f6942e4570732b4da78c65d0e428",
-      "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "cdn.cloudistcdn.com",
-      "links": "606e0a1e366a3d982efecbdacce7e5049c8ade8e",
       "type": "certs",
       "ln": 2
     },
@@ -97,14 +85,8 @@
       "ln": 2
     },
     {
-      "host": "dcrice.com",
-      "links": "606e0a1e366a3d982efecbdacce7e5049c8ade8e",
-      "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "edsam.org",
-      "links": "606e0a1e366a3d982efecbdacce7e5049c8ade8e",
+      "host": "cdn.cloudistcdn.com",
+      "links": "ea330d0ebdbf3a68576cb821ee23311050e9016b",
       "type": "certs",
       "ln": 2
     },
@@ -117,12 +99,6 @@
     {
       "host": "froogle.cc",
       "links": "bb86ecd96c886770fb1d0056be03ec96aa8405fc",
-      "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "gw.cqaos.com",
-      "links": "606e0a1e366a3d982efecbdacce7e5049c8ade8e",
       "type": "certs",
       "ln": 2
     },
@@ -147,18 +123,6 @@
     {
       "host": "kuanstest.cf",
       "links": "bb86ecd96c886770fb1d0056be03ec96aa8405fc",
-      "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "mail3.adinmur.es",
-      "links": "606e0a1e366a3d982efecbdacce7e5049c8ade8e",
-      "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "mailhost.cqaos.com",
-      "links": "606e0a1e366a3d982efecbdacce7e5049c8ade8e",
       "type": "certs",
       "ln": 2
     },
@@ -193,12 +157,6 @@
       "ln": 2
     },
     {
-      "host": "pbrand.cqaos.com",
-      "links": "606e0a1e366a3d982efecbdacce7e5049c8ade8e",
-      "type": "certs",
-      "ln": 2
-    },
-    {
       "host": "q.cloudistcdn.com",
       "links": "20813d7481450e6ac1d8cb9597f29ddcae9b7b10",
       "type": "certs",
@@ -207,12 +165,6 @@
     {
       "host": "q.cloudistcdn.com",
       "links": "39396bc6cd21f6942e4570732b4da78c65d0e428",
-      "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "q.cloudistcdn.com",
-      "links": "606e0a1e366a3d982efecbdacce7e5049c8ade8e",
       "type": "certs",
       "ln": 2
     },
@@ -253,26 +205,14 @@
       "ln": 2
     },
     {
-      "host": "relay2.cqaos.com",
-      "links": "606e0a1e366a3d982efecbdacce7e5049c8ade8e",
+      "host": "q.cloudistcdn.com",
+      "links": "ea330d0ebdbf3a68576cb821ee23311050e9016b",
       "type": "certs",
       "ln": 2
     },
     {
       "host": "s--0.com",
       "links": "bb86ecd96c886770fb1d0056be03ec96aa8405fc",
-      "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "smtp1.cqaos.com",
-      "links": "606e0a1e366a3d982efecbdacce7e5049c8ade8e",
-      "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "smtp2.cqaos.com",
-      "links": "606e0a1e366a3d982efecbdacce7e5049c8ade8e",
       "type": "certs",
       "ln": 2
     },
