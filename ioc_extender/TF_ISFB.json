@@ -92,6 +92,12 @@
     },
     {
       "host": "ThreatFox: ISFB",
+      "links": "autosblogs.co",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: ISFB",
       "links": "autosblogs.com",
       "type": "z",
       "ln": 2
@@ -189,6 +195,12 @@
     {
       "host": "ThreatFox: ISFB",
       "links": "kaztam.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: ISFB",
+      "links": "lineautos.com",
       "type": "z",
       "ln": 2
     },
@@ -409,6 +421,12 @@
       "ln": 2
     },
     {
+      "host": "autosblogs.co",
+      "links": "62.173.149.135",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "autosblogs.com",
       "links": "86.106.131.112",
       "type": "pdns",
@@ -501,6 +519,12 @@
     {
       "host": "dc-e281e2ea5a30.veobionline.com",
       "links": "199.192.24.31",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "dettagl.com",
+      "links": "62.173.149.135",
       "type": "pdns",
       "ln": 2
     },
@@ -895,6 +919,12 @@
       "ln": 2
     },
     {
+      "host": "italiandirezione.bar",
+      "links": "62.173.149.135",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "jklooopooooreer.nl",
       "links": "552b287c36d53f9d00c26151090ec6d9482ea341",
       "type": "certs",
@@ -958,6 +988,12 @@
       "host": "leruamerlenliusdd.ru",
       "links": "552b287c36d53f9d00c26151090ec6d9482ea341",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "lineautos.com",
+      "links": "62.173.149.135",
+      "type": "pdns",
       "ln": 2
     },
     {

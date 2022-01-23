@@ -92,6 +92,12 @@
     },
     {
       "host": "anz-confirm.com",
+      "links": "5.181.80.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "anz-confirm.com",
       "links": "5790ae30d9e055c8c8ca0e3aa25e2dddcd828405",
       "type": "certs",
       "ln": 2
@@ -163,8 +169,20 @@
       "ln": 2
     },
     {
+      "host": "nductedby.top",
+      "links": "159.89.171.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "nermorell.com",
       "links": "79.141.164.27",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "normyils.com",
+      "links": "5.181.80.14",
       "type": "pdns",
       "ln": 2
     },
@@ -213,6 +231,12 @@
     {
       "host": "smtp.odnbg93s86.care71.healtheinsures.com",
       "links": "185.81.114.99",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "stagramads.top",
+      "links": "159.89.171.14",
       "type": "pdns",
       "ln": 2
     },

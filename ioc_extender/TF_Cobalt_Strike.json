@@ -61,6 +61,18 @@
       "ln": 2
     },
     {
+      "host": "16543-29004.bacloud.info",
+      "links": "88.119.175.71",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "16573-28960.bacloud.info",
+      "links": "185.64.106.64",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "195.58.48.249.clients.dts.su",
       "links": "195.58.48.249",
       "type": "pdns",
@@ -135,6 +147,12 @@
     {
       "host": "5.mpsuportebr.com",
       "links": "195.123.241.92",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "5kbsd2b5.kane-lifedesign.com",
+      "links": "77.83.199.20",
       "type": "pdns",
       "ln": 2
     },
@@ -872,6 +890,12 @@
     },
     {
       "host": "ThreatFox: Cobalt Strike",
+      "links": "yourchildrenfoundation.org",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Cobalt Strike",
       "links": "zedtool.com",
       "type": "z",
       "ln": 2
@@ -1159,6 +1183,12 @@
       "ln": 2
     },
     {
+      "host": "babykaytes.com",
+      "links": "137.184.148.212",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "banksgmb.com",
       "links": "162.244.82.77",
       "type": "pdns",
@@ -1213,6 +1243,12 @@
       "ln": 2
     },
     {
+      "host": "bbb2.stots.edu",
+      "links": "167.172.20.187",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "bbbstage.stots.edu",
       "links": "35f2f05e07b41ffcf986135bddac4e20e3520a7d",
       "type": "certs",
@@ -1237,8 +1273,20 @@
       "ln": 2
     },
     {
+      "host": "bitux.club",
+      "links": "88.119.175.71",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "blog.geotypico.com",
       "links": "47.254.46.83",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "blog.geotypico.com",
+      "links": "5.101.50.33",
       "type": "pdns",
       "ln": 2
     },
@@ -1861,6 +1909,12 @@
       "ln": 2
     },
     {
+      "host": "game-api.loki.ink",
+      "links": "194.5.79.245",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "gandmar.xyz",
       "links": "233dc7c632eb4774476d700031f1795fefad39f4",
       "type": "certs",
@@ -1887,6 +1941,12 @@
     {
       "host": "geotypico.com",
       "links": "47.254.46.83",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "geotypico.com",
+      "links": "5.101.50.33",
       "type": "pdns",
       "ln": 2
     },
@@ -2137,6 +2197,12 @@
       "ln": 2
     },
     {
+      "host": "knjghuig.biz",
+      "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "kogasiv.com",
       "links": "23.108.57.3",
       "type": "pdns",
@@ -2355,6 +2421,12 @@
     {
       "host": "mail.geotypico.com",
       "links": "47.254.46.83",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.geotypico.com",
+      "links": "5.101.50.33",
       "type": "pdns",
       "ln": 2
     },
@@ -3086,6 +3158,12 @@
     },
     {
       "host": "server.loki.ink",
+      "links": "194.5.79.245",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "server.loki.ink",
       "links": "195.58.48.249",
       "type": "pdns",
       "ln": 2
@@ -3403,6 +3481,12 @@
       "ln": 2
     },
     {
+      "host": "usaid.theyardservice.com",
+      "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "valorconsequence.com",
       "links": "10fa06dfa4db5dd6432a75241f4084622ff9d2ee",
       "type": "certs",
@@ -3637,6 +3721,12 @@
       "ln": 2
     },
     {
+      "host": "www.bitux.club",
+      "links": "88.119.175.71",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "www.css.homes",
       "links": "1c6fc256cc00055ace93ce4242d9d030c0f64218",
       "type": "certs",
@@ -3664,6 +3754,12 @@
       "host": "www.komdsecko.net",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.loki.ink",
+      "links": "194.5.79.245",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -3787,6 +3883,12 @@
       "ln": 2
     },
     {
+      "host": "xt.loki.ink",
+      "links": "194.5.79.245",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "xvngwru.com",
       "links": "10fa06dfa4db5dd6432a75241f4084622ff9d2ee",
       "type": "certs",
@@ -3814,6 +3916,12 @@
       "host": "yolkish.com",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "yourchildrenfoundation.org",
+      "links": "137.184.148.212",
+      "type": "pdns",
       "ln": 2
     },
     {
