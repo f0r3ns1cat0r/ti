@@ -1243,12 +1243,6 @@
       "ln": 2
     },
     {
-      "host": "bbb2.stots.edu",
-      "links": "167.172.20.187",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "bbbstage.stots.edu",
       "links": "35f2f05e07b41ffcf986135bddac4e20e3520a7d",
       "type": "certs",
@@ -1909,12 +1903,6 @@
       "ln": 2
     },
     {
-      "host": "game-api.loki.ink",
-      "links": "194.5.79.245",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "gandmar.xyz",
       "links": "233dc7c632eb4774476d700031f1795fefad39f4",
       "type": "certs",
@@ -2421,12 +2409,6 @@
     {
       "host": "mail.geotypico.com",
       "links": "47.254.46.83",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mail.geotypico.com",
-      "links": "5.101.50.33",
       "type": "pdns",
       "ln": 2
     },
@@ -3158,12 +3140,6 @@
     },
     {
       "host": "server.loki.ink",
-      "links": "194.5.79.245",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "server.loki.ink",
       "links": "195.58.48.249",
       "type": "pdns",
       "ln": 2
@@ -3721,12 +3697,6 @@
       "ln": 2
     },
     {
-      "host": "www.bitux.club",
-      "links": "88.119.175.71",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "www.css.homes",
       "links": "1c6fc256cc00055ace93ce4242d9d030c0f64218",
       "type": "certs",
@@ -3754,12 +3724,6 @@
       "host": "www.komdsecko.net",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "www.loki.ink",
-      "links": "194.5.79.245",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -3808,6 +3772,12 @@
       "host": "xktay5zsg2.healthongroup.com",
       "links": "77.83.199.20",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "xrust.club",
+      "links": "37fe1a6d44b89d2d613ee65b440b9c6c46bce1c9",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -3880,12 +3850,6 @@
       "host": "xsinficdn03.xyz",
       "links": "10fa06dfa4db5dd6432a75241f4084622ff9d2ee",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "xt.loki.ink",
-      "links": "194.5.79.245",
-      "type": "pdns",
       "ln": 2
     },
     {
