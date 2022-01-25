@@ -92,7 +92,19 @@
     },
     {
       "host": "ThreatFox: ISFB",
+      "links": "autosblogs.co",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: ISFB",
       "links": "autosblogs.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: ISFB",
+      "links": "bizgroupe.com",
       "type": "z",
       "ln": 2
     },
@@ -411,6 +423,12 @@
     {
       "host": "art.microsoftsofymicrosoftsoft.at",
       "links": "92.38.188.112",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "autosblogs.co",
+      "links": "62.173.149.135",
       "type": "pdns",
       "ln": 2
     },
@@ -1081,6 +1099,12 @@
       "ln": 2
     },
     {
+      "host": "mediaservice.bar",
+      "links": "c5d41c1b5718af340f49f33bce0ad9829f87f377",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "metyon.xyz",
       "links": "199.192.24.38",
       "type": "pdns",
@@ -1156,6 +1180,12 @@
       "host": "mmmmmm.bar",
       "links": "31.41.45.66",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mmmmmm.bar",
+      "links": "c5d41c1b5718af340f49f33bce0ad9829f87f377",
+      "type": "certs",
       "ln": 2
     },
     {
