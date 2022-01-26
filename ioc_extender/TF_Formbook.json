@@ -2684,6 +2684,12 @@
     },
     {
       "host": "server1.coolstories22.com.ng",
+      "links": "13ab5bab4b4a21a9d9466e0951a07a700fa03f03",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "server1.coolstories22.com.ng",
       "links": "199.192.27.68",
       "type": "pdns",
       "ln": 2
@@ -3711,6 +3717,12 @@
     {
       "host": "www.christopherngai.com",
       "links": "dceaf95c7f61fc7f8f452b77847cd7c5de0ecacf",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.cinmax.xyz",
+      "links": "13ab5bab4b4a21a9d9466e0951a07a700fa03f03",
       "type": "certs",
       "ln": 2
     },

@@ -1700,6 +1700,12 @@
     },
     {
       "host": "autodiscover.luckyday.cc",
+      "links": "2ca28daa30d87d8b7b72c150ebe65030c76a13b9",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "autodiscover.luckyday.cc",
       "links": "602a73074a2e7c70a18bca8674a57d5c0f36406e",
       "type": "certs",
       "ln": 2
@@ -3350,6 +3356,12 @@
     },
     {
       "host": "cpanel.luckyday.cc",
+      "links": "2ca28daa30d87d8b7b72c150ebe65030c76a13b9",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpanel.luckyday.cc",
       "links": "602a73074a2e7c70a18bca8674a57d5c0f36406e",
       "type": "certs",
       "ln": 2
@@ -3578,6 +3590,12 @@
     },
     {
       "host": "cpcalendars.luckyday.cc",
+      "links": "2ca28daa30d87d8b7b72c150ebe65030c76a13b9",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcalendars.luckyday.cc",
       "links": "602a73074a2e7c70a18bca8674a57d5c0f36406e",
       "type": "certs",
       "ln": 2
@@ -3801,6 +3819,12 @@
     {
       "host": "cpcontacts.life-energy.net",
       "links": "f815124ebd18aa55b2c80d9c8ed680f7eef053e4",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcontacts.luckyday.cc",
+      "links": "2ca28daa30d87d8b7b72c150ebe65030c76a13b9",
       "type": "certs",
       "ln": 2
     },
@@ -5379,12 +5403,6 @@
     {
       "host": "framebyframe.com.sg",
       "links": "3.1.214.119",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ftp.telcodata.us",
-      "links": "208.83.69.36",
       "type": "pdns",
       "ln": 2
     },
@@ -7118,7 +7136,19 @@
     },
     {
       "host": "luckyday.cc",
+      "links": "2ca28daa30d87d8b7b72c150ebe65030c76a13b9",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "luckyday.cc",
       "links": "602a73074a2e7c70a18bca8674a57d5c0f36406e",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "luckydaycc.serverwealthyminds.com",
+      "links": "2ca28daa30d87d8b7b72c150ebe65030c76a13b9",
       "type": "certs",
       "ln": 2
     },
@@ -7401,6 +7431,12 @@
     {
       "host": "mail.life-energy.net",
       "links": "f815124ebd18aa55b2c80d9c8ed680f7eef053e4",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.luckyday.cc",
+      "links": "2ca28daa30d87d8b7b72c150ebe65030c76a13b9",
       "type": "certs",
       "ln": 2
     },
@@ -10796,6 +10832,12 @@
     },
     {
       "host": "telcodata.us",
+      "links": "5f2fa2730f9c9b11f020bde60965911dfd874931",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "telcodata.us",
       "links": "a48511690599ed987c514cabc2425c357033cc49",
       "type": "certs",
       "ln": 2
@@ -11780,6 +11822,12 @@
     },
     {
       "host": "webdisk.luckyday.cc",
+      "links": "2ca28daa30d87d8b7b72c150ebe65030c76a13b9",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webdisk.luckyday.cc",
       "links": "602a73074a2e7c70a18bca8674a57d5c0f36406e",
       "type": "certs",
       "ln": 2
@@ -12003,6 +12051,12 @@
     {
       "host": "webmail.life-energy.net",
       "links": "f815124ebd18aa55b2c80d9c8ed680f7eef053e4",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webmail.luckyday.cc",
+      "links": "2ca28daa30d87d8b7b72c150ebe65030c76a13b9",
       "type": "certs",
       "ln": 2
     },
@@ -14222,6 +14276,12 @@
     },
     {
       "host": "www.luckydaycc.serverwealthyminds.com",
+      "links": "2ca28daa30d87d8b7b72c150ebe65030c76a13b9",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.luckydaycc.serverwealthyminds.com",
       "links": "602a73074a2e7c70a18bca8674a57d5c0f36406e",
       "type": "certs",
       "ln": 2
@@ -15933,6 +15993,12 @@
     {
       "host": "zorak.telcodata.us",
       "links": "5e5c7ccc54bd9d83a8972a52abd7e627d4ff067b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "zorak.telcodata.us",
+      "links": "5f2fa2730f9c9b11f020bde60965911dfd874931",
       "type": "certs",
       "ln": 2
     },

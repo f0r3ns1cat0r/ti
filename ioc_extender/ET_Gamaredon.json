@@ -320,6 +320,12 @@
     },
     {
       "host": "arianos.ru",
+      "links": "185.46.10.73",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "arianos.ru",
       "links": "194.180.174.147",
       "type": "pdns",
       "ln": 2
@@ -333,12 +339,6 @@
     {
       "host": "arianos.ru",
       "links": "80.78.245.79",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "arianos.ru",
-      "links": "89.108.115.241",
       "type": "pdns",
       "ln": 2
     },
@@ -368,7 +368,7 @@
     },
     {
       "host": "avirona.ru",
-      "links": "104.218.120.158",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
@@ -404,12 +404,6 @@
     },
     {
       "host": "avirona.ru",
-      "links": "89.108.115.241",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "avirona.ru",
       "links": "89.108.78.252",
       "type": "pdns",
       "ln": 2
@@ -464,7 +458,7 @@
     },
     {
       "host": "baldasha.ru",
-      "links": "104.218.120.158",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
@@ -483,12 +477,6 @@
     {
       "host": "baldasha.ru",
       "links": "80.78.245.79",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "baldasha.ru",
-      "links": "89.108.115.241",
       "type": "pdns",
       "ln": 2
     },
@@ -609,12 +597,6 @@
     {
       "host": "blattodea.online",
       "links": "89.108.78.252",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "blattodea.ru",
-      "links": "104.218.120.158",
       "type": "pdns",
       "ln": 2
     },
@@ -842,7 +824,7 @@
     },
     {
       "host": "chahoda.ru",
-      "links": "104.218.120.158",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
@@ -865,14 +847,8 @@
       "ln": 2
     },
     {
-      "host": "chahoda.ru",
-      "links": "89.108.115.241",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "chehalo.ru",
-      "links": "104.218.120.158",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
@@ -897,12 +873,6 @@
     {
       "host": "chehalo.ru",
       "links": "80.78.245.79",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "chehalo.ru",
-      "links": "89.108.115.241",
       "type": "pdns",
       "ln": 2
     },
@@ -938,12 +908,6 @@
     },
     {
       "host": "clank.hazari.ru",
-      "links": "104.218.120.158",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "clank.hazari.ru",
       "links": "176.118.164.159",
       "type": "pdns",
       "ln": 2
@@ -963,6 +927,12 @@
     {
       "host": "clank.hazari.ru",
       "links": "185.46.10.250",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "clank.hazari.ru",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
@@ -1070,12 +1040,6 @@
     },
     {
       "host": "clank.hazari.ru",
-      "links": "89.108.115.241",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "clank.hazari.ru",
       "links": "89.108.70.22",
       "type": "pdns",
       "ln": 2
@@ -1136,6 +1100,12 @@
     },
     {
       "host": "coferto.ru",
+      "links": "185.46.10.73",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "coferto.ru",
       "links": "194.180.174.147",
       "type": "pdns",
       "ln": 2
@@ -1149,12 +1119,6 @@
     {
       "host": "coferto.ru",
       "links": "80.78.245.79",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "coferto.ru",
-      "links": "89.108.115.241",
       "type": "pdns",
       "ln": 2
     },
@@ -1202,7 +1166,7 @@
     },
     {
       "host": "derikan.ru",
-      "links": "104.218.120.158",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
@@ -1231,14 +1195,8 @@
       "ln": 2
     },
     {
-      "host": "derikan.ru",
-      "links": "89.108.115.241",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "destarro.ru",
-      "links": "104.218.120.158",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
@@ -1257,12 +1215,6 @@
     {
       "host": "destarro.ru",
       "links": "80.78.245.79",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "destarro.ru",
-      "links": "89.108.115.241",
       "type": "pdns",
       "ln": 2
     },
@@ -1292,19 +1244,19 @@
     },
     {
       "host": "enterox.ru",
-      "links": "37.140.199.224",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
     {
       "host": "enterox.ru",
-      "links": "89.108.115.241",
+      "links": "37.140.199.224",
       "type": "pdns",
       "ln": 2
     },
     {
       "host": "erlanda.ru",
-      "links": "104.218.120.158",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
@@ -1329,12 +1281,6 @@
     {
       "host": "erlanda.ru",
       "links": "80.78.245.79",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "erlanda.ru",
-      "links": "89.108.115.241",
       "type": "pdns",
       "ln": 2
     },
@@ -1382,6 +1328,12 @@
     },
     {
       "host": "fishardo.ru",
+      "links": "185.46.10.73",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "fishardo.ru",
       "links": "194.180.174.147",
       "type": "pdns",
       "ln": 2
@@ -1395,12 +1347,6 @@
     {
       "host": "fishardo.ru",
       "links": "80.78.245.79",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "fishardo.ru",
-      "links": "89.108.115.241",
       "type": "pdns",
       "ln": 2
     },
@@ -1436,13 +1382,13 @@
     },
     {
       "host": "gholam.ru",
-      "links": "104.218.120.158",
+      "links": "185.46.10.250",
       "type": "pdns",
       "ln": 2
     },
     {
       "host": "gholam.ru",
-      "links": "185.46.10.250",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
@@ -1461,12 +1407,6 @@
     {
       "host": "gholam.ru",
       "links": "80.78.245.79",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "gholam.ru",
-      "links": "89.108.115.241",
       "type": "pdns",
       "ln": 2
     },
@@ -1496,7 +1436,7 @@
     },
     {
       "host": "gorrita.ru",
-      "links": "104.218.120.158",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
@@ -1515,12 +1455,6 @@
     {
       "host": "gorrita.ru",
       "links": "80.78.245.79",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "gorrita.ru",
-      "links": "89.108.115.241",
       "type": "pdns",
       "ln": 2
     },
@@ -1593,12 +1527,6 @@
     {
       "host": "heteroptera.ru",
       "links": "89.108.88.6",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "hierodula.online",
-      "links": "104.218.120.158",
       "type": "pdns",
       "ln": 2
     },
@@ -1820,7 +1748,7 @@
     },
     {
       "host": "horiton.ru",
-      "links": "104.218.120.158",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
@@ -1839,12 +1767,6 @@
     {
       "host": "horiton.ru",
       "links": "80.78.245.79",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "horiton.ru",
-      "links": "89.108.115.241",
       "type": "pdns",
       "ln": 2
     },
@@ -1856,6 +1778,12 @@
     },
     {
       "host": "hurama.ru",
+      "links": "185.46.10.73",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hurama.ru",
       "links": "194.180.174.147",
       "type": "pdns",
       "ln": 2
@@ -1869,12 +1797,6 @@
     {
       "host": "hurama.ru",
       "links": "80.78.245.79",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "hurama.ru",
-      "links": "89.108.115.241",
       "type": "pdns",
       "ln": 2
     },
@@ -1922,7 +1844,7 @@
     },
     {
       "host": "kiantor.ru",
-      "links": "104.218.120.158",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
@@ -1947,12 +1869,6 @@
     {
       "host": "kiantor.ru",
       "links": "80.78.245.79",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "kiantor.ru",
-      "links": "89.108.115.241",
       "type": "pdns",
       "ln": 2
     },
@@ -1964,7 +1880,7 @@
     },
     {
       "host": "krogis.ru",
-      "links": "104.218.120.158",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
@@ -1987,14 +1903,8 @@
       "ln": 2
     },
     {
-      "host": "krogis.ru",
-      "links": "89.108.115.241",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "lepidopteras.ru",
-      "links": "89.108.115.241",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
@@ -2006,25 +1916,25 @@
     },
     {
       "host": "libellulat.ru",
-      "links": "37.140.199.224",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
     {
       "host": "libellulat.ru",
-      "links": "89.108.115.241",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "libellulidae.ru",
       "links": "37.140.199.224",
       "type": "pdns",
       "ln": 2
     },
     {
       "host": "libellulidae.ru",
-      "links": "89.108.115.241",
+      "links": "185.46.10.73",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "libellulidae.ru",
+      "links": "37.140.199.224",
       "type": "pdns",
       "ln": 2
     },
@@ -2042,25 +1952,25 @@
     },
     {
       "host": "libre1.space",
-      "links": "89.108.115.241",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
     {
       "host": "libre2.space",
-      "links": "89.108.115.241",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
     {
       "host": "libre3.space",
-      "links": "89.108.115.241",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
     {
       "host": "libre4.space",
-      "links": "89.108.115.241",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
@@ -2072,13 +1982,13 @@
     },
     {
       "host": "limenitis.ru",
-      "links": "89.108.115.241",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
     {
       "host": "linsoda.ru",
-      "links": "104.218.120.158",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
@@ -2097,12 +2007,6 @@
     {
       "host": "linsoda.ru",
       "links": "80.78.245.79",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "linsoda.ru",
-      "links": "89.108.115.241",
       "type": "pdns",
       "ln": 2
     },
@@ -2114,7 +2018,7 @@
     },
     {
       "host": "lorianar.ru",
-      "links": "104.218.120.158",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
@@ -2137,20 +2041,8 @@
       "ln": 2
     },
     {
-      "host": "lorianar.ru",
-      "links": "89.108.115.241",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "lottery.libellus.ru",
       "links": "5.63.152.233",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "lovers.semara.ru",
-      "links": "104.218.120.158",
       "type": "pdns",
       "ln": 2
     },
@@ -2175,6 +2067,12 @@
     {
       "host": "lovers.semara.ru",
       "links": "185.46.10.250",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "lovers.semara.ru",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
@@ -2277,12 +2175,6 @@
     {
       "host": "lovers.semara.ru",
       "links": "89.108.115.235",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "lovers.semara.ru",
-      "links": "89.108.115.241",
       "type": "pdns",
       "ln": 2
     },
@@ -2336,12 +2228,6 @@
     },
     {
       "host": "lump.semara.ru",
-      "links": "104.218.120.158",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "lump.semara.ru",
       "links": "176.118.164.159",
       "type": "pdns",
       "ln": 2
@@ -2367,6 +2253,12 @@
     {
       "host": "lump.semara.ru",
       "links": "185.46.10.250",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "lump.semara.ru",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
@@ -2469,12 +2361,6 @@
     {
       "host": "lump.semara.ru",
       "links": "89.108.115.235",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "lump.semara.ru",
-      "links": "89.108.115.241",
       "type": "pdns",
       "ln": 2
     },
@@ -2546,19 +2432,19 @@
     },
     {
       "host": "macros2.space",
-      "links": "89.108.115.241",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
     {
       "host": "macros3.space",
-      "links": "89.108.115.241",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
     {
       "host": "macros4.space",
-      "links": "89.108.115.241",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
@@ -2600,7 +2486,7 @@
     },
     {
       "host": "mamberis.ru",
-      "links": "104.218.120.158",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
@@ -2629,8 +2515,8 @@
       "ln": 2
     },
     {
-      "host": "mamberis.ru",
-      "links": "89.108.115.241",
+      "host": "maniola.ru",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
@@ -2641,20 +2527,14 @@
       "ln": 2
     },
     {
-      "host": "maniola.ru",
-      "links": "89.108.115.241",
+      "host": "mantodeas.online",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
     {
       "host": "mantodeas.online",
       "links": "37.140.199.224",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mantodeas.online",
-      "links": "89.108.115.241",
       "type": "pdns",
       "ln": 2
     },
@@ -2672,7 +2552,7 @@
     },
     {
       "host": "marginto.ru",
-      "links": "104.218.120.158",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
@@ -2691,18 +2571,6 @@
     {
       "host": "marginto.ru",
       "links": "80.78.245.79",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "marginto.ru",
-      "links": "89.108.115.241",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "marinos.ru",
-      "links": "104.218.120.158",
       "type": "pdns",
       "ln": 2
     },
@@ -2714,6 +2582,12 @@
     },
     {
       "host": "marinos.ru",
+      "links": "185.46.10.73",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "marinos.ru",
       "links": "194.180.174.147",
       "type": "pdns",
       "ln": 2
@@ -2731,20 +2605,14 @@
       "ln": 2
     },
     {
-      "host": "marinos.ru",
-      "links": "89.108.115.241",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "meandrusas.online",
-      "links": "89.108.115.241",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
     {
       "host": "megascolias.online",
-      "links": "89.108.115.241",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
@@ -2756,7 +2624,7 @@
     },
     {
       "host": "melitaeas.online",
-      "links": "89.108.115.241",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
@@ -2768,7 +2636,7 @@
     },
     {
       "host": "metcalfas.online",
-      "links": "89.108.115.241",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
@@ -2786,25 +2654,25 @@
     },
     {
       "host": "morphinaes.online",
-      "links": "37.140.199.224",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
     {
       "host": "morphinaes.online",
-      "links": "89.108.115.241",
+      "links": "37.140.199.224",
       "type": "pdns",
       "ln": 2
     },
     {
       "host": "morphon.online",
-      "links": "89.108.115.241",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
     {
       "host": "mortalin.ru",
-      "links": "104.218.120.158",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
@@ -2823,12 +2691,6 @@
     {
       "host": "mortalin.ru",
       "links": "80.78.245.79",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mortalin.ru",
-      "links": "89.108.115.241",
       "type": "pdns",
       "ln": 2
     },
@@ -2852,7 +2714,7 @@
     },
     {
       "host": "murikon.ru",
-      "links": "104.218.120.158",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
@@ -2875,8 +2737,8 @@
       "ln": 2
     },
     {
-      "host": "murikon.ru",
-      "links": "89.108.115.241",
+      "host": "nematoceras.online",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
@@ -2887,14 +2749,8 @@
       "ln": 2
     },
     {
-      "host": "nematoceras.online",
-      "links": "89.108.115.241",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "nematoceras.ru",
-      "links": "89.108.115.241",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
@@ -2906,13 +2762,13 @@
     },
     {
       "host": "noctuidaes.online",
-      "links": "37.140.199.224",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
     {
       "host": "noctuidaes.online",
-      "links": "89.108.115.241",
+      "links": "37.140.199.224",
       "type": "pdns",
       "ln": 2
     },
@@ -2930,13 +2786,13 @@
     },
     {
       "host": "nymphalidaes.online",
-      "links": "37.140.199.224",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
     {
       "host": "nymphalidaes.online",
-      "links": "89.108.115.241",
+      "links": "37.140.199.224",
       "type": "pdns",
       "ln": 2
     },
@@ -2966,7 +2822,7 @@
     },
     {
       "host": "plateri.ru",
-      "links": "104.218.120.158",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
@@ -2991,12 +2847,6 @@
     {
       "host": "plateri.ru",
       "links": "80.78.245.79",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "plateri.ru",
-      "links": "89.108.115.241",
       "type": "pdns",
       "ln": 2
     },
@@ -3038,7 +2888,7 @@
     },
     {
       "host": "rastani.ru",
-      "links": "104.218.120.158",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
@@ -3057,12 +2907,6 @@
     {
       "host": "rastani.ru",
       "links": "80.78.245.79",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "rastani.ru",
-      "links": "89.108.115.241",
       "type": "pdns",
       "ln": 2
     },
@@ -3074,7 +2918,7 @@
     },
     {
       "host": "ribicat.ru",
-      "links": "104.218.120.158",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
@@ -3097,14 +2941,8 @@
       "ln": 2
     },
     {
-      "host": "ribicat.ru",
-      "links": "89.108.115.241",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "sehtord.ru",
-      "links": "104.218.120.158",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
@@ -3123,12 +2961,6 @@
     {
       "host": "sehtord.ru",
       "links": "80.78.245.79",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "sehtord.ru",
-      "links": "89.108.115.241",
       "type": "pdns",
       "ln": 2
     },
@@ -3152,7 +2984,7 @@
     },
     {
       "host": "striman.ru",
-      "links": "104.218.120.158",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
@@ -3171,12 +3003,6 @@
     {
       "host": "striman.ru",
       "links": "80.78.245.79",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "striman.ru",
-      "links": "89.108.115.241",
       "type": "pdns",
       "ln": 2
     },
@@ -3200,7 +3026,7 @@
     },
     {
       "host": "tenosha.ru",
-      "links": "104.218.120.158",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
@@ -3225,18 +3051,6 @@
     {
       "host": "tenosha.ru",
       "links": "80.78.245.79",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "tenosha.ru",
-      "links": "89.108.115.241",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "tomond.ru",
-      "links": "104.218.120.158",
       "type": "pdns",
       "ln": 2
     },
@@ -3267,6 +3081,12 @@
     {
       "host": "tomond.ru",
       "links": "185.46.10.250",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "tomond.ru",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
@@ -3380,12 +3200,6 @@
     },
     {
       "host": "tomond.ru",
-      "links": "89.108.115.241",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "tomond.ru",
       "links": "89.108.70.22",
       "type": "pdns",
       "ln": 2
@@ -3428,12 +3242,6 @@
     },
     {
       "host": "tunara.ru",
-      "links": "104.218.120.158",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "tunara.ru",
       "links": "194.180.174.147",
       "type": "pdns",
       "ln": 2
@@ -3458,7 +3266,7 @@
     },
     {
       "host": "vamparo.ru",
-      "links": "104.218.120.158",
+      "links": "185.46.10.73",
       "type": "pdns",
       "ln": 2
     },
@@ -3477,12 +3285,6 @@
     {
       "host": "vamparo.ru",
       "links": "80.78.245.79",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "vamparo.ru",
-      "links": "89.108.115.241",
       "type": "pdns",
       "ln": 2
     },
