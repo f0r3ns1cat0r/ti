@@ -283,14 +283,32 @@
       "ln": 2
     },
     {
+      "host": "abpa.at",
+      "links": "190.167.62.59",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "admin.admin.admin.admin.admin.blackpass.info",
       "links": "211.171.233.127",
       "type": "pdns",
       "ln": 2
     },
     {
+      "host": "admin.admin.admin.admin.admin.hostmaster.omerta.cc",
+      "links": "77.243.64.119",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "admin.admin.admin.admin.admin.lockbitapt.uz",
       "links": "211.171.233.127",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.admin.admin.admin.admin.lockbitsupp.uz",
+      "links": "77.243.64.119",
       "type": "pdns",
       "ln": 2
     },
@@ -319,14 +337,44 @@
       "ln": 2
     },
     {
+      "host": "admin.admin.admin.admin.lockbitsupp.uz",
+      "links": "77.243.64.119",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.admin.admin.admin.www.lockbitsupp.uz",
+      "links": "77.243.64.119",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "admin.admin.admin.blackpass.info",
       "links": "211.171.233.127",
       "type": "pdns",
       "ln": 2
     },
     {
+      "host": "admin.admin.admin.hostmaster.omerta.cc",
+      "links": "77.243.64.119",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "admin.admin.admin.lockbitapt.uz",
       "links": "211.171.233.127",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.admin.admin.lockbitsupp.uz",
+      "links": "77.243.64.119",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.admin.admin.omerta.cc",
+      "links": "77.243.64.119",
       "type": "pdns",
       "ln": 2
     },
@@ -349,14 +397,38 @@
       "ln": 2
     },
     {
+      "host": "admin.admin.admin.www.lockbitsupp.uz",
+      "links": "77.243.64.119",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.admin.admin.www.omerta.cc",
+      "links": "77.243.64.119",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "admin.admin.blackpass.info",
       "links": "211.171.233.127",
       "type": "pdns",
       "ln": 2
     },
     {
+      "host": "admin.admin.hostmaster.omerta.cc",
+      "links": "77.243.64.119",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "admin.admin.lockbitapt.uz",
       "links": "211.171.233.127",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.admin.omerta.cc",
+      "links": "77.243.64.119",
       "type": "pdns",
       "ln": 2
     },
@@ -369,6 +441,18 @@
     {
       "host": "admin.admin.www.lockbitsupp.uz",
       "links": "211.171.233.127",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.admin.www.lockbitsupp.uz",
+      "links": "77.243.64.119",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.admin.www.omerta.cc",
+      "links": "77.243.64.119",
       "type": "pdns",
       "ln": 2
     },
@@ -409,8 +493,20 @@
       "ln": 2
     },
     {
+      "host": "admin.hostmaster.omerta.cc",
+      "links": "77.243.64.119",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "admin.lockbitsupp.uz",
       "links": "211.171.233.127",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.lockbitsupp.uz",
+      "links": "77.243.64.119",
       "type": "pdns",
       "ln": 2
     },
@@ -465,6 +561,12 @@
     {
       "host": "amogohuigotuli.at",
       "links": "211.171.233.127",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "amogohuigotuli.at",
+      "links": "77.243.64.119",
       "type": "pdns",
       "ln": 2
     },
@@ -631,6 +733,12 @@
       "ln": 2
     },
     {
+      "host": "b.hostgroupdns.ru",
+      "links": "77.243.64.119",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "bizgroupe.com",
       "links": "47d7c2e3e2a2181bc17b12e359bc44bd0d0bede8",
       "type": "certs",
@@ -661,6 +769,12 @@
       "ln": 2
     },
     {
+      "host": "c.hostgroupdns.ru",
+      "links": "77.243.64.119",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "camasirx.com",
       "links": "211.171.233.127",
       "type": "pdns",
@@ -669,6 +783,12 @@
     {
       "host": "consultatyon.com",
       "links": "199.192.24.38",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cpanel.abpa.at",
+      "links": "77.243.64.119",
       "type": "pdns",
       "ln": 2
     },
@@ -817,6 +937,12 @@
       "ln": 2
     },
     {
+      "host": "galala.ru",
+      "links": "77.243.64.119",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "gderrrpololo.net",
       "links": "552b287c36d53f9d00c26151090ec6d9482ea341",
       "type": "certs",
@@ -836,7 +962,19 @@
     },
     {
       "host": "giporedtrip.at",
+      "links": "190.167.62.59",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "giporedtrip.at",
       "links": "211.171.233.127",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "giporedtrip.at",
+      "links": "77.243.64.119",
       "type": "pdns",
       "ln": 2
     },
@@ -926,7 +1064,19 @@
     },
     {
       "host": "habpfans.at",
+      "links": "190.167.62.59",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "habpfans.at",
       "links": "211.171.233.127",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "habpfans.at",
+      "links": "77.243.64.119",
       "type": "pdns",
       "ln": 2
     },
@@ -957,12 +1107,6 @@
     {
       "host": "ikaryto.com",
       "links": "212.192.246.23",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ikaryto.com",
-      "links": "77.87.212.159",
       "type": "pdns",
       "ln": 2
     },
@@ -999,12 +1143,6 @@
     {
       "host": "immontyr.com",
       "links": "212.192.246.23",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "immontyr.com",
-      "links": "77.87.212.159",
       "type": "pdns",
       "ln": 2
     },
@@ -1070,12 +1208,6 @@
     },
     {
       "host": "intooltak.com",
-      "links": "77.87.212.159",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "intooltak.com",
       "links": "78.40.217.65",
       "type": "pdns",
       "ln": 2
@@ -1125,12 +1257,6 @@
     {
       "host": "irolano.com",
       "links": "212.192.246.23",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "irolano.com",
-      "links": "77.87.212.159",
       "type": "pdns",
       "ln": 2
     },
@@ -1203,6 +1329,12 @@
     {
       "host": "kotob.top",
       "links": "211.171.233.127",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "kotob.top",
+      "links": "77.243.64.119",
       "type": "pdns",
       "ln": 2
     },
@@ -1363,6 +1495,12 @@
       "ln": 2
     },
     {
+      "host": "mebel-lass.ru",
+      "links": "77.243.64.119",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "mediaservice.bar",
       "links": "c5d41c1b5718af340f49f33bce0ad9829f87f377",
       "type": "certs",
@@ -1377,6 +1515,12 @@
     {
       "host": "melchen-testet.at",
       "links": "211.171.233.127",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "melchen-testet.at",
+      "links": "77.243.64.119",
       "type": "pdns",
       "ln": 2
     },
@@ -1484,7 +1628,19 @@
     },
     {
       "host": "nahbleiben.at",
+      "links": "190.167.62.59",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "nahbleiben.at",
       "links": "211.171.233.127",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "nahbleiben.at",
+      "links": "77.243.64.119",
       "type": "pdns",
       "ln": 2
     },
@@ -1723,20 +1879,8 @@
       "ln": 2
     },
     {
-      "host": "pushedtemp.com",
-      "links": "77.87.212.159",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "quickfastspeed.com",
       "links": "185.186.142.217",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "quickfastspeed.com",
-      "links": "77.87.212.159",
       "type": "pdns",
       "ln": 2
     },
@@ -1755,12 +1899,6 @@
     {
       "host": "routingwebtacticks.com",
       "links": "185.186.142.217",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "routingwebtacticks.com",
-      "links": "77.87.212.159",
       "type": "pdns",
       "ln": 2
     },
@@ -1815,12 +1953,6 @@
     {
       "host": "telemetryfromtv.com",
       "links": "185.186.142.217",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "telemetryfromtv.com",
-      "links": "77.87.212.159",
       "type": "pdns",
       "ln": 2
     },
@@ -1936,24 +2068,6 @@
       "host": "vorehollenu.club",
       "links": "552b287c36d53f9d00c26151090ec6d9482ea341",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "wat2profit.online",
-      "links": "77.87.212.159",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "wat2profit.space",
-      "links": "77.87.212.159",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "watprofit.online",
-      "links": "77.87.212.159",
-      "type": "pdns",
       "ln": 2
     },
     {

@@ -80,6 +80,12 @@
     },
     {
       "host": "info1.dynamic-dns.net",
+      "links": "185.140.53.134",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "info1.dynamic-dns.net",
       "links": "45.127.101.18",
       "type": "pdns",
       "ln": 2
@@ -94,6 +100,12 @@
       "host": "insidelife1.ddns.net",
       "links": "0f64ae8a25ca7fdc078971dc9309666e99027a10",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "iphanyi.webredirect.org",
+      "links": "185.140.53.134",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -142,6 +154,12 @@
       "host": "owo.myftp.biz",
       "links": "184.105.237.196",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "researchcentre.ddns.net",
+      "links": "0f64ae8a25ca7fdc078971dc9309666e99027a10",
+      "type": "certs",
       "ln": 2
     },
     {
