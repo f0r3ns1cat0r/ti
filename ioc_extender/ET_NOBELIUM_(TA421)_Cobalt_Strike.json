@@ -206,6 +206,12 @@
     },
     {
       "host": "dailydews.com",
+      "links": "03bbe3533f1540a745b0206a2818696c4cb6b21b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "dailydews.com",
       "links": "b3defacd2c43219d85710ba788725067b6dcd3ae",
       "type": "certs",
       "ln": 2
@@ -345,6 +351,12 @@
     {
       "host": "mail.avsvmcloud.com",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.dailydews.com",
+      "links": "03bbe3533f1540a745b0206a2818696c4cb6b21b",
       "type": "certs",
       "ln": 2
     },

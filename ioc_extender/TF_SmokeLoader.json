@@ -374,6 +374,12 @@
     },
     {
       "host": "abpa.at",
+      "links": "187.156.100.177",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "abpa.at",
       "links": "187.170.72.197",
       "type": "pdns",
       "ln": 2
@@ -3548,12 +3554,6 @@
     },
     {
       "host": "camasirx.com",
-      "links": "113.11.118.155",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "camasirx.com",
       "links": "118.221.132.200",
       "type": "pdns",
       "ln": 2
@@ -3657,12 +3657,6 @@
     {
       "host": "camasirx.com",
       "links": "189.165.34.138",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "camasirx.com",
-      "links": "189.232.7.72",
       "type": "pdns",
       "ln": 2
     },
@@ -4729,12 +4723,6 @@
       "ln": 2
     },
     {
-      "host": "honawey70.top",
-      "links": "85.143.173.97",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "honeyswab.org",
       "links": "177.98.154.79",
       "type": "pdns",
@@ -5174,6 +5162,12 @@
     },
     {
       "host": "kotob.top",
+      "links": "187.156.100.177",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "kotob.top",
       "links": "187.156.124.76",
       "type": "pdns",
       "ln": 2
@@ -5474,7 +5468,19 @@
     },
     {
       "host": "lencu.top",
+      "links": "189.225.195.118",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "lencu.top",
       "links": "211.119.84.111",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "lencu.top",
+      "links": "31.167.149.141",
       "type": "pdns",
       "ln": 2
     },
@@ -6722,6 +6728,12 @@
     },
     {
       "host": "nahbleiben.at",
+      "links": "187.156.100.177",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "nahbleiben.at",
       "links": "187.156.124.76",
       "type": "pdns",
       "ln": 2
@@ -7489,12 +7501,6 @@
       "ln": 2
     },
     {
-      "host": "privacytoolzforyou-6000.top",
-      "links": "85.143.173.97",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "privacytoolzforyou-7000.com",
       "links": "193.233.16.108",
       "type": "pdns",
@@ -8246,12 +8252,6 @@
     },
     {
       "host": "tierzahnarzt.at",
-      "links": "113.11.118.155",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "tierzahnarzt.at",
       "links": "118.221.132.200",
       "type": "pdns",
       "ln": 2
@@ -8313,12 +8313,6 @@
     {
       "host": "tierzahnarzt.at",
       "links": "189.165.34.138",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "tierzahnarzt.at",
-      "links": "189.232.7.72",
       "type": "pdns",
       "ln": 2
     },
