@@ -866,7 +866,19 @@
     },
     {
       "host": "domigilamorov.xyz",
+      "links": "45.153.241.0",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "domigilamorov.xyz",
       "links": "c25be8bdf4fa11dd83a9672dc0262f6d197fc920",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "domigilamorov.xyz",
+      "links": "db63f6c6b4951d847b4f2b3de8802917705c6dfc",
       "type": "certs",
       "ln": 2
     },
@@ -884,7 +896,19 @@
     },
     {
       "host": "duvinodigatomia.bid",
+      "links": "45.153.241.0",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "duvinodigatomia.bid",
       "links": "c25be8bdf4fa11dd83a9672dc0262f6d197fc920",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "duvinodigatomia.bid",
+      "links": "db63f6c6b4951d847b4f2b3de8802917705c6dfc",
       "type": "certs",
       "ln": 2
     },
@@ -1172,13 +1196,37 @@
     },
     {
       "host": "extrimebigim.top",
+      "links": "45.153.241.0",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "extrimebigim.top",
+      "links": "c25be8bdf4fa11dd83a9672dc0262f6d197fc920",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "extrimebigim.top",
+      "links": "db63f6c6b4951d847b4f2b3de8802917705c6dfc",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "fallelected.casa",
+      "links": "45.153.241.0",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "fallelected.casa",
       "links": "c25be8bdf4fa11dd83a9672dc0262f6d197fc920",
       "type": "certs",
       "ln": 2
     },
     {
       "host": "fallelected.casa",
-      "links": "c25be8bdf4fa11dd83a9672dc0262f6d197fc920",
+      "links": "db63f6c6b4951d847b4f2b3de8802917705c6dfc",
       "type": "certs",
       "ln": 2
     },
@@ -1214,6 +1262,12 @@
     },
     {
       "host": "fighterdesert.golf",
+      "links": "45.153.241.0",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "fighterdesert.golf",
       "links": "91.193.16.151",
       "type": "pdns",
       "ln": 2
@@ -1221,6 +1275,12 @@
     {
       "host": "fighterdesert.golf",
       "links": "c25be8bdf4fa11dd83a9672dc0262f6d197fc920",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "fighterdesert.golf",
+      "links": "db63f6c6b4951d847b4f2b3de8802917705c6dfc",
       "type": "certs",
       "ln": 2
     },
@@ -1556,6 +1616,12 @@
     },
     {
       "host": "huavertion.bond",
+      "links": "45.153.241.0",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "huavertion.bond",
       "links": "91.193.16.151",
       "type": "pdns",
       "ln": 2
@@ -1563,6 +1629,12 @@
     {
       "host": "huavertion.bond",
       "links": "c25be8bdf4fa11dd83a9672dc0262f6d197fc920",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "huavertion.bond",
+      "links": "db63f6c6b4951d847b4f2b3de8802917705c6dfc",
       "type": "certs",
       "ln": 2
     },
@@ -1772,7 +1844,19 @@
     },
     {
       "host": "jackshanter.top",
+      "links": "45.153.241.0",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "jackshanter.top",
       "links": "c25be8bdf4fa11dd83a9672dc0262f6d197fc920",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "jackshanter.top",
+      "links": "db63f6c6b4951d847b4f2b3de8802917705c6dfc",
       "type": "certs",
       "ln": 2
     },
@@ -1838,6 +1922,12 @@
     },
     {
       "host": "klosterrion.casa",
+      "links": "45.153.241.0",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "klosterrion.casa",
       "links": "91.193.16.151",
       "type": "pdns",
       "ln": 2
@@ -1845,6 +1935,12 @@
     {
       "host": "klosterrion.casa",
       "links": "c25be8bdf4fa11dd83a9672dc0262f6d197fc920",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "klosterrion.casa",
+      "links": "db63f6c6b4951d847b4f2b3de8802917705c6dfc",
       "type": "certs",
       "ln": 2
     },
@@ -1869,6 +1965,12 @@
     {
       "host": "kummamemybaby.rest",
       "links": "185.70.186.133",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "kummamemybaby.rest",
+      "links": "45.147.228.138",
       "type": "pdns",
       "ln": 2
     },
@@ -1935,6 +2037,12 @@
     {
       "host": "lakogrefop.rest",
       "links": "185.70.186.133",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "lakogrefop.rest",
+      "links": "45.147.228.138",
       "type": "pdns",
       "ln": 2
     },
@@ -2180,6 +2288,12 @@
     },
     {
       "host": "nighterlikorew.casa",
+      "links": "45.153.241.0",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "nighterlikorew.casa",
       "links": "91.193.16.151",
       "type": "pdns",
       "ln": 2
@@ -2187,6 +2301,12 @@
     {
       "host": "nighterlikorew.casa",
       "links": "c25be8bdf4fa11dd83a9672dc0262f6d197fc920",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "nighterlikorew.casa",
+      "links": "db63f6c6b4951d847b4f2b3de8802917705c6dfc",
       "type": "certs",
       "ln": 2
     },
@@ -2282,6 +2402,12 @@
     },
     {
       "host": "odinom.bid",
+      "links": "45.153.241.0",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "odinom.bid",
       "links": "91.193.16.151",
       "type": "pdns",
       "ln": 2
@@ -2289,6 +2415,12 @@
     {
       "host": "odinom.bid",
       "links": "c25be8bdf4fa11dd83a9672dc0262f6d197fc920",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "odinom.bid",
+      "links": "db63f6c6b4951d847b4f2b3de8802917705c6dfc",
       "type": "certs",
       "ln": 2
     },
@@ -2432,6 +2564,12 @@
     },
     {
       "host": "planidogat.top",
+      "links": "45.153.241.0",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "planidogat.top",
       "links": "91.193.16.151",
       "type": "pdns",
       "ln": 2
@@ -2439,6 +2577,12 @@
     {
       "host": "planidogat.top",
       "links": "c25be8bdf4fa11dd83a9672dc0262f6d197fc920",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "planidogat.top",
+      "links": "db63f6c6b4951d847b4f2b3de8802917705c6dfc",
       "type": "certs",
       "ln": 2
     },
@@ -2756,6 +2900,12 @@
     },
     {
       "host": "saintgermaincluff.agency",
+      "links": "45.153.241.0",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "saintgermaincluff.agency",
       "links": "91.193.16.151",
       "type": "pdns",
       "ln": 2
@@ -2763,6 +2913,12 @@
     {
       "host": "saintgermaincluff.agency",
       "links": "c25be8bdf4fa11dd83a9672dc0262f6d197fc920",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "saintgermaincluff.agency",
+      "links": "db63f6c6b4951d847b4f2b3de8802917705c6dfc",
       "type": "certs",
       "ln": 2
     },
@@ -2918,7 +3074,19 @@
     },
     {
       "host": "sosistopililo.top",
+      "links": "45.153.241.0",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "sosistopililo.top",
       "links": "c25be8bdf4fa11dd83a9672dc0262f6d197fc920",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "sosistopililo.top",
+      "links": "db63f6c6b4951d847b4f2b3de8802917705c6dfc",
       "type": "certs",
       "ln": 2
     },
@@ -2948,7 +3116,19 @@
     },
     {
       "host": "stenion.bond",
+      "links": "45.153.241.0",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "stenion.bond",
       "links": "c25be8bdf4fa11dd83a9672dc0262f6d197fc920",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "stenion.bond",
+      "links": "db63f6c6b4951d847b4f2b3de8802917705c6dfc",
       "type": "certs",
       "ln": 2
     },
@@ -3164,6 +3344,12 @@
     },
     {
       "host": "wenettoauto.golf",
+      "links": "45.153.241.0",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "wenettoauto.golf",
       "links": "91.193.16.151",
       "type": "pdns",
       "ln": 2
@@ -3171,6 +3357,12 @@
     {
       "host": "wenettoauto.golf",
       "links": "c25be8bdf4fa11dd83a9672dc0262f6d197fc920",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "wenettoauto.golf",
+      "links": "db63f6c6b4951d847b4f2b3de8802917705c6dfc",
       "type": "certs",
       "ln": 2
     },
