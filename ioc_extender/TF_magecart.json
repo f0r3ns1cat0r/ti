@@ -788,6 +788,12 @@
     },
     {
       "host": "google-activate.com",
+      "links": "193.233.16.184",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "google-activate.com",
       "links": "47.254.178.32",
       "type": "pdns",
       "ln": 2
@@ -807,6 +813,12 @@
     {
       "host": "google-activate.com",
       "links": "92.242.40.191",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "google-activated.com",
+      "links": "193.233.16.184",
       "type": "pdns",
       "ln": 2
     },
@@ -883,6 +895,12 @@
       "ln": 2
     },
     {
+      "host": "google-codes.com",
+      "links": "91.219.62.215",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "google-conversion.com",
       "links": "47.88.12.192",
       "type": "pdns",
@@ -913,6 +931,12 @@
       "ln": 2
     },
     {
+      "host": "google-create.com",
+      "links": "91.219.62.215",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "google-globals.com",
       "links": "185.195.26.104",
       "type": "pdns",
@@ -927,6 +951,12 @@
     {
       "host": "google-globals.com",
       "links": "8.209.114.220",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "google-globals.com",
+      "links": "91.219.62.215",
       "type": "pdns",
       "ln": 2
     },
@@ -945,6 +975,12 @@
     {
       "host": "google-sagepay.com",
       "links": "185.105.3.223",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "google-sagepay.com",
+      "links": "193.233.16.184",
       "type": "pdns",
       "ln": 2
     },
@@ -991,6 +1027,12 @@
       "ln": 2
     },
     {
+      "host": "google-sanek.com",
+      "links": "91.219.62.215",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "google-squery.com",
       "links": "185.195.26.104",
       "type": "pdns",
@@ -1009,6 +1051,12 @@
       "ln": 2
     },
     {
+      "host": "google-squery.com",
+      "links": "91.219.62.215",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "google-thumbs.com",
       "links": "185.195.26.104",
       "type": "pdns",
@@ -1023,6 +1071,12 @@
     {
       "host": "google-thumbs.com",
       "links": "8.209.114.220",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "google-thumbs.com",
+      "links": "91.219.62.215",
       "type": "pdns",
       "ln": 2
     },
@@ -1454,6 +1508,12 @@
     },
     {
       "host": "merchant-analytics.com",
+      "links": "193.233.16.184",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "merchant-analytics.com",
       "links": "47.254.178.32",
       "type": "pdns",
       "ln": 2
@@ -1528,6 +1588,12 @@
       "host": "muznakuhne.store",
       "links": "5b410f323f84cc0ea3f41697444153e11400c683",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mx.merchant-analytics.com",
+      "links": "193.233.16.184",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -1719,6 +1785,12 @@
     {
       "host": "paypal-merchants.com",
       "links": "8.209.114.220",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "paypal-merchants.com",
+      "links": "91.219.62.215",
       "type": "pdns",
       "ln": 2
     },
@@ -1933,6 +2005,12 @@
       "ln": 2
     },
     {
+      "host": "sjhg.club",
+      "links": "193.233.16.184",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "smsokmkl.com",
       "links": "5b410f323f84cc0ea3f41697444153e11400c683",
       "type": "certs",
@@ -2001,6 +2079,12 @@
     {
       "host": "ssl-authorization.com",
       "links": "8.209.114.220",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ssl-authorization.com",
+      "links": "91.219.62.215",
       "type": "pdns",
       "ln": 2
     },
@@ -2264,6 +2348,12 @@
     },
     {
       "host": "www.google-activate.com",
+      "links": "193.233.16.184",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.google-activate.com",
       "links": "47.254.178.32",
       "type": "pdns",
       "ln": 2
@@ -2283,6 +2373,12 @@
     {
       "host": "www.google-activate.com",
       "links": "92.242.40.191",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.google-activated.com",
+      "links": "193.233.16.184",
       "type": "pdns",
       "ln": 2
     },
@@ -2365,6 +2461,12 @@
       "ln": 2
     },
     {
+      "host": "www.google-sanek.com",
+      "links": "91.219.62.215",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "www.google-squery.com",
       "links": "185.195.26.104",
       "type": "pdns",
@@ -2379,6 +2481,12 @@
     {
       "host": "www.google-squery.com",
       "links": "8.209.114.220",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.google-squery.com",
+      "links": "91.219.62.215",
       "type": "pdns",
       "ln": 2
     },
@@ -2426,6 +2534,12 @@
     },
     {
       "host": "www.merchant-analytics.com",
+      "links": "193.233.16.184",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.merchant-analytics.com",
       "links": "47.254.178.32",
       "type": "pdns",
       "ln": 2
@@ -2463,6 +2577,12 @@
     {
       "host": "www.paypal-merchants.com",
       "links": "8.209.114.220",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.paypal-merchants.com",
+      "links": "91.219.62.215",
       "type": "pdns",
       "ln": 2
     },
@@ -2517,6 +2637,12 @@
     {
       "host": "www.ssl-authorization.com",
       "links": "8.209.114.220",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.ssl-authorization.com",
+      "links": "91.219.62.215",
       "type": "pdns",
       "ln": 2
     },

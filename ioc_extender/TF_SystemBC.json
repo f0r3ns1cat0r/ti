@@ -1,0 +1,40 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ThreatFox: SystemBC",
+      "links": "mainscpnl.xyz",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "mainscpnl.xyz",
+      "links": "46.30.42.17",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "vm495820.eurodir.ru",
+      "links": "46.30.42.17",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

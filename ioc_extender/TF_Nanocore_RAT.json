@@ -19,6 +19,12 @@
   ],
   "data": [
     {
+      "host": "184-105-237-199.sinkhole.shadowserver.org",
+      "links": "184.105.237.199",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ThreatFox: Nanocore RAT",
       "links": "amechi.duckdns.org",
       "type": "z",
