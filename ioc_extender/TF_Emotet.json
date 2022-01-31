@@ -86,6 +86,12 @@
     },
     {
       "host": "autodiscover.crisbdev.com",
+      "links": "53970d2287f8f6fb50b3cd22484a5ce10b8bc518",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "autodiscover.crisbdev.com",
       "links": "f8d356b915f27694de303a1cfc612d854a70e818",
       "type": "certs",
       "ln": 2
@@ -237,6 +243,12 @@
     {
       "host": "cpanel.bliblah.com",
       "links": "dac200a8a58527c7eda25bc98725a9b436bbafc8",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpanel.crisbdev.com",
+      "links": "53970d2287f8f6fb50b3cd22484a5ce10b8bc518",
       "type": "certs",
       "ln": 2
     },
@@ -650,6 +662,12 @@
     },
     {
       "host": "crisbdev.com",
+      "links": "53970d2287f8f6fb50b3cd22484a5ce10b8bc518",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "crisbdev.com",
       "links": "70f85991596b93b5e9b0b3db3e2b77e0070320eb",
       "type": "certs",
       "ln": 2
@@ -897,6 +915,12 @@
     {
       "host": "mail.bliblah.com",
       "links": "dac200a8a58527c7eda25bc98725a9b436bbafc8",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.crisbdev.com",
+      "links": "53970d2287f8f6fb50b3cd22484a5ce10b8bc518",
       "type": "certs",
       "ln": 2
     },
@@ -1268,6 +1292,12 @@
     },
     {
       "host": "webdisk.crisbdev.com",
+      "links": "53970d2287f8f6fb50b3cd22484a5ce10b8bc518",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webdisk.crisbdev.com",
       "links": "f8d356b915f27694de303a1cfc612d854a70e818",
       "type": "certs",
       "ln": 2
@@ -1407,6 +1437,12 @@
     {
       "host": "webmail.bliblah.com",
       "links": "dac200a8a58527c7eda25bc98725a9b436bbafc8",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webmail.crisbdev.com",
+      "links": "53970d2287f8f6fb50b3cd22484a5ce10b8bc518",
       "type": "certs",
       "ln": 2
     },

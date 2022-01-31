@@ -1471,6 +1471,12 @@
       "ln": 2
     },
     {
+      "host": "ecomheroes.dev",
+      "links": "e3ddf286f3dcc46b6f81936a1c74b6511c583748",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "eihncuz.online",
       "links": "162.0.228.30",
       "type": "pdns",
@@ -4125,6 +4131,12 @@
     {
       "host": "www.magetu.info",
       "links": "89ac4899727d9f85714de2eb0c3041c2608584fd",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.magetu.info",
+      "links": "e3ddf286f3dcc46b6f81936a1c74b6511c583748",
       "type": "certs",
       "ln": 2
     },

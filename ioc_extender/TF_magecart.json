@@ -284,6 +284,12 @@
     },
     {
       "host": "ThreatFox: magecart",
+      "links": "tatic-hotjar.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: magecart",
       "links": "webscriptcdn.com",
       "type": "z",
       "ln": 2
@@ -1633,6 +1639,12 @@
       "ln": 2
     },
     {
+      "host": "ncloudserver.hopto.org",
+      "links": "dc993b686d6493f51732627ba3dfbe512390267b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "nm-art.store",
       "links": "4d8e2becdfb0a3309e46e243b1f98b46ae049d36",
       "type": "certs",
@@ -2146,6 +2158,12 @@
       "host": "tagmanaqer.com",
       "links": "47.74.87.193",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "tatic-hotjar.com",
+      "links": "dc993b686d6493f51732627ba3dfbe512390267b",
+      "type": "certs",
       "ln": 2
     },
     {
