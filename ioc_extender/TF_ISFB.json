@@ -236,6 +236,12 @@
     },
     {
       "host": "ThreatFox: ISFB",
+      "links": "mediaservice.bar",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: ISFB",
       "links": "microsoftsofymicrosoftsoft.at",
       "type": "z",
       "ln": 2
@@ -361,6 +367,12 @@
       "ln": 2
     },
     {
+      "host": "admin.admin.admin.admin.admin.union-shop.at",
+      "links": "190.43.145.172",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "admin.admin.admin.admin.admin.www.lockbitapt.uz",
       "links": "189.225.195.118",
       "type": "pdns",
@@ -457,6 +469,18 @@
       "ln": 2
     },
     {
+      "host": "admin.admin.admin.union-shop.at",
+      "links": "190.43.145.172",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.admin.admin.www.blackpass.info",
+      "links": "190.43.145.172",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "admin.admin.admin.www.lockbitapt.uz",
       "links": "189.225.195.118",
       "type": "pdns",
@@ -495,6 +519,12 @@
     {
       "host": "admin.admin.trackersapi.at",
       "links": "77.243.64.119",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.admin.www.blackpass.info",
+      "links": "190.43.145.172",
       "type": "pdns",
       "ln": 2
     },
@@ -602,6 +632,12 @@
     },
     {
       "host": "admin.trackersapi.at",
+      "links": "190.43.145.172",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.trackersapi.at",
       "links": "77.243.64.119",
       "type": "pdns",
       "ln": 2
@@ -615,6 +651,12 @@
     {
       "host": "admin.union-shop.at",
       "links": "189.225.195.118",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.union-shop.at",
+      "links": "190.43.145.172",
       "type": "pdns",
       "ln": 2
     },
@@ -669,6 +711,12 @@
     {
       "host": "amogohuigotuli.at",
       "links": "189.225.195.118",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "amogohuigotuli.at",
+      "links": "190.43.145.172",
       "type": "pdns",
       "ln": 2
     },
@@ -1184,6 +1232,12 @@
     },
     {
       "host": "giporedtrip.at",
+      "links": "190.43.145.172",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "giporedtrip.at",
       "links": "77.243.64.119",
       "type": "pdns",
       "ln": 2
@@ -1293,6 +1347,12 @@
     {
       "host": "habpfans.at",
       "links": "190.167.62.59",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "habpfans.at",
+      "links": "190.43.145.172",
       "type": "pdns",
       "ln": 2
     },
@@ -1592,6 +1652,12 @@
     },
     {
       "host": "kotob.top",
+      "links": "190.43.145.172",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "kotob.top",
       "links": "77.243.64.119",
       "type": "pdns",
       "ln": 2
@@ -1622,6 +1688,12 @@
     },
     {
       "host": "lencu.top",
+      "links": "178.31.236.98",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "lencu.top",
       "links": "186.188.224.208",
       "type": "pdns",
       "ln": 2
@@ -1629,6 +1701,18 @@
     {
       "host": "lencu.top",
       "links": "189.225.195.118",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "lencu.top",
+      "links": "190.43.145.172",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "lencu.top",
+      "links": "77.243.64.119",
       "type": "pdns",
       "ln": 2
     },
@@ -1759,6 +1843,12 @@
       "ln": 2
     },
     {
+      "host": "mayak-lombard.ru",
+      "links": "190.43.145.172",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "mebel-lass.ru",
       "links": "178.31.236.98",
       "type": "pdns",
@@ -1789,12 +1879,6 @@
       "ln": 2
     },
     {
-      "host": "mediaservice.bar",
-      "links": "c5d41c1b5718af340f49f33bce0ad9829f87f377",
-      "type": "certs",
-      "ln": 2
-    },
-    {
       "host": "melchen-testet.at",
       "links": "178.31.236.98",
       "type": "pdns",
@@ -1809,6 +1893,12 @@
     {
       "host": "melchen-testet.at",
       "links": "189.225.195.118",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "melchen-testet.at",
+      "links": "190.43.145.172",
       "type": "pdns",
       "ln": 2
     },
@@ -1894,12 +1984,6 @@
       "host": "mmmmmm.bar",
       "links": "31.41.45.66",
       "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mmmmmm.bar",
-      "links": "c5d41c1b5718af340f49f33bce0ad9829f87f377",
-      "type": "certs",
       "ln": 2
     },
     {
@@ -1996,6 +2080,12 @@
       "host": "omerta.cc",
       "links": "77.243.64.119",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "order-laptopsdirekt.online",
+      "links": "c1fffc9e111faad70d016674579d74d5e68ab652",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -2217,6 +2307,12 @@
     {
       "host": "rcacademy.at",
       "links": "186.188.224.208",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "rcacademy.at",
+      "links": "190.43.145.172",
       "type": "pdns",
       "ln": 2
     },
@@ -2511,6 +2607,12 @@
     {
       "host": "zavodooo.ru",
       "links": "186.188.224.208",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "zavodooo.ru",
+      "links": "190.43.145.172",
       "type": "pdns",
       "ln": 2
     }
