@@ -200,6 +200,12 @@
     },
     {
       "host": "ThreatFox: ISFB",
+      "links": "interbloger.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: ISFB",
       "links": "istatus.bar",
       "type": "z",
       "ln": 2
@@ -1477,6 +1483,12 @@
       "ln": 2
     },
     {
+      "host": "interbloger.com",
+      "links": "62.173.149.135",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "intooltak.com",
       "links": "185.105.116.46",
       "type": "pdns",
@@ -1695,6 +1707,12 @@
     {
       "host": "lencu.top",
       "links": "186.188.224.208",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "lencu.top",
+      "links": "187.212.179.214",
       "type": "pdns",
       "ln": 2
     },

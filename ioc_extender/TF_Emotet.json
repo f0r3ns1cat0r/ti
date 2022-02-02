@@ -866,6 +866,12 @@
     },
     {
       "host": "insanrabbany.sch.id",
+      "links": "337e018e21be7030e25f9efc8731479cc203b624",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "insanrabbany.sch.id",
       "links": "a00ddf3414992deb8ef4953c39519d095e298d6b",
       "type": "certs",
       "ln": 2
@@ -1748,7 +1754,19 @@
     },
     {
       "host": "www.sma.insanrabbany.sch.id",
+      "links": "337e018e21be7030e25f9efc8731479cc203b624",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.sma.insanrabbany.sch.id",
       "links": "a00ddf3414992deb8ef4953c39519d095e298d6b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.smp.insanrabbany.sch.id",
+      "links": "337e018e21be7030e25f9efc8731479cc203b624",
       "type": "certs",
       "ln": 2
     },
