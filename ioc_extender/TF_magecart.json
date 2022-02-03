@@ -67,6 +67,12 @@
       "ln": 2
     },
     {
+      "host": "223.stripe-auth-api.com",
+      "links": "8.212.134.72",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "365cashl.com",
       "links": "4d8e2becdfb0a3309e46e243b1f98b46ae049d36",
       "type": "certs",
@@ -445,6 +451,12 @@
       "ln": 2
     },
     {
+      "host": "bdf.stripe-auth-api.com",
+      "links": "8.212.134.72",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "beldentist.ru",
       "links": "5b410f323f84cc0ea3f41697444153e11400c683",
       "type": "certs",
@@ -812,12 +824,6 @@
     },
     {
       "host": "google-activate.com",
-      "links": "8.209.69.16",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "google-activate.com",
       "links": "92.242.40.191",
       "type": "pdns",
       "ln": 2
@@ -837,12 +843,6 @@
     {
       "host": "google-activated.com",
       "links": "8.209.119.210",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "google-activated.com",
-      "links": "8.209.69.16",
       "type": "pdns",
       "ln": 2
     },
@@ -1309,12 +1309,6 @@
       "ln": 2
     },
     {
-      "host": "jquery-js.link",
-      "links": "80.249.149.129",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "jquery-ssl.com",
       "links": "79.143.29.96",
       "type": "pdns",
@@ -1453,6 +1447,12 @@
       "ln": 2
     },
     {
+      "host": "livechatlnc.com",
+      "links": "8.212.134.72",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "lv.vpnet.im",
       "links": "1e510c27159cbc104e2bceb765dba7b764218234",
       "type": "certs",
@@ -1532,12 +1532,6 @@
     },
     {
       "host": "merchant-analytics.com",
-      "links": "8.209.69.16",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "merchant-analytics.com",
       "links": "92.242.40.191",
       "type": "pdns",
       "ln": 2
@@ -1611,12 +1605,6 @@
     {
       "host": "mx.merchant-analytics.com",
       "links": "8.209.119.210",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mx.merchant-analytics.com",
-      "links": "8.209.69.16",
       "type": "pdns",
       "ln": 2
     },
@@ -2157,6 +2145,12 @@
     {
       "host": "tagmanaqer.com",
       "links": "47.74.87.193",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "tagmanaqer.com",
+      "links": "8.212.134.72",
       "type": "pdns",
       "ln": 2
     },

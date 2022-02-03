@@ -32,12 +32,6 @@
     },
     {
       "host": "ThreatFox: BazarBackdoor",
-      "links": "danielsaudits.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: BazarBackdoor",
       "links": "insaneico2013b.com",
       "type": "z",
       "ln": 2
@@ -93,18 +87,6 @@
     {
       "host": "coilhogand.com",
       "links": "194.62.42.113",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "danielsaudits.com",
-      "links": "45.95.11.199",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "dresssteeled.com",
-      "links": "45.95.11.199",
       "type": "pdns",
       "ln": 2
     },
