@@ -32,6 +32,12 @@
     },
     {
       "host": "ThreatFox: Ave Maria",
+      "links": "diamante.mywire.org",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Ave Maria",
       "links": "iphanyi.chickenkiller.com",
       "type": "z",
       "ln": 2
@@ -69,6 +75,12 @@
     {
       "host": "darkworldblackerlocker.dumb1.com",
       "links": "198.46.132.206",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "diamante.mywire.org",
+      "links": "212.114.52.67",
       "type": "pdns",
       "ln": 2
     },
@@ -123,6 +135,18 @@
     {
       "host": "membership.myddns.rocks",
       "links": "197.210.70.197",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.estralin.cam",
+      "links": "212.114.52.67",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.estralin.cam",
+      "links": "212.114.52.67",
       "type": "pdns",
       "ln": 2
     },

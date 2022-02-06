@@ -74,6 +74,12 @@
     },
     {
       "host": "ThreatFox: IcedID Downloader",
+      "links": "keepfootbal.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: IcedID Downloader",
       "links": "nermorell.com",
       "type": "z",
       "ln": 2
@@ -123,6 +129,12 @@
     {
       "host": "bersaww.com",
       "links": "185.150.119.30",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "bunced.net",
+      "links": "103.208.86.7",
       "type": "pdns",
       "ln": 2
     },
@@ -199,8 +211,26 @@
       "ln": 2
     },
     {
+      "host": "ip229.ip-198-244-181.eu",
+      "links": "198.244.181.229",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "jeliskvosh.com",
       "links": "103.208.86.21",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "keepfootbal.com",
+      "links": "103.208.86.7",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "keepfootbal.com",
+      "links": "198.244.181.229",
       "type": "pdns",
       "ln": 2
     },

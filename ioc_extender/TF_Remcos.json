@@ -32,6 +32,24 @@
     },
     {
       "host": "ThreatFox: Remcos",
+      "links": "dynasty1.ddns.net",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Remcos",
+      "links": "dynasty2.ddns.net",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Remcos",
+      "links": "dynasty3.ddns.net",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Remcos",
       "links": "edwardjamie.duckdns.org",
       "type": "z",
       "ln": 2
@@ -122,6 +140,24 @@
     },
     {
       "host": "ThreatFox: Remcos",
+      "links": "sumag.hopto.org",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Remcos",
+      "links": "sumav1.hopto.org",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Remcos",
+      "links": "sumav2.hopto.org",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Remcos",
       "links": "trapboijiggy.dvrlists.com",
       "type": "z",
       "ln": 2
@@ -189,6 +225,24 @@
     {
       "host": "disabel.hopto.org",
       "links": "194.5.98.213",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "dynasty1.ddns.net",
+      "links": "104.215.84.159",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "dynasty2.ddns.net",
+      "links": "104.215.84.159",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "dynasty3.ddns.net",
+      "links": "104.215.84.159",
       "type": "pdns",
       "ln": 2
     },
@@ -439,6 +493,12 @@
       "ln": 2
     },
     {
+      "host": "secured1.hopto.org",
+      "links": "104.215.84.159",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "server.unitymail.pp.ua",
       "links": "104.168.253.189",
       "type": "pdns",
@@ -453,6 +513,24 @@
     {
       "host": "sshjcma.airdns.org",
       "links": "104.254.90.251",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "sumag.hopto.org",
+      "links": "104.215.84.159",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "sumav1.hopto.org",
+      "links": "104.215.84.159",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "sumav2.hopto.org",
+      "links": "104.215.84.159",
       "type": "pdns",
       "ln": 2
     },

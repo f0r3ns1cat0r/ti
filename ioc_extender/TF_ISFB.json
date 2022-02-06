@@ -397,6 +397,12 @@
       "ln": 2
     },
     {
+      "host": "admin.admin.admin.admin.admin.fraudlabpros.at",
+      "links": "115.88.24.203",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "admin.admin.admin.admin.admin.hostmaster.omerta.cc",
       "links": "77.243.64.119",
       "type": "pdns",
@@ -487,6 +493,12 @@
       "ln": 2
     },
     {
+      "host": "admin.admin.admin.admin.fraudlabpros.at",
+      "links": "115.88.24.203",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "admin.admin.admin.admin.hostmaster.omerta.cc",
       "links": "178.31.236.98",
       "type": "pdns",
@@ -554,6 +566,12 @@
     },
     {
       "host": "admin.admin.admin.cvv-union.at",
+      "links": "115.88.24.203",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.admin.admin.fraudlabpros.at",
       "links": "115.88.24.203",
       "type": "pdns",
       "ln": 2
@@ -637,6 +655,12 @@
       "ln": 2
     },
     {
+      "host": "admin.admin.admin.www.fraudlabpros.at",
+      "links": "115.88.24.203",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "admin.admin.admin.www.lockbitapt.uz",
       "links": "189.225.195.118",
       "type": "pdns",
@@ -668,6 +692,12 @@
     },
     {
       "host": "admin.admin.cvv-union.at",
+      "links": "115.88.24.203",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.admin.fraudlabpros.at",
       "links": "115.88.24.203",
       "type": "pdns",
       "ln": 2
@@ -879,6 +909,18 @@
     {
       "host": "admin.lockbitapt.uz",
       "links": "175.126.109.15",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.lockbitsupp.uz",
+      "links": "178.31.236.98",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.lockbitsupp.uz",
+      "links": "186.188.224.208",
       "type": "pdns",
       "ln": 2
     },
@@ -1309,6 +1351,12 @@
       "ln": 2
     },
     {
+      "host": "b.logformhop1.org",
+      "links": "186.188.224.208",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "b.piologhesfin.org",
       "links": "186.188.224.208",
       "type": "pdns",
@@ -1400,19 +1448,7 @@
     },
     {
       "host": "camasirx.com",
-      "links": "115.88.24.203",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "camasirx.com",
       "links": "211.119.84.111",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "camasirx.com",
-      "links": "211.171.233.127",
       "type": "pdns",
       "ln": 2
     },
@@ -1474,6 +1510,12 @@
       "host": "cpcontacts.veobionline.com",
       "links": "fc5034e563be8f445aa37eb4db412d98017d4228",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cvv-union.at",
+      "links": "115.88.24.203",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -2389,12 +2431,6 @@
       "ln": 2
     },
     {
-      "host": "lockbitsupp.uz",
-      "links": "211.171.233.127",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "magcih.xyz",
       "links": "199.192.24.38",
       "type": "pdns",
@@ -2744,12 +2780,6 @@
     },
     {
       "host": "misha.at",
-      "links": "115.88.24.203",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "misha.at",
       "links": "175.126.109.15",
       "type": "pdns",
       "ln": 2
@@ -2875,7 +2905,25 @@
       "ln": 2
     },
     {
+      "host": "ns2.logformhop1.org",
+      "links": "186.188.224.208",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ns3.dnsonn.org",
+      "links": "186.188.224.208",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns3.logformhop1.org",
+      "links": "186.188.224.208",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns3.piologhesfin.org",
       "links": "186.188.224.208",
       "type": "pdns",
       "ln": 2
@@ -2887,8 +2935,8 @@
       "ln": 2
     },
     {
-      "host": "nusotiso4.su",
-      "links": "211.171.233.127",
+      "host": "ns4.logformhop1.org",
+      "links": "186.188.224.208",
       "type": "pdns",
       "ln": 2
     },
@@ -3242,12 +3290,6 @@
     },
     {
       "host": "thefreshstuffs.at",
-      "links": "115.88.24.203",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "tierzahnarzt.at",
       "links": "115.88.24.203",
       "type": "pdns",
       "ln": 2

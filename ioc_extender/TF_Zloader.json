@@ -43,6 +43,12 @@
       "ln": 2
     },
     {
+      "host": "aarin.verbalnyj.ru",
+      "links": "1ea65b8c925af49e967c7d89256f7308d312054f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "aberraciya.ru",
       "links": "193.124.18.128",
       "type": "pdns",
@@ -74,6 +80,12 @@
     },
     {
       "host": "commandaadmin.com",
+      "links": "1ea65b8c925af49e967c7d89256f7308d312054f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "commandaadmin.com",
       "links": "d12d0087b7c9f72bdd63e4fd4f52917c725184b9",
       "type": "certs",
       "ln": 2
@@ -88,6 +100,18 @@
       "host": "trafficcalculation876.com",
       "links": "193.124.18.128",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "vejsmanizm.ru",
+      "links": "1ea65b8c925af49e967c7d89256f7308d312054f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "verbalnyj.ru",
+      "links": "1ea65b8c925af49e967c7d89256f7308d312054f",
+      "type": "certs",
       "ln": 2
     },
     {
