@@ -223,6 +223,18 @@
       "ln": 2
     },
     {
+      "host": "ns1.tighingmarks.com",
+      "links": "162.244.80.254",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.trunshipps.com",
+      "links": "162.244.80.254",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ns2.belatedconstructs.com",
       "links": "162.244.80.254",
       "type": "pdns",
@@ -236,6 +248,18 @@
     },
     {
       "host": "ns2.saferoiworks.com",
+      "links": "162.244.80.254",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.tighingmarks.com",
+      "links": "162.244.80.254",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.trunshipps.com",
       "links": "162.244.80.254",
       "type": "pdns",
       "ln": 2

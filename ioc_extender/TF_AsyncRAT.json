@@ -31,6 +31,12 @@
       "ln": 2
     },
     {
+      "host": "3laallah.myvnc.com",
+      "links": "51.89.253.23",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ThreatFox: AsyncRAT",
       "links": "3laallah.myvnc.com",
       "type": "z",
@@ -87,6 +93,12 @@
     {
       "host": "ghr4b4.ddns.net",
       "links": "196.206.85.168",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ip23.ip-51-89-253.eu",
+      "links": "51.89.253.23",
       "type": "pdns",
       "ln": 2
     },

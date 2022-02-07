@@ -2359,12 +2359,6 @@
       "ln": 2
     },
     {
-      "host": "ns1.statespeed.solutions",
-      "links": "66.29.131.244",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ns1.t1m9m.com",
       "links": "162.0.222.228",
       "type": "pdns",
@@ -2503,12 +2497,6 @@
       "ln": 2
     },
     {
-      "host": "ns2.statespeed.solutions",
-      "links": "66.29.131.244",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ns2.t1m9m.com",
       "links": "162.0.222.228",
       "type": "pdns",
@@ -2613,6 +2601,12 @@
     {
       "host": "pedantic-hellman.162-0-228-30.plesk.page",
       "links": "162.0.228.30",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "piecebin.com",
+      "links": "66.29.133.181",
       "type": "pdns",
       "ln": 2
     },
@@ -4432,6 +4426,12 @@
       "host": "www.passamcq.com",
       "links": "96da428f0e01a1b16c4c2900b1ac5f486a08a113",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.piecebin.com",
+      "links": "66.29.133.181",
+      "type": "pdns",
       "ln": 2
     },
     {

@@ -1795,6 +1795,12 @@
       "ln": 2
     },
     {
+      "host": "autodiscover.roxyandbros.com",
+      "links": "f1e91ce6b18c7e8ffebd60943f492a5f011337c2",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "autodiscover.selfcareadvocacy.com",
       "links": "2c82673e136dc5ab934dda321057598c548a6164",
       "type": "certs",
@@ -3469,6 +3475,12 @@
       "ln": 2
     },
     {
+      "host": "cpanel.roxyandbros.com",
+      "links": "f1e91ce6b18c7e8ffebd60943f492a5f011337c2",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "cpanel.selfcareadvocacy.com",
       "links": "2c82673e136dc5ab934dda321057598c548a6164",
       "type": "certs",
@@ -3709,6 +3721,12 @@
       "ln": 2
     },
     {
+      "host": "cpcalendars.roxyandbros.com",
+      "links": "f1e91ce6b18c7e8ffebd60943f492a5f011337c2",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "cpcalendars.selfcareadvocacy.com",
       "links": "2c82673e136dc5ab934dda321057598c548a6164",
       "type": "certs",
@@ -3945,6 +3963,12 @@
     {
       "host": "cpcontacts.roxyandbros.com",
       "links": "d4b6b3db305a0a362aa06b8d9235d1c2ea95b46e",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcontacts.roxyandbros.com",
+      "links": "f1e91ce6b18c7e8ffebd60943f492a5f011337c2",
       "type": "certs",
       "ln": 2
     },
@@ -7621,6 +7645,12 @@
       "ln": 2
     },
     {
+      "host": "mail.roxyandbros.com",
+      "links": "f1e91ce6b18c7e8ffebd60943f492a5f011337c2",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "mail.selfcareadvocacy.com",
       "links": "2c82673e136dc5ab934dda321057598c548a6164",
       "type": "certs",
@@ -7827,6 +7857,18 @@
     {
       "host": "mbk-center.wris.co",
       "links": "128.199.243.169",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mdns1.cko.rip",
+      "links": "142.11.230.202",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mdns2.cko.rip",
+      "links": "142.11.230.202",
       "type": "pdns",
       "ln": 2
     },
@@ -8497,6 +8539,12 @@
       "ln": 2
     },
     {
+      "host": "ns1.dietervermander.tech",
+      "links": "145.239.107.153",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ns1.foodisforfuel.com",
       "links": "145.239.107.153",
       "type": "pdns",
@@ -8510,6 +8558,12 @@
     },
     {
       "host": "ns1.home-therapy.org",
+      "links": "145.239.107.153",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.horoscopes-worldwide.com",
       "links": "145.239.107.153",
       "type": "pdns",
       "ln": 2
@@ -8539,7 +8593,19 @@
       "ln": 2
     },
     {
+      "host": "ns1.quickjapan.net",
+      "links": "145.239.107.153",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ns1.richardmccomb.com",
+      "links": "145.239.107.153",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.situsslotonline88gavril.cyou",
       "links": "145.239.107.153",
       "type": "pdns",
       "ln": 2
@@ -8569,6 +8635,18 @@
       "ln": 2
     },
     {
+      "host": "ns1.unique-poker.com",
+      "links": "145.239.107.153",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.vipclownparma.org",
+      "links": "145.239.107.153",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ns1.walesspan.com",
       "links": "185.219.135.60",
       "type": "pdns",
@@ -8593,6 +8671,12 @@
       "ln": 2
     },
     {
+      "host": "ns2.dietervermander.tech",
+      "links": "145.239.107.153",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ns2.foodisforfuel.com",
       "links": "145.239.107.153",
       "type": "pdns",
@@ -8600,6 +8684,12 @@
     },
     {
       "host": "ns2.home-therapy.org",
+      "links": "145.239.107.153",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.horoscopes-worldwide.com",
       "links": "145.239.107.153",
       "type": "pdns",
       "ln": 2
@@ -8629,7 +8719,19 @@
       "ln": 2
     },
     {
+      "host": "ns2.quickjapan.net",
+      "links": "145.239.107.153",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ns2.richardmccomb.com",
+      "links": "145.239.107.153",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.situsslotonline88gavril.cyou",
       "links": "145.239.107.153",
       "type": "pdns",
       "ln": 2
@@ -8659,6 +8761,18 @@
       "ln": 2
     },
     {
+      "host": "ns2.unique-poker.com",
+      "links": "145.239.107.153",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.vipclownparma.org",
+      "links": "145.239.107.153",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ns2.walesspan.com",
       "links": "185.219.135.60",
       "type": "pdns",
@@ -8678,6 +8792,18 @@
     },
     {
       "host": "ns2.zep-unehistoiredhommes.com",
+      "links": "145.239.107.153",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns41.wanchan-dogfood.com",
+      "links": "145.239.107.153",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns42.wanchan-dogfood.com",
       "links": "145.239.107.153",
       "type": "pdns",
       "ln": 2
@@ -9913,6 +10039,12 @@
       "ln": 2
     },
     {
+      "host": "roxyandbros.com",
+      "links": "f1e91ce6b18c7e8ffebd60943f492a5f011337c2",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "roxyandbros.cptemplate.com",
       "links": "22a64b369232607021699950f5465a33d31dfb1c",
       "type": "certs",
@@ -9921,6 +10053,12 @@
     {
       "host": "roxyandbros.cptemplate.com",
       "links": "d4b6b3db305a0a362aa06b8d9235d1c2ea95b46e",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "roxyandbros.cptemplate.com",
+      "links": "f1e91ce6b18c7e8ffebd60943f492a5f011337c2",
       "type": "certs",
       "ln": 2
     },
@@ -11719,6 +11857,12 @@
       "ln": 2
     },
     {
+      "host": "vipclownparma.org",
+      "links": "145.239.107.153",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "voyobee.com",
       "links": "ea6919bf367f447052c04c6e1ff4691a6193478d",
       "type": "certs",
@@ -12019,6 +12163,12 @@
       "ln": 2
     },
     {
+      "host": "webdisk.roxyandbros.com",
+      "links": "f1e91ce6b18c7e8ffebd60943f492a5f011337c2",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "webdisk.selfcareadvocacy.com",
       "links": "2c82673e136dc5ab934dda321057598c548a6164",
       "type": "certs",
@@ -12255,6 +12405,12 @@
     {
       "host": "webmail.roxyandbros.com",
       "links": "d4b6b3db305a0a362aa06b8d9235d1c2ea95b46e",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webmail.roxyandbros.com",
+      "links": "f1e91ce6b18c7e8ffebd60943f492a5f011337c2",
       "type": "certs",
       "ln": 2
     },
@@ -15045,6 +15201,12 @@
     {
       "host": "www.roxyandbros.cptemplate.com",
       "links": "d4b6b3db305a0a362aa06b8d9235d1c2ea95b46e",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.roxyandbros.cptemplate.com",
+      "links": "f1e91ce6b18c7e8ffebd60943f492a5f011337c2",
       "type": "certs",
       "ln": 2
     },

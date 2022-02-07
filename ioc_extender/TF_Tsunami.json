@@ -1,0 +1,40 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ThreatFox: Tsunami",
+      "links": "blow.myddns.rocks",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "blow.myddns.rocks",
+      "links": "192.53.175.22",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "nud6.ud83p10s9.xyz",
+      "links": "192.53.175.22",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

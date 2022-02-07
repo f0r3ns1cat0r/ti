@@ -31,6 +31,18 @@
       "ln": 2
     },
     {
+      "host": "210466-10002.clodo.ru",
+      "links": "62.76.189.81",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "229784-1.vm.clodoserver.ru",
+      "links": "62.76.189.81",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "57251.web.hosting-russia.ru",
       "links": "194.147.115.74",
       "type": "pdns",
@@ -57,6 +69,12 @@
     {
       "host": "ThreatFox: Hancitor",
       "links": "nummasdocarm.ru",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Hancitor",
+      "links": "otedsalon.com",
       "type": "z",
       "ln": 2
     },
@@ -171,6 +189,12 @@
     {
       "host": "nummasdocarm.ru",
       "links": "37.230.112.249",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "otedsalon.com",
+      "links": "62.76.189.81",
       "type": "pdns",
       "ln": 2
     },

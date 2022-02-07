@@ -355,6 +355,12 @@
       "ln": 2
     },
     {
+      "host": "merocomputer.ddns.net",
+      "links": "104.254.90.251",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "mirroronthewall.hopto.org",
       "links": "185.140.53.137",
       "type": "pdns",
@@ -392,6 +398,12 @@
     },
     {
       "host": "ogidi.ddns.net",
+      "links": "194.5.98.213",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "oluchi.ddns.net",
       "links": "194.5.98.213",
       "type": "pdns",
       "ln": 2

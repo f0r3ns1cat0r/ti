@@ -86,6 +86,12 @@
     },
     {
       "host": "info1.dynamic-dns.net",
+      "links": "122.180.86.185",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "info1.dynamic-dns.net",
       "links": "185.140.53.134",
       "type": "pdns",
       "ln": 2
@@ -104,6 +110,18 @@
     },
     {
       "host": "iphanyi.webredirect.org",
+      "links": "122.180.86.185",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iphanyi.webredirect.org",
+      "links": "150.242.14.61",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iphanyi.webredirect.org",
       "links": "185.140.53.134",
       "type": "pdns",
       "ln": 2
@@ -117,6 +135,18 @@
     {
       "host": "jerenyankipong.duckdns.org",
       "links": "185.19.85.141",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "joeconsbeachresort.rapidns.com",
+      "links": "150.242.14.61",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "joeconsmarine.com",
+      "links": "150.242.14.61",
       "type": "pdns",
       "ln": 2
     },

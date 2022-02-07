@@ -373,6 +373,12 @@
       "ln": 2
     },
     {
+      "host": "apayments.top",
+      "links": "8.212.134.72",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "app.yunu.ru",
       "links": "5b410f323f84cc0ea3f41697444153e11400c683",
       "type": "certs",
@@ -1622,6 +1628,12 @@
     },
     {
       "host": "ncloudserver.hopto.org",
+      "links": "65.21.62.151",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ncloudserver.hopto.org",
       "links": "dc993b686d6493f51732627ba3dfbe512390267b",
       "type": "certs",
       "ln": 2
@@ -2107,6 +2119,12 @@
       "ln": 2
     },
     {
+      "host": "stripe-auth-api.com",
+      "links": "8.212.134.72",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "suho-smesi.store",
       "links": "9c73f26d08c80392fcf32de60e43cfc5586b26f8",
       "type": "certs",
@@ -2145,6 +2163,12 @@
     {
       "host": "tagmanaqer.com",
       "links": "8.212.134.72",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "tatic-hotjar.com",
+      "links": "65.21.62.151",
       "type": "pdns",
       "ln": 2
     },

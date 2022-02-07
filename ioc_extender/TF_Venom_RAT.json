@@ -1,0 +1,40 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ThreatFox: Venom RAT",
+      "links": "agences.ddns.net",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "agences.ddns.net",
+      "links": "86.235.124.121",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "content.myporntube.com",
+      "links": "86.235.124.121",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}
