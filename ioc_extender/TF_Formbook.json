@@ -2359,6 +2359,12 @@
       "ln": 2
     },
     {
+      "host": "ns1.statespeed.solutions",
+      "links": "66.29.131.244",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ns1.t1m9m.com",
       "links": "162.0.222.228",
       "type": "pdns",
@@ -2493,6 +2499,12 @@
     {
       "host": "ns2.shimanta.com",
       "links": "162.0.222.228",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.statespeed.solutions",
+      "links": "66.29.131.244",
       "type": "pdns",
       "ln": 2
     },

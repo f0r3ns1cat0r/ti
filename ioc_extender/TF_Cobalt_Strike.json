@@ -800,6 +800,12 @@
     },
     {
       "host": "ThreatFox: Cobalt Strike",
+      "links": "pfizerlab.info",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Cobalt Strike",
       "links": "quues.com",
       "type": "z",
       "ln": 2
@@ -3541,6 +3547,12 @@
       "ln": 2
     },
     {
+      "host": "ovtn.it",
+      "links": "479f4bf3aaf146c99ac4fed70205773a8edbc9d6",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "pancakeswap.flnance.sbs",
       "links": "6898b95e5979ef6d5537da8e35c0ae2957fb2c47",
       "type": "certs",
@@ -3604,6 +3616,12 @@
       "host": "pervl203.xyz",
       "links": "233dc7c632eb4774476d700031f1795fefad39f4",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "pfizerlab.info",
+      "links": "3.144.182.117",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -3897,6 +3915,12 @@
     {
       "host": "saveyourprize.com",
       "links": "216edef2f26a94071007aab8ec5e36c6b072c949",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "sayaratdaho.com",
+      "links": "479f4bf3aaf146c99ac4fed70205773a8edbc9d6",
       "type": "certs",
       "ln": 2
     },
@@ -4683,6 +4707,12 @@
     {
       "host": "www.masaxoc.com",
       "links": "23.108.57.23",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.mikrotik.golf",
+      "links": "3.144.182.117",
       "type": "pdns",
       "ln": 2
     },
