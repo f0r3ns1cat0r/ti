@@ -1,0 +1,34 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ThreatFox: GootLoader",
+      "links": "junk-bros.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: GootLoader",
+      "links": "kakiosk.adsparkdev.com",
+      "type": "z",
+      "ln": 2
+    }
+  ]
+}

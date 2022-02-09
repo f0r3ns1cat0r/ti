@@ -236,6 +236,12 @@
     },
     {
       "host": "ThreatFox: ISFB",
+      "links": "linkspremium.ru",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: ISFB",
       "links": "livesblogers.bar",
       "type": "z",
       "ln": 2
@@ -1909,6 +1915,12 @@
       "ln": 2
     },
     {
+      "host": "linkspremium.ru",
+      "links": "628a1579e038e5b98c5a787c4d1bb08417e297b5",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "littlemanbusiness.com",
       "links": "31.41.44.128",
       "type": "pdns",
@@ -2530,6 +2542,12 @@
       "host": "powerblank.energy",
       "links": "8.212.146.44",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "premiumline.top",
+      "links": "628a1579e038e5b98c5a787c4d1bb08417e297b5",
+      "type": "certs",
       "ln": 2
     },
     {
