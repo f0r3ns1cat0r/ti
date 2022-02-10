@@ -50,6 +50,12 @@
     },
     {
       "host": "ThreatFox: AsyncRAT",
+      "links": "nyannewtoday.duckdns.org",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: AsyncRAT",
       "links": "zerocool888.duckdns.org",
       "type": "z",
       "ln": 2
@@ -91,6 +97,12 @@
       "ln": 2
     },
     {
+      "host": "digisac.me",
+      "links": "ae51a24ffc60075852ec63e9d450da44adccd4ca",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "ghr4b4.ddns.net",
       "links": "196.206.85.168",
       "type": "pdns",
@@ -100,6 +112,12 @@
       "host": "ip23.ip-51-89-253.eu",
       "links": "51.89.253.23",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "nyannewtoday.duckdns.org",
+      "links": "ae51a24ffc60075852ec63e9d450da44adccd4ca",
+      "type": "certs",
       "ln": 2
     },
     {

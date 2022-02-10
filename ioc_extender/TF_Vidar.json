@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ThreatFox: Vidar",
+      "links": "himarkh.xyz",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Vidar",
+      "links": "koyu.space",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "derxblog.de",
+      "links": "31.17.223.12",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "derxblog.de",
+      "links": "95.217.25.51",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ip1f11df0c.dynamic.kabel-deutschland.de",
+      "links": "31.17.223.12",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "koyu.duckdns.org",
+      "links": "31.17.223.12",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "koyu.space",
+      "links": "31.17.223.12",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "koyu.space",
+      "links": "95.217.25.51",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "nitter.koyu.space",
+      "links": "95.217.25.51",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "plex.milktr.uk",
+      "links": "95.217.25.51",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}
