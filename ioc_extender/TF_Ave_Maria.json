@@ -38,6 +38,12 @@
     },
     {
       "host": "ThreatFox: Ave Maria",
+      "links": "hafiznor336.duckdns.org",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Ave Maria",
       "links": "iphanyi.chickenkiller.com",
       "type": "z",
       "ln": 2
@@ -67,6 +73,12 @@
       "ln": 2
     },
     {
+      "host": "bodmas01.zapto.org",
+      "links": "79.134.225.70",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ceecom.tech",
       "links": "197.210.70.197",
       "type": "pdns",
@@ -81,6 +93,12 @@
     {
       "host": "diamante.mywire.org",
       "links": "212.114.52.67",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hafiznor336.duckdns.org",
+      "links": "79.134.225.70",
       "type": "pdns",
       "ln": 2
     },

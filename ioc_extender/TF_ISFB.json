@@ -919,6 +919,12 @@
       "ln": 2
     },
     {
+      "host": "adoring-ramanujan.79-110-52-188.plesk.page",
+      "links": "79.110.52.188",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "amogohuigotuli.at",
       "links": "115.88.24.203",
       "type": "pdns",
@@ -2222,6 +2228,12 @@
     },
     {
       "host": "linkspremium.ru",
+      "links": "31.41.44.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "linkspremium.ru",
       "links": "628a1579e038e5b98c5a787c4d1bb08417e297b5",
       "type": "certs",
       "ln": 2
@@ -2641,6 +2653,12 @@
       "ln": 2
     },
     {
+      "host": "ns1.ladyother.com",
+      "links": "31.41.44.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ns1.logformhop1.org",
       "links": "186.188.224.208",
       "type": "pdns",
@@ -2667,6 +2685,12 @@
     {
       "host": "ns2.ingamemode.org",
       "links": "41.41.255.235",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.ladyother.com",
+      "links": "31.41.44.3",
       "type": "pdns",
       "ln": 2
     },
