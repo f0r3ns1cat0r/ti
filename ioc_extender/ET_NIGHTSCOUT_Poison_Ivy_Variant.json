@@ -86,6 +86,12 @@
     },
     {
       "host": "cdn.cloudistcdn.com",
+      "links": "d94fdc98015fa979f3e23d006b783620ac54954a",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cdn.cloudistcdn.com",
       "links": "ea330d0ebdbf3a68576cb821ee23311050e9016b",
       "type": "certs",
       "ln": 2
@@ -213,6 +219,12 @@
     {
       "host": "q.cloudistcdn.com",
       "links": "bb86ecd96c886770fb1d0056be03ec96aa8405fc",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "q.cloudistcdn.com",
+      "links": "d94fdc98015fa979f3e23d006b783620ac54954a",
       "type": "certs",
       "ln": 2
     },

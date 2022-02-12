@@ -163,6 +163,12 @@
       "ln": 2
     },
     {
+      "host": "bunced.net",
+      "links": "ede49c4c7d5952ff1786b76bc5b11809e5804be7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "carpricegoods.com",
       "links": "103.208.86.21",
       "type": "pdns",
@@ -274,6 +280,12 @@
       "host": "keepfootbal.com",
       "links": "198.244.181.229",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "keepfootbal.com",
+      "links": "ede49c4c7d5952ff1786b76bc5b11809e5804be7",
+      "type": "certs",
       "ln": 2
     },
     {

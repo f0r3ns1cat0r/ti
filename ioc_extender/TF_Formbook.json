@@ -469,6 +469,12 @@
       "ln": 2
     },
     {
+      "host": "akxchange.com",
+      "links": "8e77c31d3ff5d9e9295f62501c289cc421e45c69",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "allwarks.shop",
       "links": "63.250.35.57",
       "type": "pdns",
@@ -705,6 +711,12 @@
     {
       "host": "bulukx.com",
       "links": "66.29.131.244",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "bumabagi.com",
+      "links": "66.29.133.181",
       "type": "pdns",
       "ln": 2
     },
@@ -3765,6 +3777,12 @@
     {
       "host": "www.brateix.info",
       "links": "57d939e26681b948c3190e802832e29744b009c2",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.brateix.info",
+      "links": "8e77c31d3ff5d9e9295f62501c289cc421e45c69",
       "type": "certs",
       "ln": 2
     },
