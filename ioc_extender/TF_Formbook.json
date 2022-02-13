@@ -2317,6 +2317,12 @@
       "ln": 2
     },
     {
+      "host": "ns1.dawnforge.org",
+      "links": "199.192.21.143",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ns1.getrioz.com",
       "links": "162.0.214.58",
       "type": "pdns",
@@ -2463,6 +2469,12 @@
     {
       "host": "ns2.coremedia.cw",
       "links": "199.192.31.106",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.dawnforge.org",
+      "links": "199.192.21.143",
       "type": "pdns",
       "ln": 2
     },
@@ -4119,6 +4131,12 @@
     {
       "host": "www.haxb33.xyz",
       "links": "162.0.233.6",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.haxb33.xyz",
+      "links": "199.192.21.143",
       "type": "pdns",
       "ln": 2
     },

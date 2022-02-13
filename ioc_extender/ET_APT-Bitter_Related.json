@@ -55,6 +55,12 @@
       "ln": 2
     },
     {
+      "host": "django-hurtig.org",
+      "links": "82.221.129.68",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "fit4miiapp.com",
       "links": "82.221.129.68",
       "type": "pdns",
@@ -94,6 +100,12 @@
       "host": "mail.olmajhnservice.com",
       "links": "5a972665b590cc77dcdfb4500c04acda5dc1cc4e",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mrdouglas.org",
+      "links": "82.221.129.68",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -157,7 +169,19 @@
       "ln": 2
     },
     {
+      "host": "wanderings.us",
+      "links": "82.221.129.68",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "www.casino-tipps.info",
+      "links": "82.221.129.68",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "yourmistresslondon.com",
       "links": "82.221.129.68",
       "type": "pdns",
       "ln": 2
