@@ -3608,12 +3608,6 @@
     },
     {
       "host": "andbal.com",
-      "links": "148.255.0.249",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "andbal.com",
       "links": "178.31.200.102",
       "type": "pdns",
       "ln": 2
@@ -3639,18 +3633,6 @@
     {
       "host": "andbal.com",
       "links": "62.201.235.58",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "andbal.com",
-      "links": "79.102.181.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "andbal.com",
-      "links": "92.62.104.245",
       "type": "pdns",
       "ln": 2
     },
@@ -4004,12 +3986,6 @@
     },
     {
       "host": "camasirx.com",
-      "links": "148.255.0.249",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "camasirx.com",
       "links": "178.31.200.102",
       "type": "pdns",
       "ln": 2
@@ -4035,18 +4011,6 @@
     {
       "host": "camasirx.com",
       "links": "62.201.235.58",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "camasirx.com",
-      "links": "79.102.181.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "camasirx.com",
-      "links": "92.62.104.245",
       "type": "pdns",
       "ln": 2
     },
@@ -4184,12 +4148,6 @@
     },
     {
       "host": "coin-coin-file-9.com",
-      "links": "146.185.239.127",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "coin-coin-file-9.com",
       "links": "194.36.178.148",
       "type": "pdns",
       "ln": 2
@@ -4246,6 +4204,12 @@
       "host": "cvv-union.at",
       "links": "41.41.255.235",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cxhhgd.cn",
+      "links": "7d96d6daa03c598682b228d4aa8b33d27c399ed2",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -4561,14 +4525,14 @@
       "ln": 2
     },
     {
-      "host": "file-coin-data-5.com",
-      "links": "37.0.10.199",
+      "host": "file-coin-coin-10.com",
+      "links": "194.36.178.184",
       "type": "pdns",
       "ln": 2
     },
     {
-      "host": "file-coin-host-12.com",
-      "links": "146.185.239.127",
+      "host": "file-coin-data-5.com",
+      "links": "37.0.10.199",
       "type": "pdns",
       "ln": 2
     },
@@ -4604,7 +4568,7 @@
     },
     {
       "host": "file-coin-host-12.com",
-      "links": "47.89.255.242",
+      "links": "87.251.79.93",
       "type": "pdns",
       "ln": 2
     },
@@ -5534,12 +5498,6 @@
     },
     {
       "host": "kotob.top",
-      "links": "148.255.0.249",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "kotob.top",
       "links": "148.255.10.10",
       "type": "pdns",
       "ln": 2
@@ -5709,12 +5667,6 @@
     {
       "host": "kotob.top",
       "links": "189.165.51.125",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "kotob.top",
-      "links": "189.165.53.172",
       "type": "pdns",
       "ln": 2
     },
@@ -6692,12 +6644,6 @@
     },
     {
       "host": "membro.at",
-      "links": "148.255.0.249",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "membro.at",
       "links": "148.255.10.10",
       "type": "pdns",
       "ln": 2
@@ -6747,12 +6693,6 @@
     {
       "host": "membro.at",
       "links": "189.165.51.125",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "membro.at",
-      "links": "189.165.53.172",
       "type": "pdns",
       "ln": 2
     },
@@ -6818,12 +6758,6 @@
     },
     {
       "host": "membro.at",
-      "links": "79.102.181.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "membro.at",
       "links": "86.122.134.195",
       "type": "pdns",
       "ln": 2
@@ -6835,20 +6769,8 @@
       "ln": 2
     },
     {
-      "host": "membro.at",
-      "links": "92.62.104.245",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "misha.at",
       "links": "124.109.61.160",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "misha.at",
-      "links": "148.255.0.249",
       "type": "pdns",
       "ln": 2
     },
@@ -6903,12 +6825,6 @@
     {
       "host": "misha.at",
       "links": "189.165.51.125",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "misha.at",
-      "links": "189.165.53.172",
       "type": "pdns",
       "ln": 2
     },
@@ -6974,12 +6890,6 @@
     },
     {
       "host": "misha.at",
-      "links": "79.102.181.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "misha.at",
       "links": "86.122.134.195",
       "type": "pdns",
       "ln": 2
@@ -6987,12 +6897,6 @@
     {
       "host": "misha.at",
       "links": "87.119.100.220",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "misha.at",
-      "links": "92.62.104.245",
       "type": "pdns",
       "ln": 2
     },
@@ -7814,24 +7718,6 @@
     },
     {
       "host": "privacy-tools-for-you-781.com",
-      "links": "146.185.239.127",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "privacy-tools-for-you-781.com",
-      "links": "194.36.178.148",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "privacy-tools-for-you-781.com",
-      "links": "194.87.94.25",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "privacy-tools-for-you-781.com",
       "links": "34.118.37.165",
       "type": "pdns",
       "ln": 2
@@ -7862,7 +7748,7 @@
     },
     {
       "host": "privacy-tools-for-you-783.com",
-      "links": "47.89.255.242",
+      "links": "87.251.79.93",
       "type": "pdns",
       "ln": 2
     },
