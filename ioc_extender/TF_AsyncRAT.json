@@ -44,6 +44,18 @@
     },
     {
       "host": "ThreatFox: AsyncRAT",
+      "links": "bodmas01.zapto.org",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: AsyncRAT",
+      "links": "chongmei33.publicvm.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: AsyncRAT",
       "links": "ghr4b4.ddns.net",
       "type": "z",
       "ln": 2
@@ -97,6 +109,18 @@
       "ln": 2
     },
     {
+      "host": "bodmas01.zapto.org",
+      "links": "79.134.225.70",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "chongmei33.publicvm.com",
+      "links": "205.185.118.52",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "digisac.me",
       "links": "ae51a24ffc60075852ec63e9d450da44adccd4ca",
       "type": "certs",
@@ -105,6 +129,18 @@
     {
       "host": "ghr4b4.ddns.net",
       "links": "196.206.85.168",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "googleservers.org",
+      "links": "205.185.118.52",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hafiznor336.duckdns.org",
+      "links": "79.134.225.70",
       "type": "pdns",
       "ln": 2
     },

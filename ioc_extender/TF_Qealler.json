@@ -20,6 +20,12 @@
   "data": [
     {
       "host": "3xpl0its.duckdns.org",
+      "links": "191.96.168.93",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "3xpl0its.duckdns.org",
       "links": "82.73.169.161",
       "type": "pdns",
       "ln": 2
@@ -40,6 +46,12 @@
       "host": "ThreatFox: Qealler",
       "links": "3xpl0its.duckdns.org",
       "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "nl-amsterdam.privacy.network",
+      "links": "191.96.168.93",
+      "type": "pdns",
       "ln": 2
     }
   ]
