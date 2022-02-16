@@ -43,12 +43,6 @@
       "ln": 2
     },
     {
-      "host": "178.128.146.23.dsl.dyn.forthnet.gr",
-      "links": "178.128.146.23",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "178.128.239.82.dsl.dyn.forthnet.gr",
       "links": "178.128.239.82",
       "type": "pdns",
@@ -1617,12 +1611,6 @@
     {
       "host": "chinabejing.cyou",
       "links": "5.39.221.49",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "chinadopiller.cyou",
-      "links": "178.128.146.23",
       "type": "pdns",
       "ln": 2
     },
@@ -3709,12 +3697,6 @@
       "ln": 2
     },
     {
-      "host": "hythereandhere.top",
-      "links": "178.128.146.23",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "icehokkfer.online",
       "links": "185.14.30.72",
       "type": "pdns",
@@ -4828,6 +4810,12 @@
       "host": "mousetopdiming.top",
       "links": "45.147.231.103",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mspf2-05.com",
+      "links": "5990d9f3e13a918c066515e4108c58aa07358a6f",
+      "type": "certs",
       "ln": 2
     },
     {

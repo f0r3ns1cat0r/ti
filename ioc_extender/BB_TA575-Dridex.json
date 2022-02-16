@@ -61,6 +61,12 @@
       "ln": 2
     },
     {
+      "host": "2043.avolonage.com",
+      "links": "3e1acf40f468aff9abfdf3083946364405185db5",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "2043.xyz",
       "links": "12ac326da902af5dfd4222a9e9916366ab00112c",
       "type": "certs",
@@ -69,6 +75,12 @@
     {
       "host": "2043.xyz",
       "links": "166fe8fb48e83f815dfa2e259610c85ded0a8222",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "2043.xyz",
+      "links": "3e1acf40f468aff9abfdf3083946364405185db5",
       "type": "certs",
       "ln": 2
     },
@@ -13089,6 +13101,12 @@
     {
       "host": "www.2043.avolonage.com",
       "links": "166fe8fb48e83f815dfa2e259610c85ded0a8222",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.2043.avolonage.com",
+      "links": "3e1acf40f468aff9abfdf3083946364405185db5",
       "type": "certs",
       "ln": 2
     },
