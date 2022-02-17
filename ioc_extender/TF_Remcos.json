@@ -74,6 +74,12 @@
     },
     {
       "host": "ThreatFox: Remcos",
+      "links": "hawman.cc.dvrlists.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Remcos",
       "links": "newlogs.ddns.net",
       "type": "z",
       "ln": 2
@@ -363,6 +369,18 @@
     {
       "host": "gene.ddnsgeek.com",
       "links": "152.89.162.59",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hafiznor336.duckdns.org",
+      "links": "194.5.98.11",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hawman.cc.dvrlists.com",
+      "links": "194.5.98.11",
       "type": "pdns",
       "ln": 2
     },
