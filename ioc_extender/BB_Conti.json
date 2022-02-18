@@ -211,12 +211,6 @@
       "ln": 2
     },
     {
-      "host": "ns1.saferoiworks.com",
-      "links": "162.244.80.254",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ns1.tighingmarks.com",
       "links": "162.244.80.254",
       "type": "pdns",
@@ -241,12 +235,6 @@
       "ln": 2
     },
     {
-      "host": "ns2.saferoiworks.com",
-      "links": "162.244.80.254",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ns2.tighingmarks.com",
       "links": "162.244.80.254",
       "type": "pdns",
@@ -266,12 +254,6 @@
     },
     {
       "host": "reverent-taussig.162-244-80-254.plesk.page",
-      "links": "162.244.80.254",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "saferoiworks.com",
       "links": "162.244.80.254",
       "type": "pdns",
       "ln": 2

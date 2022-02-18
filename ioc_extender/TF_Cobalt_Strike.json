@@ -596,12 +596,6 @@
     },
     {
       "host": "ThreatFox: Cobalt Strike",
-      "links": "gtstatistic.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: Cobalt Strike",
       "links": "halartymana.com",
       "type": "z",
       "ln": 2
@@ -1149,6 +1143,12 @@
     {
       "host": "adobeupdate.ddns.info",
       "links": "4e5aec62bf06b70740511e03828fb1c6e84f5370",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "adobeupdate.ddns.info",
+      "links": "92c862cfb1799ebc9f3715c41da8ce88241c8cdc",
       "type": "certs",
       "ln": 2
     },
@@ -2485,12 +2485,6 @@
       "ln": 2
     },
     {
-      "host": "gtstatistic.com",
-      "links": "37.120.222.205",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "gxtlxgl.com",
       "links": "4e5aec62bf06b70740511e03828fb1c6e84f5370",
       "type": "certs",
@@ -3343,6 +3337,12 @@
       "ln": 2
     },
     {
+      "host": "mucoris.ru",
+      "links": "92c862cfb1799ebc9f3715c41da8ce88241c8cdc",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "mutual1.leader--mutual.com",
       "links": "79.141.163.33",
       "type": "pdns",
@@ -3393,12 +3393,6 @@
     {
       "host": "navcsvteam.tech",
       "links": "172.93.201.61",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "navnteam.site",
-      "links": "172.93.201.63",
       "type": "pdns",
       "ln": 2
     },
@@ -3751,12 +3745,6 @@
       "ln": 2
     },
     {
-      "host": "parradocorradu.top",
-      "links": "139.60.161.215",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "pazzabolle.ru",
       "links": "c4fcae41ae4c57061f31a74c2de72bc72afb2201",
       "type": "certs",
@@ -3865,6 +3853,12 @@
       "ln": 2
     },
     {
+      "host": "poulodaycarecentre.site",
+      "links": "92c862cfb1799ebc9f3715c41da8ce88241c8cdc",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "presentart.pt",
       "links": "4e5aec62bf06b70740511e03828fb1c6e84f5370",
       "type": "certs",
@@ -3946,12 +3940,6 @@
       "host": "qmmqm.com",
       "links": "233dc7c632eb4774476d700031f1795fefad39f4",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "qorunegolu.club",
-      "links": "37.120.222.205",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -4603,12 +4591,6 @@
       "ln": 2
     },
     {
-      "host": "vm2377304.32ssd.had.wf",
-      "links": "45.88.107.40",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "vm2945813.33ssd.had.wf",
       "links": "45.88.107.40",
       "type": "pdns",
@@ -4654,12 +4636,6 @@
       "host": "vpnkerio.com",
       "links": "50d59ec66cbdeaa41ae1403f2d9a53b5778784ac",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "vps.ljt369.top",
-      "links": "47.243.136.32",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -4815,6 +4791,12 @@
     {
       "host": "word.azureword.com",
       "links": "4e5aec62bf06b70740511e03828fb1c6e84f5370",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "word.azureword.com",
+      "links": "92c862cfb1799ebc9f3715c41da8ce88241c8cdc",
       "type": "certs",
       "ln": 2
     },

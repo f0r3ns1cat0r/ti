@@ -176,12 +176,6 @@
     },
     {
       "host": "ThreatFox: magecart",
-      "links": "google-analytisc.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: magecart",
       "links": "google-codes.com",
       "type": "z",
       "ln": 2
@@ -913,6 +907,12 @@
       "ln": 2
     },
     {
+      "host": "dimensionword.com",
+      "links": "9fc8a24867a03252f89f19ac5094697cacdccc54",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "dloraimerpertyzloqmey.store",
       "links": "9fc8a24867a03252f89f19ac5094697cacdccc54",
       "type": "certs",
@@ -1237,20 +1237,8 @@
       "ln": 2
     },
     {
-      "host": "google-analytisc.com",
-      "links": "47.88.12.192",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "google-codes.com",
       "links": "185.195.26.104",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "google-codes.com",
-      "links": "47.88.12.192",
       "type": "pdns",
       "ln": 2
     },
@@ -1269,12 +1257,6 @@
     {
       "host": "google-create.com",
       "links": "185.195.26.104",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "google-create.com",
-      "links": "47.88.12.192",
       "type": "pdns",
       "ln": 2
     },
@@ -1353,12 +1335,6 @@
     {
       "host": "google-thumbs.com",
       "links": "185.195.26.104",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "google-thumbs.com",
-      "links": "47.88.12.192",
       "type": "pdns",
       "ln": 2
     },
@@ -2047,6 +2023,12 @@
       "ln": 2
     },
     {
+      "host": "meterkulov.com",
+      "links": "9fc8a24867a03252f89f19ac5094697cacdccc54",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "metobkaz.store",
       "links": "9fc8a24867a03252f89f19ac5094697cacdccc54",
       "type": "certs",
@@ -2384,12 +2366,6 @@
     },
     {
       "host": "paypal-merchants.com",
-      "links": "47.88.12.192",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "paypal-merchants.com",
       "links": "91.219.62.215",
       "type": "pdns",
       "ln": 2
@@ -2397,12 +2373,6 @@
     {
       "host": "paypal-moneypay.com",
       "links": "185.195.26.104",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "paypal-moneypay.com",
-      "links": "47.88.12.192",
       "type": "pdns",
       "ln": 2
     },
@@ -2835,12 +2805,6 @@
     {
       "host": "ssl-authorization.com",
       "links": "185.195.26.104",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ssl-authorization.com",
-      "links": "47.88.12.192",
       "type": "pdns",
       "ln": 2
     },
@@ -3343,32 +3307,8 @@
       "ln": 2
     },
     {
-      "host": "www.google-assignments.com",
-      "links": "47.88.12.192",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.google-conversion.com",
-      "links": "47.88.12.192",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.google-note.com",
-      "links": "47.88.12.192",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "www.google-sanek.com",
       "links": "185.195.26.104",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.google-sanek.com",
-      "links": "47.88.12.192",
       "type": "pdns",
       "ln": 2
     },
@@ -3381,12 +3321,6 @@
     {
       "host": "www.google-squery.com",
       "links": "185.195.26.104",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.google-squery.com",
-      "links": "47.88.12.192",
       "type": "pdns",
       "ln": 2
     },
@@ -3464,12 +3398,6 @@
     },
     {
       "host": "www.paypal-merchants.com",
-      "links": "47.88.12.192",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.paypal-merchants.com",
       "links": "91.219.62.215",
       "type": "pdns",
       "ln": 2
@@ -3477,12 +3405,6 @@
     {
       "host": "www.paypal-moneypay.com",
       "links": "185.195.26.104",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.paypal-moneypay.com",
-      "links": "47.88.12.192",
       "type": "pdns",
       "ln": 2
     },
@@ -3507,12 +3429,6 @@
     {
       "host": "www.ssl-authorization.com",
       "links": "185.195.26.104",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.ssl-authorization.com",
-      "links": "47.88.12.192",
       "type": "pdns",
       "ln": 2
     },

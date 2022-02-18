@@ -1645,6 +1645,12 @@
       "ln": 2
     },
     {
+      "host": "hughers3.com",
+      "links": "66.29.133.181",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "hyipboybtc.com",
       "links": "63.250.44.253",
       "type": "pdns",
@@ -2247,12 +2253,6 @@
     {
       "host": "nivxros.com",
       "links": "66.29.135.231",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "novergi.com",
-      "links": "199.192.26.235",
       "type": "pdns",
       "ln": 2
     },
@@ -2872,12 +2872,6 @@
       "host": "server1.katanacapital.tech",
       "links": "27a02278a2cb6dbfa358c3515f7caaf9f7037cf8",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "server1.loopvps.com",
-      "links": "162.0.213.148",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -3597,12 +3591,6 @@
     {
       "host": "wpad.yoga",
       "links": "162.0.223.226",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.162-0-238-245.cprapid.com",
-      "links": "162.0.238.245",
       "type": "pdns",
       "ln": 2
     },
