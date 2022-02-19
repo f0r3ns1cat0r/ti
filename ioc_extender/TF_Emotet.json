@@ -19,6 +19,30 @@
   ],
   "data": [
     {
+      "host": "178.128.213.86.dsl.dyn.forthnet.gr",
+      "links": "178.128.213.86",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Emotet",
+      "links": "accessunited-bank.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Emotet",
+      "links": "artanddesign.one",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Emotet",
+      "links": "autodiscover.karlamejia.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
       "host": "ThreatFox: Emotet",
       "links": "bliblah.com",
       "type": "z",
@@ -32,7 +56,19 @@
     },
     {
       "host": "ThreatFox: Emotet",
+      "links": "crmweb.info",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Emotet",
       "links": "dandtpremierhomes.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Emotet",
+      "links": "eleccom.shop",
       "type": "z",
       "ln": 2
     },
@@ -45,6 +81,18 @@
     {
       "host": "ThreatFox: Emotet",
       "links": "insanrabbany.sch.id",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Emotet",
+      "links": "izocab.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Emotet",
+      "links": "krezol-group.com",
       "type": "z",
       "ln": 2
     },
@@ -79,9 +127,51 @@
       "ln": 2
     },
     {
+      "host": "accessunited-bank.alainnationalbank.com",
+      "links": "149896eadd42805d9363e0557b8233515c57f24f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "accessunited-bank.alainnationalbank.com",
+      "links": "bc5439e1582fa7c2778f797951a6a9cd8c337512",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "accessunited-bank.com",
+      "links": "149896eadd42805d9363e0557b8233515c57f24f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "accessunited-bank.com",
+      "links": "bc5439e1582fa7c2778f797951a6a9cd8c337512",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "adventuresinministry.org",
       "links": "198.12.217.110",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "artanddesign.one",
+      "links": "178.128.213.86",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "autodiscover.accessunited-bank.com",
+      "links": "149896eadd42805d9363e0557b8233515c57f24f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "autodiscover.accessunited-bank.com",
+      "links": "bc5439e1582fa7c2778f797951a6a9cd8c337512",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -123,6 +213,18 @@
     {
       "host": "autodiscover.dandtpremierhomes.com",
       "links": "e0fc617936ae14e751bffa10d03b80e23753e046",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "autodiscover.karlamejia.com",
+      "links": "1d243cf01554114406e6be5df40ce2d40e38fdb5",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "autodiscover.karlamejia.com",
+      "links": "2ea388af96edb0c5956f7784accbf6fa32952bd2",
       "type": "certs",
       "ln": 2
     },
@@ -217,6 +319,12 @@
       "ln": 2
     },
     {
+      "host": "chel.eleccom.shop",
+      "links": "91.226.80.51",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "choiceonecharlotte.com",
       "links": "198.12.217.110",
       "type": "pdns",
@@ -226,6 +334,24 @@
       "host": "cinshacreations.com",
       "links": "198.12.217.110",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "corp.krezol.ru",
+      "links": "92.50.134.78",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cpanel.accessunited-bank.com",
+      "links": "149896eadd42805d9363e0557b8233515c57f24f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpanel.accessunited-bank.com",
+      "links": "bc5439e1582fa7c2778f797951a6a9cd8c337512",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -337,6 +463,18 @@
       "ln": 2
     },
     {
+      "host": "cpanel.karlamejia.com",
+      "links": "1d243cf01554114406e6be5df40ce2d40e38fdb5",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpanel.karlamejia.com",
+      "links": "2ea388af96edb0c5956f7784accbf6fa32952bd2",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "cpanel.pinnaclehomesusa.net",
       "links": "0a2daf35e28442c146bcaa0fca16ec6c359d0d17",
       "type": "certs",
@@ -393,6 +531,18 @@
     {
       "host": "cpanel.renovatiog.ltd",
       "links": "e31795788d6ed23e956aa6379cee3551125d17b8",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcalendars.accessunited-bank.com",
+      "links": "149896eadd42805d9363e0557b8233515c57f24f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcalendars.accessunited-bank.com",
+      "links": "bc5439e1582fa7c2778f797951a6a9cd8c337512",
       "type": "certs",
       "ln": 2
     },
@@ -499,6 +649,18 @@
       "ln": 2
     },
     {
+      "host": "cpcalendars.karlamejia.com",
+      "links": "1d243cf01554114406e6be5df40ce2d40e38fdb5",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcalendars.karlamejia.com",
+      "links": "2ea388af96edb0c5956f7784accbf6fa32952bd2",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "cpcalendars.pinnaclehomesusa.net",
       "links": "0a2daf35e28442c146bcaa0fca16ec6c359d0d17",
       "type": "certs",
@@ -555,6 +717,18 @@
     {
       "host": "cpcalendars.renovatiog.ltd",
       "links": "e31795788d6ed23e956aa6379cee3551125d17b8",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcontacts.accessunited-bank.com",
+      "links": "149896eadd42805d9363e0557b8233515c57f24f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcontacts.accessunited-bank.com",
+      "links": "bc5439e1582fa7c2778f797951a6a9cd8c337512",
       "type": "certs",
       "ln": 2
     },
@@ -661,6 +835,18 @@
       "ln": 2
     },
     {
+      "host": "cpcontacts.karlamejia.com",
+      "links": "1d243cf01554114406e6be5df40ce2d40e38fdb5",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcontacts.karlamejia.com",
+      "links": "2ea388af96edb0c5956f7784accbf6fa32952bd2",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "cpcontacts.pinnaclehomesusa.net",
       "links": "0a2daf35e28442c146bcaa0fca16ec6c359d0d17",
       "type": "certs",
@@ -736,6 +922,12 @@
       "host": "crisbdev.com",
       "links": "f8d356b915f27694de303a1cfc612d854a70e818",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "crmweb.info",
+      "links": "195.28.27.98",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -823,6 +1015,12 @@
       "ln": 2
     },
     {
+      "host": "eleccom.shop",
+      "links": "91.226.80.51",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "eventmasti.com",
       "links": "247a52801fc021daf12657905c90ba85d3680b46",
       "type": "certs",
@@ -901,6 +1099,18 @@
       "ln": 2
     },
     {
+      "host": "festivalhomepropertyagencyltd.xyz",
+      "links": "178.128.213.86",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "festivalhomepropertyagencyltdcrm.one",
+      "links": "178.128.213.86",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "fortmillrealestate.com",
       "links": "198.12.217.110",
       "type": "pdns",
@@ -909,6 +1119,12 @@
     {
       "host": "gaydillerdesign.com",
       "links": "198.12.217.110",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "goldfontaine.shop",
+      "links": "178.128.213.86",
       "type": "pdns",
       "ln": 2
     },
@@ -931,8 +1147,32 @@
       "ln": 2
     },
     {
+      "host": "helios.ink",
+      "links": "178.128.213.86",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "helioscrm.xyz",
+      "links": "178.128.213.86",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "heliosweb.tk",
+      "links": "178.128.213.86",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "imap.plyboncompany.com",
       "links": "198.12.217.110",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "indlab.org",
+      "links": "92.50.134.78",
       "type": "pdns",
       "ln": 2
     },
@@ -961,9 +1201,51 @@
       "ln": 2
     },
     {
+      "host": "izocab.com",
+      "links": "069a2ff76db2f531888e0e8c1c5cbe82e54c0829",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "izocab.com",
+      "links": "8d33af93d0993bdf8bec13379f9b581c2b1d065b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "izocab.com",
+      "links": "c13d460397014356361ecfbf355c088e6c392120",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "izocab.com",
+      "links": "e18e34e5be8484e60fc8c0f385a3f00b7e7cd198",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "izocab.com",
+      "links": "f052cbc188b1e5972cbaabaf0bbc6de4c2bb9255",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "joynerproductions.com",
       "links": "198.12.217.110",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "karlamejia.com",
+      "links": "1d243cf01554114406e6be5df40ce2d40e38fdb5",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "karlamejia.com",
+      "links": "2ea388af96edb0c5956f7784accbf6fa32952bd2",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -976,6 +1258,84 @@
       "host": "katieskidz.org",
       "links": "198.12.217.110",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "krd.eleccom.shop",
+      "links": "91.226.80.51",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "krezol-group.com",
+      "links": "92.50.134.78",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "krezol-ns.ru",
+      "links": "92.50.134.78",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "krezol.com",
+      "links": "92.50.134.78",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "krezol.ru",
+      "links": "92.50.134.78",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "krezolgroup.com",
+      "links": "92.50.134.78",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "krs.eleccom.shop",
+      "links": "91.226.80.51",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "kwongfungricecrm.online",
+      "links": "178.128.213.86",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "kzn.eleccom.shop",
+      "links": "91.226.80.51",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "lumas.nirondemo.tk",
+      "links": "178.128.213.86",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "m4.krezol.ru",
+      "links": "92.50.134.78",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.accessunited-bank.com",
+      "links": "149896eadd42805d9363e0557b8233515c57f24f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.accessunited-bank.com",
+      "links": "bc5439e1582fa7c2778f797951a6a9cd8c337512",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -1123,6 +1483,18 @@
       "ln": 2
     },
     {
+      "host": "mail.karlamejia.com",
+      "links": "1d243cf01554114406e6be5df40ce2d40e38fdb5",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.karlamejia.com",
+      "links": "2ea388af96edb0c5956f7784accbf6fa32952bd2",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "mail.pinnaclehomesusa.net",
       "links": "0a2daf35e28442c146bcaa0fca16ec6c359d0d17",
       "type": "certs",
@@ -1189,6 +1561,18 @@
       "ln": 2
     },
     {
+      "host": "mangfongproperty.xyz",
+      "links": "178.128.213.86",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mangfongpropertycrm.xyz",
+      "links": "178.128.213.86",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "marketplusua.com",
       "links": "77.87.198.34",
       "type": "pdns",
@@ -1209,6 +1593,36 @@
     {
       "host": "moodyhd.com",
       "links": "198.12.217.110",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "msk.eleccom.shop",
+      "links": "91.226.80.51",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "nn.eleccom.shop",
+      "links": "91.226.80.51",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "nsk.eleccom.shop",
+      "links": "91.226.80.51",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "omsk.eleccom.shop",
+      "links": "91.226.80.51",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "perm.eleccom.shop",
+      "links": "91.226.80.51",
       "type": "pdns",
       "ln": 2
     },
@@ -1273,6 +1687,18 @@
       "ln": 2
     },
     {
+      "host": "portal.krezol.ru",
+      "links": "92.50.134.78",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "project.nironcrm.tk",
+      "links": "178.128.213.86",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "renovatiog.ltd",
       "links": "3b5010851aa0c5bcac7974913cb9d2ec4a655af4",
       "type": "certs",
@@ -1315,6 +1741,54 @@
       "ln": 2
     },
     {
+      "host": "rst.eleccom.shop",
+      "links": "91.226.80.51",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ru.izocab.com",
+      "links": "069a2ff76db2f531888e0e8c1c5cbe82e54c0829",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "ru.izocab.com",
+      "links": "8d33af93d0993bdf8bec13379f9b581c2b1d065b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "ru.izocab.com",
+      "links": "c13d460397014356361ecfbf355c088e6c392120",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "ru.izocab.com",
+      "links": "e18e34e5be8484e60fc8c0f385a3f00b7e7cd198",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "ru.izocab.com",
+      "links": "f052cbc188b1e5972cbaabaf0bbc6de4c2bb9255",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "shinghingembroiderycrm.xyz",
+      "links": "178.128.213.86",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "shinghingembroideryshop.xyz",
+      "links": "178.128.213.86",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "shopearps.com",
       "links": "198.12.217.110",
       "type": "pdns",
@@ -1324,6 +1798,18 @@
       "host": "sma.insanrabbany.sch.id",
       "links": "201d763b2d3a916c0e299a000feb4344b5c05695",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "smr.eleccom.shop",
+      "links": "91.226.80.51",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "spb.eleccom.shop",
+      "links": "91.226.80.51",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -1351,14 +1837,68 @@
       "ln": 2
     },
     {
+      "host": "test.crmweb.info",
+      "links": "195.28.27.98",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "tmn.eleccom.shop",
+      "links": "91.226.80.51",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ufa.eleccom.shop",
+      "links": "91.226.80.51",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ufahimkom.ru",
+      "links": "92.50.134.78",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "verisproperties.com",
       "links": "198.12.217.110",
       "type": "pdns",
       "ln": 2
     },
     {
+      "host": "vgg.eleccom.shop",
+      "links": "91.226.80.51",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "vm-898e98d3.netangels.ru",
+      "links": "91.226.80.51",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "vpn.krezol.ru",
+      "links": "92.50.134.78",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "vrn.eleccom.shop",
+      "links": "91.226.80.51",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "vs1760.mirohost.net",
       "links": "77.87.198.34",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "waterworld.sbs",
+      "links": "178.128.213.86",
       "type": "pdns",
       "ln": 2
     },
@@ -1372,6 +1912,18 @@
       "host": "waxhawumc.com",
       "links": "198.12.217.110",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "webdisk.accessunited-bank.com",
+      "links": "149896eadd42805d9363e0557b8233515c57f24f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webdisk.accessunited-bank.com",
+      "links": "bc5439e1582fa7c2778f797951a6a9cd8c337512",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -1479,6 +2031,18 @@
     {
       "host": "webdisk.eventmasti.com",
       "links": "f3c38080c8f4c7b7ddacc46690ad9397ed2d351a",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webdisk.karlamejia.com",
+      "links": "1d243cf01554114406e6be5df40ce2d40e38fdb5",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webdisk.karlamejia.com",
+      "links": "2ea388af96edb0c5956f7784accbf6fa32952bd2",
       "type": "certs",
       "ln": 2
     },
@@ -1543,6 +2107,18 @@
       "ln": 2
     },
     {
+      "host": "webmail.accessunited-bank.com",
+      "links": "149896eadd42805d9363e0557b8233515c57f24f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webmail.accessunited-bank.com",
+      "links": "bc5439e1582fa7c2778f797951a6a9cd8c337512",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "webmail.bliblah.com",
       "links": "004886f8051d2053ee02f3b657180c671d860fb4",
       "type": "certs",
@@ -1647,6 +2223,18 @@
     {
       "host": "webmail.eventmasti.com",
       "links": "f3c38080c8f4c7b7ddacc46690ad9397ed2d351a",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webmail.karlamejia.com",
+      "links": "1d243cf01554114406e6be5df40ce2d40e38fdb5",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webmail.karlamejia.com",
+      "links": "2ea388af96edb0c5956f7784accbf6fa32952bd2",
       "type": "certs",
       "ln": 2
     },
@@ -1777,6 +2365,30 @@
       "ln": 2
     },
     {
+      "host": "woodsygarden.shop",
+      "links": "178.128.213.86",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "woodsygardencrm.xyz",
+      "links": "178.128.213.86",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.accessunited-bank.alainnationalbank.com",
+      "links": "149896eadd42805d9363e0557b8233515c57f24f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.accessunited-bank.alainnationalbank.com",
+      "links": "bc5439e1582fa7c2778f797951a6a9cd8c337512",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "www.bliblah.com.pandagroup.my",
       "links": "004886f8051d2053ee02f3b657180c671d860fb4",
       "type": "certs",
@@ -1867,6 +2479,42 @@
       "ln": 2
     },
     {
+      "host": "www.karlamejia.com",
+      "links": "1d243cf01554114406e6be5df40ce2d40e38fdb5",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.karlamejia.com",
+      "links": "2ea388af96edb0c5956f7784accbf6fa32952bd2",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.krezol-ns.ru",
+      "links": "92.50.134.78",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.krezol.com",
+      "links": "92.50.134.78",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.krezol.ru",
+      "links": "92.50.134.78",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.krezolgroup.com",
+      "links": "92.50.134.78",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "www.pinnaclehomesusa.gaydillerdesign.com",
       "links": "0a2daf35e28442c146bcaa0fca16ec6c359d0d17",
       "type": "certs",
@@ -1891,6 +2539,12 @@
       "ln": 2
     },
     {
+      "host": "www.portal.krezol.ru",
+      "links": "92.50.134.78",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "www.ppdb.insanrabbany.sch.id",
       "links": "201d763b2d3a916c0e299a000feb4344b5c05695",
       "type": "certs",
@@ -1903,6 +2557,36 @@
       "ln": 2
     },
     {
+      "host": "www.ru.izocab.com",
+      "links": "069a2ff76db2f531888e0e8c1c5cbe82e54c0829",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.ru.izocab.com",
+      "links": "8d33af93d0993bdf8bec13379f9b581c2b1d065b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.ru.izocab.com",
+      "links": "c13d460397014356361ecfbf355c088e6c392120",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.ru.izocab.com",
+      "links": "e18e34e5be8484e60fc8c0f385a3f00b7e7cd198",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.ru.izocab.com",
+      "links": "f052cbc188b1e5972cbaabaf0bbc6de4c2bb9255",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "www.sma.insanrabbany.sch.id",
       "links": "337e018e21be7030e25f9efc8731479cc203b624",
       "type": "certs",
@@ -1924,6 +2608,42 @@
       "host": "www.smp.insanrabbany.sch.id",
       "links": "a00ddf3414992deb8ef4953c39519d095e298d6b",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.ufahimkom.ru",
+      "links": "92.50.134.78",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "xn----itbgkhnenp.xn--p1ai",
+      "links": "92.50.134.78",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "yeengarbeautycentre.xyz",
+      "links": "178.128.213.86",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "yeengarbeautycentreappointment.xyz",
+      "links": "178.128.213.86",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "zealhkcompany.shop",
+      "links": "178.128.213.86",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "zealhkcompanycrm.xyz",
+      "links": "178.128.213.86",
+      "type": "pdns",
       "ln": 2
     }
   ]

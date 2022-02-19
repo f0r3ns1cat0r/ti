@@ -80,6 +80,12 @@
     },
     {
       "host": "ThreatFox: ISFB",
+      "links": "agenziaitaliane.bar",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: ISFB",
       "links": "apr.intoolkom.at",
       "type": "z",
       "ln": 2
@@ -1791,6 +1797,12 @@
     {
       "host": "advanceamericas.com",
       "links": "203.228.9.102",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "agenziaitaliane.bar",
+      "links": "62.173.149.99",
       "type": "pdns",
       "ln": 2
     },
@@ -3752,12 +3764,6 @@
     },
     {
       "host": "membro.at",
-      "links": "211.171.233.126",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "membro.at",
       "links": "58.124.228.242",
       "type": "pdns",
       "ln": 2
@@ -3849,12 +3855,6 @@
     {
       "host": "misha.at",
       "links": "211.119.84.112",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "misha.at",
-      "links": "211.171.233.126",
       "type": "pdns",
       "ln": 2
     },
@@ -4009,6 +4009,12 @@
       "ln": 2
     },
     {
+      "host": "ns1.sodasphere.com",
+      "links": "62.173.149.99",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ns2.device-pro.ru",
       "links": "62.173.147.236",
       "type": "pdns",
@@ -4035,6 +4041,12 @@
     {
       "host": "ns2.logformhop1.org",
       "links": "186.188.224.208",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.sodasphere.com",
+      "links": "62.173.149.99",
       "type": "pdns",
       "ln": 2
     },

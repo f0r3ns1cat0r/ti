@@ -1837,6 +1837,12 @@
       "ln": 2
     },
     {
+      "host": "comedia.me",
+      "links": "92c862cfb1799ebc9f3715c41da8ce88241c8cdc",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "community.lisamariakeck.com",
       "links": "143.244.158.239",
       "type": "pdns",
@@ -2427,6 +2433,12 @@
     {
       "host": "gazprombank.com.ru",
       "links": "4e5aec62bf06b70740511e03828fb1c6e84f5370",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "gazprombank.com.ru",
+      "links": "92c862cfb1799ebc9f3715c41da8ce88241c8cdc",
       "type": "certs",
       "ln": 2
     },
@@ -4635,6 +4647,12 @@
     {
       "host": "vpnkerio.com",
       "links": "50d59ec66cbdeaa41ae1403f2d9a53b5778784ac",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "vpnkerio.com",
+      "links": "92c862cfb1799ebc9f3715c41da8ce88241c8cdc",
       "type": "certs",
       "ln": 2
     },
