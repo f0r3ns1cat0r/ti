@@ -169,6 +169,18 @@
       "ln": 2
     },
     {
+      "host": "nanopc.linkpc.net",
+      "links": "185.192.69.136",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "netwire.linkpc.net",
+      "links": "185.192.69.136",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "netwire.linkpc.net",
       "links": "217.64.149.171",
       "type": "pdns",
