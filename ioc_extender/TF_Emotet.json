@@ -229,6 +229,12 @@
       "ln": 2
     },
     {
+      "host": "autodiscover.karlamejia.com",
+      "links": "ffce5f158006a55b7c785b156c90b01e66426cad",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "autodiscover.pinnaclehomesusa.net",
       "links": "0a2daf35e28442c146bcaa0fca16ec6c359d0d17",
       "type": "certs",
@@ -1245,6 +1251,12 @@
     {
       "host": "karlamejia.com",
       "links": "2ea388af96edb0c5956f7784accbf6fa32952bd2",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "karlamejia.com",
+      "links": "ffce5f158006a55b7c785b156c90b01e66426cad",
       "type": "certs",
       "ln": 2
     },
