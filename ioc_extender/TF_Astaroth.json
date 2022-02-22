@@ -31,15 +31,57 @@
       "ln": 2
     },
     {
+      "host": "dimockcenter.org",
+      "links": "154.53.50.57",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "escriturario.us",
       "links": "0805f4ac4caa09359f1d75462b789686bbf2c1d9",
       "type": "certs",
       "ln": 2
     },
     {
+      "host": "escriturario.us",
+      "links": "154.53.50.57",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "goodgamesguild.com",
+      "links": "154.53.50.57",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "matt1.neodns.info",
+      "links": "154.53.50.57",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "matt2.neodns.info",
+      "links": "154.53.50.57",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ponderadocs.cloud",
       "links": "0805f4ac4caa09359f1d75462b789686bbf2c1d9",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "rz1.neodns.info",
+      "links": "154.53.50.57",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "rz2.neodns.info",
+      "links": "154.53.50.57",
+      "type": "pdns",
       "ln": 2
     }
   ]
