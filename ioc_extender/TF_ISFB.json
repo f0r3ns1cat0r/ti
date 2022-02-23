@@ -2318,6 +2318,12 @@
     },
     {
       "host": "entrate.bar",
+      "links": "405fc604b5abe3d430c94caa4742aaa1b9ed5952",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "entrate.bar",
       "links": "62.173.147.254",
       "type": "pdns",
       "ln": 2
@@ -4123,6 +4129,12 @@
       "ln": 2
     },
     {
+      "host": "openwrt-aggiornamento-data.controlliamo.com",
+      "links": "405fc604b5abe3d430c94caa4742aaa1b9ed5952",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "order-laptopsdirekt.online",
       "links": "c1fffc9e111faad70d016674579d74d5e68ab652",
       "type": "certs",
@@ -4491,12 +4503,6 @@
     {
       "host": "srtuiyhuali.at",
       "links": "115.88.24.203",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "srtuiyhuali.at",
-      "links": "138.36.3.134",
       "type": "pdns",
       "ln": 2
     },

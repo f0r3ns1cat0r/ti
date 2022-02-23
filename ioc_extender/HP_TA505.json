@@ -109,6 +109,12 @@
       "ln": 2
     },
     {
+      "host": "deutschebank-helpdesk.eu",
+      "links": "730cdea95c02319289ee20b9b4e8b694e13d1d39",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "diarromonico.com",
       "links": "51.195.150.10",
       "type": "pdns",
@@ -141,6 +147,12 @@
     {
       "host": "fidufagios.com",
       "links": "5511745394ac8ab9de8f97f35553f4be03d0a6d4",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "fidufagios.com",
+      "links": "730cdea95c02319289ee20b9b4e8b694e13d1d39",
       "type": "certs",
       "ln": 2
     },
@@ -232,6 +244,12 @@
       "host": "www.169-239-128-11.cprapid.com",
       "links": "169.239.128.11",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.deutschebank-helpdesk.eu",
+      "links": "730cdea95c02319289ee20b9b4e8b694e13d1d39",
+      "type": "certs",
       "ln": 2
     },
     {
