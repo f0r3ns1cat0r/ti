@@ -3391,12 +3391,6 @@
       "ln": 2
     },
     {
-      "host": "navcsvteam.tech",
-      "links": "172.93.201.61",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "nazi.uy",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
@@ -3991,12 +3985,6 @@
       "ln": 2
     },
     {
-      "host": "ripe-back-s31.bioother.com",
-      "links": "162.244.82.77",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ripe-back-s31.howltube.com",
       "links": "162.244.82.77",
       "type": "pdns",
@@ -4036,12 +4024,6 @@
       "host": "russ110979.store",
       "links": "c4fcae41ae4c57061f31a74c2de72bc72afb2201",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "sagapo-logistics.website",
-      "links": "209.250.240.40",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -4309,6 +4291,12 @@
       "ln": 2
     },
     {
+      "host": "speedjujitsu.com",
+      "links": "92c862cfb1799ebc9f3715c41da8ce88241c8cdc",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "sql.healthtechsales.com",
       "links": "143.198.158.146",
       "type": "pdns",
@@ -4389,12 +4377,6 @@
     {
       "host": "syncdataservices.com",
       "links": "149.255.35.147",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "syncgoogle.site",
-      "links": "209.250.240.40",
       "type": "pdns",
       "ln": 2
     },

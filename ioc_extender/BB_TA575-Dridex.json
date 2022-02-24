@@ -716,6 +716,12 @@
     },
     {
       "host": "BB Threat Research: TA575-Dridex",
+      "links": "montefioreathletic.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "BB Threat Research: TA575-Dridex",
       "links": "multisistemas.co",
       "type": "z",
       "ln": 2
@@ -1252,12 +1258,6 @@
       "host": "anysecure.com",
       "links": "3f7fafa91afbddb7a675066910431d3c3087e26a",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "api-dev.lovo.ai",
-      "links": "13.35.89.10",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -2659,12 +2659,6 @@
       "ln": 2
     },
     {
-      "host": "blog.starkshaw.me",
-      "links": "13.35.89.94",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "bluecocktailsz.com",
       "links": "bb115e0fc99ec38bbb585a2dade63ca00f36c716",
       "type": "certs",
@@ -2703,6 +2697,12 @@
     {
       "host": "bluelink.co",
       "links": "13.35.89.10",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "bluelink.co",
+      "links": "13.35.89.9",
       "type": "pdns",
       "ln": 2
     },
@@ -3139,12 +3139,6 @@
       "ln": 2
     },
     {
-      "host": "chillin-out-maxin-relaxin-all-cool.xyz",
-      "links": "13.35.89.10",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "choalab.com",
       "links": "ea6919bf367f447052c04c6e1ff4691a6193478d",
       "type": "certs",
@@ -3279,12 +3273,6 @@
     {
       "host": "clienthq.co",
       "links": "139.180.163.253",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "clutter.house",
-      "links": "13.35.89.10",
       "type": "pdns",
       "ln": 2
     },
@@ -4285,14 +4273,32 @@
       "ln": 2
     },
     {
+      "host": "d16zbnnxia9r0p.cloudfront.net",
+      "links": "13.35.89.9",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "d1ae6qk3wenvmu.cloudfront.net",
       "links": "13.227.75.15",
       "type": "pdns",
       "ln": 2
     },
     {
+      "host": "d1bqktvj79b0wh.cloudfront.net",
+      "links": "13.35.89.9",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "d1m2c8lwcdw7oj.cloudfront.net",
       "links": "13.227.75.117",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "d28ula73nki33n.cloudfront.net",
+      "links": "13.35.89.9",
       "type": "pdns",
       "ln": 2
     },
@@ -5035,12 +5041,6 @@
       "ln": 2
     },
     {
-      "host": "dnareplicationsimulation.com",
-      "links": "13.35.89.10",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "dnmaster.hostwindsdns.com",
       "links": "142.11.230.202",
       "type": "pdns",
@@ -5635,12 +5635,6 @@
       "ln": 2
     },
     {
-      "host": "fastssolarquote.com",
-      "links": "13.35.89.10",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "fb-staging.doctolib.fr",
       "links": "bb115e0fc99ec38bbb585a2dade63ca00f36c716",
       "type": "certs",
@@ -5734,12 +5728,6 @@
       "host": "firebase.goweb247.com",
       "links": "ea6919bf367f447052c04c6e1ff4691a6193478d",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "flitll.com",
-      "links": "13.35.89.94",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -6367,12 +6355,6 @@
       "ln": 2
     },
     {
-      "host": "heapais.com",
-      "links": "13.35.89.94",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "heatservice.it",
       "links": "6fe606d6d1fdda0ad91f1a6f09afc97f567bf08c",
       "type": "certs",
@@ -6829,12 +6811,6 @@
       "ln": 2
     },
     {
-      "host": "imesonparkbuildingbforlease.com",
-      "links": "13.35.89.94",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "imperva.com",
       "links": "22c62cf246ecaa39e8e92e84dd82e03d68aff633",
       "type": "certs",
@@ -6910,12 +6886,6 @@
       "host": "incapsula.com",
       "links": "b740543686ed422676b8dd817da36c64a783490a",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "increasednaturalflow.com",
-      "links": "13.35.89.10",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -7210,12 +7180,6 @@
       "host": "khong.store",
       "links": "ea6919bf367f447052c04c6e1ff4691a6193478d",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "kicktheco.com",
-      "links": "13.35.89.10",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -10177,12 +10141,6 @@
       "ln": 2
     },
     {
-      "host": "quacktack.com",
-      "links": "13.35.89.10",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "quillandcamera.com",
       "links": "0583a3efae17fb86bae6b737af341ee95a100b53",
       "type": "certs",
@@ -12016,12 +11974,6 @@
       "host": "tnlvzn.danno.nz",
       "links": "ea6919bf367f447052c04c6e1ff4691a6193478d",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "tobetem.com",
-      "links": "13.35.89.10",
-      "type": "pdns",
       "ln": 2
     },
     {

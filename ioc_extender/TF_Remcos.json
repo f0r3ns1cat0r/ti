@@ -50,12 +50,6 @@
     },
     {
       "host": "ThreatFox: Remcos",
-      "links": "edwardjamie.duckdns.org",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: Remcos",
       "links": "eter101.dvrlists.com",
       "type": "z",
       "ln": 2
@@ -265,12 +259,6 @@
       "ln": 2
     },
     {
-      "host": "edwardjamie.duckdns.org",
-      "links": "23.105.131.220",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "eter101.dvrlists.com",
       "links": "185.140.53.221",
       "type": "pdns",
@@ -399,12 +387,6 @@
     {
       "host": "mail.visentinel.net",
       "links": "103.231.91.59",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "markethelp.bar",
-      "links": "23.105.131.220",
       "type": "pdns",
       "ln": 2
     },
