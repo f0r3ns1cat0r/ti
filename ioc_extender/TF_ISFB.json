@@ -31,18 +31,6 @@
       "ln": 2
     },
     {
-      "host": "371058.cloud4box.ru",
-      "links": "109.248.203.145",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "372652.cloud4box.ru",
-      "links": "185.186.142.136",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "380332.cloud4box.ru",
       "links": "109.248.203.72",
       "type": "pdns",
@@ -52,12 +40,6 @@
       "host": "392184281.com",
       "links": "552b287c36d53f9d00c26151090ec6d9482ea341",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "412499.cloud4box.ru",
-      "links": "185.186.142.136",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -170,19 +152,7 @@
     },
     {
       "host": "ThreatFox: ISFB",
-      "links": "gstatici.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: ISFB",
       "links": "gstatistica.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: ISFB",
-      "links": "gstatistics.co",
       "type": "z",
       "ln": 2
     },
@@ -2719,12 +2689,6 @@
       "ln": 2
     },
     {
-      "host": "gstatici.com",
-      "links": "109.248.203.145",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "gstatistica.com",
       "links": "0bea6a227a83f6f4d08fb72a43bbc1b75d9e119a",
       "type": "certs",
@@ -2752,12 +2716,6 @@
       "host": "gstatistica.com",
       "links": "c1fffc9e111faad70d016674579d74d5e68ab652",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "gstatistics.co",
-      "links": "185.186.142.136",
-      "type": "pdns",
       "ln": 2
     },
     {

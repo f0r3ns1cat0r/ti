@@ -859,6 +859,12 @@
       "ln": 2
     },
     {
+      "host": "com-financeswap.com",
+      "links": "bb06b5275d83edac0dd4f9bb648ecd9d9c9b1505",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "cosmos-one.store",
       "links": "9fc8a24867a03252f89f19ac5094697cacdccc54",
       "type": "certs",
@@ -1311,6 +1317,12 @@
     {
       "host": "google-sagepay.com",
       "links": "92.242.40.191",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "google-sagepay.com",
+      "links": "94.228.112.223",
       "type": "pdns",
       "ln": 2
     },
@@ -2284,6 +2296,12 @@
       "host": "opalubka-ros.store",
       "links": "9fc8a24867a03252f89f19ac5094697cacdccc54",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "openseea.io-nft-marketplace.com",
+      "links": "94.228.112.223",
+      "type": "pdns",
       "ln": 2
     },
     {
