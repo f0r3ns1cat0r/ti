@@ -2701,12 +2701,6 @@
       "ln": 2
     },
     {
-      "host": "bluelink.co",
-      "links": "13.35.89.94",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "boardgamesquare.com",
       "links": "bb115e0fc99ec38bbb585a2dade63ca00f36c716",
       "type": "certs",
@@ -4287,18 +4281,6 @@
     {
       "host": "d1m2c8lwcdw7oj.cloudfront.net",
       "links": "13.227.75.117",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "d28ula73nki33n.cloudfront.net",
-      "links": "13.35.89.9",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "d337qscy2692qk.cloudfront.net",
-      "links": "13.35.89.94",
       "type": "pdns",
       "ln": 2
     },
