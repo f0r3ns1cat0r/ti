@@ -109,6 +109,12 @@
       "ln": 2
     },
     {
+      "host": "fresh01.ddns.net",
+      "links": "79.134.225.8",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "googleservers.org",
       "links": "205.185.118.52",
       "type": "pdns",
@@ -123,6 +129,12 @@
     {
       "host": "hafiznor336.duckdns.org",
       "links": "79.134.225.70",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hafiznor336.duckdns.org",
+      "links": "79.134.225.8",
       "type": "pdns",
       "ln": 2
     },

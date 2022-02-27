@@ -2504,8 +2504,20 @@
     },
     {
       "host": "entrate.bar",
+      "links": "5a69c42bf8177c9ce6e3d48d00b981d667449004",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "entrate.bar",
       "links": "62.173.147.254",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "entrate.bar",
+      "links": "87ad9e7598cbf19b53a948287deb23c90a10c8c4",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -2839,6 +2851,12 @@
       "ln": 2
     },
     {
+      "host": "gruppo-isp.is-a-financialadvisor.com",
+      "links": "87ad9e7598cbf19b53a948287deb23c90a10c8c4",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "gstatistica.com",
       "links": "0bea6a227a83f6f4d08fb72a43bbc1b75d9e119a",
       "type": "certs",
@@ -3112,6 +3130,12 @@
       "host": "info.device-pro.ru",
       "links": "62.173.147.236",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "informaon-financera-it.is-a-financialadvisor.com",
+      "links": "5a69c42bf8177c9ce6e3d48d00b981d667449004",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -3985,12 +4009,6 @@
       "ln": 2
     },
     {
-      "host": "membro.at",
-      "links": "211.119.84.112",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "metyon.xyz",
       "links": "199.192.24.38",
       "type": "pdns",
@@ -4053,18 +4071,6 @@
     {
       "host": "mindvantage.com",
       "links": "161.129.64.100",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "misha.at",
-      "links": "115.91.217.231",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "misha.at",
-      "links": "211.119.84.112",
       "type": "pdns",
       "ln": 2
     },
@@ -4562,6 +4568,12 @@
     },
     {
       "host": "privacy-tools-for-you-783.com",
+      "links": "91.224.22.36",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "privacy-tools-for-you-791.com",
       "links": "91.224.22.36",
       "type": "pdns",
       "ln": 2
@@ -5095,9 +5107,21 @@
       "ln": 2
     },
     {
+      "host": "www.gruppo-isp.is-a-financialadvisor.com",
+      "links": "87ad9e7598cbf19b53a948287deb23c90a10c8c4",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "www.honeyswab.org",
       "links": "115.91.217.231",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.informaon-financera-it.is-a-financialadvisor.com",
+      "links": "5a69c42bf8177c9ce6e3d48d00b981d667449004",
+      "type": "certs",
       "ln": 2
     },
     {

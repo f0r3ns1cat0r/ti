@@ -56,6 +56,12 @@
     },
     {
       "host": "ThreatFox: AsyncRAT",
+      "links": "fresh01.ddns.net",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: AsyncRAT",
       "links": "ghr4b4.ddns.net",
       "type": "z",
       "ln": 2
@@ -175,6 +181,12 @@
       "ln": 2
     },
     {
+      "host": "fresh01.ddns.net",
+      "links": "79.134.225.8",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "gaminghost873737-38124.portmap.io",
       "links": "de23e3ce838f2334ffeabac6b29a59d49c4f90a7",
       "type": "certs",
@@ -195,6 +207,12 @@
     {
       "host": "hafiznor336.duckdns.org",
       "links": "79.134.225.70",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hafiznor336.duckdns.org",
+      "links": "79.134.225.8",
       "type": "pdns",
       "ln": 2
     },
