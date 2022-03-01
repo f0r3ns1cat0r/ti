@@ -2078,6 +2078,12 @@
     },
     {
       "host": "kummamemybaby.rest",
+      "links": "157.245.198.147",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "kummamemybaby.rest",
       "links": "185.14.30.72",
       "type": "pdns",
       "ln": 2
@@ -2109,6 +2115,12 @@
     {
       "host": "kummamemybaby.rest",
       "links": "573b96f0609b7b854fffe87418c58a476699b392",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "kummamemybaby.rest",
+      "links": "57f0a787a7c1aba4ef6fe2fcf509235d711c9fe5",
       "type": "certs",
       "ln": 2
     },
@@ -2144,6 +2156,12 @@
     },
     {
       "host": "lakogrefop.rest",
+      "links": "157.245.198.147",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "lakogrefop.rest",
       "links": "185.14.30.72",
       "type": "pdns",
       "ln": 2
@@ -2175,6 +2193,12 @@
     {
       "host": "lakogrefop.rest",
       "links": "573b96f0609b7b854fffe87418c58a476699b392",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "lakogrefop.rest",
+      "links": "57f0a787a7c1aba4ef6fe2fcf509235d711c9fe5",
       "type": "certs",
       "ln": 2
     },

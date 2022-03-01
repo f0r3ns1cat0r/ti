@@ -1400,6 +1400,12 @@
     },
     {
       "host": "googleadservlces.com",
+      "links": "bb06b5275d83edac0dd4f9bb648ecd9d9c9b1505",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "googleadservlces.com",
       "links": "e8d6de5b18251d807fbec66a74fde4223ed13727",
       "type": "certs",
       "ln": 2
@@ -2752,6 +2758,12 @@
       "host": "snoopbotty.ru",
       "links": "185.195.26.104",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "solargridssalem.com",
+      "links": "40525f50da95ec34ef234fc739842440fa4a828d",
+      "type": "certs",
       "ln": 2
     },
     {

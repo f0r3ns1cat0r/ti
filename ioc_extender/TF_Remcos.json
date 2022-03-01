@@ -86,48 +86,6 @@
     },
     {
       "host": "ThreatFox: Remcos",
-      "links": "rem1.camdvr.org",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: Remcos",
-      "links": "rem16.hopto.org",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: Remcos",
-      "links": "rem166.hopto.org",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: Remcos",
-      "links": "rem1666.hopto.org",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: Remcos",
-      "links": "salford1.ddns.net",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: Remcos",
-      "links": "salford2.ddns.net",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: Remcos",
-      "links": "salford3.ddns.net",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: Remcos",
       "links": "saptransmissions.dvrlists.com",
       "type": "z",
       "ln": 2
@@ -361,6 +319,12 @@
       "ln": 2
     },
     {
+      "host": "gherbo.dvrlists.com",
+      "links": "185.165.153.89",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "hafiznor336.duckdns.org",
       "links": "194.5.98.11",
       "type": "pdns",
@@ -439,62 +403,8 @@
       "ln": 2
     },
     {
-      "host": "palmetto22.ddns.net",
-      "links": "191.101.130.4",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "rem1.camdvr.org",
-      "links": "152.89.162.59",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "rem16.hopto.org",
-      "links": "152.89.162.59",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "rem166.hopto.org",
-      "links": "152.89.162.59",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "rem1666.hopto.org",
-      "links": "152.89.162.59",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "salford1.ddns.net",
-      "links": "191.101.130.4",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "salford2.ddns.net",
-      "links": "191.101.130.4",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "salford3.ddns.net",
-      "links": "191.101.130.4",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "saptransmissions.dvrlists.com",
       "links": "103.231.91.59",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "saptransmissions.dvrlists.com",
-      "links": "87.101.92.171",
       "type": "pdns",
       "ln": 2
     },
@@ -567,6 +477,12 @@
     {
       "host": "twistednerd.dvrlists.com",
       "links": "104.254.90.251",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "twistednerd.dvrlists.com",
+      "links": "185.165.153.89",
       "type": "pdns",
       "ln": 2
     },
