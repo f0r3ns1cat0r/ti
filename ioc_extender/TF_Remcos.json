@@ -301,12 +301,6 @@
       "ln": 2
     },
     {
-      "host": "favorali.duckdns.org",
-      "links": "185.140.53.137",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "frank.moda",
       "links": "87.101.92.171",
       "type": "pdns",
@@ -321,6 +315,12 @@
     {
       "host": "gherbo.dvrlists.com",
       "links": "185.165.153.89",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "gherbo.dvrlists.com",
+      "links": "79.134.225.48",
       "type": "pdns",
       "ln": 2
     },
@@ -483,6 +483,12 @@
     {
       "host": "twistednerd.dvrlists.com",
       "links": "185.165.153.89",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "twistednerd.dvrlists.com",
+      "links": "79.134.225.48",
       "type": "pdns",
       "ln": 2
     },
