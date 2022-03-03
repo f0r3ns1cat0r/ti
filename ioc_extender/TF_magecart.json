@@ -1220,12 +1220,6 @@
     },
     {
       "host": "google-activate.com",
-      "links": "47.254.178.32",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "google-activate.com",
       "links": "8.209.119.210",
       "type": "pdns",
       "ln": 2
@@ -1239,12 +1233,6 @@
     {
       "host": "google-activated.com",
       "links": "193.233.16.184",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "google-activated.com",
-      "links": "47.254.178.32",
       "type": "pdns",
       "ln": 2
     },
@@ -1311,12 +1299,6 @@
     {
       "host": "google-sagepay.com",
       "links": "193.233.16.184",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "google-sagepay.com",
-      "links": "47.254.178.32",
       "type": "pdns",
       "ln": 2
     },
@@ -2042,12 +2024,6 @@
     },
     {
       "host": "merchant-analytics.com",
-      "links": "47.254.178.32",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "merchant-analytics.com",
       "links": "8.209.119.210",
       "type": "pdns",
       "ln": 2
@@ -2097,6 +2073,12 @@
     {
       "host": "miraclemediagroup.store",
       "links": "9fc8a24867a03252f89f19ac5094697cacdccc54",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mitexllc.com",
+      "links": "bb06b5275d83edac0dd4f9bb648ecd9d9c9b1505",
       "type": "certs",
       "ln": 2
     },
@@ -2157,12 +2139,6 @@
     {
       "host": "mx.merchant-analytics.com",
       "links": "193.233.16.184",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mx.merchant-analytics.com",
-      "links": "47.254.178.32",
       "type": "pdns",
       "ln": 2
     },
@@ -2503,6 +2479,12 @@
       "ln": 2
     },
     {
+      "host": "purpl-ac-pac.com",
+      "links": "bb06b5275d83edac0dd4f9bb648ecd9d9c9b1505",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "qowfleks.store",
       "links": "9fc8a24867a03252f89f19ac5094697cacdccc54",
       "type": "certs",
@@ -2782,12 +2764,6 @@
       "host": "solo-toys.store",
       "links": "1dc7ca935531db252239c91440098887efe4af03",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "source.jqery.net",
-      "links": "141.98.212.101",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -3332,12 +3308,6 @@
     },
     {
       "host": "www.google-activate.com",
-      "links": "47.254.178.32",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.google-activate.com",
       "links": "8.209.119.210",
       "type": "pdns",
       "ln": 2
@@ -3351,12 +3321,6 @@
     {
       "host": "www.google-activated.com",
       "links": "193.233.16.184",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.google-activated.com",
-      "links": "47.254.178.32",
       "type": "pdns",
       "ln": 2
     },
@@ -3447,12 +3411,6 @@
     {
       "host": "www.merchant-analytics.com",
       "links": "193.233.16.184",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.merchant-analytics.com",
-      "links": "47.254.178.32",
       "type": "pdns",
       "ln": 2
     },
