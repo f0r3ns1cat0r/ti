@@ -350,19 +350,7 @@
     },
     {
       "host": "abpa.at",
-      "links": "115.88.24.203",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "abpa.at",
       "links": "138.36.3.134",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "abpa.at",
-      "links": "148.0.74.229",
       "type": "pdns",
       "ln": 2
     },
@@ -375,18 +363,6 @@
     {
       "host": "abpa.at",
       "links": "175.126.109.15",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "abpa.at",
-      "links": "178.31.236.98",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "abpa.at",
-      "links": "180.69.193.102",
       "type": "pdns",
       "ln": 2
     },
@@ -422,12 +398,6 @@
     },
     {
       "host": "abpa.at",
-      "links": "187.212.179.214",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "abpa.at",
       "links": "189.129.113.216",
       "type": "pdns",
       "ln": 2
@@ -446,24 +416,6 @@
     },
     {
       "host": "abpa.at",
-      "links": "203.228.9.102",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "abpa.at",
-      "links": "211.119.84.111",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "abpa.at",
-      "links": "220.125.1.129",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "abpa.at",
       "links": "31.167.149.141",
       "type": "pdns",
       "ln": 2
@@ -471,18 +423,6 @@
     {
       "host": "abpa.at",
       "links": "41.41.255.235",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "abpa.at",
-      "links": "58.124.228.242",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "abpa.at",
-      "links": "77.243.64.119",
       "type": "pdns",
       "ln": 2
     },
@@ -1064,12 +1004,6 @@
     },
     {
       "host": "admin.admin.admin.admin.admin.www.union-shop.at",
-      "links": "175.126.109.15",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.admin.admin.admin.www.union-shop.at",
       "links": "189.225.195.118",
       "type": "pdns",
       "ln": 2
@@ -1371,12 +1305,6 @@
     {
       "host": "admin.admin.admin.admin.lockbitsupp.uz",
       "links": "148.0.74.229",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.admin.admin.lockbitsupp.uz",
-      "links": "175.126.109.15",
       "type": "pdns",
       "ln": 2
     },
@@ -2151,12 +2079,6 @@
     {
       "host": "admin.admin.admin.lockbitsupp.uz",
       "links": "148.0.74.229",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.admin.lockbitsupp.uz",
-      "links": "175.126.109.15",
       "type": "pdns",
       "ln": 2
     },
@@ -3476,12 +3398,6 @@
     },
     {
       "host": "admin.admin.www.lockbitsupp.uz",
-      "links": "175.126.109.15",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.www.lockbitsupp.uz",
       "links": "186.7.94.255",
       "type": "pdns",
       "ln": 2
@@ -3645,12 +3561,6 @@
     {
       "host": "admin.admin.www.union-shop.at",
       "links": "175.119.10.231",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.www.union-shop.at",
-      "links": "175.126.109.15",
       "type": "pdns",
       "ln": 2
     },
@@ -4503,12 +4413,6 @@
     {
       "host": "admin.union-shop.at",
       "links": "175.120.254.9",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.union-shop.at",
-      "links": "175.126.109.15",
       "type": "pdns",
       "ln": 2
     },
@@ -6170,6 +6074,12 @@
     },
     {
       "host": "file-coin-coin-10.com",
+      "links": "185.151.147.191",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "file-coin-coin-10.com",
       "links": "194.36.178.184",
       "type": "pdns",
       "ln": 2
@@ -6219,6 +6129,12 @@
     {
       "host": "file-coin-host-12.com",
       "links": "185.151.147.190",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "file-coin-host-12.com",
+      "links": "185.151.147.191",
       "type": "pdns",
       "ln": 2
     },
@@ -7262,12 +7178,6 @@
     },
     {
       "host": "host-data-coin-11.com",
-      "links": "31.184.249.165",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "host-data-coin-11.com",
       "links": "31.28.27.130",
       "type": "pdns",
       "ln": 2
@@ -7689,12 +7599,6 @@
     {
       "host": "kotob.top",
       "links": "203.228.9.102",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "kotob.top",
-      "links": "210.207.244.101",
       "type": "pdns",
       "ln": 2
     },
@@ -9920,12 +9824,6 @@
     },
     {
       "host": "privacy-tools-for-you-777.com",
-      "links": "31.184.249.165",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "privacy-tools-for-you-777.com",
       "links": "37.0.10.199",
       "type": "pdns",
       "ln": 2
@@ -10083,6 +9981,12 @@
     {
       "host": "privacy-tools-for-you-792.com",
       "links": "80.66.64.170",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "privacy-tools-for-you-793.com",
+      "links": "185.151.147.191",
       "type": "pdns",
       "ln": 2
     },
@@ -10760,12 +10664,6 @@
     },
     {
       "host": "srtuiyhuali.at",
-      "links": "110.14.121.125",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "srtuiyhuali.at",
       "links": "115.88.24.203",
       "type": "pdns",
       "ln": 2
@@ -10779,12 +10677,6 @@
     {
       "host": "srtuiyhuali.at",
       "links": "148.0.74.229",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "srtuiyhuali.at",
-      "links": "175.119.10.231",
       "type": "pdns",
       "ln": 2
     },
@@ -10815,18 +10707,6 @@
     {
       "host": "srtuiyhuali.at",
       "links": "58.235.189.190",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "srtuiyhuali.at",
-      "links": "62.201.235.58",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "srtuiyhuali.at",
-      "links": "86.122.134.195",
       "type": "pdns",
       "ln": 2
     },
@@ -10863,12 +10743,6 @@
     {
       "host": "stats404.info",
       "links": "2.58.149.239",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "stats404.info",
-      "links": "31.184.249.165",
       "type": "pdns",
       "ln": 2
     },

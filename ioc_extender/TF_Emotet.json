@@ -1999,6 +1999,12 @@
       "ln": 2
     },
     {
+      "host": "matsustarcolor.com",
+      "links": "6d047ab13b2504c718a0d88f7c3f690d16523892",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "mccoy-usa.com",
       "links": "198.12.217.110",
       "type": "pdns",
@@ -2296,6 +2302,12 @@
       "host": "shopearps.com",
       "links": "198.12.217.110",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "sign-exp.jp",
+      "links": "6d047ab13b2504c718a0d88f7c3f690d16523892",
+      "type": "certs",
       "ln": 2
     },
     {

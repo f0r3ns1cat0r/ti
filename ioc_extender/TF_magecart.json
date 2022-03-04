@@ -248,18 +248,6 @@
     },
     {
       "host": "ThreatFox: magecart",
-      "links": "gstaticf.space",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: magecart",
-      "links": "gstaticv.space",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: magecart",
       "links": "hottrackcdn.com",
       "type": "z",
       "ln": 2
@@ -537,6 +525,12 @@
     {
       "host": "astrologiss.ru",
       "links": "9fc8a24867a03252f89f19ac5094697cacdccc54",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "autokhadom.online",
+      "links": "bb06b5275d83edac0dd4f9bb648ecd9d9c9b1505",
       "type": "certs",
       "ln": 2
     },
@@ -1480,18 +1474,6 @@
       "host": "gruzchiki-dlya-vas.store",
       "links": "9fc8a24867a03252f89f19ac5094697cacdccc54",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "gstaticf.space",
-      "links": "8.209.69.3",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "gstaticv.space",
-      "links": "8.209.69.3",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -2647,6 +2629,12 @@
       "ln": 2
     },
     {
+      "host": "shartash.me",
+      "links": "40525f50da95ec34ef234fc739842440fa4a828d",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "shootthejproductions.com",
       "links": "4d8e2becdfb0a3309e46e243b1f98b46ae049d36",
       "type": "certs",
@@ -2974,12 +2962,6 @@
       "host": "thegambling.store",
       "links": "9c73f26d08c80392fcf32de60e43cfc5586b26f8",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "thepandorastrees.top",
-      "links": "8.209.69.3",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -3526,12 +3508,6 @@
       "host": "xopyermamutatyt.store",
       "links": "e8d6de5b18251d807fbec66a74fde4223ed13727",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "yellowdenim.top",
-      "links": "8.209.69.3",
-      "type": "pdns",
       "ln": 2
     },
     {

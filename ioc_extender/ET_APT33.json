@@ -49,6 +49,12 @@
       "ln": 2
     },
     {
+      "host": "archicoon.hopto.com",
+      "links": "192.163.237.103",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "checkpoint.hopto.com",
       "links": "192.163.237.103",
       "type": "pdns",
@@ -1178,6 +1184,12 @@
     },
     {
       "host": "horner.hopto.com",
+      "links": "192.163.237.103",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "https://archicoon.hopto.com",
       "links": "192.163.237.103",
       "type": "pdns",
       "ln": 2

@@ -164,6 +164,12 @@
     },
     {
       "host": "info1.dynamic-dns.net",
+      "links": "91.193.75.158",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "info1.dynamic-dns.net",
       "links": "91.193.75.201",
       "type": "pdns",
       "ln": 2
@@ -177,6 +183,12 @@
     {
       "host": "iphanyi.chickenkiller.com",
       "links": "185.140.53.134",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iphanyi.chickenkiller.com",
+      "links": "91.193.75.158",
       "type": "pdns",
       "ln": 2
     },
@@ -273,6 +285,12 @@
     {
       "host": "ns2.estralin.cam",
       "links": "212.114.52.67",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "rick63.publicvm.com",
+      "links": "91.193.75.158",
       "type": "pdns",
       "ln": 2
     },

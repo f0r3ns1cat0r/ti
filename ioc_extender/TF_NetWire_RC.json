@@ -86,6 +86,12 @@
     },
     {
       "host": "info1.dynamic-dns.net",
+      "links": "91.193.75.158",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "info1.dynamic-dns.net",
       "links": "91.193.75.201",
       "type": "pdns",
       "ln": 2
@@ -99,6 +105,12 @@
     {
       "host": "iphanyi.chickenkiller.com",
       "links": "185.140.53.134",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iphanyi.chickenkiller.com",
+      "links": "91.193.75.158",
       "type": "pdns",
       "ln": 2
     },
@@ -195,6 +207,12 @@
     {
       "host": "owo.myftp.biz",
       "links": "184.105.237.196",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "rick63.publicvm.com",
+      "links": "91.193.75.158",
       "type": "pdns",
       "ln": 2
     },

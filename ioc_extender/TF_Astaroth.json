@@ -31,6 +31,12 @@
       "ln": 2
     },
     {
+      "host": "ThreatFox: Astaroth",
+      "links": "financialbom.us",
+      "type": "z",
+      "ln": 2
+    },
+    {
       "host": "dimockcenter.org",
       "links": "154.53.50.57",
       "type": "pdns",
@@ -49,9 +55,27 @@
       "ln": 2
     },
     {
+      "host": "escriturario.us",
+      "links": "48f377c1caf66dd50197158e67decb2e9198ee65",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "filedump.net",
       "links": "154.53.50.57",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "financialbom.us",
+      "links": "154.53.50.57",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "financialbom.us",
+      "links": "48f377c1caf66dd50197158e67decb2e9198ee65",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -64,6 +88,18 @@
       "host": "hsacny.com",
       "links": "154.53.50.57",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "icecorp.ca",
+      "links": "154.53.50.57",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.financialbom.us",
+      "links": "48f377c1caf66dd50197158e67decb2e9198ee65",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -81,6 +117,12 @@
     {
       "host": "ponderadocs.cloud",
       "links": "0805f4ac4caa09359f1d75462b789686bbf2c1d9",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "ponderadocs.cloud",
+      "links": "48f377c1caf66dd50197158e67decb2e9198ee65",
       "type": "certs",
       "ln": 2
     },
