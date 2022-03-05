@@ -1885,6 +1885,12 @@
       "ln": 2
     },
     {
+      "host": "rivercard.io",
+      "links": "ce078e35847244a3d112e15aa72c9177e9db15fe",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "roadwide.net",
       "links": "206.119.197.81",
       "type": "pdns",
@@ -2254,6 +2260,12 @@
       "host": "upfol.com",
       "links": "92.119.112.7",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "upstate.vc",
+      "links": "212a5baea8c97b02ddb9d6efbc4dd80032f8ac79",
+      "type": "certs",
       "ln": 2
     },
     {
