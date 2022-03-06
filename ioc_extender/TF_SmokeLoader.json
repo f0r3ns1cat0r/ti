@@ -6031,12 +6031,6 @@
       "ln": 2
     },
     {
-      "host": "eonsabode.at",
-      "links": "185.193.143.128",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "fgx.dangerboy.at",
       "links": "91.224.22.36",
       "type": "pdns",
@@ -6069,6 +6063,12 @@
     {
       "host": "file-coin-coin-10.com",
       "links": "80.66.64.170",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "file-coin-coin-10.com",
+      "links": "80.66.64.204",
       "type": "pdns",
       "ln": 2
     },
@@ -6159,6 +6159,12 @@
     {
       "host": "file-coin-host-12.com",
       "links": "80.66.64.170",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "file-coin-host-12.com",
+      "links": "80.66.64.204",
       "type": "pdns",
       "ln": 2
     },
@@ -7106,12 +7112,6 @@
     },
     {
       "host": "host-data-coin-11.com",
-      "links": "185.193.143.128",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "host-data-coin-11.com",
       "links": "185.204.0.105",
       "type": "pdns",
       "ln": 2
@@ -7119,12 +7119,6 @@
     {
       "host": "host-data-coin-11.com",
       "links": "185.217.199.235",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "host-data-coin-11.com",
-      "links": "193.187.173.247",
       "type": "pdns",
       "ln": 2
     },
@@ -7473,12 +7467,6 @@
     {
       "host": "kotob.top",
       "links": "187.156.124.76",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "kotob.top",
-      "links": "187.156.56.69",
       "type": "pdns",
       "ln": 2
     },
@@ -9943,8 +9931,20 @@
       "ln": 2
     },
     {
+      "host": "privacy-tools-for-you-792.com",
+      "links": "80.66.64.204",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "privacy-tools-for-you-793.com",
       "links": "185.151.147.191",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "privacy-tools-for-you-793.com",
+      "links": "80.66.64.204",
       "type": "pdns",
       "ln": 2
     },
@@ -10629,12 +10629,6 @@
     {
       "host": "stats404.info",
       "links": "185.217.199.235",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "stats404.info",
-      "links": "193.187.173.247",
       "type": "pdns",
       "ln": 2
     },
