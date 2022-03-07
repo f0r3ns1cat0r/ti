@@ -728,6 +728,12 @@
     },
     {
       "host": "BB Threat Research: TA575-Dridex",
+      "links": "newsallr.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "BB Threat Research: TA575-Dridex",
       "links": "nightingale.com",
       "type": "z",
       "ln": 2
@@ -1767,6 +1773,12 @@
     {
       "host": "autodiscover.leveragestudiotw.com",
       "links": "da49c69fd24ae019e863c0c5b12202b58700f4c6",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "autodiscover.leveragestudiotw.com",
+      "links": "da58483e86baa9521449026fffe923e4d05ce380",
       "type": "certs",
       "ln": 2
     },
@@ -3073,12 +3085,6 @@
       "ln": 2
     },
     {
-      "host": "chrislofer.xyz",
-      "links": "46.8.52.226",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "chupichupi.org",
       "links": "bb115e0fc99ec38bbb585a2dade63ca00f36c716",
       "type": "certs",
@@ -3241,12 +3247,6 @@
       "ln": 2
     },
     {
-      "host": "coolsummer.xyz",
-      "links": "46.8.52.226",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "coryelldemocrats.com",
       "links": "0583a3efae17fb86bae6b737af341ee95a100b53",
       "type": "certs",
@@ -3495,6 +3495,12 @@
     {
       "host": "cpanel.leveragestudiotw.com",
       "links": "da49c69fd24ae019e863c0c5b12202b58700f4c6",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpanel.leveragestudiotw.com",
+      "links": "da58483e86baa9521449026fffe923e4d05ce380",
       "type": "certs",
       "ln": 2
     },
@@ -3751,6 +3757,12 @@
       "ln": 2
     },
     {
+      "host": "cpcalendars.leveragestudiotw.com",
+      "links": "da58483e86baa9521449026fffe923e4d05ce380",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "cpcalendars.life-energy.net",
       "links": "348886365ab4d56ff294adfe04e01faad285e57a",
       "type": "certs",
@@ -3999,6 +4011,12 @@
     {
       "host": "cpcontacts.leveragestudiotw.com",
       "links": "da49c69fd24ae019e863c0c5b12202b58700f4c6",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcontacts.leveragestudiotw.com",
+      "links": "da58483e86baa9521449026fffe923e4d05ce380",
       "type": "certs",
       "ln": 2
     },
@@ -4180,12 +4198,6 @@
       "host": "crytars.org",
       "links": "d8c4443a159f82d52a33ac137e68a3c60fff83a2",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "cvea.coolsummer.xyz",
-      "links": "46.8.52.226",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -5080,12 +5092,6 @@
       "host": "e-wallet.aql.is",
       "links": "ea6919bf367f447052c04c6e1ff4691a6193478d",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "e4jduanp5dez.cloudmaestro.com",
-      "links": "34.197.161.191",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -6139,12 +6145,6 @@
       "ln": 2
     },
     {
-      "host": "hansenwholesale.com",
-      "links": "34.197.161.191",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "happysparrow.nightowl.sg",
       "links": "3.1.214.119",
       "type": "pdns",
@@ -6160,12 +6160,6 @@
       "host": "hatten.biz",
       "links": "74ad4719c661600ecb133bc0f289ddd9b2f80a13",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "hbci.coolsummer.xyz",
-      "links": "46.8.52.226",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -7159,6 +7153,12 @@
       "ln": 2
     },
     {
+      "host": "leveragestudiotw.com",
+      "links": "da58483e86baa9521449026fffe923e4d05ce380",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "li1365-74.members.linode.com",
       "links": "139.162.202.74",
       "type": "pdns",
@@ -7465,12 +7465,6 @@
       "ln": 2
     },
     {
-      "host": "m436.coolsummer.xyz",
-      "links": "46.8.52.226",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "macrosink.net",
       "links": "74ad4719c661600ecb133bc0f289ddd9b2f80a13",
       "type": "certs",
@@ -7497,18 +7491,6 @@
     {
       "host": "mail.alimohsen.live",
       "links": "185.70.42.12",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mail.chrislofer.xyz",
-      "links": "46.8.52.226",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mail.coolsummer.xyz",
-      "links": "46.8.52.226",
       "type": "pdns",
       "ln": 2
     },
@@ -7641,6 +7623,12 @@
     {
       "host": "mail.leveragestudiotw.com",
       "links": "da49c69fd24ae019e863c0c5b12202b58700f4c6",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.leveragestudiotw.com",
+      "links": "da58483e86baa9521449026fffe923e4d05ce380",
       "type": "certs",
       "ln": 2
     },
@@ -8511,6 +8499,18 @@
     {
       "host": "news.bergweltenwinterwandern.de",
       "links": "f64e00b4f6c6881256c08917b9c56396c5a6e3aa",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "newsallr.com",
+      "links": "c2d031bebdcd0a72587db4ea3ca5187bbf9abeff",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "newstipp.com",
+      "links": "c2d031bebdcd0a72587db4ea3ca5187bbf9abeff",
       "type": "certs",
       "ln": 2
     },
@@ -12247,6 +12247,12 @@
       "ln": 2
     },
     {
+      "host": "webdisk.leveragestudiotw.com",
+      "links": "da58483e86baa9521449026fffe923e4d05ce380",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "webdisk.life-energy.net",
       "links": "348886365ab4d56ff294adfe04e01faad285e57a",
       "type": "certs",
@@ -12495,6 +12501,12 @@
     {
       "host": "webmail.leveragestudiotw.com",
       "links": "da49c69fd24ae019e863c0c5b12202b58700f4c6",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webmail.leveragestudiotw.com",
+      "links": "da58483e86baa9521449026fffe923e4d05ce380",
       "type": "certs",
       "ln": 2
     },
@@ -14991,6 +15003,18 @@
     {
       "host": "www.nancyrutter.com",
       "links": "b85237f195b6119b9ce453937d83c2d763c21e21",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.newsallr.newstipp.com",
+      "links": "c2d031bebdcd0a72587db4ea3ca5187bbf9abeff",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.newsallt.newstipp.com",
+      "links": "c2d031bebdcd0a72587db4ea3ca5187bbf9abeff",
       "type": "certs",
       "ln": 2
     },
