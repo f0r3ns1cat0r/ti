@@ -80,12 +80,6 @@
     },
     {
       "host": "ThreatFox: Remcos",
-      "links": "newlogs.ddns.net",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: Remcos",
       "links": "ogidi.ddns.net",
       "type": "z",
       "ln": 2
@@ -325,6 +319,18 @@
       "ln": 2
     },
     {
+      "host": "gherbo.dvrlists.com",
+      "links": "185.165.153.89",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "gherbo.dvrlists.com",
+      "links": "79.134.225.48",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "hafiznor336.duckdns.org",
       "links": "194.5.98.11",
       "type": "pdns",
@@ -361,20 +367,8 @@
       "ln": 2
     },
     {
-      "host": "mirroronthewall.hopto.org",
-      "links": "185.140.53.137",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "nas-smokerlolilol.direct.quickconnect.to",
       "links": "87.101.92.171",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "newlogs.ddns.net",
-      "links": "185.140.53.137",
       "type": "pdns",
       "ln": 2
     },
@@ -483,6 +477,18 @@
     {
       "host": "twistednerd.dvrlists.com",
       "links": "104.254.90.251",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "twistednerd.dvrlists.com",
+      "links": "185.165.153.89",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "twistednerd.dvrlists.com",
+      "links": "79.134.225.48",
       "type": "pdns",
       "ln": 2
     },
