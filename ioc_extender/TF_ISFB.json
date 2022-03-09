@@ -2995,6 +2995,12 @@
       "ln": 2
     },
     {
+      "host": "biopiof.at",
+      "links": "34.65.143.203",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "bizgroupe.com",
       "links": "193.56.146.52",
       "type": "pdns",
@@ -3235,6 +3241,12 @@
       "ln": 2
     },
     {
+      "host": "entrate.bar",
+      "links": "a88baaeef02f449c0ac0b18b106768d0663cd9c8",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "entrate.casa",
       "links": "62.173.147.254",
       "type": "pdns",
@@ -3328,6 +3340,12 @@
       "host": "fraudlabpros.at",
       "links": "58.124.228.242",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "funcionalidades-online-appdemovil-personas.https443.net",
+      "links": "a88baaeef02f449c0ac0b18b106768d0663cd9c8",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -6214,6 +6232,18 @@
       "host": "www.fraudlabpros.at",
       "links": "58.124.228.242",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.funcionalidades-online-appdemovil-personas.https443.net",
+      "links": "62.173.147.254",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.funcionalidades-online-appdemovil-personas.https443.net",
+      "links": "a88baaeef02f449c0ac0b18b106768d0663cd9c8",
+      "type": "certs",
       "ln": 2
     },
     {
