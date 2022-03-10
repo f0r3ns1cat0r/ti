@@ -25,33 +25,9 @@
       "ln": 2
     },
     {
-      "host": "_dc-mx.dcb7cb36638e.morde.cf",
-      "links": "195.133.40.174",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns1.qube.host",
-      "links": "195.133.40.174",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.qube.host",
-      "links": "195.133.40.174",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "qube.host",
       "links": "18b64ebccfb687a5bfe9186a2b1b4c0ab57d84e2",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "qube.host",
-      "links": "195.133.40.174",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -61,27 +37,9 @@
       "ln": 2
     },
     {
-      "host": "root.qube.host",
-      "links": "195.133.40.174",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "srv.qube.host",
-      "links": "195.133.40.174",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "www.qube.host.gamepapyon.com",
       "links": "18b64ebccfb687a5bfe9186a2b1b4c0ab57d84e2",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "www.srv.qube.host",
-      "links": "195.133.40.174",
-      "type": "pdns",
       "ln": 2
     }
   ]

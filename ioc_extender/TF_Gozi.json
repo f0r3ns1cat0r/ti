@@ -235,18 +235,6 @@
       "ln": 2
     },
     {
-      "host": "ns1.seeme.tube",
-      "links": "162.0.213.149",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.seeme.tube",
-      "links": "162.0.213.149",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "pandoravip38.ru",
       "links": "743a3b269bed3112ada96de119bc6972d1317736",
       "type": "certs",

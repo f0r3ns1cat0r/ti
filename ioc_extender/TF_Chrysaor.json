@@ -482,6 +482,12 @@
     },
     {
       "host": "boldconclusion.com",
+      "links": "5572f138f4ba9cab3aa444fc49cf24d6d7932e93",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "boldconclusion.com",
       "links": "ce078e35847244a3d112e15aa72c9177e9db15fe",
       "type": "certs",
       "ln": 2
@@ -1873,12 +1879,6 @@
       "ln": 2
     },
     {
-      "host": "pinnaclegrounds.com",
-      "links": "92.119.112.7",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "pivvox.com",
       "links": "5572f138f4ba9cab3aa444fc49cf24d6d7932e93",
       "type": "certs",
@@ -1972,12 +1972,6 @@
       "host": "rivercard.io",
       "links": "ce078e35847244a3d112e15aa72c9177e9db15fe",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "roadwide.net",
-      "links": "206.119.197.81",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -2455,12 +2449,6 @@
       "ln": 2
     },
     {
-      "host": "vm2893394.bs.had.pm",
-      "links": "92.119.112.7",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "vm3036410.bs.had.pm",
       "links": "92.119.112.7",
       "type": "pdns",
@@ -2617,12 +2605,6 @@
       "ln": 2
     },
     {
-      "host": "www.zhenxingmould.com",
-      "links": "206.119.197.81",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "wwwbetstars.com",
       "links": "17f9ea37af24bb70f6a667c26f31607661b50a42",
       "type": "certs",
@@ -2722,12 +2704,6 @@
       "host": "zevozo.com",
       "links": "5572f138f4ba9cab3aa444fc49cf24d6d7932e93",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "zhenxingmould.com",
-      "links": "206.119.197.81",
-      "type": "pdns",
       "ln": 2
     },
     {
