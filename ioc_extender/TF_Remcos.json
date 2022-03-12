@@ -92,6 +92,12 @@
     },
     {
       "host": "ThreatFox: Remcos",
+      "links": "rem.nerdpol.ovh",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Remcos",
       "links": "saptransmissions.dvrlists.com",
       "type": "z",
       "ln": 2
@@ -99,6 +105,12 @@
     {
       "host": "ThreatFox: Remcos",
       "links": "satsundai.club",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Remcos",
+      "links": "sdsd.nerdpol.ovh",
       "type": "z",
       "ln": 2
     },
@@ -205,6 +217,12 @@
       "ln": 2
     },
     {
+      "host": "dyansy11.ddns.net",
+      "links": "104.215.84.159",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "dynasty1.ddns.net",
       "links": "104.215.84.159",
       "type": "pdns",
@@ -218,6 +236,12 @@
     },
     {
       "host": "dynasty3.ddns.net",
+      "links": "104.215.84.159",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "dynasy13.myddns.me",
       "links": "104.215.84.159",
       "type": "pdns",
       "ln": 2
@@ -397,8 +421,20 @@
       "ln": 2
     },
     {
+      "host": "rem.nerdpol.ovh",
+      "links": "20.114.61.232",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "rick63.publicvm.com",
       "links": "185.19.85.174",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "salonsocialdnre.duckdns.org",
+      "links": "181.131.217.138",
       "type": "pdns",
       "ln": 2
     },
@@ -415,8 +451,20 @@
       "ln": 2
     },
     {
+      "host": "sdsd.nerdpol.ovh",
+      "links": "20.114.61.232",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "secured1.hopto.org",
       "links": "104.215.84.159",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "serkiarioserserren.duckdns.org",
+      "links": "181.131.217.138",
       "type": "pdns",
       "ln": 2
     },
@@ -562,6 +610,12 @@
       "host": "zealous-chatterjee.207-244-235-224.plesk.page",
       "links": "d13d19cf77bb8ea27d56b4899493bb92ced99a52",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "zoppere.nerdpol.ovh",
+      "links": "20.114.61.232",
+      "type": "pdns",
       "ln": 2
     }
   ]

@@ -344,12 +344,6 @@
     },
     {
       "host": "abpa.at",
-      "links": "189.129.182.88",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "abpa.at",
       "links": "189.225.195.118",
       "type": "pdns",
       "ln": 2
@@ -614,12 +608,6 @@
     },
     {
       "host": "admin.admin.admin.admin.admin.www.trackersapi.at",
-      "links": "203.228.9.102",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.admin.admin.admin.www.trackersapi.at",
       "links": "211.168.197.211",
       "type": "pdns",
       "ln": 2
@@ -807,12 +795,6 @@
     {
       "host": "admin.admin.admin.admin.lockbitsupp.uz",
       "links": "196.200.111.5",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.admin.admin.lockbitsupp.uz",
-      "links": "203.228.9.102",
       "type": "pdns",
       "ln": 2
     },
@@ -1017,12 +999,6 @@
     {
       "host": "admin.admin.admin.admin.www.trackersapi.at",
       "links": "196.200.111.5",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.admin.admin.www.trackersapi.at",
-      "links": "203.228.9.102",
       "type": "pdns",
       "ln": 2
     },
@@ -1712,12 +1688,6 @@
     },
     {
       "host": "admin.admin.trackersapi.at",
-      "links": "203.228.9.102",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.trackersapi.at",
       "links": "211.40.39.251",
       "type": "pdns",
       "ln": 2
@@ -1880,12 +1850,6 @@
     },
     {
       "host": "admin.admin.www.lockbitsupp.uz",
-      "links": "203.228.9.102",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.www.lockbitsupp.uz",
       "links": "211.171.233.126",
       "type": "pdns",
       "ln": 2
@@ -1965,12 +1929,6 @@
     {
       "host": "admin.admin.www.trackersapi.at",
       "links": "196.200.111.5",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.www.trackersapi.at",
-      "links": "203.228.9.102",
       "type": "pdns",
       "ln": 2
     },
@@ -2175,12 +2133,6 @@
     {
       "host": "admin.hostmaster.omerta.cc",
       "links": "186.188.224.208",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.hostmaster.omerta.cc",
-      "links": "203.228.9.102",
       "type": "pdns",
       "ln": 2
     },
@@ -2396,12 +2348,6 @@
     },
     {
       "host": "admin.trackersapi.at",
-      "links": "203.228.9.102",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.trackersapi.at",
       "links": "211.168.197.211",
       "type": "pdns",
       "ln": 2
@@ -2631,12 +2577,6 @@
     {
       "host": "admin.www.trackersapi.at",
       "links": "196.200.111.5",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.www.trackersapi.at",
-      "links": "203.228.9.102",
       "type": "pdns",
       "ln": 2
     },
@@ -3362,7 +3302,19 @@
     },
     {
       "host": "entrate.bar",
+      "links": "5344fe65475a78387bbb7568fa77897bbaba4ff6",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "entrate.bar",
       "links": "5a69c42bf8177c9ce6e3d48d00b981d667449004",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "entrate.bar",
+      "links": "5c600299731bdfe7340872623a510f0adfcba24d",
       "type": "certs",
       "ln": 2
     },
@@ -3728,12 +3680,6 @@
     },
     {
       "host": "giporedtrip.at",
-      "links": "189.129.182.88",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "giporedtrip.at",
       "links": "189.225.195.118",
       "type": "pdns",
       "ln": 2
@@ -3993,12 +3939,6 @@
     {
       "host": "habpfans.at",
       "links": "187.212.179.214",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "habpfans.at",
-      "links": "189.129.182.88",
       "type": "pdns",
       "ln": 2
     },
@@ -4592,37 +4532,13 @@
     },
     {
       "host": "lencu.top",
-      "links": "178.31.236.98",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "lencu.top",
       "links": "186.188.224.208",
       "type": "pdns",
       "ln": 2
     },
     {
       "host": "lencu.top",
-      "links": "187.212.179.214",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "lencu.top",
-      "links": "189.129.182.88",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "lencu.top",
       "links": "189.225.195.118",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "lencu.top",
-      "links": "190.43.145.172",
       "type": "pdns",
       "ln": 2
     },
@@ -4646,19 +4562,7 @@
     },
     {
       "host": "lencu.top",
-      "links": "211.168.197.211",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "lencu.top",
       "links": "211.171.233.126",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "lencu.top",
-      "links": "211.171.233.127",
       "type": "pdns",
       "ln": 2
     },
@@ -4676,31 +4580,7 @@
     },
     {
       "host": "lencu.top",
-      "links": "222.232.238.243",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "lencu.top",
-      "links": "41.41.255.235",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "lencu.top",
-      "links": "58.124.228.242",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "lencu.top",
       "links": "61.98.7.132",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "lencu.top",
-      "links": "77.243.64.119",
       "type": "pdns",
       "ln": 2
     },
@@ -5809,6 +5689,12 @@
       "ln": 2
     },
     {
+      "host": "per-cliente-credenziali-detali-corregi.https443.net",
+      "links": "5344fe65475a78387bbb7568fa77897bbaba4ff6",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "permanentitaly.nl",
       "links": "193.239.84.219",
       "type": "pdns",
@@ -5902,6 +5788,12 @@
       "host": "portablesoft.bar",
       "links": "31.41.45.79",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "portale-cliente-info-configure.dns1.us",
+      "links": "5c600299731bdfe7340872623a510f0adfcba24d",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -6724,6 +6616,18 @@
       "host": "www.omerta.cc",
       "links": "91.203.174.38",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.per-cliente-credenziali-detali-corregi.https443.net",
+      "links": "5344fe65475a78387bbb7568fa77897bbaba4ff6",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.portale-cliente-info-configure.dns1.us",
+      "links": "5c600299731bdfe7340872623a510f0adfcba24d",
+      "type": "certs",
       "ln": 2
     },
     {

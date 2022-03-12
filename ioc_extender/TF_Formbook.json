@@ -2275,12 +2275,6 @@
       "ln": 2
     },
     {
-      "host": "ns1.hasnahena.org",
-      "links": "162.0.222.228",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ns1.logosnode.com",
       "links": "199.192.17.149",
       "type": "pdns",
@@ -2397,12 +2391,6 @@
     {
       "host": "ns2.grackle.services",
       "links": "162.0.216.51",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.hasnahena.org",
-      "links": "162.0.222.228",
       "type": "pdns",
       "ln": 2
     },
