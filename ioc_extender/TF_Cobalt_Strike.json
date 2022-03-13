@@ -2317,6 +2317,12 @@
       "ln": 2
     },
     {
+      "host": "domger.de",
+      "links": "0ce4bad11d8631c6924b771f1857abe1b3c0bc8e",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "dovetail-nc.com",
       "links": "45.9.20.203",
       "type": "pdns",
@@ -2764,6 +2770,12 @@
       "host": "hoafmzn.com",
       "links": "103.208.86.21",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hostilenation.tk",
+      "links": "0ce4bad11d8631c6924b771f1857abe1b3c0bc8e",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -4959,6 +4971,12 @@
     {
       "host": "vpnkerio.com",
       "links": "92c862cfb1799ebc9f3715c41da8ce88241c8cdc",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "vpsol.tk",
+      "links": "0ce4bad11d8631c6924b771f1857abe1b3c0bc8e",
       "type": "certs",
       "ln": 2
     },
