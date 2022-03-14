@@ -80,6 +80,12 @@
     },
     {
       "host": "ThreatFox: Remcos",
+      "links": "newremc22.ddns.net",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Remcos",
       "links": "ogidi.ddns.net",
       "type": "z",
       "ln": 2
@@ -349,6 +355,12 @@
       "ln": 2
     },
     {
+      "host": "godisgood1.hopto.org",
+      "links": "146.70.35.187",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "hafiznor336.duckdns.org",
       "links": "194.5.98.11",
       "type": "pdns",
@@ -387,6 +399,12 @@
     {
       "host": "nas-smokerlolilol.direct.quickconnect.to",
       "links": "87.101.92.171",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "newremc22.ddns.net",
+      "links": "146.70.35.187",
       "type": "pdns",
       "ln": 2
     },

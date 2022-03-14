@@ -229,12 +229,6 @@
       "ln": 2
     },
     {
-      "host": "7861f5b56aa4.xyz",
-      "links": "45.88.107.40",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "8888.google",
       "links": "0ce4bad11d8631c6924b771f1857abe1b3c0bc8e",
       "type": "certs",
@@ -303,12 +297,6 @@
     {
       "host": "ThreatFox: Cobalt Strike",
       "links": "3info.medicalbankform.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: Cobalt Strike",
-      "links": "7861f5b56aa4.xyz",
       "type": "z",
       "ln": 2
     },
@@ -1807,12 +1795,6 @@
       "ln": 2
     },
     {
-      "host": "ccisworld.com",
-      "links": "45.9.20.203",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "cdn.theyardservice.com",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
@@ -2431,6 +2413,18 @@
       "ln": 2
     },
     {
+      "host": "ex4ange.cc",
+      "links": "2b6ccfe8e892ae25a6f6fdb256640ff2c8ee45b1",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "ex4ange.cc",
+      "links": "8ff7a82a718143d1f9345f883eebf99253a6d6f9",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "exchangersdirectory.com",
       "links": "170.130.28.38",
       "type": "pdns",
@@ -2536,12 +2530,6 @@
       "host": "fodisk.cn",
       "links": "233dc7c632eb4774476d700031f1795fefad39f4",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "france-logiciel.com",
-      "links": "45.9.20.203",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -2703,6 +2691,12 @@
     {
       "host": "gxtlxgl.com",
       "links": "4e5aec62bf06b70740511e03828fb1c6e84f5370",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "gzbicc.cn",
+      "links": "0ce4bad11d8631c6924b771f1857abe1b3c0bc8e",
       "type": "certs",
       "ln": 2
     },
@@ -4213,6 +4207,12 @@
       "ln": 2
     },
     {
+      "host": "px118.cn",
+      "links": "0ce4bad11d8631c6924b771f1857abe1b3c0bc8e",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "qingshanyanyu.xyz",
       "links": "0dc95187933afbb5a002e7bde78be6821c02eb3e",
       "type": "certs",
@@ -4276,6 +4276,12 @@
       "host": "ripe-back-s31.sapientbeam.com",
       "links": "162.244.82.77",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "rjinternational.cn",
+      "links": "0ce4bad11d8631c6924b771f1857abe1b3c0bc8e",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -4549,12 +4555,6 @@
       "ln": 2
     },
     {
-      "host": "softcompinc.com",
-      "links": "45.9.20.203",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "softsecur.com",
       "links": "88.80.147.245",
       "type": "pdns",
@@ -4564,6 +4564,18 @@
       "host": "softzbh.com",
       "links": "185.64.106.64",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "softzbh.com",
+      "links": "2b6ccfe8e892ae25a6f6fdb256640ff2c8ee45b1",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "softzbh.com",
+      "links": "8ff7a82a718143d1f9345f883eebf99253a6d6f9",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -4759,12 +4771,6 @@
       "ln": 2
     },
     {
-      "host": "toyota-rotterdam.com",
-      "links": "45.9.20.203",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "toysfa.com",
       "links": "216edef2f26a94071007aab8ec5e36c6b072c949",
       "type": "certs",
@@ -4911,12 +4917,6 @@
     {
       "host": "vitaliypivovarovtest.wildixin.com",
       "links": "18.196.101.17",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "vm2945813.33ssd.had.wf",
-      "links": "45.88.107.40",
       "type": "pdns",
       "ln": 2
     },
@@ -5260,6 +5260,18 @@
       "host": "www.enzw.cn",
       "links": "92.118.188.46",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.ex4ange.cc",
+      "links": "2b6ccfe8e892ae25a6f6fdb256640ff2c8ee45b1",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.ex4ange.cc",
+      "links": "8ff7a82a718143d1f9345f883eebf99253a6d6f9",
+      "type": "certs",
       "ln": 2
     },
     {

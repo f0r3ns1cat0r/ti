@@ -427,6 +427,12 @@
       "ln": 2
     },
     {
+      "host": "meep.ooo",
+      "links": "8bc8f7612be29fad96b43ec22545544624fd2c3e",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "myexpertforum.com",
       "links": "45.80.148.166",
       "type": "pdns",
@@ -585,6 +591,12 @@
     {
       "host": "topservicebin.com",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "trendignews.com",
+      "links": "8bc8f7612be29fad96b43ec22545544624fd2c3e",
       "type": "certs",
       "ln": 2
     },
