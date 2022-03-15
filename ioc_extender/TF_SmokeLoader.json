@@ -5630,6 +5630,12 @@
     },
     {
       "host": "file-coin-coin-10.com",
+      "links": "2.57.186.5",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "file-coin-coin-10.com",
       "links": "45.8.124.53",
       "type": "pdns",
       "ln": 2
@@ -5703,6 +5709,12 @@
     {
       "host": "file-coin-host-12.com",
       "links": "2.57.186.170",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "file-coin-host-12.com",
+      "links": "2.57.186.5",
       "type": "pdns",
       "ln": 2
     },
@@ -5841,12 +5853,6 @@
     {
       "host": "file-file-host8.com",
       "links": "34.94.211.117",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "file-file-host8.com",
-      "links": "37.0.10.199",
       "type": "pdns",
       "ln": 2
     },
@@ -6824,12 +6830,6 @@
     },
     {
       "host": "host-data-coin-11.com",
-      "links": "37.0.10.199",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "host-data-coin-11.com",
       "links": "46.30.41.16",
       "type": "pdns",
       "ln": 2
@@ -7088,12 +7088,6 @@
     },
     {
       "host": "kotob.top",
-      "links": "123.213.233.194",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "kotob.top",
       "links": "138.36.3.134",
       "type": "pdns",
       "ln": 2
@@ -7113,12 +7107,6 @@
     {
       "host": "kotob.top",
       "links": "175.126.109.15",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "kotob.top",
-      "links": "178.30.120.23",
       "type": "pdns",
       "ln": 2
     },
@@ -7760,12 +7748,6 @@
     },
     {
       "host": "mayak-lombard.ru",
-      "links": "178.30.120.23",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mayak-lombard.ru",
       "links": "179.177.56.254",
       "type": "pdns",
       "ln": 2
@@ -7863,12 +7845,6 @@
     {
       "host": "mayak-lombard.ru",
       "links": "196.200.111.5",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mayak-lombard.ru",
-      "links": "201.124.33.166",
       "type": "pdns",
       "ln": 2
     },
@@ -9740,12 +9716,6 @@
     },
     {
       "host": "privacy-tools-for-you777.com",
-      "links": "37.0.10.199",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "privacy-tools-for-you777.com",
       "links": "47.243.113.187",
       "type": "pdns",
       "ln": 2
@@ -9783,12 +9753,6 @@
     {
       "host": "privacytools-for-you-777.com",
       "links": "2.58.149.239",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "privacytools-for-you-777.com",
-      "links": "37.0.10.199",
       "type": "pdns",
       "ln": 2
     },
@@ -10065,12 +10029,6 @@
     {
       "host": "rcacademy.at",
       "links": "176.44.82.227",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "rcacademy.at",
-      "links": "178.30.120.23",
       "type": "pdns",
       "ln": 2
     },
@@ -10369,12 +10327,6 @@
       "ln": 2
     },
     {
-      "host": "secure01-redirect.net",
-      "links": "5.188.89.48",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "shfgte.com",
       "links": "233dc7c632eb4774476d700031f1795fefad39f4",
       "type": "certs",
@@ -10449,12 +10401,6 @@
     {
       "host": "stats404.info",
       "links": "34.94.211.117",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "stats404.info",
-      "links": "37.0.10.199",
       "type": "pdns",
       "ln": 2
     },
@@ -11865,12 +11811,6 @@
     {
       "host": "zavodooo.ru",
       "links": "176.44.82.227",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "zavodooo.ru",
-      "links": "178.30.120.23",
       "type": "pdns",
       "ln": 2
     },

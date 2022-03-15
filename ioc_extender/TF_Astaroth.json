@@ -140,6 +140,12 @@
     },
     {
       "host": "ponderadocs.cloud",
+      "links": "154.53.50.57",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ponderadocs.cloud",
       "links": "48f377c1caf66dd50197158e67decb2e9198ee65",
       "type": "certs",
       "ln": 2
