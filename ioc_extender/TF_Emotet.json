@@ -1700,6 +1700,12 @@
     },
     {
       "host": "izocab.com",
+      "links": "b7b53520dd48215fa382e0e659e98338853e121c",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "izocab.com",
       "links": "c13d460397014356361ecfbf355c088e6c392120",
       "type": "certs",
       "ln": 2
@@ -1778,6 +1784,12 @@
     },
     {
       "host": "krezol-group.com",
+      "links": "188.43.202.85",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "krezol-group.com",
       "links": "92.50.134.78",
       "type": "pdns",
       "ln": 2
@@ -1791,6 +1803,12 @@
     {
       "host": "krezol.com",
       "links": "92.50.134.78",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "krezol.ru",
+      "links": "188.43.202.85",
       "type": "pdns",
       "ln": 2
     },
@@ -2427,6 +2445,12 @@
     {
       "host": "ru.izocab.com",
       "links": "8d33af93d0993bdf8bec13379f9b581c2b1d065b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "ru.izocab.com",
+      "links": "b7b53520dd48215fa382e0e659e98338853e121c",
       "type": "certs",
       "ln": 2
     },
@@ -3285,6 +3309,12 @@
     {
       "host": "www.ru.izocab.com",
       "links": "8d33af93d0993bdf8bec13379f9b581c2b1d065b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.ru.izocab.com",
+      "links": "b7b53520dd48215fa382e0e659e98338853e121c",
       "type": "certs",
       "ln": 2
     },

@@ -152,12 +152,6 @@
     },
     {
       "host": "ThreatFox: ISFB",
-      "links": "gstatus.bar",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: ISFB",
       "links": "habpfans.at",
       "type": "z",
       "ln": 2
@@ -171,12 +165,6 @@
     {
       "host": "ThreatFox: ISFB",
       "links": "interbloger.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: ISFB",
-      "links": "istatus.bar",
       "type": "z",
       "ln": 2
     },
@@ -3859,12 +3847,6 @@
       "ln": 2
     },
     {
-      "host": "gstatus.bar",
-      "links": "62.173.149.183",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "habpfans.at",
       "links": "109.98.58.98",
       "type": "pdns",
@@ -4273,12 +4255,6 @@
       "ln": 2
     },
     {
-      "host": "istatus.bar",
-      "links": "62.173.149.125",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "italiandirezione.bar",
       "links": "62.173.149.135",
       "type": "pdns",
@@ -4406,12 +4382,6 @@
     },
     {
       "host": "kotob.top",
-      "links": "190.43.145.172",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "kotob.top",
       "links": "196.200.111.5",
       "type": "pdns",
       "ln": 2
@@ -4479,12 +4449,6 @@
     {
       "host": "kotob.top",
       "links": "77.243.64.119",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "kotob.top",
-      "links": "91.203.174.38",
       "type": "pdns",
       "ln": 2
     },
@@ -6055,12 +6019,6 @@
       "ln": 2
     },
     {
-      "host": "rcacademy.at",
-      "links": "91.203.174.38",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "risingcopter.xyz",
       "links": "185.252.215.7",
       "type": "pdns",
@@ -6100,12 +6058,6 @@
       "host": "silly-lalande.79-110-52-188.plesk.page",
       "links": "4f8332d5c1f24933b3afd0ec59f321c009dc55b8",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "staterio.com",
-      "links": "62.173.149.183",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -6159,12 +6111,6 @@
     {
       "host": "tindex.online",
       "links": "199.192.24.38",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "tipologie.net",
-      "links": "62.173.149.125",
       "type": "pdns",
       "ln": 2
     },
