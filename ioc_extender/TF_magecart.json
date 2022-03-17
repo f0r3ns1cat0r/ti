@@ -122,12 +122,6 @@
     },
     {
       "host": "ThreatFox: magecart",
-      "links": "amazon-server12-cdn.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: magecart",
       "links": "bing-visitors.com",
       "type": "z",
       "ln": 2
@@ -400,18 +394,6 @@
       "host": "alitus-info.store",
       "links": "9fc8a24867a03252f89f19ac5094697cacdccc54",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "amazon-server12-cdn.com",
-      "links": "176.119.1.157",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "amazon-server15-cdn.com",
-      "links": "176.119.1.157",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -2467,6 +2449,12 @@
       "ln": 2
     },
     {
+      "host": "prayascarf.com",
+      "links": "40525f50da95ec34ef234fc739842440fa4a828d",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "prazdnikis.store",
       "links": "9c73f26d08c80392fcf32de60e43cfc5586b26f8",
       "type": "certs",
@@ -2769,6 +2757,12 @@
     {
       "host": "skillshopm1.ru",
       "links": "9fc8a24867a03252f89f19ac5094697cacdccc54",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "skyquiz.space",
+      "links": "40525f50da95ec34ef234fc739842440fa4a828d",
       "type": "certs",
       "ln": 2
     },
@@ -3079,6 +3073,12 @@
       "ln": 2
     },
     {
+      "host": "trilogybkplc.com",
+      "links": "40525f50da95ec34ef234fc739842440fa4a828d",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "triskagodsvindoas.store",
       "links": "9fc8a24867a03252f89f19ac5094697cacdccc54",
       "type": "certs",
@@ -3105,6 +3105,12 @@
     {
       "host": "upakovkainfo.store",
       "links": "9fc8a24867a03252f89f19ac5094697cacdccc54",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "uproweb.ru",
+      "links": "bb06b5275d83edac0dd4f9bb648ecd9d9c9b1505",
       "type": "certs",
       "ln": 2
     },

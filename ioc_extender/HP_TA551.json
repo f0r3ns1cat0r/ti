@@ -55,6 +55,12 @@
       "ln": 2
     },
     {
+      "host": "HP Threat Research: TA551",
+      "links": "zslot8.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
       "host": "dam02.cyclelov.com",
       "links": "45.142.212.174",
       "type": "pdns",
@@ -217,6 +223,12 @@
       "ln": 2
     },
     {
+      "host": "itaya2000.com",
+      "links": "52.8.84.217",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "mail.brasecaps.work",
       "links": "138.124.180.201",
       "type": "pdns",
@@ -370,6 +382,12 @@
       "host": "www.digivape5.com",
       "links": "874b831e3613ba3472aecdba843d8e1776eebb15",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "zslot8.com",
+      "links": "52.8.84.217",
+      "type": "pdns",
       "ln": 2
     }
   ]

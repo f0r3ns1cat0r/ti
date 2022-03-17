@@ -50,6 +50,12 @@
     },
     {
       "host": "ThreatFox: Ave Maria",
+      "links": "hotboy01.ddns.net",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Ave Maria",
       "links": "iphanyi.chickenkiller.com",
       "type": "z",
       "ln": 2
@@ -141,6 +147,12 @@
     {
       "host": "hawman.cc.dvrlists.com",
       "links": "194.5.98.11",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hotboy01.ddns.net",
+      "links": "194.5.98.103",
       "type": "pdns",
       "ln": 2
     },
@@ -393,6 +405,12 @@
     {
       "host": "rick63.publicvm.com",
       "links": "91.193.75.175",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "sannation.duckdns.org",
+      "links": "194.5.98.103",
       "type": "pdns",
       "ln": 2
     },

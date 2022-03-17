@@ -74,6 +74,12 @@
     },
     {
       "host": "ThreatFox: Formbook",
+      "links": "www.azerni.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Formbook",
       "links": "www.basiclablife.com",
       "type": "z",
       "ln": 2
@@ -513,6 +519,12 @@
     {
       "host": "avito.getpay.shop",
       "links": "199.192.27.115",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "azerni.com",
+      "links": "162.213.253.238",
       "type": "pdns",
       "ln": 2
     },
@@ -1717,12 +1729,6 @@
       "ln": 2
     },
     {
-      "host": "jenkins.thebahrimedia.com",
-      "links": "66.29.133.79",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "jofogas.getpay.shop",
       "links": "199.192.27.115",
       "type": "pdns",
@@ -2469,12 +2475,6 @@
     {
       "host": "ns2.yellowcloudvps.com",
       "links": "199.192.17.149",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "odoo.thebahrimedia.com",
-      "links": "66.29.133.79",
       "type": "pdns",
       "ln": 2
     },
@@ -3550,6 +3550,12 @@
       "host": "www.amazingrelay.com",
       "links": "a66b808bacdde051136b86a35ffc66e106f1b4c3",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.azerni.com",
+      "links": "162.213.253.238",
+      "type": "pdns",
       "ln": 2
     },
     {
