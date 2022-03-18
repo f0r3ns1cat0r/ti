@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ET Trojan: Loki Locker Ransomware",
+      "links": "loki-locker.one",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "cpanel.loki-locker.one",
+      "links": "83c9fb26b5bc4a1d7c6acc149f93d52ab92340c9",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcalendars.loki-locker.one",
+      "links": "83c9fb26b5bc4a1d7c6acc149f93d52ab92340c9",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcontacts.loki-locker.one",
+      "links": "83c9fb26b5bc4a1d7c6acc149f93d52ab92340c9",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "loki-locker.one",
+      "links": "83c9fb26b5bc4a1d7c6acc149f93d52ab92340c9",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.loki-locker.one",
+      "links": "83c9fb26b5bc4a1d7c6acc149f93d52ab92340c9",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webdisk.loki-locker.one",
+      "links": "83c9fb26b5bc4a1d7c6acc149f93d52ab92340c9",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webmail.loki-locker.one",
+      "links": "83c9fb26b5bc4a1d7c6acc149f93d52ab92340c9",
+      "type": "certs",
+      "ln": 2
+    }
+  ]
+}

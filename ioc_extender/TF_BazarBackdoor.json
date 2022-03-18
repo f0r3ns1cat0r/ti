@@ -19,12 +19,6 @@
   ],
   "data": [
     {
-      "host": "9tr.xyz",
-      "links": "31.44.185.182",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ThreatFox: BazarBackdoor",
       "links": "bluecartservice.com",
       "type": "z",
@@ -57,6 +51,12 @@
     {
       "host": "activebeevenom.com",
       "links": "a69085837381573f53be7bc1d8d6860eb9ed6360",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "ai-web-services.com",
+      "links": "d00bb36fcf045b2b103459d8a26dccf47694723f",
       "type": "certs",
       "ln": 2
     },
@@ -157,9 +157,21 @@
       "ln": 2
     },
     {
+      "host": "olamideolaniyan.com",
+      "links": "d00bb36fcf045b2b103459d8a26dccf47694723f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "oldboytakecar.net",
       "links": "31.44.185.182",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "reelsnetwork.com",
+      "links": "d00bb36fcf045b2b103459d8a26dccf47694723f",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -183,6 +195,12 @@
     {
       "host": "www.apprenticearena.com",
       "links": "fb3d2581679327c7e256be8eba2dad8e741b88f7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "xediction.com",
+      "links": "d00bb36fcf045b2b103459d8a26dccf47694723f",
       "type": "certs",
       "ln": 2
     },
