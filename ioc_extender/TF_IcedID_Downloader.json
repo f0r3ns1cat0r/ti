@@ -38,7 +38,19 @@
     },
     {
       "host": "ThreatFox: IcedID Downloader",
+      "links": "balliordan.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: IcedID Downloader",
       "links": "bersaww.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: IcedID Downloader",
+      "links": "bleizcarsgood.com",
       "type": "z",
       "ln": 2
     },
@@ -57,6 +69,18 @@
     {
       "host": "ThreatFox: IcedID Downloader",
       "links": "desagreelokilo.top",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: IcedID Downloader",
+      "links": "firstdatachannel.click",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: IcedID Downloader",
+      "links": "greshman.xyz",
       "type": "z",
       "ln": 2
     },
@@ -157,9 +181,33 @@
       "ln": 2
     },
     {
+      "host": "balliordan.com",
+      "links": "147.182.222.62",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "balliordan.com",
+      "links": "b9fa29453251608218af8498d63c32889fc00838",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "bersaww.com",
       "links": "185.150.119.30",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "bleizcarsgood.com",
+      "links": "147.182.222.62",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "bleizcarsgood.com",
+      "links": "b9fa29453251608218af8498d63c32889fc00838",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -217,6 +265,18 @@
       "ln": 2
     },
     {
+      "host": "firstdatachannel.click",
+      "links": "147.182.222.62",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "firstdatachannel.click",
+      "links": "b9fa29453251608218af8498d63c32889fc00838",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "flowingcharge.com",
       "links": "f8419a250788d52f373dab383bfcace8da782293",
       "type": "certs",
@@ -229,9 +289,33 @@
       "ln": 2
     },
     {
+      "host": "greshman.xyz",
+      "links": "147.182.222.62",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "greshman.xyz",
+      "links": "b9fa29453251608218af8498d63c32889fc00838",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "gw-nl3.itekstyle.pp.ua",
       "links": "79.141.164.27",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "helloshoplegs.com",
+      "links": "147.182.222.62",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "helloshoplegs.com",
+      "links": "b9fa29453251608218af8498d63c32889fc00838",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -267,6 +351,12 @@
     {
       "host": "jeliskvosh.com",
       "links": "103.208.86.21",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "jeliskvosh.com",
+      "links": "164.90.204.224",
       "type": "pdns",
       "ln": 2
     },

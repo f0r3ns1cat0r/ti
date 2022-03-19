@@ -1,0 +1,40 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ET Trojan: Gh0st Variant",
+      "links": "www.dexercisep.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "dexercisep.com",
+      "links": "ab0b80e6cacafaa51025a38793f8cba743c2d449",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.dexercisep.com",
+      "links": "ab0b80e6cacafaa51025a38793f8cba743c2d449",
+      "type": "certs",
+      "ln": 2
+    }
+  ]
+}

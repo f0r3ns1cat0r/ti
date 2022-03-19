@@ -32,6 +32,12 @@
     },
     {
       "host": "3laallah.myvnc.com",
+      "links": "198.244.206.23",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "3laallah.myvnc.com",
       "links": "51.89.253.23",
       "type": "pdns",
       "ln": 2
@@ -127,6 +133,12 @@
       "ln": 2
     },
     {
+      "host": "bmuvictoire.ddns.net",
+      "links": "103.73.64.115",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "bodmas01.zapto.org",
       "links": "191.96.227.192",
       "type": "pdns",
@@ -142,6 +154,12 @@
       "host": "box4launch.app",
       "links": "021cc80a118caa47313ca16a59d8e7b6787df70b",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "chongmei33.publicvm.com",
+      "links": "103.73.64.115",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -237,6 +255,12 @@
     {
       "host": "ip23.ip-51-89-253.eu",
       "links": "51.89.253.23",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "java.servebeer.com",
+      "links": "198.244.206.23",
       "type": "pdns",
       "ln": 2
     },

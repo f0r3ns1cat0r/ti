@@ -433,6 +433,12 @@
       "ln": 2
     },
     {
+      "host": "remtorrediezdn.duckdns.org",
+      "links": "181.131.217.138",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "salonsocialdnre.duckdns.org",
       "links": "181.131.217.138",
       "type": "pdns",
@@ -573,12 +579,6 @@
     {
       "host": "visentinel.net",
       "links": "103.231.91.59",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "vjjusmw.irgzrgmdwodr.hath.network",
-      "links": "104.254.90.251",
       "type": "pdns",
       "ln": 2
     },
