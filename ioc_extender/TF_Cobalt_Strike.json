@@ -19,6 +19,12 @@
   ],
   "data": [
     {
+      "host": "000xs.net",
+      "links": "dd1b1f2e3a2e17f3590f75a6a2da14e0838fb660",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "06mmp.com",
       "links": "92c862cfb1799ebc9f3715c41da8ce88241c8cdc",
       "type": "certs",
@@ -399,6 +405,12 @@
     {
       "host": "ThreatFox: Cobalt Strike",
       "links": "bonyasom.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Cobalt Strike",
+      "links": "bornometa.com",
       "type": "z",
       "ln": 2
     },
@@ -1501,6 +1513,12 @@
       "ln": 2
     },
     {
+      "host": "arkanaves.store",
+      "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "asdstatistic.com",
       "links": "335b0d41d4463209fecb9933958b61707594199f",
       "type": "certs",
@@ -1723,6 +1741,12 @@
       "ln": 2
     },
     {
+      "host": "betwoon247.com",
+      "links": "dd1b1f2e3a2e17f3590f75a6a2da14e0838fb660",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "bigegubu.com",
       "links": "23.108.57.23",
       "type": "pdns",
@@ -1792,6 +1816,12 @@
       "host": "bonyasom.com",
       "links": "169.239.128.125",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "bornometa.com",
+      "links": "5fcc7543ff872b9ea83e751132157e8596886a07",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -2461,6 +2491,12 @@
       "ln": 2
     },
     {
+      "host": "drimzis.com",
+      "links": "5fcc7543ff872b9ea83e751132157e8596886a07",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "driverpackcdn.com",
       "links": "149.255.35.174",
       "type": "pdns",
@@ -2481,6 +2517,12 @@
     {
       "host": "easternalchemyco.com",
       "links": "216edef2f26a94071007aab8ec5e36c6b072c949",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "eclipse-films.ru",
+      "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
       "type": "certs",
       "ln": 2
     },
@@ -2971,6 +3013,12 @@
       "ln": 2
     },
     {
+      "host": "hrustbar.online",
+      "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "hs7137.com",
       "links": "10fa06dfa4db5dd6432a75241f4084622ff9d2ee",
       "type": "certs",
@@ -3304,12 +3352,6 @@
       "host": "kraftprodukt.store",
       "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "kriminala.net",
-      "links": "31.44.185.182",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -5614,6 +5656,12 @@
       "host": "www.dihaxim.com",
       "links": "23.108.57.23",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.drimzis.com",
+      "links": "5fcc7543ff872b9ea83e751132157e8596886a07",
+      "type": "certs",
       "ln": 2
     },
     {

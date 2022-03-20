@@ -332,6 +332,12 @@
     },
     {
       "host": "iphanyi.webredirect.org",
+      "links": "91.193.75.132",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iphanyi.webredirect.org",
       "links": "91.193.75.136",
       "type": "pdns",
       "ln": 2

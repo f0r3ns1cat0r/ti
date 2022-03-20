@@ -121,6 +121,12 @@
       "ln": 2
     },
     {
+      "host": "depressedtoken.com",
+      "links": "d00bb36fcf045b2b103459d8a26dccf47694723f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "eitt.xyz",
       "links": "31.44.185.182",
       "type": "pdns",
@@ -152,12 +158,6 @@
     },
     {
       "host": "imerservice.net",
-      "links": "31.44.185.182",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "kriminala.net",
       "links": "31.44.185.182",
       "type": "pdns",
       "ln": 2
