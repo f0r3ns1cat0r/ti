@@ -20,12 +20,6 @@
   "data": [
     {
       "host": "ThreatFox: NjRAT",
-      "links": "bokkuvirde.ddns.net",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: NjRAT",
       "links": "fact.azad.live",
       "type": "z",
       "ln": 2
@@ -49,12 +43,6 @@
       "ln": 2
     },
     {
-      "host": "bokkuvirde.ddns.net",
-      "links": "141.255.153.157",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "fact.azad.live",
       "links": "3a330610d3889b7eb55f43e7698bea1f8e13a6b1",
       "type": "certs",
@@ -69,12 +57,6 @@
     {
       "host": "jerenyankipong.duckdns.org",
       "links": "185.19.85.141",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "khalil3131.ddns.net",
-      "links": "141.255.153.157",
       "type": "pdns",
       "ln": 2
     },

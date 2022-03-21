@@ -512,12 +512,6 @@
     },
     {
       "host": "ThreatFox: Cobalt Strike",
-      "links": "dapohiw.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: Cobalt Strike",
       "links": "dataplane.theyardservice.com",
       "type": "z",
       "ln": 2
@@ -2281,12 +2275,6 @@
       "ln": 2
     },
     {
-      "host": "dapohiw.com",
-      "links": "23.81.246.16",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "databasegalore.com",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
@@ -2559,12 +2547,6 @@
     {
       "host": "effective-eq.com",
       "links": "195.123.246.121",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "eitt.xyz",
-      "links": "31.44.185.182",
       "type": "pdns",
       "ln": 2
     },
@@ -3055,12 +3037,6 @@
       "ln": 2
     },
     {
-      "host": "imerservice.net",
-      "links": "31.44.185.182",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "inactivedates.art",
       "links": "233dc7c632eb4774476d700031f1795fefad39f4",
       "type": "certs",
@@ -3087,6 +3063,12 @@
     {
       "host": "info.kashaservice.com",
       "links": "0ce4bad11d8631c6924b771f1857abe1b3c0bc8e",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "info.kashaservice.com",
+      "links": "dd1b1f2e3a2e17f3590f75a6a2da14e0838fb660",
       "type": "certs",
       "ln": 2
     },
@@ -4180,12 +4162,6 @@
       "host": "officeupdate.workers.dev",
       "links": "9ace3bcae3486c878e76b59541a7c33efd5cca75",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "oldboytakecar.net",
-      "links": "31.44.185.182",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -5624,12 +5600,6 @@
     },
     {
       "host": "www.bit2check.com",
-      "links": "192.34.109.14",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.bit2check.com",
       "links": "8b5c78be5de69d95b02fe68ca3e646dfa0cfa1b7",
       "type": "certs",
       "ln": 2
@@ -5780,6 +5750,12 @@
     },
     {
       "host": "xn---64-5cduriitqboeoxq4ftd.xn--p1ai",
+      "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "xn--80aa3aydjcmc.xn--p1ai",
       "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
       "type": "certs",
       "ln": 2
@@ -5944,12 +5920,6 @@
       "host": "xtremestream02.xyz",
       "links": "92c862cfb1799ebc9f3715c41da8ce88241c8cdc",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "xuyegey.com",
-      "links": "23.81.246.16",
-      "type": "pdns",
       "ln": 2
     },
     {

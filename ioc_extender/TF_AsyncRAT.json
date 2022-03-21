@@ -32,12 +32,6 @@
     },
     {
       "host": "3laallah.myvnc.com",
-      "links": "198.244.206.23",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "3laallah.myvnc.com",
       "links": "51.89.253.23",
       "type": "pdns",
       "ln": 2
@@ -255,12 +249,6 @@
     {
       "host": "ip23.ip-51-89-253.eu",
       "links": "51.89.253.23",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "java.servebeer.com",
-      "links": "198.244.206.23",
       "type": "pdns",
       "ln": 2
     },

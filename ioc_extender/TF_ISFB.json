@@ -271,12 +271,6 @@
       "ln": 2
     },
     {
-      "host": "ThreatFox: ISFB",
-      "links": "yuordom.xyz",
-      "type": "z",
-      "ln": 2
-    },
-    {
       "host": "a.dnsonn.org",
       "links": "186.188.224.208",
       "type": "pdns",
@@ -4040,18 +4034,6 @@
     },
     {
       "host": "gstatistica.com",
-      "links": "109.248.203.72",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "gstatistica.com",
-      "links": "31.41.44.128",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "gstatistica.com",
       "links": "b02577559765ec6207ac564fa625b4447e38b2b5",
       "type": "certs",
       "ln": 2
@@ -4347,12 +4329,6 @@
     {
       "host": "hstfurnaces.net",
       "links": "91.224.22.45",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ideastherapy.info",
-      "links": "31.41.44.128",
       "type": "pdns",
       "ln": 2
     },
@@ -4915,12 +4891,6 @@
       "ln": 2
     },
     {
-      "host": "mail.ideastherapy.info",
-      "links": "31.41.44.128",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "mail.lineautos.com",
       "links": "62.173.149.135",
       "type": "pdns",
@@ -4935,12 +4905,6 @@
     {
       "host": "mail.rcacademy.at",
       "links": "148.0.74.229",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mail.touisdq.cn",
-      "links": "31.41.44.128",
       "type": "pdns",
       "ln": 2
     },
@@ -5821,6 +5785,12 @@
       "ln": 2
     },
     {
+      "host": "ns1.pointibo.xyz",
+      "links": "199.192.24.38",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ns1.sodasphere.com",
       "links": "62.173.149.99",
       "type": "pdns",
@@ -5853,6 +5823,12 @@
     {
       "host": "ns2.logformhop1.org",
       "links": "186.188.224.208",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.pointibo.xyz",
+      "links": "199.192.24.38",
       "type": "pdns",
       "ln": 2
     },
@@ -6343,12 +6319,6 @@
       "ln": 2
     },
     {
-      "host": "risingcopter.xyz",
-      "links": "185.252.215.7",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ritusm.online",
       "links": "199.192.24.38",
       "type": "pdns",
@@ -6370,12 +6340,6 @@
       "host": "service-points.is-a-financialadvisor.com",
       "links": "29b468ba8c7b5d845d5b57148b0b9a8c7b9db183",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "short.x24hr.com",
-      "links": "31.41.44.128",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -6529,12 +6493,6 @@
       "ln": 2
     },
     {
-      "host": "urbanrenders.com",
-      "links": "109.248.203.72",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "v10.avyanok.com",
       "links": "185.105.116.46",
       "type": "pdns",
@@ -6577,12 +6535,6 @@
       "ln": 2
     },
     {
-      "host": "velshhif.ideastherapy.info",
-      "links": "31.41.44.128",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "veobionline.com",
       "links": "fc5034e563be8f445aa37eb4db412d98017d4228",
       "type": "certs",
@@ -6598,12 +6550,6 @@
       "host": "vipinbiz.com",
       "links": "a42ccbd53bf5927a9fc3925b730bcd4aaaba5fff",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "voluptasidpnm.ideastherapy.info",
-      "links": "31.41.44.128",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -6913,12 +6859,6 @@
       "ln": 2
     },
     {
-      "host": "www.short.x24hr.com",
-      "links": "31.41.44.128",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "www.trackersapi.at",
       "links": "211.119.84.111",
       "type": "pdns",
@@ -6994,12 +6934,6 @@
       "host": "www.vipinbiz.com",
       "links": "a42ccbd53bf5927a9fc3925b730bcd4aaaba5fff",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "yuordom.xyz",
-      "links": "185.252.215.7",
-      "type": "pdns",
       "ln": 2
     },
     {
