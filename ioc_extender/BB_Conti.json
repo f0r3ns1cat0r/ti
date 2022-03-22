@@ -80,6 +80,12 @@
     },
     {
       "host": "bbb.edu-cisco.org",
+      "links": "4e8189c09dbb3ef92914ce206822b7bcfe974486",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "bbb.edu-cisco.org",
       "links": "81aacbb3650e0182927e350efe0fd93bd8395acf",
       "type": "certs",
       "ln": 2
@@ -124,6 +130,12 @@
       "host": "keen-jennings.162-244-80-254.plesk.page",
       "links": "162.244.80.254",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "macrodown.com",
+      "links": "4e8189c09dbb3ef92914ce206822b7bcfe974486",
+      "type": "certs",
       "ln": 2
     },
     {

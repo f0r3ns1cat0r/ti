@@ -182,6 +182,12 @@
     },
     {
       "host": "companynet-mbank.com",
+      "links": "185.105.91.24",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "companynet-mbank.com",
       "links": "193.168.227.61",
       "type": "pdns",
       "ln": 2
@@ -1053,6 +1059,12 @@
     {
       "host": "webmail.online-bos.com",
       "links": "213.226.112.13",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.companynet-mbank.com",
+      "links": "185.105.91.24",
       "type": "pdns",
       "ln": 2
     },
