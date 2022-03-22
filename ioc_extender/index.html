@@ -549,7 +549,11 @@ document.getElementById('ex_list').innerHTML=ext_list;
     .selectAll("g")
     .data(graph.nodes)
     .enter().append("g")
-
+    .call(d3.drag()
+          .on("start", dragstarted)
+          .on("drag", dragged)
+          .on("end", dragended))
+	
   var circles = node.append("circle")
       .attr("r", function(d) {
 			if (d.group==4) 
@@ -558,12 +562,7 @@ document.getElementById('ex_list').innerHTML=ext_list;
 				rc=40;
 		  d.cr=rc;
 		  return rc; })
-      .attr("fill", function(d) { return mycolor(d.group); })
-      .call(d3.drag()
-          .on("start", dragstarted)
-          .on("drag", dragged)
-          .on("end", dragended));
-	  
+      .attr("fill", function(d) { return mycolor(d.group); });
 
 
   node.append("image")
@@ -585,10 +584,6 @@ document.getElementById('ex_list').innerHTML=ext_list;
 				return "malware.png";
 			}			
 	  })
-      .call(d3.drag()
-          .on("start", dragstarted)
-          .on("drag", dragged)
-          .on("end", dragended))
       .attr("x", function(d) {
 				return -(d.cr*1.8)/2;
       })
@@ -709,8 +704,8 @@ function dragged(d) {
 
 function dragended(d) {
   if (!d3.event.active) simulation.alphaTarget(0);
-  d.fx = null;
-  d.fy = null;
+  d.fx = d3.event.x;
+  d.fy = d3.event.y;
 }
 	
 function zoomFit() {
