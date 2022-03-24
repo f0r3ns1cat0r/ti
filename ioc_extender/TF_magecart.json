@@ -109,6 +109,12 @@
       "ln": 2
     },
     {
+      "host": "377649-ce25215.tmweb.ru",
+      "links": "188.225.84.211",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "51-media.ru",
       "links": "bb06b5275d83edac0dd4f9bb648ecd9d9c9b1505",
       "type": "certs",
@@ -207,6 +213,12 @@
     {
       "host": "ThreatFox: magecart",
       "links": "google-sagepay.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: magecart",
+      "links": "google-thumbs.com",
       "type": "z",
       "ln": 2
     },
@@ -375,6 +387,12 @@
     {
       "host": "agrotranspovolzhe.store",
       "links": "9c73f26d08c80392fcf32de60e43cfc5586b26f8",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "aha-now.store",
+      "links": "bb06b5275d83edac0dd4f9bb648ecd9d9c9b1505",
       "type": "certs",
       "ln": 2
     },
@@ -1496,8 +1514,38 @@
     },
     {
       "host": "google-codes.com",
+      "links": "188.225.84.211",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "google-codes.com",
       "links": "75c0ea19de1fd410d285f8d4ae3c98454627ef1f",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "google-conversion.com",
+      "links": "188.225.84.211",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "google-create.com",
+      "links": "188.225.84.211",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "google-globals.com",
+      "links": "188.225.84.211",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "google-note.com",
+      "links": "188.225.84.211",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -1521,6 +1569,24 @@
     {
       "host": "google-sagepay.com",
       "links": "94.228.112.223",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "google-sanek.com",
+      "links": "188.225.84.211",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "google-squery.com",
+      "links": "188.225.84.211",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "google-thumbs.com",
+      "links": "188.225.84.211",
       "type": "pdns",
       "ln": 2
     },
@@ -1666,6 +1732,18 @@
       "host": "gulnarachebotaeva.ru",
       "links": "4d8e2becdfb0a3309e46e243b1f98b46ae049d36",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "guseyn.best",
+      "links": "188.225.84.211",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "guseyn.link",
+      "links": "188.225.84.211",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -1837,20 +1915,8 @@
       "ln": 2
     },
     {
-      "host": "jquery-in.com",
-      "links": "80.249.149.129",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "jquery-ssl.com",
       "links": "79.143.29.96",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "jquery-ssl.com",
-      "links": "80.249.149.129",
       "type": "pdns",
       "ln": 2
     },
@@ -2533,6 +2599,12 @@
       "ln": 2
     },
     {
+      "host": "p.e790.top",
+      "links": "188.225.84.211",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "p2e.su",
       "links": "9fc8a24867a03252f89f19ac5094697cacdccc54",
       "type": "certs",
@@ -2554,6 +2626,18 @@
       "host": "paypal-login61.com",
       "links": "5b410f323f84cc0ea3f41697444153e11400c683",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "paypal-merchants.com",
+      "links": "188.225.84.211",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "paypal-moneypay.com",
+      "links": "188.225.84.211",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -2596,6 +2680,12 @@
       "host": "pmpetro.com",
       "links": "9fc8a24867a03252f89f19ac5094697cacdccc54",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "pms.e790.top",
+      "links": "188.225.84.211",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -3061,6 +3151,12 @@
       "ln": 2
     },
     {
+      "host": "ssl-authorization.com",
+      "links": "188.225.84.211",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "stduroven.store",
       "links": "4d8e2becdfb0a3309e46e243b1f98b46ae049d36",
       "type": "certs",
@@ -3196,6 +3292,12 @@
       "host": "tiger2022.site",
       "links": "9fc8a24867a03252f89f19ac5094697cacdccc54",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "tokmakovbd.ru",
+      "links": "188.225.84.211",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -3397,8 +3499,32 @@
       "ln": 2
     },
     {
+      "host": "webdisk.bigbro.top",
+      "links": "188.225.84.211",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "webmail.bigbro.top",
+      "links": "188.225.84.211",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "webmail.brabus.bigbro.top",
+      "links": "188.225.84.211",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "webscriptcdn.com",
       "links": "176.121.14.143",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "weixin.e790.top",
+      "links": "188.225.84.211",
       "type": "pdns",
       "ln": 2
     },
@@ -3406,6 +3532,12 @@
       "host": "what-youlike.ru",
       "links": "9fc8a24867a03252f89f19ac5094697cacdccc54",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "whm.brabus.bigbro.top",
+      "links": "188.225.84.211",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -3475,6 +3607,12 @@
       "ln": 2
     },
     {
+      "host": "www.bigbro.top",
+      "links": "188.225.84.211",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "www.bing-visitors.com",
       "links": "2c09059d52b37da81f70710c330eedd46d285e7a",
       "type": "certs",
@@ -3505,6 +3643,12 @@
       "ln": 2
     },
     {
+      "host": "www.brabus.bigbro.top",
+      "links": "188.225.84.211",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "www.bravo27.ru",
       "links": "4d8e2becdfb0a3309e46e243b1f98b46ae049d36",
       "type": "certs",
@@ -3529,6 +3673,12 @@
       "ln": 2
     },
     {
+      "host": "www.e790.top",
+      "links": "188.225.84.211",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "www.fixflowers-spb.ru",
       "links": "e8d6de5b18251d807fbec66a74fde4223ed13727",
       "type": "certs",
@@ -3549,6 +3699,30 @@
     {
       "host": "www.google-activated.com",
       "links": "8.209.119.210",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.google-conversion.com",
+      "links": "188.225.84.211",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.google-note.com",
+      "links": "188.225.84.211",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.google-sanek.com",
+      "links": "188.225.84.211",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.google-squery.com",
+      "links": "188.225.84.211",
       "type": "pdns",
       "ln": 2
     },
@@ -3607,6 +3781,18 @@
       "ln": 2
     },
     {
+      "host": "www.paypal-merchants.com",
+      "links": "188.225.84.211",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.paypal-moneypay.com",
+      "links": "188.225.84.211",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "www.pechiteplov24.ru",
       "links": "2c09059d52b37da81f70710c330eedd46d285e7a",
       "type": "certs",
@@ -3631,6 +3817,12 @@
       "ln": 2
     },
     {
+      "host": "www.ssl-authorization.com",
+      "links": "188.225.84.211",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "www.territory.tech",
       "links": "5a92f092fb55084a0a7ffdefc4f44e394290c81f",
       "type": "certs",
@@ -3643,9 +3835,21 @@
       "ln": 2
     },
     {
+      "host": "www.tokmakovbd.ru",
+      "links": "188.225.84.211",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "www.yunu.ru",
       "links": "5b410f323f84cc0ea3f41697444153e11400c683",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "wwww.e790.top",
+      "links": "188.225.84.211",
+      "type": "pdns",
       "ln": 2
     },
     {

@@ -415,6 +415,12 @@
       "ln": 2
     },
     {
+      "host": "mail.pankin.org",
+      "links": "185.243.215.198",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "mail.rchosts.com",
       "links": "51.89.50.153",
       "type": "pdns",
@@ -592,6 +598,12 @@
       "host": "topservicebin.com",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "trendignews.com",
+      "links": "185.243.215.198",
+      "type": "pdns",
       "ln": 2
     },
     {

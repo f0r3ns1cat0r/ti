@@ -79,12 +79,6 @@
       "ln": 2
     },
     {
-      "host": "143-244-158-239.cprapid.com",
-      "links": "143.244.158.239",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "195.58.48.249.clients.dts.su",
       "links": "195.58.48.249",
       "type": "pdns",
@@ -332,7 +326,25 @@
     },
     {
       "host": "ThreatFox: Cobalt Strike",
+      "links": "apeduze.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Cobalt Strike",
+      "links": "apokil.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Cobalt Strike",
       "links": "arctiusa.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Cobalt Strike",
+      "links": "ascizx.com",
       "type": "z",
       "ln": 2
     },
@@ -398,6 +410,12 @@
     },
     {
       "host": "ThreatFox: Cobalt Strike",
+      "links": "blinkij.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Cobalt Strike",
       "links": "bmwfor.com",
       "type": "z",
       "ln": 2
@@ -417,6 +435,12 @@
     {
       "host": "ThreatFox: Cobalt Strike",
       "links": "brikeb.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Cobalt Strike",
+      "links": "britxec.com",
       "type": "z",
       "ln": 2
     },
@@ -2035,12 +2059,6 @@
       "ln": 2
     },
     {
-      "host": "carpricegoods.com",
-      "links": "103.208.86.21",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "casepointcrm.ru",
       "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
       "type": "certs",
@@ -2188,12 +2206,6 @@
       "host": "class4b.com",
       "links": "216edef2f26a94071007aab8ec5e36c6b072c949",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "cleverballs.com",
-      "links": "103.208.86.20",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -2731,12 +2743,6 @@
       "ln": 2
     },
     {
-      "host": "effective-eq.com",
-      "links": "195.123.246.121",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ekspertgreen.ru",
       "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
       "type": "certs",
@@ -3187,12 +3193,6 @@
       "ln": 2
     },
     {
-      "host": "hoafmzn.com",
-      "links": "103.208.86.21",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "hostilenation.tk",
       "links": "0ce4bad11d8631c6924b771f1857abe1b3c0bc8e",
       "type": "certs",
@@ -3382,12 +3382,6 @@
       "host": "jackhanclub.top",
       "links": "0dc95187933afbb5a002e7bde78be6821c02eb3e",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "jeliskvosh.com",
-      "links": "103.208.86.21",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -3604,12 +3598,6 @@
       "host": "lapontop.site",
       "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "lartymanz.com",
-      "links": "103.208.86.20",
-      "type": "pdns",
       "ln": 2
     },
     {
