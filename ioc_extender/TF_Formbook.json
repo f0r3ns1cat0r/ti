@@ -2245,12 +2245,6 @@
       "ln": 2
     },
     {
-      "host": "ns1.brainstackcrm.xyz",
-      "links": "198.54.112.233",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ns1.cadetcollegeofrangpur.net",
       "links": "162.0.222.228",
       "type": "pdns",
@@ -2349,12 +2343,6 @@
     {
       "host": "ns2.beniasohokola.com",
       "links": "162.0.222.228",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.brainstackcrm.xyz",
-      "links": "198.54.112.233",
       "type": "pdns",
       "ln": 2
     },
@@ -2668,12 +2656,6 @@
       "host": "server1.best-apps.co",
       "links": "e922fc91777cd22338e0f6a1531c0d89d8c62f3c",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "server1.brainstackcrm.xyz",
-      "links": "198.54.112.233",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -3014,12 +2996,6 @@
     },
     {
       "host": "webdisk.brainstackcrm.xyz",
-      "links": "198.54.112.233",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "webdisk.brainstackcrm.xyz",
       "links": "1bdb661af548391c719c3c3f2c5e0daac152131e",
       "type": "certs",
       "ln": 2
@@ -3172,12 +3148,6 @@
       "host": "webmail.blueberrykw.com",
       "links": "91d0d7231af3571266553d0cacd0fb22c95a0c73",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "webmail.brainstackcrm.xyz",
-      "links": "198.54.112.233",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -3475,12 +3445,6 @@
       "ln": 2
     },
     {
-      "host": "www.199-192-23-253.cprapid.com",
-      "links": "199.192.23.253",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "www.199-192-27-68.cprapid.com",
       "links": "199.192.27.68",
       "type": "pdns",
@@ -3699,12 +3663,6 @@
     {
       "host": "www.carbeloy.com",
       "links": "199.188.203.26",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.careers.brainstackcrm.xyz",
-      "links": "198.54.112.233",
       "type": "pdns",
       "ln": 2
     },
@@ -4672,12 +4630,6 @@
       "host": "yunohost.org",
       "links": "5507922b90b7a62e2e7c34a476032844d1981d65",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "zealous-brahmagupta.199-192-23-253.plesk.page",
-      "links": "199.192.23.253",
-      "type": "pdns",
       "ln": 2
     },
     {
