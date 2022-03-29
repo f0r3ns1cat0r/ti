@@ -211,6 +211,12 @@
       "ln": 2
     },
     {
+      "host": "godisgood1.hopto.org",
+      "links": "194.31.98.170",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "greymatterdata.com",
       "links": "198.12.252.160",
       "type": "pdns",
@@ -321,6 +327,12 @@
     {
       "host": "newremc22.ddns.net",
       "links": "146.70.35.187",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "newremc22.ddns.net",
+      "links": "194.31.98.170",
       "type": "pdns",
       "ln": 2
     },

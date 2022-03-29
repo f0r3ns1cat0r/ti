@@ -2611,6 +2611,12 @@
       "ln": 2
     },
     {
+      "host": "deutsch-griffen.com",
+      "links": "45.9.20.203",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "deutschebank-zugangphototan.xyz",
       "links": "1072d53db9fc050d9d289cec9ce34ce64ae2d1fc",
       "type": "certs",
@@ -2637,6 +2643,12 @@
     {
       "host": "dihaxim.com",
       "links": "23.108.57.23",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ditelcorp.com",
+      "links": "45.9.20.203",
       "type": "pdns",
       "ln": 2
     },
@@ -4657,6 +4669,12 @@
       "ln": 2
     },
     {
+      "host": "palmpontiac.com",
+      "links": "45.9.20.203",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "pancakeswap.flnance.sbs",
       "links": "6898b95e5979ef6d5537da8e35c0ae2957fb2c47",
       "type": "certs",
@@ -6200,6 +6218,18 @@
     },
     {
       "host": "xn--80aa3aydjcmc.xn--p1ai",
+      "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "xn--80acdlqhopadrddfheeet.xn--p1ai",
+      "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "xn--80acvihhfabavf7i.xn--p1ai",
       "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
       "type": "certs",
       "ln": 2

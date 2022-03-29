@@ -805,6 +805,12 @@
       "ln": 2
     },
     {
+      "host": "citykeys.net",
+      "links": "66.29.131.244",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "codbut.online",
       "links": "63.250.34.114",
       "type": "pdns",
@@ -1735,12 +1741,6 @@
       "ln": 2
     },
     {
-      "host": "localhost.localdomain",
-      "links": "ca6a9ec2bc8388df4d5c76898f2a7dae938c8a0c",
-      "type": "certs",
-      "ln": 2
-    },
-    {
       "host": "lownak.com",
       "links": "192.64.115.15",
       "type": "pdns",
@@ -2559,6 +2559,12 @@
     {
       "host": "resctub.com",
       "links": "199.192.26.235",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "rightandleft.net",
+      "links": "66.29.131.244",
       "type": "pdns",
       "ln": 2
     },

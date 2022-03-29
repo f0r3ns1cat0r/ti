@@ -380,6 +380,12 @@
     },
     {
       "host": "oceriesfornot.top",
+      "links": "188.166.154.118",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "oceriesfornot.top",
       "links": "f79a08454a07883b9a83972fc9d9f037563c03ac",
       "type": "certs",
       "ln": 2
@@ -422,8 +428,20 @@
     },
     {
       "host": "ritionalvalueon.top",
+      "links": "188.166.154.118",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ritionalvalueon.top",
       "links": "f79a08454a07883b9a83972fc9d9f037563c03ac",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "rivertimad.com",
+      "links": "188.166.154.118",
+      "type": "pdns",
       "ln": 2
     },
     {

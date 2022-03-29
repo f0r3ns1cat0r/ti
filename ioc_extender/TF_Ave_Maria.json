@@ -170,7 +170,19 @@
     },
     {
       "host": "info1.dynamic-dns.net",
+      "links": "185.140.53.137",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "info1.dynamic-dns.net",
       "links": "194.5.98.17",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "info1.dynamic-dns.net",
+      "links": "212.69.2.31",
       "type": "pdns",
       "ln": 2
     },
@@ -254,7 +266,19 @@
     },
     {
       "host": "iphanyi.chickenkiller.com",
+      "links": "185.140.53.137",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iphanyi.chickenkiller.com",
       "links": "194.5.98.17",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iphanyi.chickenkiller.com",
+      "links": "212.69.2.31",
       "type": "pdns",
       "ln": 2
     },
@@ -327,6 +351,12 @@
     {
       "host": "iphanyi.webredirect.org",
       "links": "185.140.53.134",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iphanyi.webredirect.org",
+      "links": "185.140.53.137",
       "type": "pdns",
       "ln": 2
     },

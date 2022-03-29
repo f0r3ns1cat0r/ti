@@ -56,6 +56,12 @@
     },
     {
       "host": "rick63.publicvm.com",
+      "links": "91.193.75.225",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "rick63.publicvm.com",
       "links": "91.193.75.234",
       "type": "pdns",
       "ln": 2
@@ -63,6 +69,12 @@
     {
       "host": "tq744.publicvm.com",
       "links": "91.193.75.170",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "tq744.publicvm.com",
+      "links": "91.193.75.225",
       "type": "pdns",
       "ln": 2
     }
