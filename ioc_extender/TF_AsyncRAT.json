@@ -56,6 +56,12 @@
     },
     {
       "host": "ThreatFox: AsyncRAT",
+      "links": "lyoni-55552.portmap.host",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: AsyncRAT",
       "links": "nyannewtoday.duckdns.org",
       "type": "z",
       "ln": 2
@@ -69,6 +75,12 @@
     {
       "host": "agnus.app",
       "links": "021cc80a118caa47313ca16a59d8e7b6787df70b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "ahmedhasan-43601.portmap.host",
+      "links": "de23e3ce838f2334ffeabac6b29a59d49c4f90a7",
       "type": "certs",
       "ln": 2
     },
@@ -115,6 +127,24 @@
       "ln": 2
     },
     {
+      "host": "cloverbeats-35767.portmap.io",
+      "links": "de23e3ce838f2334ffeabac6b29a59d49c4f90a7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "darkvader94-36189.portmap.host",
+      "links": "de23e3ce838f2334ffeabac6b29a59d49c4f90a7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "dasdad2-27665.portmap.host",
+      "links": "de23e3ce838f2334ffeabac6b29a59d49c4f90a7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "digisac.app",
       "links": "021cc80a118caa47313ca16a59d8e7b6787df70b",
       "type": "certs",
@@ -157,9 +187,21 @@
       "ln": 2
     },
     {
+      "host": "freeedp.duckdns.org",
+      "links": "de23e3ce838f2334ffeabac6b29a59d49c4f90a7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "fresh01.ddns.net",
       "links": "79.134.225.8",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "gaminghost873737-38124.portmap.io",
+      "links": "de23e3ce838f2334ffeabac6b29a59d49c4f90a7",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -205,6 +247,18 @@
       "ln": 2
     },
     {
+      "host": "lanzopunch-45369.portmap.host",
+      "links": "de23e3ce838f2334ffeabac6b29a59d49c4f90a7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "lyoni-55552.portmap.host",
+      "links": "de23e3ce838f2334ffeabac6b29a59d49c4f90a7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "mandeumzap.app",
       "links": "021cc80a118caa47313ca16a59d8e7b6787df70b",
       "type": "certs",
@@ -213,6 +267,12 @@
     {
       "host": "mandeumzap.com.br",
       "links": "021cc80a118caa47313ca16a59d8e7b6787df70b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "minecrafthosting6969-35389.portmap.io",
+      "links": "de23e3ce838f2334ffeabac6b29a59d49c4f90a7",
       "type": "certs",
       "ln": 2
     },
@@ -229,8 +289,38 @@
       "ln": 2
     },
     {
+      "host": "portmap.host",
+      "links": "de23e3ce838f2334ffeabac6b29a59d49c4f90a7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "portmap.io",
+      "links": "de23e3ce838f2334ffeabac6b29a59d49c4f90a7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "realfive5-49318.portmap.host",
+      "links": "de23e3ce838f2334ffeabac6b29a59d49c4f90a7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "sorteiazap.com.br",
       "links": "021cc80a118caa47313ca16a59d8e7b6787df70b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.portmap.io",
+      "links": "de23e3ce838f2334ffeabac6b29a59d49c4f90a7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "zeldorispiety-50433.portmap.host",
+      "links": "de23e3ce838f2334ffeabac6b29a59d49c4f90a7",
       "type": "certs",
       "ln": 2
     }
