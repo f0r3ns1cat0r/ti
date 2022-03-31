@@ -19,12 +19,6 @@
   ],
   "data": [
     {
-      "host": "220-server.hopto.com",
-      "links": "192.163.237.103",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ET Trojan: APT33",
       "links": "googlechromehost.ddns.net",
       "type": "z",
@@ -43,20 +37,14 @@
       "ln": 2
     },
     {
-      "host": "ad.hopto.com",
-      "links": "192.163.237.103",
-      "type": "pdns",
+      "host": "ET Trojan: APT33",
+      "links": "securityupdated.com",
+      "type": "z",
       "ln": 2
     },
     {
       "host": "amerkad19.ddns.net",
       "links": "52.204.228.76",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "antivirus.hopto.com",
-      "links": "192.163.237.103",
       "type": "pdns",
       "ln": 2
     },
@@ -81,12 +69,6 @@
     {
       "host": "bitlocker.ddns.net",
       "links": "52.204.228.76",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "checkpoint.hopto.com",
-      "links": "192.163.237.103",
       "type": "pdns",
       "ln": 2
     },
@@ -154,12 +136,6 @@
       "host": "dev.hopto.com",
       "links": "14f8b0dd82f17ded49ddb4d4d15c4ed61e9ef9e3",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "dev.hopto.com",
-      "links": "192.163.237.103",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -699,6 +675,12 @@
     {
       "host": "dev.hopto.com",
       "links": "fae360fff27d6f9876779a24894c6b314ccf30be",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "dev.hopto.com",
+      "links": "fc8214c84134ec724492da0665641ede471cf1a5",
       "type": "certs",
       "ln": 2
     },
@@ -1388,6 +1370,12 @@
     },
     {
       "host": "hopto.com",
+      "links": "fc8214c84134ec724492da0665641ede471cf1a5",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "hopto.com",
       "links": "fcd442c96eed67b4d10baec1e85530a4eb1c9566",
       "type": "certs",
       "ln": 2
@@ -1429,12 +1417,6 @@
       "ln": 2
     },
     {
-      "host": "horner.hopto.com",
-      "links": "192.163.237.103",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "https://archicoon.hopto.com",
       "links": "192.163.237.103",
       "type": "pdns",
@@ -1447,32 +1429,8 @@
       "ln": 2
     },
     {
-      "host": "investors.hopto.com",
-      "links": "192.163.237.103",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "it1.ad.hopto.com",
-      "links": "192.163.237.103",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "jazzit.hopto.com",
-      "links": "192.163.237.103",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "jikolad.hopto.org",
       "links": "52.204.228.76",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "larsjohannes.hopto.com",
-      "links": "192.163.237.103",
       "type": "pdns",
       "ln": 2
     },
@@ -2102,6 +2060,12 @@
     },
     {
       "host": "mail.hopto.com",
+      "links": "fc8214c84134ec724492da0665641ede471cf1a5",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.hopto.com",
       "links": "fcd442c96eed67b4d10baec1e85530a4eb1c9566",
       "type": "certs",
       "ln": 2
@@ -2140,12 +2104,6 @@
       "host": "mail.hopto.com",
       "links": "ffd39fa833b5e8c5f80a0b8dbd85137b25b0f9d5",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "mehr.hopto.com",
-      "links": "192.163.237.103",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -2798,6 +2756,12 @@
     },
     {
       "host": "n3tc4t.hopto.com",
+      "links": "fc8214c84134ec724492da0665641ede471cf1a5",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "n3tc4t.hopto.com",
       "links": "fcd442c96eed67b4d10baec1e85530a4eb1c9566",
       "type": "certs",
       "ln": 2
@@ -2836,12 +2800,6 @@
       "host": "n3tc4t.hopto.com",
       "links": "ffd39fa833b5e8c5f80a0b8dbd85137b25b0f9d5",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "n8iez.hopto.com",
-      "links": "192.163.237.103",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -2924,12 +2882,6 @@
     },
     {
       "host": "proxymaterials.hopto.com",
-      "links": "192.163.237.103",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "proxymaterials.hopto.com",
       "links": "22c89442e828e17dc0fa10883bcafb47f92e895a",
       "type": "certs",
       "ln": 2
@@ -3482,6 +3434,12 @@
     },
     {
       "host": "proxymaterials.hopto.com",
+      "links": "fc8214c84134ec724492da0665641ede471cf1a5",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "proxymaterials.hopto.com",
       "links": "fcd442c96eed67b4d10baec1e85530a4eb1c9566",
       "type": "certs",
       "ln": 2
@@ -3523,31 +3481,7 @@
       "ln": 2
     },
     {
-      "host": "raahome.hopto.com",
-      "links": "192.163.237.103",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "server.hopto.com",
-      "links": "192.163.237.103",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "smishues.hopto.com",
-      "links": "192.163.237.103",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "support.hopto.com",
-      "links": "192.163.237.103",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "thegame.hopto.com",
       "links": "192.163.237.103",
       "type": "pdns",
       "ln": 2
@@ -3559,12 +3493,6 @@
       "ln": 2
     },
     {
-      "host": "www.caviar.hopto.com",
-      "links": "192.163.237.103",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "www.dev.hopto.com",
       "links": "0523af3ab80192b9c984e1207fbb51938fa0e519",
       "type": "certs",
@@ -3628,12 +3556,6 @@
       "host": "www.dev.hopto.com",
       "links": "14f8b0dd82f17ded49ddb4d4d15c4ed61e9ef9e3",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "www.dev.hopto.com",
-      "links": "192.163.237.103",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -4172,6 +4094,12 @@
     },
     {
       "host": "www.dev.hopto.com",
+      "links": "fc8214c84134ec724492da0665641ede471cf1a5",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.dev.hopto.com",
       "links": "fcd442c96eed67b4d10baec1e85530a4eb1c9566",
       "type": "certs",
       "ln": 2
@@ -4276,12 +4204,6 @@
       "host": "www.hopto.com",
       "links": "14f8b0dd82f17ded49ddb4d4d15c4ed61e9ef9e3",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "www.hopto.com",
-      "links": "192.163.237.103",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -4838,6 +4760,12 @@
     },
     {
       "host": "www.hopto.com",
+      "links": "fc8214c84134ec724492da0665641ede471cf1a5",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.hopto.com",
       "links": "fcd442c96eed67b4d10baec1e85530a4eb1c9566",
       "type": "certs",
       "ln": 2
@@ -4942,12 +4870,6 @@
       "host": "www.proxymaterials.hopto.com",
       "links": "14f8b0dd82f17ded49ddb4d4d15c4ed61e9ef9e3",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "www.proxymaterials.hopto.com",
-      "links": "192.163.237.103",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -5504,6 +5426,12 @@
     },
     {
       "host": "www.proxymaterials.hopto.com",
+      "links": "fc8214c84134ec724492da0665641ede471cf1a5",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.proxymaterials.hopto.com",
       "links": "fcd442c96eed67b4d10baec1e85530a4eb1c9566",
       "type": "certs",
       "ln": 2
@@ -5542,24 +5470,6 @@
       "host": "www.proxymaterials.hopto.com",
       "links": "ffd39fa833b5e8c5f80a0b8dbd85137b25b0f9d5",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "www.server.hopto.com",
-      "links": "192.163.237.103",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.support.hopto.com",
-      "links": "192.163.237.103",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.vpnnh.hopto.com",
-      "links": "192.163.237.103",
-      "type": "pdns",
       "ln": 2
     },
     {

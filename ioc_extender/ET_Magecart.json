@@ -1039,6 +1039,12 @@
       "ln": 2
     },
     {
+      "host": "cdn-plugin.us",
+      "links": "195.54.160.61",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "cdn1-comingsoon.net",
       "links": "558aeb2899730cb7d48a86dcfc979d6c88f8bceb",
       "type": "certs",
@@ -1400,20 +1406,8 @@
     },
     {
       "host": "cloud-info.email",
-      "links": "195.54.160.161",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "cloud-info.email",
       "links": "272094b9a70c927f7fa266465fe637e3d5e59127",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "cloud-info.express",
-      "links": "195.54.160.161",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -3403,6 +3397,18 @@
       "ln": 2
     },
     {
+      "host": "data-log.site",
+      "links": "195.54.160.61",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "data-update.site",
+      "links": "195.54.160.61",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "dfdffgff.kitewhite.online",
       "links": "6046bd48eb5520f83e33f0a64b2ecc227a5832c5",
       "type": "certs",
@@ -3859,109 +3865,109 @@
       "ln": 2
     },
     {
-      "host": "grandriverinspection.com",
-      "links": "0bd1361cc28c3222ca93853767f076bd5db1fce2",
-      "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "grandriverinspection.com",
-      "links": "137c3a3e90f407b19c256790ac8a3e72491f1b15",
-      "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "grandriverinspection.com",
-      "links": "2453fd6f85fb5f990cfcf6067b099881f386b337",
-      "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "grandriverinspection.com",
-      "links": "50dd285e4fe95acf3060eb376c9837ac5a26030b",
-      "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "grandriverinspection.com",
-      "links": "584d923a78ac2fecd01c75402ca757b9df459aab",
-      "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "graycardinals.com",
-      "links": "0bd1361cc28c3222ca93853767f076bd5db1fce2",
-      "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "graycardinals.com",
-      "links": "137c3a3e90f407b19c256790ac8a3e72491f1b15",
-      "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "graycardinals.com",
-      "links": "2453fd6f85fb5f990cfcf6067b099881f386b337",
-      "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "graycardinals.com",
-      "links": "50dd285e4fe95acf3060eb376c9837ac5a26030b",
-      "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "graycardinals.com",
-      "links": "584d923a78ac2fecd01c75402ca757b9df459aab",
-      "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "greetingsfromhb.com",
-      "links": "0bd1361cc28c3222ca93853767f076bd5db1fce2",
-      "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "greetingsfromhb.com",
-      "links": "137c3a3e90f407b19c256790ac8a3e72491f1b15",
-      "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "greetingsfromhb.com",
-      "links": "2453fd6f85fb5f990cfcf6067b099881f386b337",
-      "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "greetingsfromhb.com",
-      "links": "50dd285e4fe95acf3060eb376c9837ac5a26030b",
-      "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "greetingsfromhb.com",
-      "links": "584d923a78ac2fecd01c75402ca757b9df459aab",
-      "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "kvazis.fvds.ru",
-      "links": "37.46.135.58",
+      "host": "google-info.us",
+      "links": "195.54.160.61",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "google-stats.work",
+      "links": "195.54.160.61",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "grandriverinspection.com",
+      "links": "0bd1361cc28c3222ca93853767f076bd5db1fce2",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "grandriverinspection.com",
+      "links": "137c3a3e90f407b19c256790ac8a3e72491f1b15",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "grandriverinspection.com",
+      "links": "2453fd6f85fb5f990cfcf6067b099881f386b337",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "grandriverinspection.com",
+      "links": "50dd285e4fe95acf3060eb376c9837ac5a26030b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "grandriverinspection.com",
+      "links": "584d923a78ac2fecd01c75402ca757b9df459aab",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "graycardinals.com",
+      "links": "0bd1361cc28c3222ca93853767f076bd5db1fce2",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "graycardinals.com",
+      "links": "137c3a3e90f407b19c256790ac8a3e72491f1b15",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "graycardinals.com",
+      "links": "2453fd6f85fb5f990cfcf6067b099881f386b337",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "graycardinals.com",
+      "links": "50dd285e4fe95acf3060eb376c9837ac5a26030b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "graycardinals.com",
+      "links": "584d923a78ac2fecd01c75402ca757b9df459aab",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "greetingsfromhb.com",
+      "links": "0bd1361cc28c3222ca93853767f076bd5db1fce2",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "greetingsfromhb.com",
+      "links": "137c3a3e90f407b19c256790ac8a3e72491f1b15",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "greetingsfromhb.com",
+      "links": "2453fd6f85fb5f990cfcf6067b099881f386b337",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "greetingsfromhb.com",
+      "links": "50dd285e4fe95acf3060eb376c9837ac5a26030b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "greetingsfromhb.com",
+      "links": "584d923a78ac2fecd01c75402ca757b9df459aab",
+      "type": "certs",
       "ln": 2
     },
     {
       "host": "magesource.su",
-      "links": "37.46.135.58",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mail.magesource.su",
       "links": "37.46.135.58",
       "type": "pdns",
       "ln": 2
@@ -5119,6 +5125,12 @@
       "ln": 2
     },
     {
+      "host": "nice-cdn.site",
+      "links": "195.54.160.61",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "nikscenes.info",
       "links": "8a70adfcf364e01d7b09ba5fdcbe99b7b612f48c",
       "type": "certs",
@@ -6043,6 +6055,12 @@
       "ln": 2
     },
     {
+      "host": "pro-cdn2.site",
+      "links": "195.54.160.61",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "puzzlesgamesplusb3.info",
       "links": "1588c7a20545d2c025d5b07f2c2e7519123b1db6",
       "type": "certs",
@@ -6880,6 +6898,12 @@
       "host": "sauvage-paysage.com",
       "links": "db111bc83edabd1e6e5aab7f5d70eb67eae23fc1",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "ticket-stat.site",
+      "links": "195.54.160.61",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -6913,6 +6937,12 @@
       "ln": 2
     },
     {
+      "host": "trafficstats.co",
+      "links": "195.54.160.61",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "wp-extension.cloud",
       "links": "195.54.160.161",
       "type": "pdns",
@@ -6926,12 +6956,6 @@
     },
     {
       "host": "www.cloud-app.shop",
-      "links": "195.54.160.161",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.cloud-info.express",
       "links": "195.54.160.161",
       "type": "pdns",
       "ln": 2

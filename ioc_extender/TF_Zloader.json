@@ -19,18 +19,6 @@
   ],
   "data": [
     {
-      "host": "178-21-11-77.ovz.vps.regruhosting.ru",
-      "links": "178.21.11.77",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "178-21-11-77.xen.vps.regruhosting.ru",
-      "links": "178.21.11.77",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ThreatFox: Zloader",
       "links": "clouds222.com",
       "type": "z",
@@ -73,20 +61,8 @@
       "ln": 2
     },
     {
-      "host": "banya.user2140.ru",
-      "links": "178.21.11.77",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "barionnyjzaryad.ru",
       "links": "193.124.18.128",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "clouds222.com",
-      "links": "178.21.11.77",
       "type": "pdns",
       "ln": 2
     },
