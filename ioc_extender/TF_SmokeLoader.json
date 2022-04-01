@@ -1747,12 +1747,6 @@
       "ln": 2
     },
     {
-      "host": "cusanthana12.site",
-      "links": "192.42.116.41",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "cxhhgd.cn",
       "links": "7d96d6daa03c598682b228d4aa8b33d27c399ed2",
       "type": "certs",
@@ -2396,12 +2390,6 @@
     },
     {
       "host": "file-file-host8.com",
-      "links": "31.28.27.130",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "file-file-host8.com",
       "links": "31.28.27.176",
       "type": "pdns",
       "ln": 2
@@ -2468,6 +2456,12 @@
     },
     {
       "host": "fuyt.org",
+      "links": "109.102.255.230",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "fuyt.org",
       "links": "110.14.121.123",
       "type": "pdns",
       "ln": 2
@@ -2480,6 +2474,12 @@
     },
     {
       "host": "fuyt.org",
+      "links": "115.88.24.203",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "fuyt.org",
       "links": "115.91.217.231",
       "type": "pdns",
       "ln": 2
@@ -2487,6 +2487,12 @@
     {
       "host": "fuyt.org",
       "links": "118.33.109.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "fuyt.org",
+      "links": "124.109.61.160",
       "type": "pdns",
       "ln": 2
     },
@@ -2528,6 +2534,12 @@
     },
     {
       "host": "fuyt.org",
+      "links": "190.43.145.172",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "fuyt.org",
       "links": "196.200.111.5",
       "type": "pdns",
       "ln": 2
@@ -2553,6 +2565,12 @@
     {
       "host": "fuyt.org",
       "links": "211.169.6.249",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "fuyt.org",
+      "links": "211.229.47.232",
       "type": "pdns",
       "ln": 2
     },
@@ -3674,12 +3692,6 @@
     },
     {
       "host": "host-data-coin-11.com",
-      "links": "31.28.27.130",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "host-data-coin-11.com",
       "links": "31.28.27.176",
       "type": "pdns",
       "ln": 2
@@ -3832,12 +3844,6 @@
       "host": "ketodietfacts.law.blog",
       "links": "30728b5bc161bfc64c72fa6ced5540e54068dc94",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "kiladersertu.top",
-      "links": "192.42.116.41",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -4617,12 +4623,6 @@
     {
       "host": "mayak-lombard.ru",
       "links": "222.232.238.243",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mayak-lombard.ru",
-      "links": "222.236.49.124",
       "type": "pdns",
       "ln": 2
     },
@@ -6464,12 +6464,6 @@
     },
     {
       "host": "privacytools-foryou777.com",
-      "links": "31.28.27.130",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "privacytools-foryou777.com",
       "links": "47.251.44.201",
       "type": "pdns",
       "ln": 2
@@ -6848,12 +6842,6 @@
     },
     {
       "host": "rcacademy.at",
-      "links": "222.236.49.124",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "rcacademy.at",
       "links": "37.34.176.37",
       "type": "pdns",
       "ln": 2
@@ -7071,12 +7059,6 @@
     {
       "host": "spgjjbdvddxorx.info",
       "links": "192.42.116.41",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "stats404.info",
-      "links": "31.28.27.130",
       "type": "pdns",
       "ln": 2
     },
@@ -7414,12 +7396,6 @@
       "host": "wanlxq.cn",
       "links": "233dc7c632eb4774476d700031f1795fefad39f4",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "willietjeana13.site",
-      "links": "192.42.116.41",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -8084,12 +8060,6 @@
     },
     {
       "host": "zavodooo.ru",
-      "links": "222.236.49.124",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "zavodooo.ru",
       "links": "37.34.176.37",
       "type": "pdns",
       "ln": 2
@@ -8180,6 +8150,12 @@
     },
     {
       "host": "zerit.top",
+      "links": "124.109.61.160",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "zerit.top",
       "links": "151.251.30.69",
       "type": "pdns",
       "ln": 2
@@ -8241,6 +8217,12 @@
     {
       "host": "zerit.top",
       "links": "196.200.111.5",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "zerit.top",
+      "links": "203.228.9.102",
       "type": "pdns",
       "ln": 2
     },

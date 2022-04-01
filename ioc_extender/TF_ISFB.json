@@ -1424,6 +1424,12 @@
     },
     {
       "host": "fuyt.org",
+      "links": "109.102.255.230",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "fuyt.org",
       "links": "110.14.121.123",
       "type": "pdns",
       "ln": 2
@@ -1431,6 +1437,12 @@
     {
       "host": "fuyt.org",
       "links": "110.14.121.125",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "fuyt.org",
+      "links": "115.88.24.203",
       "type": "pdns",
       "ln": 2
     },
@@ -1467,6 +1479,12 @@
     {
       "host": "fuyt.org",
       "links": "190.140.74.43",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "fuyt.org",
+      "links": "190.43.145.172",
       "type": "pdns",
       "ln": 2
     },
@@ -4923,6 +4941,12 @@
     {
       "host": "zerit.top",
       "links": "196.200.111.5",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "zerit.top",
+      "links": "203.228.9.102",
       "type": "pdns",
       "ln": 2
     },

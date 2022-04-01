@@ -439,6 +439,12 @@
       "ln": 2
     },
     {
+      "host": "rick63.publicvm.com",
+      "links": "91.193.75.239",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "salonsocialdnre.duckdns.org",
       "links": "181.131.217.138",
       "type": "pdns",
@@ -481,6 +487,12 @@
       "ln": 2
     },
     {
+      "host": "shiestynerd.dvrlists.com",
+      "links": "91.193.75.239",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "sumag.hopto.org",
       "links": "104.215.84.159",
       "type": "pdns",
@@ -513,6 +525,12 @@
     {
       "host": "twistednerd.dvrlists.com",
       "links": "79.134.225.48",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "twistednerd.dvrlists.com",
+      "links": "91.193.75.239",
       "type": "pdns",
       "ln": 2
     },

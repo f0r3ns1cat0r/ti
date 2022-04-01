@@ -10999,12 +10999,6 @@
       "ln": 2
     },
     {
-      "host": "waws-prod-cbr20-003.cloudapp.net",
-      "links": "20.36.106.96",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "web.arnoldrender.de",
       "links": "3d3433fe8c357928eabfcb3d7eb6afcf236f5585",
       "type": "certs",
@@ -15250,18 +15244,6 @@
       "host": "zerchingloansspanish.com",
       "links": "b85237f195b6119b9ce453937d83c2d763c21e21",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "zk4wuj95ixry.cloudmaestro.com",
-      "links": "35.173.209.220",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "zk4wuj95ixry.cloudmaestro.com",
-      "links": "54.147.226.2",
-      "type": "pdns",
       "ln": 2
     },
     {

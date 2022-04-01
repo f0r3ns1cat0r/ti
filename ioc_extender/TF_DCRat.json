@@ -67,6 +67,18 @@
       "ln": 2
     },
     {
+      "host": "rick63.publicvm.com",
+      "links": "91.193.75.239",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "shiestynerd.dvrlists.com",
+      "links": "91.193.75.239",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "tq744.publicvm.com",
       "links": "91.193.75.170",
       "type": "pdns",
@@ -75,6 +87,12 @@
     {
       "host": "tq744.publicvm.com",
       "links": "91.193.75.225",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "twistednerd.dvrlists.com",
+      "links": "91.193.75.239",
       "type": "pdns",
       "ln": 2
     }
