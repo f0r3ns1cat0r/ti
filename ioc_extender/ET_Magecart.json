@@ -1399,12 +1399,6 @@
       "ln": 2
     },
     {
-      "host": "cloud-app.shop",
-      "links": "195.54.160.161",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "cloud-info.email",
       "links": "272094b9a70c927f7fa266465fe637e3d5e59127",
       "type": "certs",
@@ -6908,61 +6902,13 @@
     },
     {
       "host": "trafficapps.business",
-      "links": "195.54.160.161",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "trafficapps.business",
       "links": "272094b9a70c927f7fa266465fe637e3d5e59127",
       "type": "certs",
       "ln": 2
     },
     {
-      "host": "trafficapps.org",
-      "links": "195.54.160.161",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "trafficapps.quest",
-      "links": "195.54.160.161",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "trafficapps.us",
-      "links": "195.54.160.161",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "trafficstats.co",
       "links": "195.54.160.61",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "wp-extension.cloud",
-      "links": "195.54.160.161",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "wp-extension.work",
-      "links": "195.54.160.161",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.cloud-app.shop",
-      "links": "195.54.160.161",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "xenapp.blog",
-      "links": "195.54.160.161",
       "type": "pdns",
       "ln": 2
     }

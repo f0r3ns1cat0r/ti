@@ -404,6 +404,12 @@
     },
     {
       "host": "algrcabel.ru",
+      "links": "175.120.254.9",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "algrcabel.ru",
       "links": "175.126.109.15",
       "type": "pdns",
       "ln": 2
@@ -416,7 +422,19 @@
     },
     {
       "host": "algrcabel.ru",
+      "links": "196.200.111.5",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "algrcabel.ru",
       "links": "203.228.9.102",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "algrcabel.ru",
+      "links": "210.92.250.133",
       "type": "pdns",
       "ln": 2
     },
@@ -429,6 +447,12 @@
     {
       "host": "algrcabel.ru",
       "links": "211.40.39.251",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "algrcabel.ru",
+      "links": "222.232.238.243",
       "type": "pdns",
       "ln": 2
     },
@@ -1022,6 +1046,12 @@
     },
     {
       "host": "coralee.at",
+      "links": "175.120.254.9",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "coralee.at",
       "links": "175.126.109.15",
       "type": "pdns",
       "ln": 2
@@ -1034,7 +1064,19 @@
     },
     {
       "host": "coralee.at",
+      "links": "196.200.111.5",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "coralee.at",
       "links": "203.228.9.102",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "coralee.at",
+      "links": "210.92.250.133",
       "type": "pdns",
       "ln": 2
     },
@@ -1460,7 +1502,19 @@
     },
     {
       "host": "fuyt.org",
+      "links": "138.36.3.134",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "fuyt.org",
       "links": "175.119.10.231",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "fuyt.org",
+      "links": "175.120.254.9",
       "type": "pdns",
       "ln": 2
     },
@@ -1509,6 +1563,18 @@
     {
       "host": "fuyt.org",
       "links": "211.119.84.112",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "fuyt.org",
+      "links": "211.59.14.90",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "fuyt.org",
+      "links": "222.232.238.243",
       "type": "pdns",
       "ln": 2
     },
@@ -3116,12 +3182,6 @@
     },
     {
       "host": "mayak-lombard.ru",
-      "links": "61.255.185.201",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mayak-lombard.ru",
       "links": "61.36.14.230",
       "type": "pdns",
       "ln": 2
@@ -4147,66 +4207,6 @@
       "ln": 2
     },
     {
-      "host": "qovncsmgtdrmdqy.ru",
-      "links": "109.102.255.230",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "qovncsmgtdrmdqy.ru",
-      "links": "175.119.10.231",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "qovncsmgtdrmdqy.ru",
-      "links": "175.120.254.9",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "qovncsmgtdrmdqy.ru",
-      "links": "183.100.39.157",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "qovncsmgtdrmdqy.ru",
-      "links": "186.188.224.208",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "qovncsmgtdrmdqy.ru",
-      "links": "196.200.111.5",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "qovncsmgtdrmdqy.ru",
-      "links": "197.44.54.172",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "qovncsmgtdrmdqy.ru",
-      "links": "41.41.255.235",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "qovncsmgtdrmdqy.ru",
-      "links": "61.36.14.230",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "qovncsmgtdrmdqy.ru",
-      "links": "84.40.106.91",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "rcacademy.at",
       "links": "109.98.58.98",
       "type": "pdns",
@@ -4353,12 +4353,6 @@
     {
       "host": "rcacademy.at",
       "links": "58.124.228.242",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "rcacademy.at",
-      "links": "61.255.185.201",
       "type": "pdns",
       "ln": 2
     },
@@ -4844,12 +4838,6 @@
     },
     {
       "host": "zavodooo.ru",
-      "links": "61.255.185.201",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "zavodooo.ru",
       "links": "61.36.14.230",
       "type": "pdns",
       "ln": 2
@@ -4893,6 +4881,12 @@
     {
       "host": "zerit.top",
       "links": "118.33.109.122",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "zerit.top",
+      "links": "138.36.3.134",
       "type": "pdns",
       "ln": 2
     },
@@ -4971,6 +4965,12 @@
     {
       "host": "zerit.top",
       "links": "222.232.238.243",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "zerit.top",
+      "links": "41.41.255.235",
       "type": "pdns",
       "ln": 2
     }
