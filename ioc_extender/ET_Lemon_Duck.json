@@ -50,12 +50,6 @@
     },
     {
       "host": "ET Trojan: Lemon_Duck",
-      "links": "amynx.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ET Trojan: Lemon_Duck",
       "links": "bb3u9.com",
       "type": "z",
       "ln": 2
@@ -115,12 +109,6 @@
       "ln": 2
     },
     {
-      "host": "amynx.com",
-      "links": "154.37.40.108",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "artindeco.world",
       "links": "8f2da3147fe1eec7373f2739e4aa2fd213cbbf42",
       "type": "certs",
@@ -153,6 +141,12 @@
     {
       "host": "bareback.ca",
       "links": "40a5aa896dbd1dfc41d2726f095eeae6ecda74d4",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "bb3u9.com",
+      "links": "a6cb744496563bab37d51341b0f1ee0a64a81a5e",
       "type": "certs",
       "ln": 2
     },
@@ -997,6 +991,12 @@
       "ln": 2
     },
     {
+      "host": "t.bb3u9.com",
+      "links": "a6cb744496563bab37d51341b0f1ee0a64a81a5e",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "t.hwqloan.com",
       "links": "111a695bae3790d10672b3db3cfbf04e87c4482f",
       "type": "certs",
@@ -1168,12 +1168,6 @@
       "host": "www.louisianastemcellclinics.com",
       "links": "c9b9fa79788093c5f66badbf028e467f5268602b",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "www.mytilemural.com",
-      "links": "154.37.40.108",
-      "type": "pdns",
       "ln": 2
     },
     {

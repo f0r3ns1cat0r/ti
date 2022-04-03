@@ -176,12 +176,6 @@
     },
     {
       "host": "abpa.at",
-      "links": "183.78.205.92",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "abpa.at",
       "links": "187.190.48.60",
       "type": "pdns",
       "ln": 2
@@ -555,6 +549,12 @@
     {
       "host": "amogohuigotuli.at",
       "links": "211.59.14.90",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "amogohuigotuli.at",
+      "links": "220.125.1.129",
       "type": "pdns",
       "ln": 2
     },
@@ -908,6 +908,12 @@
     },
     {
       "host": "coralee.at",
+      "links": "220.125.1.129",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "coralee.at",
       "links": "222.232.238.243",
       "type": "pdns",
       "ln": 2
@@ -1094,6 +1100,12 @@
     },
     {
       "host": "dollybuster.at",
+      "links": "220.125.1.129",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "dollybuster.at",
       "links": "37.34.176.37",
       "type": "pdns",
       "ln": 2
@@ -1262,6 +1274,12 @@
     },
     {
       "host": "fuyt.org",
+      "links": "211.171.233.126",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "fuyt.org",
       "links": "211.171.233.129",
       "type": "pdns",
       "ln": 2
@@ -1275,6 +1293,12 @@
     {
       "host": "fuyt.org",
       "links": "211.59.14.90",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "fuyt.org",
+      "links": "220.125.1.129",
       "type": "pdns",
       "ln": 2
     },
@@ -1460,6 +1484,12 @@
     },
     {
       "host": "galala.ru",
+      "links": "220.125.1.129",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "galala.ru",
       "links": "222.232.238.243",
       "type": "pdns",
       "ln": 2
@@ -1556,12 +1586,6 @@
     },
     {
       "host": "giporedtrip.at",
-      "links": "175.126.109.15",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "giporedtrip.at",
       "links": "186.182.55.44",
       "type": "pdns",
       "ln": 2
@@ -1629,6 +1653,12 @@
     {
       "host": "giporedtrip.at",
       "links": "211.59.14.90",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "giporedtrip.at",
+      "links": "220.125.1.129",
       "type": "pdns",
       "ln": 2
     },
@@ -1730,12 +1760,6 @@
     },
     {
       "host": "habpfans.at",
-      "links": "175.126.109.15",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "habpfans.at",
       "links": "186.182.55.44",
       "type": "pdns",
       "ln": 2
@@ -1803,6 +1827,12 @@
     {
       "host": "habpfans.at",
       "links": "211.59.14.90",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "habpfans.at",
+      "links": "220.125.1.129",
       "type": "pdns",
       "ln": 2
     },
@@ -2054,19 +2084,7 @@
     },
     {
       "host": "lencu.top",
-      "links": "109.102.255.230",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "lencu.top",
       "links": "110.14.121.123",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "lencu.top",
-      "links": "110.14.121.125",
       "type": "pdns",
       "ln": 2
     },
@@ -2079,12 +2097,6 @@
     {
       "host": "lencu.top",
       "links": "175.119.10.231",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "lencu.top",
-      "links": "175.126.109.15",
       "type": "pdns",
       "ln": 2
     },
@@ -2126,6 +2138,12 @@
     },
     {
       "host": "lencu.top",
+      "links": "220.125.1.129",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "lencu.top",
       "links": "222.236.49.124",
       "type": "pdns",
       "ln": 2
@@ -2138,19 +2156,7 @@
     },
     {
       "host": "mayak-lombard.ru",
-      "links": "110.14.121.125",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mayak-lombard.ru",
       "links": "115.91.217.231",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mayak-lombard.ru",
-      "links": "116.121.62.237",
       "type": "pdns",
       "ln": 2
     },
@@ -2181,12 +2187,6 @@
     {
       "host": "mayak-lombard.ru",
       "links": "186.182.55.44",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mayak-lombard.ru",
-      "links": "187.190.48.60",
       "type": "pdns",
       "ln": 2
     },
@@ -2241,12 +2241,6 @@
     {
       "host": "mayak-lombard.ru",
       "links": "211.59.14.90",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mayak-lombard.ru",
-      "links": "222.232.238.243",
       "type": "pdns",
       "ln": 2
     },
@@ -2415,6 +2409,12 @@
     {
       "host": "mebel-lass.ru",
       "links": "211.59.14.90",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mebel-lass.ru",
+      "links": "220.125.1.129",
       "type": "pdns",
       "ln": 2
     },
@@ -2595,6 +2595,12 @@
     {
       "host": "melchen-testet.at",
       "links": "211.59.14.90",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "melchen-testet.at",
+      "links": "220.125.1.129",
       "type": "pdns",
       "ln": 2
     },
@@ -2823,6 +2829,12 @@
     {
       "host": "nahbleiben.at",
       "links": "211.59.14.90",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "nahbleiben.at",
+      "links": "220.125.1.129",
       "type": "pdns",
       "ln": 2
     },
@@ -2936,19 +2948,7 @@
     },
     {
       "host": "rcacademy.at",
-      "links": "110.14.121.125",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "rcacademy.at",
       "links": "115.91.217.231",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "rcacademy.at",
-      "links": "116.121.62.237",
       "type": "pdns",
       "ln": 2
     },
@@ -3033,12 +3033,6 @@
     {
       "host": "rcacademy.at",
       "links": "211.59.14.90",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "rcacademy.at",
-      "links": "222.232.238.243",
       "type": "pdns",
       "ln": 2
     },
@@ -3158,12 +3152,6 @@
     },
     {
       "host": "zavodooo.ru",
-      "links": "110.14.121.125",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "zavodooo.ru",
       "links": "115.91.217.231",
       "type": "pdns",
       "ln": 2
@@ -3201,12 +3189,6 @@
     {
       "host": "zavodooo.ru",
       "links": "186.182.55.44",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "zavodooo.ru",
-      "links": "187.190.48.60",
       "type": "pdns",
       "ln": 2
     },
@@ -3266,7 +3248,7 @@
     },
     {
       "host": "zavodooo.ru",
-      "links": "222.232.238.243",
+      "links": "220.125.1.129",
       "type": "pdns",
       "ln": 2
     },

@@ -206,12 +206,6 @@
     },
     {
       "host": "ThreatFox: magecart",
-      "links": "google-thumbs.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: magecart",
       "links": "googleadservlces.com",
       "type": "z",
       "ln": 2
@@ -424,12 +418,6 @@
       "host": "alerts-verify-action.com",
       "links": "4d8e2becdfb0a3309e46e243b1f98b46ae049d36",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "alicekiwi.com",
-      "links": "162.244.32.203",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -1526,20 +1514,8 @@
     },
     {
       "host": "google-codes.com",
-      "links": "188.225.84.211",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "google-codes.com",
       "links": "75c0ea19de1fd410d285f8d4ae3c98454627ef1f",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "google-create.com",
-      "links": "188.225.84.211",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -1563,12 +1539,6 @@
     {
       "host": "google-site-verification.net",
       "links": "162.244.32.203",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "google-thumbs.com",
-      "links": "188.225.84.211",
       "type": "pdns",
       "ln": 2
     },
@@ -2545,12 +2515,6 @@
       "ln": 2
     },
     {
-      "host": "online-essay-service.bitrixtemplates.com",
-      "links": "142.4.211.167",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "online-uggi.ru",
       "links": "5b410f323f84cc0ea3f41697444153e11400c683",
       "type": "certs",
@@ -3313,12 +3277,6 @@
       "ln": 2
     },
     {
-      "host": "tokmakovbd.ru",
-      "links": "188.225.84.211",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "tolikmaksauto.store",
       "links": "9fc8a24867a03252f89f19ac5094697cacdccc54",
       "type": "certs",
@@ -3812,6 +3770,12 @@
     },
     {
       "host": "xn--80ajugebejo.xn--p1ai",
+      "links": "bb06b5275d83edac0dd4f9bb648ecd9d9c9b1505",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "xn--80apipuz1a.xn--p1ai",
       "links": "bb06b5275d83edac0dd4f9bb648ecd9d9c9b1505",
       "type": "certs",
       "ln": 2

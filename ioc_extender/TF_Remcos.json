@@ -98,6 +98,12 @@
     },
     {
       "host": "ThreatFox: Remcos",
+      "links": "judyhus19.dvrlists.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Remcos",
       "links": "newremc22.ddns.net",
       "type": "z",
       "ln": 2
@@ -165,6 +171,12 @@
     {
       "host": "amechi.duckdns.org",
       "links": "79.134.225.112",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "autodiscover.static.theworkpc.com",
+      "links": "79.134.225.32",
       "type": "pdns",
       "ln": 2
     },
@@ -393,6 +405,12 @@
     {
       "host": "iphanyi.webredirect.org",
       "links": "91.193.75.222",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "judyhus19.dvrlists.com",
+      "links": "79.134.225.32",
       "type": "pdns",
       "ln": 2
     },
