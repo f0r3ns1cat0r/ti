@@ -974,6 +974,12 @@
     },
     {
       "host": "coralee.at",
+      "links": "115.88.24.203",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "coralee.at",
       "links": "115.91.217.231",
       "type": "pdns",
       "ln": 2
@@ -2942,12 +2948,6 @@
     },
     {
       "host": "mayak-lombard.ru",
-      "links": "175.119.10.231",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mayak-lombard.ru",
       "links": "186.182.55.44",
       "type": "pdns",
       "ln": 2
@@ -3009,12 +3009,6 @@
     {
       "host": "mayak-lombard.ru",
       "links": "211.59.14.90",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mayak-lombard.ru",
-      "links": "37.34.248.24",
       "type": "pdns",
       "ln": 2
     },
@@ -4052,12 +4046,6 @@
     },
     {
       "host": "rcacademy.at",
-      "links": "175.119.10.231",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "rcacademy.at",
       "links": "186.182.55.44",
       "type": "pdns",
       "ln": 2
@@ -4119,12 +4107,6 @@
     {
       "host": "rcacademy.at",
       "links": "211.59.14.90",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "rcacademy.at",
-      "links": "37.34.248.24",
       "type": "pdns",
       "ln": 2
     },
@@ -4514,12 +4496,6 @@
     },
     {
       "host": "zavodooo.ru",
-      "links": "175.119.10.231",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "zavodooo.ru",
       "links": "186.182.55.44",
       "type": "pdns",
       "ln": 2
@@ -4581,12 +4557,6 @@
     {
       "host": "zavodooo.ru",
       "links": "220.125.1.129",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "zavodooo.ru",
-      "links": "37.34.248.24",
       "type": "pdns",
       "ln": 2
     },
@@ -4701,6 +4671,12 @@
     {
       "host": "zerit.top",
       "links": "211.119.84.111",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "zerit.top",
+      "links": "211.119.84.112",
       "type": "pdns",
       "ln": 2
     },

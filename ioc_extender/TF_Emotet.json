@@ -1195,6 +1195,12 @@
       "ln": 2
     },
     {
+      "host": "insanrabbany.sch.id",
+      "links": "c860afcca1b0cad778f9777d283d03a74e5c0598",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "izocab.com",
       "links": "069a2ff76db2f531888e0e8c1c5cbe82e54c0829",
       "type": "certs",
@@ -2509,6 +2515,12 @@
       "ln": 2
     },
     {
+      "host": "www.sma.insanrabbany.sch.id",
+      "links": "c860afcca1b0cad778f9777d283d03a74e5c0598",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "www.smp.insanrabbany.sch.id",
       "links": "337e018e21be7030e25f9efc8731479cc203b624",
       "type": "certs",
@@ -2517,6 +2529,12 @@
     {
       "host": "www.smp.insanrabbany.sch.id",
       "links": "a00ddf3414992deb8ef4953c39519d095e298d6b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.smp.insanrabbany.sch.id",
+      "links": "c860afcca1b0cad778f9777d283d03a74e5c0598",
       "type": "certs",
       "ln": 2
     }

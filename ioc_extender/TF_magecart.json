@@ -1339,6 +1339,12 @@
       "ln": 2
     },
     {
+      "host": "file-coin-host-12.com",
+      "links": "31.184.249.26",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "findericons.com",
       "links": "3bf37c8db096cd420e8e7f5a61ee57b26ede031d",
       "type": "certs",
@@ -2103,6 +2109,12 @@
     {
       "host": "livechatlnc.com",
       "links": "185.105.118.22",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "livechatlnc.com",
+      "links": "31.184.249.26",
       "type": "pdns",
       "ln": 2
     },
@@ -3201,6 +3213,12 @@
     {
       "host": "tagmanaqer.com",
       "links": "185.105.118.22",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "tagmanaqer.com",
+      "links": "31.184.249.26",
       "type": "pdns",
       "ln": 2
     },
