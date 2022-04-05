@@ -1243,6 +1243,18 @@
       "ln": 2
     },
     {
+      "host": "fikasterwer.top",
+      "links": "188.166.154.118",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "fikasterwer.top",
+      "links": "f79a08454a07883b9a83972fc9d9f037563c03ac",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "filomosoliv.live",
       "links": "137.184.117.189",
       "type": "pdns",
@@ -1372,12 +1384,6 @@
       "host": "gvadamaxala.top",
       "links": "3c5fe8991898c280ddca7d4afa4ec4b205547c99",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "gyn4.s4mux.com",
-      "links": "23.254.211.137",
-      "type": "pdns",
       "ln": 2
     },
     {

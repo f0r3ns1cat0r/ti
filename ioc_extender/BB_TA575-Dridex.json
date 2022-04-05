@@ -55,12 +55,6 @@
       "ln": 2
     },
     {
-      "host": "31884.api.swrve.com",
-      "links": "65.8.170.16",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "3akip.com",
       "links": "bb115e0fc99ec38bbb585a2dade63ca00f36c716",
       "type": "certs",
@@ -2354,12 +2348,6 @@
     },
     {
       "host": "bluelink.co",
-      "links": "65.8.170.16",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "bluelink.co",
       "links": "65.8.170.19",
       "type": "pdns",
       "ln": 2
@@ -2626,12 +2614,6 @@
       "host": "caronsaundersphotography.org",
       "links": "b85237f195b6119b9ce453937d83c2d763c21e21",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "casinometropol387.com",
-      "links": "65.8.170.50",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -3865,20 +3847,8 @@
       "ln": 2
     },
     {
-      "host": "d1b9efmh7kq1bt.cloudfront.net",
-      "links": "65.8.170.16",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "d1zbwmvh83ne6v.cloudfront.net",
       "links": "65.8.170.129",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "d1zbwmvh83ne6v.cloudfront.net",
-      "links": "65.8.170.50",
       "type": "pdns",
       "ln": 2
     },
@@ -3907,20 +3877,8 @@
       "ln": 2
     },
     {
-      "host": "d3p6bpyaguxd3a.cloudfront.net",
-      "links": "65.8.170.50",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "d3te8tpqhe9jpu.cloudfront.net",
       "links": "13.227.65.104",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "da8x248xolxo.cloudfront.net",
-      "links": "65.8.170.16",
       "type": "pdns",
       "ln": 2
     },
@@ -4771,12 +4729,6 @@
       "ln": 2
     },
     {
-      "host": "dz2cdn3.dzone.com",
-      "links": "65.8.170.50",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "e-wallet.aql.is",
       "links": "ea6919bf367f447052c04c6e1ff4691a6193478d",
       "type": "certs",
@@ -5161,12 +5113,6 @@
       "ln": 2
     },
     {
-      "host": "ezytaxpay.com",
-      "links": "65.8.170.50",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "fb-staging.doctolib.fr",
       "links": "bb115e0fc99ec38bbb585a2dade63ca00f36c716",
       "type": "certs",
@@ -5443,12 +5389,6 @@
       "ln": 2
     },
     {
-      "host": "gofriday.fr",
-      "links": "65.8.170.50",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "goiasambiental.com.br",
       "links": "bb115e0fc99ec38bbb585a2dade63ca00f36c716",
       "type": "certs",
@@ -5678,19 +5618,7 @@
     },
     {
       "host": "happyvalleybets.com",
-      "links": "13.227.65.110",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "happyvalleybets.com",
       "links": "13.227.65.28",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "happyvalleybets.com",
-      "links": "13.227.65.61",
       "type": "pdns",
       "ln": 2
     },
@@ -5709,12 +5637,6 @@
     {
       "host": "happyvalleybets.com",
       "links": "65.8.170.42",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "happyvalleybets.com",
-      "links": "65.8.170.50",
       "type": "pdns",
       "ln": 2
     },
@@ -6193,6 +6115,24 @@
       "ln": 2
     },
     {
+      "host": "imperva.com",
+      "links": "22c62cf246ecaa39e8e92e84dd82e03d68aff633",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "imperva.com",
+      "links": "4459504a51193b5fa1cfe2c370f59bc99528032f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "imperva.com",
+      "links": "b85237f195b6119b9ce453937d83c2d763c21e21",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "incapsula.com",
       "links": "0583a3efae17fb86bae6b737af341ee95a100b53",
       "type": "certs",
@@ -6268,6 +6208,12 @@
       "host": "infinitydevanbeds.co.uk",
       "links": "74ad4719c661600ecb133bc0f289ddd9b2f80a13",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "info.volna.top",
+      "links": "185.86.147.14",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -6547,20 +6493,8 @@
       "ln": 2
     },
     {
-      "host": "klayfox.com",
-      "links": "13.227.65.110",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "kyoko.finance",
       "links": "65.8.170.27",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "kyoko.finance",
-      "links": "65.8.170.50",
       "type": "pdns",
       "ln": 2
     },
@@ -7021,12 +6955,6 @@
       "ln": 2
     },
     {
-      "host": "magic-makeupmirror.com",
-      "links": "65.8.170.16",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "mail.activationslink.net",
       "links": "288c786dd15ddda56e1f7ba87d1ed7f56e2c1d48",
       "type": "certs",
@@ -7414,12 +7342,6 @@
       "host": "marquetcurlministries.com",
       "links": "b85237f195b6119b9ce453937d83c2d763c21e21",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "marryrightgh.com",
-      "links": "65.8.170.16",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -9079,12 +9001,6 @@
       "ln": 2
     },
     {
-      "host": "radixno.de",
-      "links": "65.8.170.16",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ragnaclassic.com",
       "links": "194.233.66.78",
       "type": "pdns",
@@ -9196,12 +9112,6 @@
       "host": "realm.nodekawiki.net",
       "links": "ea6919bf367f447052c04c6e1ff4691a6193478d",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "redhotchilipeppers2022.com",
-      "links": "65.8.170.50",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -9829,12 +9739,6 @@
       "ln": 2
     },
     {
-      "host": "soma-assets.smaato.net",
-      "links": "65.8.170.16",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "somepoemsyoumightlike.com",
       "links": "0583a3efae17fb86bae6b737af341ee95a100b53",
       "type": "certs",
@@ -9934,12 +9838,6 @@
       "host": "sp.globixxlogistics.com",
       "links": "d8c4443a159f82d52a33ac137e68a3c60fff83a2",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "spief-sc.video",
-      "links": "65.8.170.16",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -10615,12 +10513,6 @@
       "ln": 2
     },
     {
-      "host": "thelastkidsonearthclub.com",
-      "links": "13.227.65.110",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "thespeakspanish.com",
       "links": "4d8199a1bf3e47f994bb5fa5a05affaade30d55e",
       "type": "certs",
@@ -11017,18 +10909,6 @@
       "ln": 2
     },
     {
-      "host": "vm03.onelink.me",
-      "links": "65.8.170.50",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "volatilehouse.com",
-      "links": "13.227.65.61",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "volna.top",
       "links": "033d452d5b228d5a8e8d2856b06c745e19d52715",
       "type": "certs",
@@ -11044,18 +10924,6 @@
       "host": "voyobee.com",
       "links": "ea6919bf367f447052c04c6e1ff4691a6193478d",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "waggy.finance",
-      "links": "65.8.170.16",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "warrp.io",
-      "links": "65.8.170.16",
-      "type": "pdns",
       "ln": 2
     },
     {
