@@ -20,6 +20,12 @@
   "data": [
     {
       "host": "ThreatFox: Ave Maria",
+      "links": "bakuzamokala.duckdns.org",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Ave Maria",
       "links": "darkworldblackerlocker.dumb1.com",
       "type": "z",
       "ln": 2
@@ -75,6 +81,12 @@
     {
       "host": "auragmdh.com",
       "links": "185.140.53.73",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "bakuzamokala.duckdns.org",
+      "links": "65.108.68.54",
       "type": "pdns",
       "ln": 2
     },
@@ -441,6 +453,12 @@
     {
       "host": "membership.myddns.rocks",
       "links": "197.210.70.197",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mobibanewdan.duckdns.org",
+      "links": "65.108.68.54",
       "type": "pdns",
       "ln": 2
     },

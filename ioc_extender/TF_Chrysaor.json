@@ -1009,6 +1009,12 @@
       "ln": 2
     },
     {
+      "host": "excelfalcon.com",
+      "links": "212a5baea8c97b02ddb9d6efbc4dd80032f8ac79",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "exeme.com",
       "links": "17f9ea37af24bb70f6a667c26f31607661b50a42",
       "type": "certs",
@@ -2173,6 +2179,12 @@
       "ln": 2
     },
     {
+      "host": "serenesheen.com",
+      "links": "ce078e35847244a3d112e15aa72c9177e9db15fe",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "seuprojetoonline.com",
       "links": "f501b65d9b42f9ad8cc284032fbbd6c6fa0251cc",
       "type": "certs",
@@ -2506,12 +2518,6 @@
       "host": "tutorialcenter.co",
       "links": "5572f138f4ba9cab3aa444fc49cf24d6d7932e93",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "twistedpinebrewery.com",
-      "links": "138.68.136.193",
-      "type": "pdns",
       "ln": 2
     },
     {

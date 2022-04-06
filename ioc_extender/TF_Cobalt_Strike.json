@@ -458,6 +458,12 @@
     },
     {
       "host": "ThreatFox: Cobalt Strike",
+      "links": "clermy.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Cobalt Strike",
       "links": "cojirol.com",
       "type": "z",
       "ln": 2
@@ -1237,6 +1243,12 @@
       "ln": 2
     },
     {
+      "host": "akatsukinu.com",
+      "links": "e2e2e8486c7b9d9d97787562c3841961b1449ada",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "aks-service.store",
       "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
       "type": "certs",
@@ -1999,6 +2011,12 @@
       "ln": 2
     },
     {
+      "host": "clermy.com",
+      "links": "e2e2e8486c7b9d9d97787562c3841961b1449ada",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "click-collect.link",
       "links": "233dc7c632eb4774476d700031f1795fefad39f4",
       "type": "certs",
@@ -2631,6 +2649,12 @@
     {
       "host": "ex4ange.cc",
       "links": "8ff7a82a718143d1f9345f883eebf99253a6d6f9",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "exemplarysolo.com",
+      "links": "fae8562d87b2585ec5e563332d0c17851182bfd4",
       "type": "certs",
       "ln": 2
     },
@@ -5158,12 +5182,6 @@
       "host": "theyardservice.com",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "toifjigodjdlflfkkf-luxx.info",
-      "links": "192.42.116.41",
-      "type": "pdns",
       "ln": 2
     },
     {

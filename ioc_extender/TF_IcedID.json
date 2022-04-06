@@ -110,12 +110,6 @@
     },
     {
       "host": "ThreatFox: IcedID",
-      "links": "demicdefinite.ink",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: IcedID",
       "links": "domalipfo.top",
       "type": "z",
       "ln": 2
@@ -584,14 +578,14 @@
     },
     {
       "host": "balliordan.com",
-      "links": "b9fa29453251608218af8498d63c32889fc00838",
+      "links": "5ed26197cf75b016335432b83bd2b76add3848b1",
       "type": "certs",
       "ln": 2
     },
     {
-      "host": "bandwidthmas.top",
-      "links": "45.153.241.0",
-      "type": "pdns",
+      "host": "balliordan.com",
+      "links": "b9fa29453251608218af8498d63c32889fc00838",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -622,6 +616,12 @@
       "host": "bleizcarsgood.com",
       "links": "147.182.222.62",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "bleizcarsgood.com",
+      "links": "5ed26197cf75b016335432b83bd2b76add3848b1",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -820,12 +820,6 @@
       "host": "degreeguard.net",
       "links": "3b3c55a4c8c3e1d931528a3806bc296a370a7d68",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "demicdefinite.ink",
-      "links": "159.89.171.14",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -1286,6 +1280,12 @@
     },
     {
       "host": "firstdatachannel.click",
+      "links": "5ed26197cf75b016335432b83bd2b76add3848b1",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "firstdatachannel.click",
       "links": "b9fa29453251608218af8498d63c32889fc00838",
       "type": "certs",
       "ln": 2
@@ -1370,6 +1370,12 @@
     },
     {
       "host": "greshman.xyz",
+      "links": "5ed26197cf75b016335432b83bd2b76add3848b1",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "greshman.xyz",
       "links": "b9fa29453251608218af8498d63c32889fc00838",
       "type": "certs",
       "ln": 2
@@ -1402,6 +1408,12 @@
       "host": "helloshoplegs.com",
       "links": "147.182.222.62",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "helloshoplegs.com",
+      "links": "5ed26197cf75b016335432b83bd2b76add3848b1",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -1508,12 +1520,6 @@
     },
     {
       "host": "istederilin.top",
-      "links": "45.153.241.0",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "istederilin.top",
       "links": "db63f6c6b4951d847b4f2b3de8802917705c6dfc",
       "type": "certs",
       "ln": 2
@@ -1570,6 +1576,12 @@
       "host": "jeliskvosh.com",
       "links": "185.193.125.27",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "jeliskvosh.com",
+      "links": "9283361754dce8dc2b2afabc7b53164a591f6d70",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -1766,20 +1778,8 @@
     },
     {
       "host": "nobadynovoy.top",
-      "links": "45.153.241.0",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "nobadynovoy.top",
       "links": "db63f6c6b4951d847b4f2b3de8802917705c6dfc",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "ns1.araves.am",
-      "links": "194.147.115.14",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -1851,12 +1851,6 @@
     {
       "host": "ns2.trackmarketing5.xyz",
       "links": "23.254.228.47",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "obviouslsok.top",
-      "links": "45.153.241.0",
       "type": "pdns",
       "ln": 2
     },
@@ -2098,6 +2092,12 @@
       "host": "reseptors.com",
       "links": "185.193.125.27",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "reseptors.com",
+      "links": "9283361754dce8dc2b2afabc7b53164a591f6d70",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -2398,6 +2398,12 @@
       "host": "vopnoz.com",
       "links": "185.193.125.27",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "vopnoz.com",
+      "links": "9283361754dce8dc2b2afabc7b53164a591f6d70",
+      "type": "certs",
       "ln": 2
     },
     {

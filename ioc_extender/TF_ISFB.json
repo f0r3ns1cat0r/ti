@@ -1016,6 +1016,12 @@
     },
     {
       "host": "coralee.at",
+      "links": "138.36.3.134",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "coralee.at",
       "links": "151.251.30.69",
       "type": "pdns",
       "ln": 2
@@ -1023,6 +1029,12 @@
     {
       "host": "coralee.at",
       "links": "175.120.254.9",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "coralee.at",
+      "links": "186.182.55.44",
       "type": "pdns",
       "ln": 2
     },
@@ -2936,12 +2948,6 @@
     },
     {
       "host": "mayak-lombard.ru",
-      "links": "109.98.58.98",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mayak-lombard.ru",
       "links": "116.58.10.58",
       "type": "pdns",
       "ln": 2
@@ -2966,19 +2972,7 @@
     },
     {
       "host": "mayak-lombard.ru",
-      "links": "190.117.75.91",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mayak-lombard.ru",
       "links": "190.140.74.43",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mayak-lombard.ru",
-      "links": "196.200.111.5",
       "type": "pdns",
       "ln": 2
     },
@@ -2997,12 +2991,6 @@
     {
       "host": "mayak-lombard.ru",
       "links": "211.171.233.126",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mayak-lombard.ru",
-      "links": "211.171.233.127",
       "type": "pdns",
       "ln": 2
     },
@@ -3027,12 +3015,6 @@
     {
       "host": "mayak-lombard.ru",
       "links": "58.124.228.242",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mayak-lombard.ru",
-      "links": "61.36.14.230",
       "type": "pdns",
       "ln": 2
     },
@@ -4010,12 +3992,6 @@
     },
     {
       "host": "rcacademy.at",
-      "links": "109.98.58.98",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "rcacademy.at",
       "links": "110.14.121.123",
       "type": "pdns",
       "ln": 2
@@ -4046,19 +4022,7 @@
     },
     {
       "host": "rcacademy.at",
-      "links": "190.117.75.91",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "rcacademy.at",
       "links": "190.140.74.43",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "rcacademy.at",
-      "links": "196.200.111.5",
       "type": "pdns",
       "ln": 2
     },
@@ -4071,12 +4035,6 @@
     {
       "host": "rcacademy.at",
       "links": "211.168.197.211",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "rcacademy.at",
-      "links": "211.171.233.127",
       "type": "pdns",
       "ln": 2
     },
@@ -4466,19 +4424,7 @@
     },
     {
       "host": "zavodooo.ru",
-      "links": "190.117.75.91",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "zavodooo.ru",
       "links": "190.140.74.43",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "zavodooo.ru",
-      "links": "196.200.111.5",
       "type": "pdns",
       "ln": 2
     },
@@ -4502,12 +4448,6 @@
     },
     {
       "host": "zavodooo.ru",
-      "links": "211.171.233.127",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "zavodooo.ru",
       "links": "211.40.39.251",
       "type": "pdns",
       "ln": 2
@@ -4521,12 +4461,6 @@
     {
       "host": "zavodooo.ru",
       "links": "220.125.1.129",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "zavodooo.ru",
-      "links": "61.36.14.230",
       "type": "pdns",
       "ln": 2
     },
