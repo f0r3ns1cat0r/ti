@@ -25,26 +25,8 @@
       "ln": 2
     },
     {
-      "host": "info1.dynamic-dns.net",
-      "links": "91.193.75.158",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "iphanyi.chickenkiller.com",
-      "links": "91.193.75.158",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "mec.sytes.net",
       "links": "91.193.75.234",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "rick63.publicvm.com",
-      "links": "91.193.75.158",
       "type": "pdns",
       "ln": 2
     },
@@ -69,6 +51,12 @@
     {
       "host": "rick63.publicvm.com",
       "links": "91.193.75.239",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "rick63.publicvm.com",
+      "links": "91.193.75.240",
       "type": "pdns",
       "ln": 2
     },
@@ -87,6 +75,12 @@
     {
       "host": "tq744.publicvm.com",
       "links": "91.193.75.225",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "tq744.publicvm.com",
+      "links": "91.193.75.240",
       "type": "pdns",
       "ln": 2
     },

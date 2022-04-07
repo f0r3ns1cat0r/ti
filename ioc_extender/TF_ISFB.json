@@ -1369,6 +1369,12 @@
       "ln": 2
     },
     {
+      "host": "expressreturnfapasa.com",
+      "links": "87.106.18.141",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "faroin.at",
       "links": "87.106.18.141",
       "type": "pdns",
@@ -1425,6 +1431,12 @@
     {
       "host": "file-coin-host-12.com",
       "links": "91.224.22.36",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "finrokab.com",
+      "links": "87.106.18.141",
       "type": "pdns",
       "ln": 2
     },
@@ -1551,6 +1563,12 @@
     {
       "host": "fuyt.org",
       "links": "211.171.233.126",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "fuyt.org",
+      "links": "211.40.39.251",
       "type": "pdns",
       "ln": 2
     },
@@ -2720,12 +2738,6 @@
     },
     {
       "host": "kotob.top",
-      "links": "211.119.84.112",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "kotob.top",
       "links": "211.168.197.211",
       "type": "pdns",
       "ln": 2
@@ -2954,12 +2966,6 @@
     },
     {
       "host": "mayak-lombard.ru",
-      "links": "118.33.109.122",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mayak-lombard.ru",
       "links": "14.51.96.70",
       "type": "pdns",
       "ln": 2
@@ -2972,37 +2978,7 @@
     },
     {
       "host": "mayak-lombard.ru",
-      "links": "190.140.74.43",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mayak-lombard.ru",
-      "links": "211.119.84.111",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mayak-lombard.ru",
-      "links": "211.168.197.211",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mayak-lombard.ru",
       "links": "211.171.233.126",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mayak-lombard.ru",
-      "links": "211.40.39.251",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mayak-lombard.ru",
-      "links": "211.59.14.90",
       "type": "pdns",
       "ln": 2
     },
@@ -3021,12 +2997,6 @@
     {
       "host": "mayak-lombard.ru",
       "links": "61.98.7.132",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mayak-lombard.ru",
-      "links": "84.40.106.91",
       "type": "pdns",
       "ln": 2
     },
@@ -3998,18 +3968,6 @@
     },
     {
       "host": "rcacademy.at",
-      "links": "116.58.10.58",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "rcacademy.at",
-      "links": "118.33.109.122",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "rcacademy.at",
       "links": "148.0.74.229",
       "type": "pdns",
       "ln": 2
@@ -4017,36 +3975,6 @@
     {
       "host": "rcacademy.at",
       "links": "186.188.224.208",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "rcacademy.at",
-      "links": "190.140.74.43",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "rcacademy.at",
-      "links": "211.119.84.111",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "rcacademy.at",
-      "links": "211.168.197.211",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "rcacademy.at",
-      "links": "211.40.39.251",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "rcacademy.at",
-      "links": "211.59.14.90",
       "type": "pdns",
       "ln": 2
     },
@@ -4406,31 +4334,7 @@
     },
     {
       "host": "zavodooo.ru",
-      "links": "116.58.10.58",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "zavodooo.ru",
-      "links": "118.33.109.122",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "zavodooo.ru",
       "links": "186.182.55.44",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "zavodooo.ru",
-      "links": "190.140.74.43",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "zavodooo.ru",
-      "links": "211.119.84.111",
       "type": "pdns",
       "ln": 2
     },
@@ -4442,31 +4346,7 @@
     },
     {
       "host": "zavodooo.ru",
-      "links": "211.168.197.211",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "zavodooo.ru",
-      "links": "211.40.39.251",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "zavodooo.ru",
-      "links": "211.59.14.90",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "zavodooo.ru",
       "links": "220.125.1.129",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "zavodooo.ru",
-      "links": "84.40.106.91",
       "type": "pdns",
       "ln": 2
     },

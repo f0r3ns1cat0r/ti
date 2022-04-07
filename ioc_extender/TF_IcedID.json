@@ -572,6 +572,12 @@
     },
     {
       "host": "balliordan.com",
+      "links": "138.124.184.117",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "balliordan.com",
       "links": "147.182.222.62",
       "type": "pdns",
       "ln": 2
@@ -610,6 +616,12 @@
       "host": "bigimigiriven.top",
       "links": "3c5fe8991898c280ddca7d4afa4ec4b205547c99",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "bleizcarsgood.com",
+      "links": "138.124.184.117",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -1274,6 +1286,12 @@
     },
     {
       "host": "firstdatachannel.click",
+      "links": "138.124.184.117",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "firstdatachannel.click",
       "links": "147.182.222.62",
       "type": "pdns",
       "ln": 2
@@ -1364,6 +1382,12 @@
     },
     {
       "host": "greshman.xyz",
+      "links": "138.124.184.117",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "greshman.xyz",
       "links": "147.182.222.62",
       "type": "pdns",
       "ln": 2
@@ -1406,6 +1430,12 @@
     },
     {
       "host": "helloshoplegs.com",
+      "links": "138.124.184.117",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "helloshoplegs.com",
       "links": "147.182.222.62",
       "type": "pdns",
       "ln": 2
@@ -1437,12 +1467,6 @@
     {
       "host": "hipnoguard.com",
       "links": "23.254.211.137",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "hipnoguard.com",
-      "links": "23.254.228.47",
       "type": "pdns",
       "ln": 2
     },
@@ -1789,12 +1813,6 @@
       "ln": 2
     },
     {
-      "host": "ns1.bittychilla.com",
-      "links": "23.254.228.47",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ns1.box.nechckout.net",
       "links": "137.184.117.189",
       "type": "pdns",
@@ -1825,32 +1843,8 @@
       "ln": 2
     },
     {
-      "host": "ns1.trackmarketing5.xyz",
-      "links": "23.254.228.47",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns1.vef.am",
-      "links": "194.147.115.14",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.bittychilla.com",
-      "links": "23.254.228.47",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ns2.box.nechckout.net",
       "links": "137.184.117.189",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.trackmarketing5.xyz",
-      "links": "23.254.228.47",
       "type": "pdns",
       "ln": 2
     },

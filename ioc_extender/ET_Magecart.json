@@ -6911,6 +6911,12 @@
       "links": "195.54.160.61",
       "type": "pdns",
       "ln": 2
+    },
+    {
+      "host": "trafficstats.company",
+      "links": "195.54.160.61",
+      "type": "pdns",
+      "ln": 2
     }
   ]
 }

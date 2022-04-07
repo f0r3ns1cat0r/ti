@@ -217,6 +217,12 @@
       "ln": 2
     },
     {
+      "host": "disabel.hopto.org",
+      "links": "91.193.75.209",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "dyansy11.ddns.net",
       "links": "104.215.84.159",
       "type": "pdns",
@@ -441,6 +447,12 @@
     {
       "host": "ogidi.ddns.net",
       "links": "194.5.98.213",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ogidi.ddns.net",
+      "links": "91.193.75.209",
       "type": "pdns",
       "ln": 2
     },

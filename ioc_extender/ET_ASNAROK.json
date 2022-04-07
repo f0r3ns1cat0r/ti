@@ -67,12 +67,6 @@
       "ln": 2
     },
     {
-      "host": "9sg.me",
-      "links": "52.214.97.178",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ET Trojan: ASNAROK",
       "links": "sophosproductupdate.com",
       "type": "z",
@@ -146,6 +140,12 @@
     },
     {
       "host": "filedownloaderserveru.com",
+      "links": "52.214.97.178",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "filedownloaderserverx.com",
       "links": "52.214.97.178",
       "type": "pdns",
       "ln": 2

@@ -56,6 +56,12 @@
     },
     {
       "host": "bokkuvirde.ddns.net",
+      "links": "141.255.151.127",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "bokkuvirde.ddns.net",
       "links": "141.255.153.157",
       "type": "pdns",
       "ln": 2
@@ -81,6 +87,12 @@
     {
       "host": "mobibanewdan.duckdns.org",
       "links": "65.108.68.54",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "warzonecdt.duckdns.org",
+      "links": "141.255.151.127",
       "type": "pdns",
       "ln": 2
     }

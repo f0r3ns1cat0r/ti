@@ -859,6 +859,12 @@
       "ln": 2
     },
     {
+      "host": "femsworldtz.com",
+      "links": "199.192.21.143",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "firearms-missouri.com",
       "links": "ca6a9ec2bc8388df4d5c76898f2a7dae938c8a0c",
       "type": "certs",
@@ -975,6 +981,12 @@
     {
       "host": "kuppers.info",
       "links": "5fb4dfb797847a49768de4cab95e421597999356",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "localhost.localdomain",
+      "links": "ca6a9ec2bc8388df4d5c76898f2a7dae938c8a0c",
       "type": "certs",
       "ln": 2
     },

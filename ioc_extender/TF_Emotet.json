@@ -1274,6 +1274,12 @@
     },
     {
       "host": "krezol-group.com",
+      "links": "188.43.2.245",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "krezol-group.com",
       "links": "188.43.202.85",
       "type": "pdns",
       "ln": 2
@@ -2421,6 +2427,12 @@
     {
       "host": "www.krezol-ns.ru",
       "links": "92.50.134.78",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.krezol.ru",
+      "links": "188.43.2.245",
       "type": "pdns",
       "ln": 2
     },
