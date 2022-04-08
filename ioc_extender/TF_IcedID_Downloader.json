@@ -170,6 +170,12 @@
     },
     {
       "host": "baeswea.com",
+      "links": "185.150.119.153",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "baeswea.com",
       "links": "f8419a250788d52f373dab383bfcace8da782293",
       "type": "certs",
       "ln": 2
@@ -286,6 +292,12 @@
       "host": "firstdatachannel.click",
       "links": "b9fa29453251608218af8498d63c32889fc00838",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "flowingcharge.com",
+      "links": "185.150.119.153",
+      "type": "pdns",
       "ln": 2
     },
     {

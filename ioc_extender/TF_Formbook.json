@@ -1525,6 +1525,12 @@
       "ln": 2
     },
     {
+      "host": "solevux.com",
+      "links": "162.0.221.213",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "stexl.link",
       "links": "199.192.31.106",
       "type": "pdns",
@@ -2474,6 +2480,12 @@
     },
     {
       "host": "www.necght.xyz",
+      "links": "162.0.221.213",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.necght.xyz",
       "links": "46fe53e402fb57a572367613f7e8c01b5b4b305a",
       "type": "certs",
       "ln": 2
@@ -2644,6 +2656,12 @@
       "host": "www.shegimx.com",
       "links": "c619b510fe8744928c01739abc0f54e5ddf61280",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.solevux.com",
+      "links": "162.0.221.213",
+      "type": "pdns",
       "ln": 2
     },
     {

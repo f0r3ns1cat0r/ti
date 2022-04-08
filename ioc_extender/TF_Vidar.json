@@ -32,6 +32,12 @@
     },
     {
       "host": "derxblog.de",
+      "links": "45.142.114.226",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "derxblog.de",
       "links": "95.217.25.51",
       "type": "pdns",
       "ln": 2
@@ -45,6 +51,12 @@
     {
       "host": "koyu.space",
       "links": "31.17.223.12",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "koyu.space",
+      "links": "45.142.114.226",
       "type": "pdns",
       "ln": 2
     },
