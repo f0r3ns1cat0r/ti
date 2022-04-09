@@ -92,6 +92,12 @@
     },
     {
       "host": "fidufagios.com",
+      "links": "4a5e60fdbd240c4dfaacacca0c453f1554a1c045",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "fidufagios.com",
       "links": "5511745394ac8ab9de8f97f35553f4be03d0a6d4",
       "type": "certs",
       "ln": 2
@@ -139,6 +145,12 @@
       "ln": 2
     },
     {
+      "host": "routinecmmrz.xyz",
+      "links": "4a5e60fdbd240c4dfaacacca0c453f1554a1c045",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "vps-48feb325.vps.ovh.net",
       "links": "51.195.150.10",
       "type": "pdns",
@@ -165,6 +177,12 @@
     {
       "host": "www.digionlinebeheer.us",
       "links": "5511745394ac8ab9de8f97f35553f4be03d0a6d4",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.routinecmmrz.xyz",
+      "links": "4a5e60fdbd240c4dfaacacca0c453f1554a1c045",
       "type": "certs",
       "ln": 2
     }

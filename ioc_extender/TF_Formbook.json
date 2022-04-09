@@ -272,6 +272,12 @@
     },
     {
       "host": "akxchange.com",
+      "links": "199.192.17.149",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "akxchange.com",
       "links": "57d939e26681b948c3190e802832e29744b009c2",
       "type": "certs",
       "ln": 2
@@ -352,12 +358,6 @@
       "host": "basiclablife.hu",
       "links": "fcc5ae0365c29e0a02048b1782d8a16808135d23",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "beniasohokola.com",
-      "links": "162.0.222.228",
-      "type": "pdns",
       "ln": 2
     },
     {
