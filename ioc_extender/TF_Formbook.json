@@ -829,12 +829,6 @@
       "ln": 2
     },
     {
-      "host": "drajof.xyz",
-      "links": "199.192.31.106",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ecomheroes.dev",
       "links": "4cc0e649f820c68e67280af7ecb14e81b036819c",
       "type": "certs",
@@ -1532,6 +1526,12 @@
     },
     {
       "host": "stexl.link",
+      "links": "199.192.31.106",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "suxfi.com",
       "links": "199.192.31.106",
       "type": "pdns",
       "ln": 2
@@ -2494,12 +2494,6 @@
       "host": "www.necght.xyz",
       "links": "65a1650c8e02393bb5719027e40fa58d6362bfee",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "www.nehyam.com",
-      "links": "162.0.216.51",
-      "type": "pdns",
       "ln": 2
     },
     {

@@ -235,6 +235,12 @@
       "ln": 2
     },
     {
+      "host": "greatplacetovvork.com",
+      "links": "ae51a24ffc60075852ec63e9d450da44adccd4ca",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "hafiznor336.duckdns.org",
       "links": "79.134.225.70",
       "type": "pdns",
@@ -271,8 +277,20 @@
       "ln": 2
     },
     {
+      "host": "lafestin.de",
+      "links": "021cc80a118caa47313ca16a59d8e7b6787df70b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "lanzopunch-45369.portmap.host",
       "links": "de23e3ce838f2334ffeabac6b29a59d49c4f90a7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "lyoni-55552.portmap.host",
+      "links": "6e57f1b6a7b6e3506ddfa87664faee91ac5c6f05",
       "type": "certs",
       "ln": 2
     },
@@ -296,6 +314,12 @@
     },
     {
       "host": "minecrafthosting6969-35389.portmap.io",
+      "links": "6e57f1b6a7b6e3506ddfa87664faee91ac5c6f05",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "minecrafthosting6969-35389.portmap.io",
       "links": "de23e3ce838f2334ffeabac6b29a59d49c4f90a7",
       "type": "certs",
       "ln": 2
@@ -314,7 +338,19 @@
     },
     {
       "host": "portmap.host",
+      "links": "6e57f1b6a7b6e3506ddfa87664faee91ac5c6f05",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "portmap.host",
       "links": "de23e3ce838f2334ffeabac6b29a59d49c4f90a7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "portmap.io",
+      "links": "6e57f1b6a7b6e3506ddfa87664faee91ac5c6f05",
       "type": "certs",
       "ln": 2
     },
@@ -351,6 +387,12 @@
     {
       "host": "sorteiazap.com.br",
       "links": "021cc80a118caa47313ca16a59d8e7b6787df70b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.portmap.io",
+      "links": "6e57f1b6a7b6e3506ddfa87664faee91ac5c6f05",
       "type": "certs",
       "ln": 2
     },

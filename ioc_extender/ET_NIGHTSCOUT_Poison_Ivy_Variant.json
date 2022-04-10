@@ -157,6 +157,12 @@
       "ln": 2
     },
     {
+      "host": "gismeteocard.com",
+      "links": "f376c57e01b79ad3e777b21acf83fe4c448c8bc7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "happy4your.com",
       "links": "bb86ecd96c886770fb1d0056be03ec96aa8405fc",
       "type": "certs",
@@ -334,12 +340,6 @@
       "host": "starinxxxgkular.duckdns.org",
       "links": "62eb16b60e34adba100de1f72c729b681e07a0c9",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "th-in-f99.1e100.net",
-      "links": "74.125.203.99",
-      "type": "pdns",
       "ln": 2
     },
     {

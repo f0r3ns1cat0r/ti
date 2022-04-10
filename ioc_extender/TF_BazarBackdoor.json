@@ -110,12 +110,6 @@
     },
     {
       "host": "bluecartservice.com",
-      "links": "162.244.32.41",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "bluecartservice.com",
       "links": "55cebe58458a40b5b691d8d8ff1077aa89611186",
       "type": "certs",
       "ln": 2
@@ -232,12 +226,6 @@
       "host": "hourglasssalesfunnel.com",
       "links": "d00bb36fcf045b2b103459d8a26dccf47694723f",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "hsbc-payeecancel.com",
-      "links": "162.244.32.41",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -362,6 +350,30 @@
     },
     {
       "host": "stypti.com",
+      "links": "d00bb36fcf045b2b103459d8a26dccf47694723f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "sublimationmetalblanks.com",
+      "links": "d00bb36fcf045b2b103459d8a26dccf47694723f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "systemaspb.com",
+      "links": "d00bb36fcf045b2b103459d8a26dccf47694723f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "tabitiavin.com",
+      "links": "d00bb36fcf045b2b103459d8a26dccf47694723f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "tablaris.com",
       "links": "d00bb36fcf045b2b103459d8a26dccf47694723f",
       "type": "certs",
       "ln": 2

@@ -20,12 +20,6 @@
   "data": [
     {
       "host": "ThreatFox: GCleaner",
-      "links": "ad-postback.biz",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: GCleaner",
       "links": "gcl-gb.biz",
       "type": "z",
       "ln": 2
@@ -40,18 +34,6 @@
       "host": "ThreatFox: GCleaner",
       "links": "myrapt.top",
       "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ad-postback.biz",
-      "links": "37.220.10.229",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "web-stat.biz",
-      "links": "37.220.10.229",
-      "type": "pdns",
       "ln": 2
     }
   ]

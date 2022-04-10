@@ -37,6 +37,12 @@
       "ln": 2
     },
     {
+      "host": "aarin.verbalnyj.ru",
+      "links": "2bb49c74de35ebc81dec2176eb568a3c0ded8efc",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "aberraciya.ru",
       "links": "193.124.18.128",
       "type": "pdns",
@@ -87,6 +93,12 @@
     {
       "host": "commandaadmin.com",
       "links": "1ea65b8c925af49e967c7d89256f7308d312054f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "commandaadmin.com",
+      "links": "2bb49c74de35ebc81dec2176eb568a3c0ded8efc",
       "type": "certs",
       "ln": 2
     },

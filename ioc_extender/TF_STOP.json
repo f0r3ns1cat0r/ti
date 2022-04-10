@@ -55,6 +55,12 @@
       "ln": 2
     },
     {
+      "host": "a.forwiholger.org",
+      "links": "187.190.48.60",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "a.geraldins.org",
       "links": "37.34.176.37",
       "type": "pdns",
@@ -662,6 +668,12 @@
     },
     {
       "host": "amogohuigotuli.at",
+      "links": "58.235.189.190",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "amogohuigotuli.at",
       "links": "61.98.7.132",
       "type": "pdns",
       "ln": 2
@@ -1214,37 +1226,7 @@
     },
     {
       "host": "dollybuster.at",
-      "links": "109.98.58.98",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "dollybuster.at",
-      "links": "116.121.62.237",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "dollybuster.at",
       "links": "124.109.61.160",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "dollybuster.at",
-      "links": "138.36.3.134",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "dollybuster.at",
-      "links": "151.251.30.69",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "dollybuster.at",
-      "links": "175.120.254.9",
       "type": "pdns",
       "ln": 2
     },
@@ -1262,43 +1244,13 @@
     },
     {
       "host": "dollybuster.at",
-      "links": "210.92.250.133",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "dollybuster.at",
       "links": "211.119.84.112",
       "type": "pdns",
       "ln": 2
     },
     {
       "host": "dollybuster.at",
-      "links": "211.229.47.232",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "dollybuster.at",
       "links": "211.59.14.90",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "dollybuster.at",
-      "links": "220.125.1.129",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "dollybuster.at",
-      "links": "37.34.176.37",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "dollybuster.at",
-      "links": "41.41.255.235",
       "type": "pdns",
       "ln": 2
     },
@@ -2216,12 +2168,6 @@
     },
     {
       "host": "kotob.top",
-      "links": "138.36.3.134",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "kotob.top",
       "links": "151.251.30.69",
       "type": "pdns",
       "ln": 2
@@ -3009,6 +2955,12 @@
     {
       "host": "nahbleiben.at",
       "links": "41.41.255.235",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "nahbleiben.at",
+      "links": "58.235.189.190",
       "type": "pdns",
       "ln": 2
     },
@@ -3050,37 +3002,7 @@
     },
     {
       "host": "pjure.at",
-      "links": "109.102.255.230",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "pjure.at",
-      "links": "115.88.24.203",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "pjure.at",
       "links": "190.219.54.242",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "pjure.at",
-      "links": "210.182.29.70",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "pjure.at",
-      "links": "210.92.250.133",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "pjure.at",
-      "links": "211.40.39.251",
       "type": "pdns",
       "ln": 2
     },
@@ -3507,6 +3429,12 @@
     {
       "host": "zerit.top",
       "links": "41.41.255.235",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "zerit.top",
+      "links": "58.235.189.190",
       "type": "pdns",
       "ln": 2
     },

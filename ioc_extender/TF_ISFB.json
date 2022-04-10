@@ -146,6 +146,12 @@
     },
     {
       "host": "ThreatFox: ISFB",
+      "links": "linkline.bar",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: ISFB",
       "links": "linkspremium.ru",
       "type": "z",
       "ln": 2
@@ -1237,38 +1243,14 @@
       "ln": 2
     },
     {
-      "host": "dns3.hostgroupdns.ru",
+      "host": "dns2.hostgroupdns.ru",
       "links": "37.34.248.24",
       "type": "pdns",
       "ln": 2
     },
     {
-      "host": "dollybuster.at",
-      "links": "109.98.58.98",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "dollybuster.at",
-      "links": "116.121.62.237",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "dollybuster.at",
-      "links": "138.36.3.134",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "dollybuster.at",
-      "links": "151.251.30.69",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "dollybuster.at",
-      "links": "175.120.254.9",
+      "host": "dns3.hostgroupdns.ru",
+      "links": "37.34.248.24",
       "type": "pdns",
       "ln": 2
     },
@@ -1286,43 +1268,13 @@
     },
     {
       "host": "dollybuster.at",
-      "links": "210.92.250.133",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "dollybuster.at",
       "links": "211.119.84.112",
       "type": "pdns",
       "ln": 2
     },
     {
       "host": "dollybuster.at",
-      "links": "211.171.233.127",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "dollybuster.at",
       "links": "211.59.14.90",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "dollybuster.at",
-      "links": "220.125.1.129",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "dollybuster.at",
-      "links": "41.41.255.235",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "dollybuster.at",
-      "links": "84.40.106.91",
       "type": "pdns",
       "ln": 2
     },
@@ -1832,12 +1784,6 @@
     },
     {
       "host": "galala.ru",
-      "links": "61.255.185.201",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "galala.ru",
       "links": "61.36.14.230",
       "type": "pdns",
       "ln": 2
@@ -1851,12 +1797,6 @@
     {
       "host": "galala.ru",
       "links": "77.243.64.119",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "galala.ru",
-      "links": "91.203.174.38",
       "type": "pdns",
       "ln": 2
     },
@@ -2666,12 +2606,6 @@
     },
     {
       "host": "kotob.top",
-      "links": "138.36.3.134",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "kotob.top",
       "links": "14.51.96.70",
       "type": "pdns",
       "ln": 2
@@ -2775,12 +2709,6 @@
     {
       "host": "kotob.top",
       "links": "41.41.255.235",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "kotob.top",
-      "links": "61.255.185.201",
       "type": "pdns",
       "ln": 2
     },
@@ -2908,6 +2836,12 @@
       "host": "leruamerlenliusdd.ru",
       "links": "552b287c36d53f9d00c26151090ec6d9482ea341",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "linkline.bar",
+      "links": "185.29.127.82",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -3152,12 +3086,6 @@
     },
     {
       "host": "mebel-lass.ru",
-      "links": "61.255.185.201",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mebel-lass.ru",
       "links": "61.36.14.230",
       "type": "pdns",
       "ln": 2
@@ -3171,12 +3099,6 @@
     {
       "host": "mebel-lass.ru",
       "links": "77.243.64.119",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mebel-lass.ru",
-      "links": "91.203.174.38",
       "type": "pdns",
       "ln": 2
     },
@@ -3374,12 +3296,6 @@
     },
     {
       "host": "melchen-testet.at",
-      "links": "61.255.185.201",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "melchen-testet.at",
       "links": "61.36.14.230",
       "type": "pdns",
       "ln": 2
@@ -3393,12 +3309,6 @@
     {
       "host": "melchen-testet.at",
       "links": "77.243.64.119",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "melchen-testet.at",
-      "links": "91.203.174.38",
       "type": "pdns",
       "ln": 2
     },
@@ -3709,12 +3619,6 @@
       "ln": 2
     },
     {
-      "host": "nahbleiben.at",
-      "links": "91.203.174.38",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "novand.at",
       "links": "87.106.18.141",
       "type": "pdns",
@@ -3766,30 +3670,6 @@
       "host": "pikanto-zero.ru",
       "links": "552b287c36d53f9d00c26151090ec6d9482ea341",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "pjure.at",
-      "links": "109.102.255.230",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "pjure.at",
-      "links": "115.88.24.203",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "pjure.at",
-      "links": "210.92.250.133",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "pjure.at",
-      "links": "211.40.39.251",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -3931,6 +3811,18 @@
       "ln": 2
     },
     {
+      "host": "storyzoid.com",
+      "links": "199.192.24.38",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "storyzoid.com",
+      "links": "a9a9b1938067fa391dd59280f8e9f51625efa947",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "stringprepthedonald.com",
       "links": "87.106.18.141",
       "type": "pdns",
@@ -3999,6 +3891,12 @@
     {
       "host": "targiko.ru",
       "links": "91.203.174.38",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "tbocharts.com",
+      "links": "185.29.127.82",
       "type": "pdns",
       "ln": 2
     },
