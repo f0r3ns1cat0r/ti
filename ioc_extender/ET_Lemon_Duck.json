@@ -50,6 +50,12 @@
     },
     {
       "host": "ET Trojan: Lemon_Duck",
+      "links": "amynx.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: Lemon_Duck",
       "links": "bb3u9.com",
       "type": "z",
       "ln": 2
@@ -106,6 +112,12 @@
       "host": "ambistuio.us",
       "links": "a2b597289d7f2ec7b624246ff4062b249ef110a3",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "amynx.com",
+      "links": "154.37.40.108",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -478,6 +490,12 @@
       "host": "guiame.com",
       "links": "111a695bae3790d10672b3db3cfbf04e87c4482f",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "gute-toene.com",
+      "links": "154.37.40.108",
+      "type": "pdns",
       "ln": 2
     },
     {

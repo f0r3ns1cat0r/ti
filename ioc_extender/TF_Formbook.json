@@ -206,6 +206,12 @@
     },
     {
       "host": "ThreatFox: Formbook",
+      "links": "www.nelivo.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Formbook",
       "links": "www.nivxros.com",
       "type": "z",
       "ln": 2
@@ -1303,12 +1309,6 @@
       "ln": 2
     },
     {
-      "host": "ns1.allwarks.shop",
-      "links": "63.250.35.57",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ns1.coolstories22.com.ng",
       "links": "199.192.27.68",
       "type": "pdns",
@@ -1347,12 +1347,6 @@
     {
       "host": "ns1.yellowcloudvps.com",
       "links": "199.192.17.149",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.allwarks.shop",
-      "links": "63.250.35.57",
       "type": "pdns",
       "ln": 2
     },
@@ -1448,6 +1442,12 @@
     },
     {
       "host": "rightandleft.net",
+      "links": "66.29.131.244",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "senmec23.com",
       "links": "66.29.131.244",
       "type": "pdns",
       "ln": 2
@@ -1570,6 +1570,12 @@
       "host": "telepath.school",
       "links": "c619b510fe8744928c01739abc0f54e5ddf61280",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "thebahrimedia.com",
+      "links": "66.29.133.79",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -2360,12 +2366,6 @@
     },
     {
       "host": "www.kuppers.info",
-      "links": "63.250.35.57",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.kuppers.info",
       "links": "6ace473e38e7affd40ab76f1195b7bcf3bc6d716",
       "type": "certs",
       "ln": 2
@@ -2506,6 +2506,12 @@
       "host": "www.nehyam.com",
       "links": "5507922b90b7a62e2e7c34a476032844d1981d65",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.nelivo.com",
+      "links": "66.29.133.79",
+      "type": "pdns",
       "ln": 2
     },
     {

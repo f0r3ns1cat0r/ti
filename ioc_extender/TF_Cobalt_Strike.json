@@ -205,6 +205,12 @@
       "ln": 2
     },
     {
+      "host": "654238.minivps.info",
+      "links": "135.148.101.100",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "8888.google",
       "links": "0ce4bad11d8631c6924b771f1857abe1b3c0bc8e",
       "type": "certs",
@@ -309,6 +315,12 @@
     {
       "host": "ThreatFox: Cobalt Strike",
       "links": "accessdbpro.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Cobalt Strike",
+      "links": "akamaistats.com",
       "type": "z",
       "ln": 2
     },
@@ -914,6 +926,12 @@
     },
     {
       "host": "ThreatFox: Cobalt Strike",
+      "links": "sql.healthtechsales.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Cobalt Strike",
       "links": "static.theyardservice.com",
       "type": "z",
       "ln": 2
@@ -1300,6 +1318,12 @@
       "host": "akademithalhah.com",
       "links": "216edef2f26a94071007aab8ec5e36c6b072c949",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "akamaistats.com",
+      "links": "135.148.101.100",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -2150,6 +2174,12 @@
     },
     {
       "host": "clermy.com",
+      "links": "162.33.177.99",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "clermy.com",
       "links": "e2e2e8486c7b9d9d97787562c3841961b1449ada",
       "type": "certs",
       "ln": 2
@@ -2493,6 +2523,18 @@
     {
       "host": "deutschebank-zugangphototan.xyz",
       "links": "1072d53db9fc050d9d289cec9ce34ce64ae2d1fc",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "devigi.ru",
+      "links": "8d9fd71eca6dfad97ea3b794c4f998d9294f1723",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "devil-gamer-info.ru",
+      "links": "8d9fd71eca6dfad97ea3b794c4f998d9294f1723",
       "type": "certs",
       "ln": 2
     },
@@ -3655,8 +3697,80 @@
       "ln": 2
     },
     {
+      "host": "gwf99338.com",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "gwf99339.com",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "gwf99341.com",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "gwf99342.com",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "gwf99832.com",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "gwf99835.com",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "gwf99836.com",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "gwf99837.com",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "gwf99839.com",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "gwinnettyardgreetings.com",
+      "links": "8d9fd71eca6dfad97ea3b794c4f998d9294f1723",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "gxsyjh.com",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "gxtlxgl.com",
       "links": "4e5aec62bf06b70740511e03828fb1c6e84f5370",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "gxylqyxgs.com",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
       "type": "certs",
       "ln": 2
     },
@@ -3679,8 +3793,44 @@
       "ln": 2
     },
     {
+      "host": "haegerautogroup.com",
+      "links": "45.9.20.203",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "haic002.com",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "haic006.com",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "hailancp.com",
       "links": "0ce4bad11d8631c6924b771f1857abe1b3c0bc8e",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "hangtuahclub.com",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "harmaneec.com",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "haushauls.com",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
       "type": "certs",
       "ln": 2
     },
@@ -3697,9 +3847,33 @@
       "ln": 2
     },
     {
+      "host": "hbtcom.com",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "hcgj9168.com",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "hdkinorus.ru",
       "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "healthtechsales.com",
+      "links": "143.198.158.146",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "helllenic-bank.com",
+      "links": "162.33.177.99",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -3712,6 +3886,18 @@
       "host": "hep-info.com",
       "links": "45.9.20.203",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "herbsadvocate.com",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "herbseshop.com",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -3745,6 +3931,24 @@
       "ln": 2
     },
     {
+      "host": "hkjhnn.com",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "hkstorj.com",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "hlbryiyouweijin.com",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "hmilcm.top",
       "links": "233dc7c632eb4774476d700031f1795fefad39f4",
       "type": "certs",
@@ -3754,6 +3958,24 @@
       "host": "hoeper-online.de",
       "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "hogercons.com",
+      "links": "8d9fd71eca6dfad97ea3b794c4f998d9294f1723",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "holidaysvoluntary.com",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "hondakiaoftempe.com",
+      "links": "45.9.20.203",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -4825,6 +5047,12 @@
       "ln": 2
     },
     {
+      "host": "neredeyesek.org",
+      "links": "8d9fd71eca6dfad97ea3b794c4f998d9294f1723",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "netmori.com",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
@@ -5443,8 +5671,20 @@
       "ln": 2
     },
     {
+      "host": "prototype-it.de",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "protrade.ink",
       "links": "dd1b1f2e3a2e17f3590f75a6a2da14e0838fb660",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "pucal.de",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
       "type": "certs",
       "ln": 2
     },
@@ -5523,6 +5763,12 @@
     {
       "host": "rffrf.com",
       "links": "233dc7c632eb4774476d700031f1795fefad39f4",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "rhyme-industrie.de",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
       "type": "certs",
       "ln": 2
     },
@@ -5625,6 +5871,12 @@
     {
       "host": "sandandseabodywork.com",
       "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "sarahholtz.de",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
       "type": "certs",
       "ln": 2
     },
@@ -5929,6 +6181,12 @@
       "ln": 2
     },
     {
+      "host": "souldogz.de",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "sourdmed.com",
       "links": "fae8562d87b2585ec5e563332d0c17851182bfd4",
       "type": "certs",
@@ -5998,6 +6256,12 @@
       "host": "sputnikviktori-pro.com",
       "links": "8d9fd71eca6dfad97ea3b794c4f998d9294f1723",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "sql.healthtechsales.com",
+      "links": "143.198.158.146",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -6259,9 +6523,27 @@
       "ln": 2
     },
     {
+      "host": "test-validator.com",
+      "links": "8d9fd71eca6dfad97ea3b794c4f998d9294f1723",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "testing2022dnsrecords.com",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "testtest1234.site",
       "links": "0ce4bad11d8631c6924b771f1857abe1b3c0bc8e",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "tetonviews.com",
+      "links": "45.9.20.203",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -6279,6 +6561,24 @@
     {
       "host": "thedoccloud.com",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "thequeenbeenutrition.com",
+      "links": "8d9fd71eca6dfad97ea3b794c4f998d9294f1723",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "therapiecraniosacrale.com",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "thereadynatural.com",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
       "type": "certs",
       "ln": 2
     },
@@ -6481,15 +6781,15 @@
       "ln": 2
     },
     {
-      "host": "vipperchatki.store",
-      "links": "c4fcae41ae4c57061f31a74c2de72bc72afb2201",
+      "host": "vinegarden.de",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
       "type": "certs",
       "ln": 2
     },
     {
-      "host": "vjrnnvinerovn24.club",
-      "links": "192.42.116.41",
-      "type": "pdns",
+      "host": "vipperchatki.store",
+      "links": "c4fcae41ae4c57061f31a74c2de72bc72afb2201",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -6589,6 +6889,12 @@
       "ln": 2
     },
     {
+      "host": "vznetworks.de",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "w12833.com",
       "links": "0dc95187933afbb5a002e7bde78be6821c02eb3e",
       "type": "certs",
@@ -6627,6 +6933,12 @@
     {
       "host": "watchfulperspiration.com",
       "links": "10fa06dfa4db5dd6432a75241f4084622ff9d2ee",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "wcrypt.de",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
       "type": "certs",
       "ln": 2
     },

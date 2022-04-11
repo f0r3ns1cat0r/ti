@@ -38,6 +38,12 @@
     },
     {
       "host": "ThreatFox: Hancitor",
+      "links": "tagnicredga.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Hancitor",
       "links": "ybirelin.ru",
       "type": "z",
       "ln": 2
@@ -87,6 +93,18 @@
     {
       "host": "stionicksilid.com",
       "links": "88.85.89.108",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "tagnicredga.com",
+      "links": "85.10.222.114",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "thervidolown.com",
+      "links": "85.10.222.114",
       "type": "pdns",
       "ln": 2
     },
