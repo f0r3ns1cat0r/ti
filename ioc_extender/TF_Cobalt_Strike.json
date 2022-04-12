@@ -566,12 +566,6 @@
     },
     {
       "host": "ThreatFox: Cobalt Strike",
-      "links": "exfiltrating.me",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: Cobalt Strike",
       "links": "exrap.com",
       "type": "z",
       "ln": 2
@@ -1369,6 +1363,12 @@
       "ln": 2
     },
     {
+      "host": "altvika.dk",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "andcaw.ru",
       "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
       "type": "certs",
@@ -1573,12 +1573,6 @@
       "ln": 2
     },
     {
-      "host": "automaten-drehteile.com",
-      "links": "45.9.20.203",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "autumn-winter.ru",
       "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
       "type": "certs",
@@ -1660,12 +1654,6 @@
       "host": "baiduyuna.tk",
       "links": "a057a713293426b7138bb3ea77ce89e7754206af",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "baloghandtjornehoj.com",
-      "links": "45.9.20.203",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -2014,12 +2002,6 @@
       "host": "cce-toys.com",
       "links": "216edef2f26a94071007aab8ec5e36c6b072c949",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "ccisworld.com",
-      "links": "45.9.20.203",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -2515,12 +2497,6 @@
       "ln": 2
     },
     {
-      "host": "deutsch-griffen.com",
-      "links": "45.9.20.203",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "deutschebank-zugangphototan.xyz",
       "links": "1072d53db9fc050d9d289cec9ce34ce64ae2d1fc",
       "type": "certs",
@@ -2535,6 +2511,12 @@
     {
       "host": "devil-gamer-info.ru",
       "links": "8d9fd71eca6dfad97ea3b794c4f998d9294f1723",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "dewaunited.dev",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
       "type": "certs",
       "ln": 2
     },
@@ -2566,12 +2548,6 @@
       "host": "digital-kachalka.online",
       "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "ditelcorp.com",
-      "links": "45.9.20.203",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -2701,6 +2677,12 @@
       "ln": 2
     },
     {
+      "host": "domtekhnica.ru",
+      "links": "8d9fd71eca6dfad97ea3b794c4f998d9294f1723",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "dovericon.store",
       "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
       "type": "certs",
@@ -2815,20 +2797,26 @@
       "ln": 2
     },
     {
-      "host": "eerdmans-yachtv.com",
-      "links": "45.9.20.203",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ekspertgreen.ru",
       "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
       "type": "certs",
       "ln": 2
     },
     {
+      "host": "el82.ru",
+      "links": "8d9fd71eca6dfad97ea3b794c4f998d9294f1723",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "elektro-academy.store",
       "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "element-89.ru",
+      "links": "8d9fd71eca6dfad97ea3b794c4f998d9294f1723",
       "type": "certs",
       "ln": 2
     },
@@ -2859,6 +2847,12 @@
     {
       "host": "essayx.xyz",
       "links": "37fe1a6d44b89d2d613ee65b440b9c6c46bce1c9",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "estest.dev",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
       "type": "certs",
       "ln": 2
     },
@@ -2899,9 +2893,9 @@
       "ln": 2
     },
     {
-      "host": "exfiltrating.me",
-      "links": "45.9.20.203",
-      "type": "pdns",
+      "host": "exitpoll.su",
+      "links": "8d9fd71eca6dfad97ea3b794c4f998d9294f1723",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -2962,12 +2956,6 @@
       "host": "faorialab.com",
       "links": "fae8562d87b2585ec5e563332d0c17851182bfd4",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "farbbalken.com",
-      "links": "45.9.20.203",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -3145,12 +3133,6 @@
       "ln": 2
     },
     {
-      "host": "fheer.com",
-      "links": "45.9.20.203",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "fihspec.com",
       "links": "216edef2f26a94071007aab8ec5e36c6b072c949",
       "type": "certs",
@@ -3165,6 +3147,12 @@
     {
       "host": "firstinvesting.ru",
       "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "firstinvestor.su",
+      "links": "8d9fd71eca6dfad97ea3b794c4f998d9294f1723",
       "type": "certs",
       "ln": 2
     },
@@ -3211,18 +3199,6 @@
       "ln": 2
     },
     {
-      "host": "france-logiciel.com",
-      "links": "45.9.20.203",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "frank-datentechnik.com",
-      "links": "45.9.20.203",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "franktomaz.com",
       "links": "19b571f3638f0ba11a8ba6e9c421b0b4a90c2184",
       "type": "certs",
@@ -3238,12 +3214,6 @@
       "host": "franktomaz.com",
       "links": "d6360b78dde63b6e4d51401d76c3c422ba336056",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "freddorn.com",
-      "links": "45.9.20.203",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -3268,12 +3238,6 @@
       "host": "frme.ma",
       "links": "4e5aec62bf06b70740511e03828fb1c6e84f5370",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "frontiervtc.com",
-      "links": "45.9.20.203",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -3349,6 +3313,12 @@
       "ln": 2
     },
     {
+      "host": "fugicarfc81zaliv.ru",
+      "links": "8d9fd71eca6dfad97ea3b794c4f998d9294f1723",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "fullswingapps.com",
       "links": "fae8562d87b2585ec5e563332d0c17851182bfd4",
       "type": "certs",
@@ -3388,12 +3358,6 @@
       "host": "gandmar.xyz",
       "links": "233dc7c632eb4774476d700031f1795fefad39f4",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "garfinkelpublications.com",
-      "links": "45.9.20.203",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -3475,21 +3439,9 @@
       "ln": 2
     },
     {
-      "host": "ge-ops.com",
-      "links": "45.9.20.203",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "geardesktopend.com",
       "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "geca-ltc.com",
-      "links": "45.9.20.203",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -3499,33 +3451,9 @@
       "ln": 2
     },
     {
-      "host": "genautilus.com",
-      "links": "45.9.20.203",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "generatureporte.com",
       "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "geremote003.com",
-      "links": "45.9.20.203",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "geremote004.com",
-      "links": "45.9.20.203",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "geremote008.com",
-      "links": "45.9.20.203",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -3562,12 +3490,6 @@
       "host": "global-1e100.com",
       "links": "fae8562d87b2585ec5e563332d0c17851182bfd4",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "globalofficecenter.com",
-      "links": "45.9.20.203",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -3609,6 +3531,18 @@
     {
       "host": "gopaljivedic.com",
       "links": "216edef2f26a94071007aab8ec5e36c6b072c949",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "gosuslugi-fss.ru",
+      "links": "8d9fd71eca6dfad97ea3b794c4f998d9294f1723",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "gosusluigi.su",
+      "links": "8d9fd71eca6dfad97ea3b794c4f998d9294f1723",
       "type": "certs",
       "ln": 2
     },
@@ -3655,18 +3589,6 @@
       "ln": 2
     },
     {
-      "host": "grayinthemuzzle.com",
-      "links": "45.9.20.203",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "greccolincolnmercury.com",
-      "links": "45.9.20.203",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "gribet123.com",
       "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
       "type": "certs",
@@ -3694,6 +3616,12 @@
       "host": "gsdisodgjisjdgoiu.xyz",
       "links": "192.42.116.41",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "gurugi.ru",
+      "links": "8d9fd71eca6dfad97ea3b794c4f998d9294f1723",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -3793,12 +3721,6 @@
       "ln": 2
     },
     {
-      "host": "haegerautogroup.com",
-      "links": "45.9.20.203",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "haic002.com",
       "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
       "type": "certs",
@@ -3883,12 +3805,6 @@
       "ln": 2
     },
     {
-      "host": "hep-info.com",
-      "links": "45.9.20.203",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "herbsadvocate.com",
       "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
       "type": "certs",
@@ -3896,6 +3812,12 @@
     },
     {
       "host": "herbseshop.com",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "hewfdeh.ru",
       "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
       "type": "certs",
       "ln": 2
@@ -3973,14 +3895,32 @@
       "ln": 2
     },
     {
-      "host": "hondakiaoftempe.com",
-      "links": "45.9.20.203",
-      "type": "pdns",
+      "host": "hongdaassets.com",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "hormoanal.com",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "hospitalexcess.com",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
+      "type": "certs",
       "ln": 2
     },
     {
       "host": "hostilenation.tk",
       "links": "0ce4bad11d8631c6924b771f1857abe1b3c0bc8e",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "howmuchtoinsureacar.com",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
       "type": "certs",
       "ln": 2
     },
@@ -4005,6 +3945,36 @@
     {
       "host": "hsjt65868.online",
       "links": "fae8562d87b2585ec5e563332d0c17851182bfd4",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "httpsthaqifnafsakalyawm.com",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "huanlegou18.com",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "huarenyueqi.com",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "hudei-chai.ru",
+      "links": "8d9fd71eca6dfad97ea3b794c4f998d9294f1723",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "huobi-vip.com",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
       "type": "certs",
       "ln": 2
     },
@@ -4387,6 +4357,12 @@
       "ln": 2
     },
     {
+      "host": "kolushek23.ru",
+      "links": "8d9fd71eca6dfad97ea3b794c4f998d9294f1723",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "kooltuoliamtoh.store",
       "links": "0dc95187933afbb5a002e7bde78be6821c02eb3e",
       "type": "certs",
@@ -4468,12 +4444,6 @@
       "host": "lapontop.site",
       "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "latahina.com",
-      "links": "45.9.20.203",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -4695,12 +4665,6 @@
     {
       "host": "malta2419.startdedicated.com",
       "links": "85.93.88.165",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mantosombra.com",
-      "links": "167.172.20.187",
       "type": "pdns",
       "ln": 2
     },
@@ -5197,12 +5161,6 @@
       "ln": 2
     },
     {
-      "host": "nuuuaaaretobe.top",
-      "links": "192.42.116.41",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "offgwest-fun.store",
       "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
       "type": "certs",
@@ -5371,12 +5329,6 @@
       "ln": 2
     },
     {
-      "host": "palmpontiac.com",
-      "links": "45.9.20.203",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "pancakeswap.flnance.sbs",
       "links": "6898b95e5979ef6d5537da8e35c0ae2957fb2c47",
       "type": "certs",
@@ -5401,8 +5353,32 @@
       "ln": 2
     },
     {
+      "host": "papabearstrust.org",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "partnertulsa.org",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "pazzabolle.ru",
       "links": "c4fcae41ae4c57061f31a74c2de72bc72afb2201",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "pbnpt.org",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "pbnptrust.org",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
       "type": "certs",
       "ln": 2
     },
@@ -5469,6 +5445,12 @@
     {
       "host": "phvsgn.com",
       "links": "10fa06dfa4db5dd6432a75241f4084622ff9d2ee",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "pionebatavia.org",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
       "type": "certs",
       "ln": 2
     },
@@ -5731,12 +5713,6 @@
       "ln": 2
     },
     {
-      "host": "readinglistforaugust5.site",
-      "links": "192.42.116.41",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "reduktorov.store",
       "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
       "type": "certs",
@@ -5833,6 +5809,12 @@
       "ln": 2
     },
     {
+      "host": "rugroot.dev",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "russ110979.store",
       "links": "c4fcae41ae4c57061f31a74c2de72bc72afb2201",
       "type": "certs",
@@ -5911,6 +5893,12 @@
       "ln": 2
     },
     {
+      "host": "sber.delivery",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "sberagent.site",
       "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
       "type": "certs",
@@ -5953,9 +5941,9 @@
       "ln": 2
     },
     {
-      "host": "sexygirls4you.com",
-      "links": "45.9.20.203",
-      "type": "pdns",
+      "host": "setembrocozinhachique.com",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -6037,12 +6025,6 @@
       "ln": 2
     },
     {
-      "host": "sicherheitsbuero.com",
-      "links": "45.9.20.203",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "signalgoal.com",
       "links": "10fa06dfa4db5dd6432a75241f4084622ff9d2ee",
       "type": "certs",
@@ -6097,12 +6079,6 @@
       "ln": 2
     },
     {
-      "host": "smartbuysesystems.com",
-      "links": "45.9.20.203",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "smartwatchc013.store",
       "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
       "type": "certs",
@@ -6110,6 +6086,12 @@
     },
     {
       "host": "smfq6688.com",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "smokums.dev",
       "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
       "type": "certs",
       "ln": 2
@@ -6139,21 +6121,9 @@
       "ln": 2
     },
     {
-      "host": "soforthilfe-ev.com",
-      "links": "45.9.20.203",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "soft.mssysinfo.xyz",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "softcompinc.com",
-      "links": "45.9.20.203",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -6226,12 +6196,6 @@
       "host": "spdobro.com",
       "links": "8d9fd71eca6dfad97ea3b794c4f998d9294f1723",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "spe-online.com",
-      "links": "45.9.20.203",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -6319,21 +6283,9 @@
       "ln": 2
     },
     {
-      "host": "stefanbourque.com",
-      "links": "45.9.20.203",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "sterlitamak-swproduct.store",
       "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "stevinsonsgoldenford.com",
-      "links": "45.9.20.203",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -6511,12 +6463,6 @@
       "ln": 2
     },
     {
-      "host": "teodoziapepe.com",
-      "links": "45.9.20.203",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "tesivisi11.top",
       "links": "192.42.116.41",
       "type": "pdns",
@@ -6538,12 +6484,6 @@
       "host": "testtest1234.site",
       "links": "0ce4bad11d8631c6924b771f1857abe1b3c0bc8e",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "tetonviews.com",
-      "links": "45.9.20.203",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -6616,12 +6556,6 @@
       "host": "tosayoj.com",
       "links": "6c634d1979c38d776713b965ee14c6cf43a3e62a",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "toyota-rotterdam.com",
-      "links": "45.9.20.203",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -6712,12 +6646,6 @@
       "host": "upsite-x.store",
       "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "us-east.lazerpenguin.com",
-      "links": "167.172.20.187",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -6969,6 +6897,12 @@
     {
       "host": "wi4n.pw",
       "links": "3bc2eabb0c2cb41d3ac21000d4b259096226a87a",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "wlanhotspotblog.de",
+      "links": "2ad1ea21ada1e29ae299df62a2769506f08a8320",
       "type": "certs",
       "ln": 2
     },

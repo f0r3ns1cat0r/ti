@@ -259,6 +259,12 @@
       "ln": 2
     },
     {
+      "host": "hotfoodtakes.com",
+      "links": "021cc80a118caa47313ca16a59d8e7b6787df70b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "ikatec.cloud",
       "links": "021cc80a118caa47313ca16a59d8e7b6787df70b",
       "type": "certs",
@@ -339,6 +345,18 @@
     {
       "host": "nyannewtoday.duckdns.org",
       "links": "ae51a24ffc60075852ec63e9d450da44adccd4ca",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "personeroscaplalibertad.org",
+      "links": "ae51a24ffc60075852ec63e9d450da44adccd4ca",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "portal-nbme.org",
+      "links": "021cc80a118caa47313ca16a59d8e7b6787df70b",
       "type": "certs",
       "ln": 2
     },

@@ -1555,6 +1555,12 @@
       "ln": 2
     },
     {
+      "host": "cloud-info.click",
+      "links": "195.54.160.161",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "cloud-info.email",
       "links": "272094b9a70c927f7fa266465fe637e3d5e59127",
       "type": "certs",
@@ -5773,6 +5779,12 @@
       "ln": 2
     },
     {
+      "host": "plugin-app.org",
+      "links": "195.54.160.61",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "pos-in-dubai.com",
       "links": "0bd1361cc28c3222ca93853767f076bd5db1fce2",
       "type": "certs",
@@ -7112,8 +7124,32 @@
     },
     {
       "host": "trafficapps.business",
+      "links": "195.54.160.161",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "trafficapps.business",
       "links": "272094b9a70c927f7fa266465fe637e3d5e59127",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "trafficapps.org",
+      "links": "195.54.160.161",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "trafficapps.quest",
+      "links": "195.54.160.161",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "trafficapps.us",
+      "links": "195.54.160.161",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -7125,6 +7161,24 @@
     {
       "host": "trafficstats.company",
       "links": "195.54.160.61",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "wp-extension.cloud",
+      "links": "195.54.160.161",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "wp-extension.work",
+      "links": "195.54.160.161",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "xenapp.blog",
+      "links": "195.54.160.161",
       "type": "pdns",
       "ln": 2
     }

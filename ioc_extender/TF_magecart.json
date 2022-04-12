@@ -26,12 +26,6 @@
     },
     {
       "host": "01.stripe-auth-api.com",
-      "links": "185.105.118.22",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "01.stripe-auth-api.com",
       "links": "93.189.42.136",
       "type": "pdns",
       "ln": 2
@@ -1183,6 +1177,12 @@
       "ln": 2
     },
     {
+      "host": "dostavka-piva.su",
+      "links": "bb06b5275d83edac0dd4f9bb648ecd9d9c9b1505",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "ds50neposeda.store",
       "links": "1dc7ca935531db252239c91440098887efe4af03",
       "type": "certs",
@@ -1258,12 +1258,6 @@
       "host": "ertynanakev.ru",
       "links": "bb06b5275d83edac0dd4f9bb648ecd9d9c9b1505",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "essays24.copy-max.com",
-      "links": "142.4.211.167",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -1537,6 +1531,12 @@
       "ln": 2
     },
     {
+      "host": "funnygamezstore.ru",
+      "links": "40525f50da95ec34ef234fc739842440fa4a828d",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "furnitureandfun.com",
       "links": "40525f50da95ec34ef234fc739842440fa4a828d",
       "type": "certs",
@@ -1723,6 +1723,12 @@
       "ln": 2
     },
     {
+      "host": "gleamjewelry.ru",
+      "links": "bb06b5275d83edac0dd4f9bb648ecd9d9c9b1505",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "globalbrahminicalsociety.com",
       "links": "40525f50da95ec34ef234fc739842440fa4a828d",
       "type": "certs",
@@ -1731,6 +1737,12 @@
     {
       "host": "glorialerickson.com",
       "links": "bb06b5275d83edac0dd4f9bb648ecd9d9c9b1505",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "glostshop.ru",
+      "links": "40525f50da95ec34ef234fc739842440fa4a828d",
       "type": "certs",
       "ln": 2
     },
@@ -1921,6 +1933,12 @@
       "ln": 2
     },
     {
+      "host": "gosusluguicovid-certverify.ru",
+      "links": "bb06b5275d83edac0dd4f9bb648ecd9d9c9b1505",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "gotrestorationtrucks.com",
       "links": "bb06b5275d83edac0dd4f9bb648ecd9d9c9b1505",
       "type": "certs",
@@ -2071,6 +2089,12 @@
       "ln": 2
     },
     {
+      "host": "helpfloriculure.ru",
+      "links": "40525f50da95ec34ef234fc739842440fa4a828d",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "herkles.ru",
       "links": "9fc8a24867a03252f89f19ac5094697cacdccc54",
       "type": "certs",
@@ -2101,8 +2125,68 @@
       "ln": 2
     },
     {
+      "host": "hongkongstartshere.com",
+      "links": "40525f50da95ec34ef234fc739842440fa4a828d",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "hookedonanimalsshop.com",
+      "links": "bb06b5275d83edac0dd4f9bb648ecd9d9c9b1505",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "hormonehealthywomen.com",
+      "links": "bb06b5275d83edac0dd4f9bb648ecd9d9c9b1505",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "horoshsadogorod.ru",
+      "links": "40525f50da95ec34ef234fc739842440fa4a828d",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "host-inova.com",
+      "links": "40525f50da95ec34ef234fc739842440fa4a828d",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "hostchain.ru",
+      "links": "40525f50da95ec34ef234fc739842440fa4a828d",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "houseofhazeatl.com",
+      "links": "bb06b5275d83edac0dd4f9bb648ecd9d9c9b1505",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "houstonfightinggamecommunity.com",
+      "links": "bb06b5275d83edac0dd4f9bb648ecd9d9c9b1505",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "howveryysunnglasses.com",
+      "links": "bb06b5275d83edac0dd4f9bb648ecd9d9c9b1505",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "hq28735.com",
       "links": "4d8e2becdfb0a3309e46e243b1f98b46ae049d36",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "hq28763.com",
+      "links": "40525f50da95ec34ef234fc739842440fa4a828d",
       "type": "certs",
       "ln": 2
     },
@@ -2121,6 +2205,36 @@
     {
       "host": "hromesalik.fun",
       "links": "9fc8a24867a03252f89f19ac5094697cacdccc54",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "https-santandercb.com",
+      "links": "40525f50da95ec34ef234fc739842440fa4a828d",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "https-scotiabusiness.com",
+      "links": "40525f50da95ec34ef234fc739842440fa4a828d",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "httptransfer-nk.ru",
+      "links": "40525f50da95ec34ef234fc739842440fa4a828d",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "htttps-revolut-business.com",
+      "links": "40525f50da95ec34ef234fc739842440fa4a828d",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "huitzilpacifico.com",
+      "links": "40525f50da95ec34ef234fc739842440fa4a828d",
       "type": "certs",
       "ln": 2
     },
@@ -2145,6 +2259,24 @@
     {
       "host": "ilnovo.ru",
       "links": "9fc8a24867a03252f89f19ac5094697cacdccc54",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "infochek.ru",
+      "links": "bb06b5275d83edac0dd4f9bb648ecd9d9c9b1505",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "infocheque.ru",
+      "links": "bb06b5275d83edac0dd4f9bb648ecd9d9c9b1505",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "inorms-ce.ru",
+      "links": "bb06b5275d83edac0dd4f9bb648ecd9d9c9b1505",
       "type": "certs",
       "ln": 2
     },
@@ -2229,6 +2361,12 @@
     {
       "host": "karamatemanyylouva.store",
       "links": "5b410f323f84cc0ea3f41697444153e11400c683",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "karomed.ru",
+      "links": "bb06b5275d83edac0dd4f9bb648ecd9d9c9b1505",
       "type": "certs",
       "ln": 2
     },
@@ -2911,6 +3049,12 @@
       "ln": 2
     },
     {
+      "host": "oppensea.org",
+      "links": "bb06b5275d83edac0dd4f9bb648ecd9d9c9b1505",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "optic-alliance.store",
       "links": "5b410f323f84cc0ea3f41697444153e11400c683",
       "type": "certs",
@@ -2997,6 +3141,12 @@
     {
       "host": "platiochi.pw",
       "links": "9fc8a24867a03252f89f19ac5094697cacdccc54",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "plusbids.org",
+      "links": "bb06b5275d83edac0dd4f9bb648ecd9d9c9b1505",
       "type": "certs",
       "ln": 2
     },
@@ -3279,6 +3429,12 @@
     {
       "host": "sdo-talant.store",
       "links": "9c73f26d08c80392fcf32de60e43cfc5586b26f8",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "servicesaccountonline.com",
+      "links": "bb06b5275d83edac0dd4f9bb648ecd9d9c9b1505",
       "type": "certs",
       "ln": 2
     },
@@ -3926,6 +4082,12 @@
     },
     {
       "host": "thehaildamagehomeinsuranceclaimcourse.com",
+      "links": "40525f50da95ec34ef234fc739842440fa4a828d",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "themattressmotion.com",
       "links": "40525f50da95ec34ef234fc739842440fa4a828d",
       "type": "certs",
       "ln": 2

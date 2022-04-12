@@ -277,6 +277,12 @@
       "ln": 2
     },
     {
+      "host": "agrupacionentidadesliberales.com",
+      "links": "52.52.138.60",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "akxchange.com",
       "links": "199.192.17.149",
       "type": "pdns",
@@ -316,12 +322,6 @@
       "host": "api.bashmasks.art",
       "links": "91ac0b9aa82f5842cb5bd8acc6339193c0f2cbbf",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "arlesluxury.com",
-      "links": "199.192.23.253",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -464,6 +464,12 @@
     },
     {
       "host": "citykeys.net",
+      "links": "66.29.131.244",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "conceptinterior.design",
       "links": "66.29.131.244",
       "type": "pdns",
       "ln": 2
@@ -898,12 +904,6 @@
       "host": "gogokh.com",
       "links": "af5d4261a40c046ed439291d3bdb1b1f8bd63cd1",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "grackle.services",
-      "links": "162.0.216.51",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -1365,12 +1365,6 @@
     {
       "host": "ns2.dawnforge.org",
       "links": "199.192.21.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.gogokh.com",
-      "links": "162.0.223.225",
       "type": "pdns",
       "ln": 2
     },
@@ -2024,12 +2018,6 @@
     },
     {
       "host": "www.casnop.com",
-      "links": "162.0.216.51",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.casnop.com",
       "links": "341d6589885031750ccde2bcc198e56b8c8db05b",
       "type": "certs",
       "ln": 2
@@ -2074,6 +2062,12 @@
       "host": "www.christopherngai.com",
       "links": "11ea60950f8a75227af0ae9db2c6a120dedfcef0",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.christopherngai.com",
+      "links": "52.52.138.60",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -2331,12 +2325,6 @@
     {
       "host": "www.jumtix.xyz",
       "links": "162.0.216.198",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.juxrams.info",
-      "links": "162.0.223.225",
       "type": "pdns",
       "ln": 2
     },

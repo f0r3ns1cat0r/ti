@@ -74,6 +74,12 @@
     },
     {
       "host": "clouds222.com",
+      "links": "178.21.11.77",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "clouds222.com",
       "links": "c338b90ce8094a7c253278c777c61a83fcfba03e",
       "type": "certs",
       "ln": 2
@@ -115,9 +121,21 @@
       "ln": 2
     },
     {
+      "host": "evklidovoprostranstvo.ru",
+      "links": "2bb49c74de35ebc81dec2176eb568a3c0ded8efc",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "izotopicheskayainvariantnost.ru",
       "links": "1ea65b8c925af49e967c7d89256f7308d312054f",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "ns1.poloscos.ru",
+      "links": "178.21.11.77",
+      "type": "pdns",
       "ln": 2
     },
     {
