@@ -1562,6 +1562,12 @@
     },
     {
       "host": "cloud-info.email",
+      "links": "195.54.160.161",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cloud-info.email",
       "links": "272094b9a70c927f7fa266465fe637e3d5e59127",
       "type": "certs",
       "ln": 2

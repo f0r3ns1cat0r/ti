@@ -151,6 +151,12 @@
       "ln": 2
     },
     {
+      "host": "pikanto-zero.ru",
+      "links": "45.130.151.193",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "plusbonus129.ru",
       "links": "b367556a24630fe7cf4cd07c0398a72b07e3b6e6",
       "type": "certs",
@@ -184,6 +190,12 @@
       "host": "stratosferiss.ru",
       "links": "07f4b7361855de185f6514af1e5bbd7348e2e00b",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "stratosferiss.ru",
+      "links": "45.130.151.193",
+      "type": "pdns",
       "ln": 2
     },
     {

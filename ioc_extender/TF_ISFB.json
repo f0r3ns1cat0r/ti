@@ -998,6 +998,12 @@
     },
     {
       "host": "coralee.at",
+      "links": "109.102.255.230",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "coralee.at",
       "links": "109.98.58.98",
       "type": "pdns",
       "ln": 2
@@ -1269,6 +1275,12 @@
     {
       "host": "dns3.hostgroupdns.ru",
       "links": "37.34.248.24",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "dns3.hostingclass.ru",
+      "links": "186.182.55.44",
       "type": "pdns",
       "ln": 2
     },
@@ -2107,18 +2119,6 @@
       "ln": 2
     },
     {
-      "host": "gmpeople.com",
-      "links": "118.33.109.122",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "gmpeople.com",
-      "links": "190.117.75.91",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "gruppo-isp.is-a-financialadvisor.com",
       "links": "87ad9e7598cbf19b53a948287deb23c90a10c8c4",
       "type": "certs",
@@ -2461,6 +2461,12 @@
       "ln": 2
     },
     {
+      "host": "ikaryto.com",
+      "links": "34.65.143.203",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "informaon-financera-it.is-a-financialadvisor.com",
       "links": "5a69c42bf8177c9ce6e3d48d00b981d667449004",
       "type": "certs",
@@ -2594,12 +2600,6 @@
     },
     {
       "host": "kotob.top",
-      "links": "118.33.109.122",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "kotob.top",
       "links": "14.51.96.70",
       "type": "pdns",
       "ln": 2
@@ -2618,12 +2618,6 @@
     },
     {
       "host": "kotob.top",
-      "links": "175.120.254.9",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "kotob.top",
       "links": "178.31.236.98",
       "type": "pdns",
       "ln": 2
@@ -2637,18 +2631,6 @@
     {
       "host": "kotob.top",
       "links": "186.182.55.44",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "kotob.top",
-      "links": "186.188.224.208",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "kotob.top",
-      "links": "190.117.75.91",
       "type": "pdns",
       "ln": 2
     },
@@ -3271,6 +3253,12 @@
       "ln": 2
     },
     {
+      "host": "monk0vdiaa888.ru",
+      "links": "87.106.18.141",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "nahbleiben.at",
       "links": "109.102.255.230",
       "type": "pdns",
@@ -3667,6 +3655,12 @@
       "ln": 2
     },
     {
+      "host": "powerblank.energy",
+      "links": "34.65.143.203",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "premiumline.top",
       "links": "628a1579e038e5b98c5a787c4d1bb08417e297b5",
       "type": "certs",
@@ -3758,12 +3752,6 @@
     },
     {
       "host": "targiko.ru",
-      "links": "121.136.102.4",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "targiko.ru",
       "links": "183.100.39.157",
       "type": "pdns",
       "ln": 2
@@ -3771,30 +3759,6 @@
     {
       "host": "targiko.ru",
       "links": "190.140.74.43",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "targiko.ru",
-      "links": "210.92.250.133",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "targiko.ru",
-      "links": "211.119.84.112",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "targiko.ru",
-      "links": "211.171.233.126",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "targiko.ru",
-      "links": "37.34.248.24",
       "type": "pdns",
       "ln": 2
     },
@@ -3848,6 +3812,18 @@
     },
     {
       "host": "theprobespacewitoprop.com",
+      "links": "87.106.18.141",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "thirteenthegodfreetlaone.com",
+      "links": "87.106.18.141",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "thprovidedrcapital.com",
       "links": "87.106.18.141",
       "type": "pdns",
       "ln": 2
@@ -4173,6 +4149,12 @@
     {
       "host": "zerit.top",
       "links": "203.228.9.102",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "zerit.top",
+      "links": "210.92.250.133",
       "type": "pdns",
       "ln": 2
     },

@@ -1057,12 +1057,6 @@
       "ln": 2
     },
     {
-      "host": "nudathi.com",
-      "links": "92.119.112.7",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "nukulture.com",
       "links": "138.68.136.193",
       "type": "pdns",
@@ -1282,6 +1276,12 @@
       "host": "thehive26.com",
       "links": "f501b65d9b42f9ad8cc284032fbbd6c6fa0251cc",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "tianiula.com",
+      "links": "154.64.35.9",
+      "type": "pdns",
       "ln": 2
     },
     {
