@@ -181,6 +181,18 @@
       "ln": 2
     },
     {
+      "host": "slovedoneytezya.ru",
+      "links": "45.130.151.193",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "slovedoneytezya.ru",
+      "links": "d91fbf2534697bb8bb513785ef2d371c3c8dad9d",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "stolnik58.ru",
       "links": "743a3b269bed3112ada96de119bc6972d1317736",
       "type": "certs",
@@ -201,6 +213,12 @@
     {
       "host": "stratosferiss.ru",
       "links": "743a3b269bed3112ada96de119bc6972d1317736",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "stratosferiss.ru",
+      "links": "d91fbf2534697bb8bb513785ef2d371c3c8dad9d",
       "type": "certs",
       "ln": 2
     },

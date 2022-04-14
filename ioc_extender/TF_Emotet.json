@@ -1831,6 +1831,12 @@
       "ln": 2
     },
     {
+      "host": "unos-glasses.com",
+      "links": "64.4.161.42",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "verisproperties.com",
       "links": "198.12.217.110",
       "type": "pdns",
@@ -2338,12 +2344,6 @@
       "host": "www.accessunited-bank.alainnationalbank.com",
       "links": "bc5439e1582fa7c2778f797951a6a9cd8c337512",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "www.ajuwafootballacademy.alainnationalbank.com",
-      "links": "111.90.142.15",
-      "type": "pdns",
       "ln": 2
     },
     {

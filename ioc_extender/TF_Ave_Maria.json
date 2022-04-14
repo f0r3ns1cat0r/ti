@@ -200,6 +200,12 @@
     },
     {
       "host": "info1.dynamic-dns.net",
+      "links": "85.202.169.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "info1.dynamic-dns.net",
       "links": "91.193.75.132",
       "type": "pdns",
       "ln": 2
@@ -285,6 +291,12 @@
     {
       "host": "iphanyi.chickenkiller.com",
       "links": "43.240.66.232",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iphanyi.chickenkiller.com",
+      "links": "85.202.169.14",
       "type": "pdns",
       "ln": 2
     },
@@ -477,6 +489,12 @@
     {
       "host": "takertltd.com",
       "links": "185.140.53.73",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "vpnnid.hopto.org",
+      "links": "85.202.169.14",
       "type": "pdns",
       "ln": 2
     }

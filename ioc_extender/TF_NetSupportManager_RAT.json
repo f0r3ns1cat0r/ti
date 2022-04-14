@@ -1,0 +1,40 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ThreatFox: NetSupportManager RAT",
+      "links": "gtskjvia3oi4.net",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "asdjdjcsau3.net",
+      "links": "45.77.161.22",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "gtskjvia3oi4.net",
+      "links": "45.77.161.22",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}
