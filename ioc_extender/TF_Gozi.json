@@ -49,6 +49,12 @@
       "ln": 2
     },
     {
+      "host": "arasinhayerto-zero.ru",
+      "links": "45.130.151.193",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "belka-lichnyj-kabinet.ru",
       "links": "b367556a24630fe7cf4cd07c0398a72b07e3b6e6",
       "type": "certs",
@@ -259,6 +265,12 @@
       "ln": 2
     },
     {
+      "host": "www.arasinhayerto-zero.ru",
+      "links": "45.130.151.193",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "www.expired.maxname.ru",
       "links": "480a095bdcccd1afc6bfbd3150c116282f79f00a",
       "type": "certs",
@@ -274,6 +286,18 @@
       "host": "www.expired.maxname.ru",
       "links": "b367556a24630fe7cf4cd07c0398a72b07e3b6e6",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.pikanto-zero.ru",
+      "links": "45.130.151.193",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.slovedoneytezya.ru",
+      "links": "45.130.151.193",
+      "type": "pdns",
       "ln": 2
     },
     {

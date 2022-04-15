@@ -38,12 +38,6 @@
     },
     {
       "host": "ThreatFox: Ave Maria",
-      "links": "googleservers.org",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: Ave Maria",
       "links": "hafiznor336.duckdns.org",
       "type": "z",
       "ln": 2
@@ -91,12 +85,6 @@
       "ln": 2
     },
     {
-      "host": "chongmei33.publicvm.com",
-      "links": "205.185.118.52",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "darkworldblackerlocker.dumb1.com",
       "links": "198.46.132.206",
       "type": "pdns",
@@ -117,12 +105,6 @@
     {
       "host": "fresh01.ddns.net",
       "links": "79.134.225.8",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "googleservers.org",
-      "links": "205.185.118.52",
       "type": "pdns",
       "ln": 2
     },
@@ -488,6 +470,12 @@
     },
     {
       "host": "takertltd.com",
+      "links": "185.140.53.73",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ubsgolds.com",
       "links": "185.140.53.73",
       "type": "pdns",
       "ln": 2

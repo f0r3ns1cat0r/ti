@@ -620,12 +620,6 @@
     },
     {
       "host": "amogohuigotuli.at",
-      "links": "211.229.47.232",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "amogohuigotuli.at",
       "links": "211.40.39.251",
       "type": "pdns",
       "ln": 2
@@ -758,12 +752,6 @@
     },
     {
       "host": "b.onlythisstori.org",
-      "links": "41.41.255.235",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "b.suppotrix.org",
       "links": "41.41.255.235",
       "type": "pdns",
       "ln": 2
@@ -1094,6 +1082,12 @@
     },
     {
       "host": "coralee.at",
+      "links": "190.43.145.172",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "coralee.at",
       "links": "195.158.3.162",
       "type": "pdns",
       "ln": 2
@@ -1221,6 +1215,12 @@
     {
       "host": "coralee.at",
       "links": "41.41.255.235",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "coralee.at",
+      "links": "58.235.189.190",
       "type": "pdns",
       "ln": 2
     },
@@ -1724,31 +1724,13 @@
     },
     {
       "host": "galala.ru",
-      "links": "175.120.254.9",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "galala.ru",
       "links": "175.126.109.15",
       "type": "pdns",
       "ln": 2
     },
     {
       "host": "galala.ru",
-      "links": "183.78.205.92",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "galala.ru",
       "links": "190.140.74.43",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "galala.ru",
-      "links": "196.200.111.5",
       "type": "pdns",
       "ln": 2
     },
@@ -1761,12 +1743,6 @@
     {
       "host": "galala.ru",
       "links": "211.169.6.249",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "galala.ru",
-      "links": "211.171.233.126",
       "type": "pdns",
       "ln": 2
     },
@@ -2149,8 +2125,68 @@
       "ln": 2
     },
     {
+      "host": "iehokpnatkcjwko.ru",
+      "links": "116.121.62.237",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iehokpnatkcjwko.ru",
+      "links": "138.36.3.134",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iehokpnatkcjwko.ru",
+      "links": "175.126.109.15",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iehokpnatkcjwko.ru",
+      "links": "183.78.205.92",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iehokpnatkcjwko.ru",
+      "links": "190.117.75.91",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iehokpnatkcjwko.ru",
+      "links": "196.200.111.5",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iehokpnatkcjwko.ru",
+      "links": "211.119.84.112",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "iqsruckyssthgry.ru",
       "links": "109.102.255.230",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iqsruckyssthgry.ru",
+      "links": "109.98.58.98",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iqsruckyssthgry.ru",
+      "links": "115.88.24.203",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iqsruckyssthgry.ru",
+      "links": "116.121.62.237",
       "type": "pdns",
       "ln": 2
     },
@@ -2162,7 +2198,25 @@
     },
     {
       "host": "iqsruckyssthgry.ru",
+      "links": "138.36.3.134",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iqsruckyssthgry.ru",
+      "links": "151.251.30.69",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iqsruckyssthgry.ru",
       "links": "175.119.10.231",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iqsruckyssthgry.ru",
+      "links": "183.78.205.92",
       "type": "pdns",
       "ln": 2
     },
@@ -2181,6 +2235,30 @@
     {
       "host": "iqsruckyssthgry.ru",
       "links": "195.158.3.162",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iqsruckyssthgry.ru",
+      "links": "196.200.111.5",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iqsruckyssthgry.ru",
+      "links": "201.103.222.198",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iqsruckyssthgry.ru",
+      "links": "210.182.29.70",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iqsruckyssthgry.ru",
+      "links": "210.92.250.133",
       "type": "pdns",
       "ln": 2
     },
@@ -2258,12 +2336,6 @@
     },
     {
       "host": "kotob.top",
-      "links": "175.126.109.15",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "kotob.top",
       "links": "183.78.205.92",
       "type": "pdns",
       "ln": 2
@@ -2306,19 +2378,7 @@
     },
     {
       "host": "kotob.top",
-      "links": "222.236.49.123",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "kotob.top",
       "links": "222.236.49.124",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "kotob.top",
-      "links": "37.34.248.24",
       "type": "pdns",
       "ln": 2
     },
@@ -2456,31 +2516,13 @@
     },
     {
       "host": "mebel-lass.ru",
-      "links": "175.120.254.9",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mebel-lass.ru",
       "links": "175.126.109.15",
       "type": "pdns",
       "ln": 2
     },
     {
       "host": "mebel-lass.ru",
-      "links": "183.78.205.92",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mebel-lass.ru",
       "links": "190.140.74.43",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mebel-lass.ru",
-      "links": "196.200.111.5",
       "type": "pdns",
       "ln": 2
     },
@@ -2493,12 +2535,6 @@
     {
       "host": "mebel-lass.ru",
       "links": "211.169.6.249",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mebel-lass.ru",
-      "links": "211.171.233.126",
       "type": "pdns",
       "ln": 2
     },
@@ -2576,31 +2612,13 @@
     },
     {
       "host": "melchen-testet.at",
-      "links": "175.120.254.9",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "melchen-testet.at",
       "links": "175.126.109.15",
       "type": "pdns",
       "ln": 2
     },
     {
       "host": "melchen-testet.at",
-      "links": "183.78.205.92",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "melchen-testet.at",
       "links": "190.140.74.43",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "melchen-testet.at",
-      "links": "196.200.111.5",
       "type": "pdns",
       "ln": 2
     },
@@ -2613,12 +2631,6 @@
     {
       "host": "melchen-testet.at",
       "links": "211.169.6.249",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "melchen-testet.at",
-      "links": "211.171.233.126",
       "type": "pdns",
       "ln": 2
     },
@@ -2834,12 +2846,6 @@
     },
     {
       "host": "nahbleiben.at",
-      "links": "211.171.233.126",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "nahbleiben.at",
       "links": "211.229.47.232",
       "type": "pdns",
       "ln": 2
@@ -2929,14 +2935,62 @@
       "ln": 2
     },
     {
+      "host": "ns1.numbrox.org",
+      "links": "37.34.176.37",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.numbrox.org",
+      "links": "41.41.255.235",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.numbrox.org",
+      "links": "37.34.176.37",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.numbrox.org",
+      "links": "41.41.255.235",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ns2.traindns.org",
       "links": "37.34.176.37",
       "type": "pdns",
       "ln": 2
     },
     {
+      "host": "ns3.numbrox.org",
+      "links": "37.34.176.37",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns3.numbrox.org",
+      "links": "41.41.255.235",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ns3.traindns.org",
       "links": "37.34.176.37",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns4.numbrox.org",
+      "links": "37.34.176.37",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns4.numbrox.org",
+      "links": "41.41.255.235",
       "type": "pdns",
       "ln": 2
     },
@@ -2985,6 +3039,78 @@
     {
       "host": "poqxop13.top",
       "links": "41.41.255.235",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "qwyvryvsksdqvye.ru",
+      "links": "109.102.255.230",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "qwyvryvsksdqvye.ru",
+      "links": "109.98.58.98",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "qwyvryvsksdqvye.ru",
+      "links": "110.14.121.125",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "qwyvryvsksdqvye.ru",
+      "links": "115.88.24.202",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "qwyvryvsksdqvye.ru",
+      "links": "116.121.62.237",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "qwyvryvsksdqvye.ru",
+      "links": "124.109.61.160",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "qwyvryvsksdqvye.ru",
+      "links": "183.78.205.92",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "qwyvryvsksdqvye.ru",
+      "links": "190.219.109.25",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "qwyvryvsksdqvye.ru",
+      "links": "195.158.3.162",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "qwyvryvsksdqvye.ru",
+      "links": "222.236.49.124",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "qwyvryvsksdqvye.ru",
+      "links": "37.34.176.37",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "qwyvryvsksdqvye.ru",
+      "links": "61.98.7.133",
       "type": "pdns",
       "ln": 2
     },
@@ -3063,6 +3189,60 @@
     {
       "host": "targiko.ru",
       "links": "61.98.7.132",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.algrcabel.ru",
+      "links": "109.102.255.230",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.algrcabel.ru",
+      "links": "110.14.121.125",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.algrcabel.ru",
+      "links": "115.88.24.202",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.algrcabel.ru",
+      "links": "124.109.61.160",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.algrcabel.ru",
+      "links": "138.36.3.134",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.algrcabel.ru",
+      "links": "175.120.254.9",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.algrcabel.ru",
+      "links": "190.219.109.25",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.algrcabel.ru",
+      "links": "196.200.111.5",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.algrcabel.ru",
+      "links": "210.182.29.70",
       "type": "pdns",
       "ln": 2
     },

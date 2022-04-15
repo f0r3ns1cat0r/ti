@@ -686,6 +686,12 @@
     },
     {
       "host": "watashinonegai.ru",
+      "links": "134.209.227.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "watashinonegai.ru",
       "links": "45fff0130b3bce2f9d86740cd45f97cb2b8d367a",
       "type": "certs",
       "ln": 2

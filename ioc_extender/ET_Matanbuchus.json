@@ -73,6 +73,12 @@
       "ln": 2
     },
     {
+      "host": "mail.sravni-cardb.ru",
+      "links": "185.105.91.24",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "onetwostep.at",
       "links": "185.105.91.24",
       "type": "pdns",
@@ -146,6 +152,12 @@
     },
     {
       "host": "www.companynet-mbank.com",
+      "links": "185.105.91.24",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.sravni-cardb.ru",
       "links": "185.105.91.24",
       "type": "pdns",
       "ln": 2

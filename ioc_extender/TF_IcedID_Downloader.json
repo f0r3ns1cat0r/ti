@@ -74,6 +74,12 @@
     },
     {
       "host": "ThreatFox: IcedID Downloader",
+      "links": "hevciak.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: IcedID Downloader",
       "links": "ildrenmightf.top",
       "type": "z",
       "ln": 2
@@ -397,6 +403,12 @@
       "ln": 2
     },
     {
+      "host": "hevciak.com",
+      "links": "173.254.204.109",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ildrenmightf.top",
       "links": "159.89.171.14",
       "type": "pdns",
@@ -454,6 +466,12 @@
       "host": "normyils.com",
       "links": "5790ae30d9e055c8c8ca0e3aa25e2dddcd828405",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "ns1.wm-cpanel.shop",
+      "links": "173.254.204.109",
+      "type": "pdns",
       "ln": 2
     },
     {

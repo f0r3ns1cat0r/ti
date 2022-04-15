@@ -1520,6 +1520,12 @@
     },
     {
       "host": "hipnoguard.com",
+      "links": "23.254.228.47",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hipnoguard.com",
       "links": "a0334f2114304bd28bd5ce4e1cae7115339e37a1",
       "type": "certs",
       "ln": 2
@@ -1753,12 +1759,6 @@
       "ln": 2
     },
     {
-      "host": "mail1.araves.org",
-      "links": "194.147.115.14",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "menjitghyukl.myfirewall.org",
       "links": "139.59.250.183",
       "type": "pdns",
@@ -1849,13 +1849,19 @@
       "ln": 2
     },
     {
-      "host": "ns1.araves.org",
-      "links": "194.147.115.14",
+      "host": "ns1.bittychilla.com",
+      "links": "23.254.228.47",
       "type": "pdns",
       "ln": 2
     },
     {
       "host": "ns1.box.nechckout.net",
+      "links": "137.184.117.189",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.box.nechecker.com",
       "links": "137.184.117.189",
       "type": "pdns",
       "ln": 2
@@ -1873,14 +1879,32 @@
       "ln": 2
     },
     {
-      "host": "ns1.sunchild.am",
-      "links": "194.147.115.14",
+      "host": "ns1.trackmarketing5.xyz",
+      "links": "23.254.228.47",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.bittychilla.com",
+      "links": "23.254.228.47",
       "type": "pdns",
       "ln": 2
     },
     {
       "host": "ns2.box.nechckout.net",
       "links": "137.184.117.189",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.box.nechecker.com",
+      "links": "137.184.117.189",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.trackmarketing5.xyz",
+      "links": "23.254.228.47",
       "type": "pdns",
       "ln": 2
     },

@@ -607,6 +607,12 @@
       "ln": 2
     },
     {
+      "host": "jianada35.com",
+      "links": "154.37.40.108",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "kamoi.com",
       "links": "111a695bae3790d10672b3db3cfbf04e87c4482f",
       "type": "certs",
@@ -1192,6 +1198,12 @@
       "host": "www.isprw.af",
       "links": "40a5aa896dbd1dfc41d2726f095eeae6ecda74d4",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.jianada35.com",
+      "links": "154.37.40.108",
+      "type": "pdns",
       "ln": 2
     },
     {

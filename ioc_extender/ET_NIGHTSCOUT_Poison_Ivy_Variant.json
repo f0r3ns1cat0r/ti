@@ -116,6 +116,12 @@
     },
     {
       "host": "cdn.cloudistcdn.com",
+      "links": "e13f4c46bb0d6460f56913d01ceb1f92162e5d18",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cdn.cloudistcdn.com",
       "links": "ea330d0ebdbf3a68576cb821ee23311050e9016b",
       "type": "certs",
       "ln": 2
@@ -229,6 +235,12 @@
       "ln": 2
     },
     {
+      "host": "pjpjpay.com",
+      "links": "e13f4c46bb0d6460f56913d01ceb1f92162e5d18",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "q.cloudistcdn.com",
       "links": "20813d7481450e6ac1d8cb9597f29ddcae9b7b10",
       "type": "certs",
@@ -303,6 +315,12 @@
     {
       "host": "q.cloudistcdn.com",
       "links": "d94fdc98015fa979f3e23d006b783620ac54954a",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "q.cloudistcdn.com",
+      "links": "e13f4c46bb0d6460f56913d01ceb1f92162e5d18",
       "type": "certs",
       "ln": 2
     },

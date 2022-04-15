@@ -476,6 +476,12 @@
     },
     {
       "host": "BB Threat Research: TA575-Dridex",
+      "links": "kario.org",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "BB Threat Research: TA575-Dridex",
       "links": "kitalubunifu.org",
       "type": "z",
       "ln": 2
@@ -1587,6 +1593,12 @@
     {
       "host": "autodiscover.luckyday.cc",
       "links": "602a73074a2e7c70a18bca8674a57d5c0f36406e",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "autodiscover.luckyday.cc",
+      "links": "af18626091b227c3cf379ea090cbf2230d3d94bb",
       "type": "certs",
       "ln": 2
     },
@@ -3373,6 +3385,12 @@
       "ln": 2
     },
     {
+      "host": "cpanel.luckyday.cc",
+      "links": "af18626091b227c3cf379ea090cbf2230d3d94bb",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "cpanel.miriamdyak.com",
       "links": "348886365ab4d56ff294adfe04e01faad285e57a",
       "type": "certs",
@@ -3631,6 +3649,12 @@
       "ln": 2
     },
     {
+      "host": "cpcalendars.luckyday.cc",
+      "links": "af18626091b227c3cf379ea090cbf2230d3d94bb",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "cpcalendars.miriamdyak.com",
       "links": "348886365ab4d56ff294adfe04e01faad285e57a",
       "type": "certs",
@@ -3885,6 +3909,12 @@
     {
       "host": "cpcontacts.luckyday.cc",
       "links": "602a73074a2e7c70a18bca8674a57d5c0f36406e",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcontacts.luckyday.cc",
+      "links": "af18626091b227c3cf379ea090cbf2230d3d94bb",
       "type": "certs",
       "ln": 2
     },
@@ -4960,12 +4990,6 @@
       "host": "e-wallet.aql.is",
       "links": "ea6919bf367f447052c04c6e1ff4691a6193478d",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "easysurveys.cc",
-      "links": "50.116.111.27",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -7177,6 +7201,12 @@
       "ln": 2
     },
     {
+      "host": "luckyday.cc",
+      "links": "af18626091b227c3cf379ea090cbf2230d3d94bb",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "luckydaycc.serverwealthyminds.com",
       "links": "2ca28daa30d87d8b7b72c150ebe65030c76a13b9",
       "type": "certs",
@@ -7185,6 +7215,12 @@
     {
       "host": "luckydaycc.serverwealthyminds.com",
       "links": "602a73074a2e7c70a18bca8674a57d5c0f36406e",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "luckydaycc.serverwealthyminds.com",
+      "links": "af18626091b227c3cf379ea090cbf2230d3d94bb",
       "type": "certs",
       "ln": 2
     },
@@ -7322,6 +7358,12 @@
     },
     {
       "host": "mail.horoshee-radio.ru",
+      "links": "185.86.147.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.horoshee-radio.ru",
       "links": "51.158.122.151",
       "type": "pdns",
       "ln": 2
@@ -7453,6 +7495,18 @@
       "ln": 2
     },
     {
+      "host": "mail.luckyday.cc",
+      "links": "af18626091b227c3cf379ea090cbf2230d3d94bb",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.mfc-disc.ru",
+      "links": "185.86.147.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "mail.miriamdyak.com",
       "links": "348886365ab4d56ff294adfe04e01faad285e57a",
       "type": "certs",
@@ -7525,6 +7579,18 @@
       "ln": 2
     },
     {
+      "host": "mail.radio-fresh.ru",
+      "links": "185.86.147.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.rodnyepesni.ru",
+      "links": "185.86.147.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "mail.rollsinc.com",
       "links": "35.208.116.229",
       "type": "pdns",
@@ -7570,6 +7636,18 @@
       "host": "mail.selfcareadvocacy.com",
       "links": "fa08791a20ac9aa7087ceb02fca39292315c788d",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.xn--80aibar5aafld3czb.xn--p1ai",
+      "links": "185.86.147.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.xn--80asjlzc.xn--p1ai",
+      "links": "185.86.147.14",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -7804,6 +7882,12 @@
       "host": "metatron.darkhaven.net",
       "links": "b5a40de9a475c7d7887ada0b41440dbd3949061d",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mfc-disc.ru",
+      "links": "185.86.147.14",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -9375,12 +9459,6 @@
     {
       "host": "radiocafe.volna.top",
       "links": "51.158.122.151",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ragnaclassic.com",
-      "links": "194.233.66.78",
       "type": "pdns",
       "ln": 2
     },
@@ -11635,6 +11713,12 @@
       "ln": 2
     },
     {
+      "host": "webdisk.luckyday.cc",
+      "links": "af18626091b227c3cf379ea090cbf2230d3d94bb",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "webdisk.miriamdyak.com",
       "links": "348886365ab4d56ff294adfe04e01faad285e57a",
       "type": "certs",
@@ -11889,6 +11973,12 @@
     {
       "host": "webmail.luckyday.cc",
       "links": "602a73074a2e7c70a18bca8674a57d5c0f36406e",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webmail.luckyday.cc",
+      "links": "af18626091b227c3cf379ea090cbf2230d3d94bb",
       "type": "certs",
       "ln": 2
     },
@@ -12430,6 +12520,12 @@
       "host": "www.americandentalcareinc.com",
       "links": "b85237f195b6119b9ce453937d83c2d763c21e21",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.amgradio.ru",
+      "links": "185.86.147.14",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -13807,8 +13903,14 @@
       "ln": 2
     },
     {
-      "host": "www.iconcepts.com.ng",
-      "links": "178.79.147.66",
+      "host": "www.horoshee-radio.ru",
+      "links": "185.86.147.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.hypefm.ru",
+      "links": "185.86.147.14",
       "type": "pdns",
       "ln": 2
     },
@@ -14227,6 +14329,12 @@
       "ln": 2
     },
     {
+      "host": "www.luckydaycc.serverwealthyminds.com",
+      "links": "af18626091b227c3cf379ea090cbf2230d3d94bb",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "www.makarajothi.com",
       "links": "ea6919bf367f447052c04c6e1ff4691a6193478d",
       "type": "certs",
@@ -14272,6 +14380,12 @@
       "host": "www.maxihogar.cl",
       "links": "d8c4443a159f82d52a33ac137e68a3c60fff83a2",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.mfc-disc.ru",
+      "links": "185.86.147.14",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -14737,6 +14851,12 @@
       "ln": 2
     },
     {
+      "host": "www.radio-fresh.ru",
+      "links": "185.86.147.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "www.ralphdavinci.com",
       "links": "73fc371a30c8a52fe3d8a1ca1a2485a46bd61527",
       "type": "certs",
@@ -14869,6 +14989,12 @@
       "ln": 2
     },
     {
+      "host": "www.remixfm.ru",
+      "links": "185.86.147.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "www.riskwise.ca",
       "links": "2a326f8a96762a270cca72b0dd0c96e0aefea1f6",
       "type": "certs",
@@ -14902,6 +15028,12 @@
       "host": "www.riverice.ca",
       "links": "ea6919bf367f447052c04c6e1ff4691a6193478d",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.rodnyepesni.ru",
+      "links": "185.86.147.14",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -15004,6 +15136,12 @@
       "host": "www.seader.in",
       "links": "ea6919bf367f447052c04c6e1ff4691a6193478d",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.sevastopolfm.ru",
+      "links": "185.86.147.14",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -15637,6 +15775,18 @@
       "ln": 2
     },
     {
+      "host": "www.xn--80aibar5aafld3czb.xn--p1ai",
+      "links": "185.86.147.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.xn--80asjlzc.xn--p1ai",
+      "links": "185.86.147.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "www.xtremeautoglasspros.com",
       "links": "22c62cf246ecaa39e8e92e84dd82e03d68aff633",
       "type": "certs",
@@ -15736,6 +15886,18 @@
       "host": "x-maker.me",
       "links": "74ad4719c661600ecb133bc0f289ddd9b2f80a13",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "xn--80aibar5aafld3czb.xn--p1ai",
+      "links": "185.86.147.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "xn--80asjlzc.xn--p1ai",
+      "links": "185.86.147.14",
+      "type": "pdns",
       "ln": 2
     },
     {
