@@ -842,12 +842,6 @@
     },
     {
       "host": "amogohuigotuli.at",
-      "links": "177.207.1.120",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "amogohuigotuli.at",
       "links": "178.31.236.98",
       "type": "pdns",
       "ln": 2
@@ -1623,6 +1617,12 @@
     {
       "host": "coralee.at",
       "links": "109.98.58.98",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "coralee.at",
+      "links": "110.14.121.123",
       "type": "pdns",
       "ln": 2
     },
@@ -2774,18 +2774,6 @@
     },
     {
       "host": "galala.ru",
-      "links": "109.98.58.98",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "galala.ru",
-      "links": "110.14.121.123",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "galala.ru",
       "links": "110.14.121.125",
       "type": "pdns",
       "ln": 2
@@ -2829,18 +2817,6 @@
     {
       "host": "galala.ru",
       "links": "151.251.30.69",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "galala.ru",
-      "links": "175.126.109.15",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "galala.ru",
-      "links": "177.207.1.120",
       "type": "pdns",
       "ln": 2
     },
@@ -2894,12 +2870,6 @@
     },
     {
       "host": "galala.ru",
-      "links": "211.168.197.211",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "galala.ru",
       "links": "211.169.6.249",
       "type": "pdns",
       "ln": 2
@@ -2924,18 +2894,6 @@
     },
     {
       "host": "galala.ru",
-      "links": "37.34.248.24",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "galala.ru",
-      "links": "61.36.14.230",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "galala.ru",
       "links": "61.98.7.132",
       "type": "pdns",
       "ln": 2
@@ -2943,12 +2901,6 @@
     {
       "host": "galala.ru",
       "links": "61.98.7.133",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "galala.ru",
-      "links": "77.243.64.119",
       "type": "pdns",
       "ln": 2
     },
@@ -3944,12 +3896,6 @@
     },
     {
       "host": "kotob.top",
-      "links": "183.78.205.92",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "kotob.top",
       "links": "186.182.55.44",
       "type": "pdns",
       "ln": 2
@@ -3998,12 +3944,6 @@
     },
     {
       "host": "kotob.top",
-      "links": "203.228.9.102",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "kotob.top",
       "links": "211.169.6.249",
       "type": "pdns",
       "ln": 2
@@ -4022,19 +3962,7 @@
     },
     {
       "host": "kotob.top",
-      "links": "222.236.49.124",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "kotob.top",
       "links": "41.41.255.235",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "kotob.top",
-      "links": "61.36.14.230",
       "type": "pdns",
       "ln": 2
     },
@@ -4268,18 +4196,6 @@
     },
     {
       "host": "mebel-lass.ru",
-      "links": "109.98.58.98",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mebel-lass.ru",
-      "links": "110.14.121.123",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mebel-lass.ru",
       "links": "110.14.121.125",
       "type": "pdns",
       "ln": 2
@@ -4323,18 +4239,6 @@
     {
       "host": "mebel-lass.ru",
       "links": "151.251.30.69",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mebel-lass.ru",
-      "links": "175.126.109.15",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mebel-lass.ru",
-      "links": "177.207.1.120",
       "type": "pdns",
       "ln": 2
     },
@@ -4388,12 +4292,6 @@
     },
     {
       "host": "mebel-lass.ru",
-      "links": "211.168.197.211",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mebel-lass.ru",
       "links": "211.169.6.249",
       "type": "pdns",
       "ln": 2
@@ -4418,18 +4316,6 @@
     },
     {
       "host": "mebel-lass.ru",
-      "links": "37.34.248.24",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mebel-lass.ru",
-      "links": "61.36.14.230",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mebel-lass.ru",
       "links": "61.98.7.132",
       "type": "pdns",
       "ln": 2
@@ -4437,12 +4323,6 @@
     {
       "host": "mebel-lass.ru",
       "links": "61.98.7.133",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mebel-lass.ru",
-      "links": "77.243.64.119",
       "type": "pdns",
       "ln": 2
     },
@@ -4454,18 +4334,6 @@
     },
     {
       "host": "melchen-testet.at",
-      "links": "109.98.58.98",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "melchen-testet.at",
-      "links": "110.14.121.123",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "melchen-testet.at",
       "links": "110.14.121.125",
       "type": "pdns",
       "ln": 2
@@ -4509,18 +4377,6 @@
     {
       "host": "melchen-testet.at",
       "links": "151.251.30.69",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "melchen-testet.at",
-      "links": "175.126.109.15",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "melchen-testet.at",
-      "links": "177.207.1.120",
       "type": "pdns",
       "ln": 2
     },
@@ -4574,12 +4430,6 @@
     },
     {
       "host": "melchen-testet.at",
-      "links": "211.168.197.211",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "melchen-testet.at",
       "links": "211.169.6.249",
       "type": "pdns",
       "ln": 2
@@ -4604,18 +4454,6 @@
     },
     {
       "host": "melchen-testet.at",
-      "links": "37.34.248.24",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "melchen-testet.at",
-      "links": "61.36.14.230",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "melchen-testet.at",
       "links": "61.98.7.132",
       "type": "pdns",
       "ln": 2
@@ -4623,12 +4461,6 @@
     {
       "host": "melchen-testet.at",
       "links": "61.98.7.133",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "melchen-testet.at",
-      "links": "77.243.64.119",
       "type": "pdns",
       "ln": 2
     },
@@ -4724,12 +4556,6 @@
     },
     {
       "host": "nahbleiben.at",
-      "links": "110.14.121.123",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "nahbleiben.at",
       "links": "110.14.121.125",
       "type": "pdns",
       "ln": 2
@@ -4809,12 +4635,6 @@
     {
       "host": "nahbleiben.at",
       "links": "175.126.109.15",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "nahbleiben.at",
-      "links": "177.207.1.120",
       "type": "pdns",
       "ln": 2
     },
@@ -4964,12 +4784,6 @@
     },
     {
       "host": "nahbleiben.at",
-      "links": "211.168.197.211",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "nahbleiben.at",
       "links": "211.169.6.249",
       "type": "pdns",
       "ln": 2
@@ -5030,12 +4844,6 @@
     },
     {
       "host": "nahbleiben.at",
-      "links": "37.34.248.24",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "nahbleiben.at",
       "links": "41.41.255.235",
       "type": "pdns",
       "ln": 2
@@ -5055,12 +4863,6 @@
     {
       "host": "nahbleiben.at",
       "links": "61.255.185.201",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "nahbleiben.at",
-      "links": "61.36.14.230",
       "type": "pdns",
       "ln": 2
     },
@@ -6825,6 +6627,12 @@
     {
       "host": "zerit.top",
       "links": "58.235.189.190",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "zerit.top",
+      "links": "61.98.7.132",
       "type": "pdns",
       "ln": 2
     },

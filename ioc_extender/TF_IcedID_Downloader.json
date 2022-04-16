@@ -194,6 +194,12 @@
     },
     {
       "host": "balliordan.com",
+      "links": "167.172.72.58",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "balliordan.com",
       "links": "5ed26197cf75b016335432b83bd2b76add3848b1",
       "type": "certs",
       "ln": 2
@@ -225,6 +231,12 @@
     {
       "host": "bleizcarsgood.com",
       "links": "147.182.222.62",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "bleizcarsgood.com",
+      "links": "167.172.72.58",
       "type": "pdns",
       "ln": 2
     },
@@ -296,6 +308,12 @@
     },
     {
       "host": "firstdatachannel.click",
+      "links": "167.172.72.58",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "firstdatachannel.click",
       "links": "5ed26197cf75b016335432b83bd2b76add3848b1",
       "type": "certs",
       "ln": 2
@@ -356,6 +374,12 @@
     },
     {
       "host": "greshman.xyz",
+      "links": "167.172.72.58",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "greshman.xyz",
       "links": "5ed26197cf75b016335432b83bd2b76add3848b1",
       "type": "certs",
       "ln": 2
@@ -381,6 +405,12 @@
     {
       "host": "helloshoplegs.com",
       "links": "147.182.222.62",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "helloshoplegs.com",
+      "links": "167.172.72.58",
       "type": "pdns",
       "ln": 2
     },
