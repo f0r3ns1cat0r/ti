@@ -38,6 +38,12 @@
     },
     {
       "host": "ThreatFox: AsyncRAT",
+      "links": "crazydns.linkpc.net",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: AsyncRAT",
       "links": "fresh01.ddns.net",
       "type": "z",
       "ln": 2
@@ -130,6 +136,12 @@
       "host": "cplusaganteng27.net",
       "links": "ae51a24ffc60075852ec63e9d450da44adccd4ca",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "crazydns.linkpc.net",
+      "links": "91.193.75.239",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -421,6 +433,12 @@
       "ln": 2
     },
     {
+      "host": "rick63.publicvm.com",
+      "links": "91.193.75.239",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "sgnninmyppyalsrvcces.com",
       "links": "021cc80a118caa47313ca16a59d8e7b6787df70b",
       "type": "certs",
@@ -430,6 +448,12 @@
       "host": "shhlong12in.com",
       "links": "021cc80a118caa47313ca16a59d8e7b6787df70b",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "shiestynerd.dvrlists.com",
+      "links": "91.193.75.239",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -454,6 +478,12 @@
       "host": "tokcharts.com",
       "links": "021cc80a118caa47313ca16a59d8e7b6787df70b",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "twistednerd.dvrlists.com",
+      "links": "91.193.75.239",
+      "type": "pdns",
       "ln": 2
     },
     {
