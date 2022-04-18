@@ -1225,6 +1225,12 @@
       "ln": 2
     },
     {
+      "host": "fsspizveshenie.store",
+      "links": "40525f50da95ec34ef234fc739842440fa4a828d",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "fsspshtraf.store",
       "links": "9fc8a24867a03252f89f19ac5094697cacdccc54",
       "type": "certs",
@@ -2071,6 +2077,12 @@
       "ln": 2
     },
     {
+      "host": "lernasikl.store",
+      "links": "40525f50da95ec34ef234fc739842440fa4a828d",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "lertanakrovisna.store",
       "links": "9fc8a24867a03252f89f19ac5094697cacdccc54",
       "type": "certs",
@@ -2205,6 +2217,12 @@
     {
       "host": "masterkru4ok.store",
       "links": "9c73f26d08c80392fcf32de60e43cfc5586b26f8",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "maxdan-development.store",
+      "links": "40525f50da95ec34ef234fc739842440fa4a828d",
       "type": "certs",
       "ln": 2
     },
@@ -2571,6 +2589,12 @@
     {
       "host": "optic-alliance.store",
       "links": "5b410f323f84cc0ea3f41697444153e11400c683",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "optotkani.store",
+      "links": "40525f50da95ec34ef234fc739842440fa4a828d",
       "type": "certs",
       "ln": 2
     },
@@ -3514,12 +3538,6 @@
       "host": "vedexx.ru",
       "links": "5b410f323f84cc0ea3f41697444153e11400c683",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "vidcat.net",
-      "links": "162.244.32.203",
-      "type": "pdns",
       "ln": 2
     },
     {

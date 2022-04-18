@@ -20,6 +20,12 @@
   "data": [
     {
       "host": "ThreatFox: Remcos",
+      "links": "boysgoblow.hopto.org",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Remcos",
       "links": "cincuentaynueverem.duckdns.org",
       "type": "z",
       "ln": 2
@@ -175,6 +181,12 @@
       "ln": 2
     },
     {
+      "host": "boysgoblow.hopto.org",
+      "links": "91.193.75.132",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "cincuentaynueverem.duckdns.org",
       "links": "181.131.217.138",
       "type": "pdns",
@@ -243,6 +255,12 @@
     {
       "host": "dynasy13.myddns.me",
       "links": "104.215.84.159",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "emedoo.ddns.net",
+      "links": "91.193.75.132",
       "type": "pdns",
       "ln": 2
     },
@@ -350,13 +368,31 @@
     },
     {
       "host": "info1.dynamic-dns.net",
+      "links": "91.193.75.132",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "info1.dynamic-dns.net",
       "links": "91.193.75.222",
       "type": "pdns",
       "ln": 2
     },
     {
       "host": "iphanyi.chickenkiller.com",
+      "links": "91.193.75.132",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iphanyi.chickenkiller.com",
       "links": "91.193.75.222",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iphanyi.webredirect.org",
+      "links": "91.193.75.132",
       "type": "pdns",
       "ln": 2
     },

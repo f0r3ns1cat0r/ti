@@ -37,6 +37,12 @@
       "ln": 2
     },
     {
+      "host": "2043.avolonage.com",
+      "links": "56d52bcf970a83b16d57c1efbc265012f506c7aa",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "2043.xyz",
       "links": "12ac326da902af5dfd4222a9e9916366ab00112c",
       "type": "certs",
@@ -51,6 +57,12 @@
     {
       "host": "2043.xyz",
       "links": "3e1acf40f468aff9abfdf3083946364405185db5",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "2043.xyz",
+      "links": "56d52bcf970a83b16d57c1efbc265012f506c7aa",
       "type": "certs",
       "ln": 2
     },
@@ -3092,19 +3104,7 @@
     },
     {
       "host": "covcafe.volna.top",
-      "links": "185.86.147.14",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "covcafe.volna.top",
       "links": "51.158.122.151",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "covchilla.volna.top",
-      "links": "185.86.147.14",
       "type": "pdns",
       "ln": 2
     },
@@ -3146,12 +3146,6 @@
     },
     {
       "host": "covfresh.volna.top",
-      "links": "185.86.147.14",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "covfresh.volna.top",
       "links": "51.158.122.151",
       "type": "pdns",
       "ln": 2
@@ -3165,12 +3159,6 @@
     {
       "host": "covhfm.volna.top",
       "links": "51.158.122.151",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "covrbs.volna.top",
-      "links": "185.86.147.14",
       "type": "pdns",
       "ln": 2
     },
@@ -3201,12 +3189,6 @@
     {
       "host": "covrfm.volna.top",
       "links": "51.158.122.151",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "covrurock.volna.top",
-      "links": "185.86.147.14",
       "type": "pdns",
       "ln": 2
     },
@@ -4190,12 +4172,6 @@
     },
     {
       "host": "darkhaven.net",
-      "links": "208.83.69.59",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "darkhaven.net",
       "links": "58d2f19b72e4cd067d7a7ef6626cd8f326714d57",
       "type": "certs",
       "ln": 2
@@ -4708,12 +4684,6 @@
       "host": "diobot.xyz",
       "links": "d8c4443a159f82d52a33ac137e68a3c60fff83a2",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "directorjaywill.com",
-      "links": "35.208.116.229",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -6158,12 +6128,6 @@
     },
     {
       "host": "hypefm.net",
-      "links": "185.86.147.14",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "hypefm.net",
       "links": "51.158.122.151",
       "type": "pdns",
       "ln": 2
@@ -7352,12 +7316,6 @@
     },
     {
       "host": "mail.horoshee-radio.ru",
-      "links": "185.86.147.14",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mail.horoshee-radio.ru",
       "links": "51.158.122.151",
       "type": "pdns",
       "ln": 2
@@ -7495,12 +7453,6 @@
       "ln": 2
     },
     {
-      "host": "mail.mfc-disc.ru",
-      "links": "185.86.147.14",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "mail.miriamdyak.com",
       "links": "348886365ab4d56ff294adfe04e01faad285e57a",
       "type": "certs",
@@ -7573,18 +7525,6 @@
       "ln": 2
     },
     {
-      "host": "mail.radio-fresh.ru",
-      "links": "185.86.147.14",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mail.rodnyepesni.ru",
-      "links": "185.86.147.14",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "mail.rollsinc.com",
       "links": "35.208.116.229",
       "type": "pdns",
@@ -7624,18 +7564,6 @@
       "host": "mail.selfcareadvocacy.com",
       "links": "fa08791a20ac9aa7087ceb02fca39292315c788d",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "mail.xn--80aibar5aafld3czb.xn--p1ai",
-      "links": "185.86.147.14",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mail.xn--80asjlzc.xn--p1ai",
-      "links": "185.86.147.14",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -7870,12 +7798,6 @@
       "host": "metatron.darkhaven.net",
       "links": "b5a40de9a475c7d7887ada0b41440dbd3949061d",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "mfc-disc.ru",
-      "links": "185.86.147.14",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -8491,12 +8413,6 @@
       "ln": 2
     },
     {
-      "host": "ns.darkhaven.net",
-      "links": "208.83.69.59",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ns1.foodisforfuel.com",
       "links": "145.239.107.153",
       "type": "pdns",
@@ -9040,12 +8956,6 @@
       "host": "pm.me",
       "links": "45e19010414652f02bf969528bea3a014e7b1831",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "pop.pashamediterranean.com",
-      "links": "194.233.66.78",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -9736,12 +9646,6 @@
       "host": "riskwise.ca",
       "links": "4459504a51193b5fa1cfe2c370f59bc99528032f",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "rodnyepesni.ru",
-      "links": "185.86.147.14",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -12367,6 +12271,12 @@
       "ln": 2
     },
     {
+      "host": "www.2043.avolonage.com",
+      "links": "56d52bcf970a83b16d57c1efbc265012f506c7aa",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "www.3akip.com",
       "links": "bb115e0fc99ec38bbb585a2dade63ca00f36c716",
       "type": "certs",
@@ -12526,12 +12436,6 @@
       "host": "www.americandentalcareinc.com",
       "links": "b85237f195b6119b9ce453937d83c2d763c21e21",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "www.amgradio.ru",
-      "links": "185.86.147.14",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -13903,18 +13807,6 @@
       "ln": 2
     },
     {
-      "host": "www.horoshee-radio.ru",
-      "links": "185.86.147.14",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.hypefm.ru",
-      "links": "185.86.147.14",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "www.ihatehowmuchiloveyou.com",
       "links": "22c62cf246ecaa39e8e92e84dd82e03d68aff633",
       "type": "certs",
@@ -14383,12 +14275,6 @@
       "ln": 2
     },
     {
-      "host": "www.mfc-disc.ru",
-      "links": "185.86.147.14",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "www.miapple.ca",
       "links": "22c62cf246ecaa39e8e92e84dd82e03d68aff633",
       "type": "certs",
@@ -14851,12 +14737,6 @@
       "ln": 2
     },
     {
-      "host": "www.radio-fresh.ru",
-      "links": "185.86.147.14",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "www.ralphdavinci.com",
       "links": "73fc371a30c8a52fe3d8a1ca1a2485a46bd61527",
       "type": "certs",
@@ -14989,12 +14869,6 @@
       "ln": 2
     },
     {
-      "host": "www.remixfm.ru",
-      "links": "185.86.147.14",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "www.riskwise.ca",
       "links": "2a326f8a96762a270cca72b0dd0c96e0aefea1f6",
       "type": "certs",
@@ -15028,12 +14902,6 @@
       "host": "www.riverice.ca",
       "links": "ea6919bf367f447052c04c6e1ff4691a6193478d",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "www.rodnyepesni.ru",
-      "links": "185.86.147.14",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -15136,12 +15004,6 @@
       "host": "www.seader.in",
       "links": "ea6919bf367f447052c04c6e1ff4691a6193478d",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "www.sevastopolfm.ru",
-      "links": "185.86.147.14",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -15775,18 +15637,6 @@
       "ln": 2
     },
     {
-      "host": "www.xn--80aibar5aafld3czb.xn--p1ai",
-      "links": "185.86.147.14",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.xn--80asjlzc.xn--p1ai",
-      "links": "185.86.147.14",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "www.xtremeautoglasspros.com",
       "links": "22c62cf246ecaa39e8e92e84dd82e03d68aff633",
       "type": "certs",
@@ -15886,18 +15736,6 @@
       "host": "x-maker.me",
       "links": "74ad4719c661600ecb133bc0f289ddd9b2f80a13",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "xn--80aibar5aafld3czb.xn--p1ai",
-      "links": "185.86.147.14",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "xn--80asjlzc.xn--p1ai",
-      "links": "185.86.147.14",
-      "type": "pdns",
       "ln": 2
     },
     {
