@@ -61,6 +61,12 @@
       "ln": 2
     },
     {
+      "host": "ThreatFox: AsyncRAT",
+      "links": "pop5.ddns.net",
+      "type": "z",
+      "ln": 2
+    },
+    {
       "host": "agnus.app",
       "links": "021cc80a118caa47313ca16a59d8e7b6787df70b",
       "type": "certs",
@@ -343,6 +349,12 @@
       "ln": 2
     },
     {
+      "host": "newedgeoversea.com",
+      "links": "212.192.241.104",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "nyannewtoday.duckdns.org",
       "links": "021cc80a118caa47313ca16a59d8e7b6787df70b",
       "type": "certs",
@@ -358,6 +370,12 @@
       "host": "personeroscaplalibertad.org",
       "links": "ae51a24ffc60075852ec63e9d450da44adccd4ca",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "pop5.ddns.net",
+      "links": "212.192.241.104",
+      "type": "pdns",
       "ln": 2
     },
     {

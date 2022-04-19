@@ -386,6 +386,12 @@
     },
     {
       "host": "d.hwqloan.com",
+      "links": "43259b682c8e2dd2553db2b56c77c8730b8d8a64",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "d.hwqloan.com",
       "links": "a2b597289d7f2ec7b624246ff4062b249ef110a3",
       "type": "certs",
       "ln": 2
@@ -543,6 +549,12 @@
     {
       "host": "hwqloan.com",
       "links": "1eb63b6f617776f95d5dba765cf14acf7a9a100f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "hwqloan.com",
+      "links": "43259b682c8e2dd2553db2b56c77c8730b8d8a64",
       "type": "certs",
       "ln": 2
     },
@@ -1040,6 +1052,12 @@
     },
     {
       "host": "t.hwqloan.com",
+      "links": "43259b682c8e2dd2553db2b56c77c8730b8d8a64",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "t.hwqloan.com",
       "links": "a2b597289d7f2ec7b624246ff4062b249ef110a3",
       "type": "certs",
       "ln": 2
@@ -1198,6 +1216,12 @@
       "host": "www.isprw.af",
       "links": "40a5aa896dbd1dfc41d2726f095eeae6ecda74d4",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.jianada35.com",
+      "links": "154.37.40.108",
+      "type": "pdns",
       "ln": 2
     },
     {

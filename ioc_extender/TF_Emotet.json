@@ -1351,6 +1351,12 @@
       "ln": 2
     },
     {
+      "host": "m4.krezol.ru",
+      "links": "92.50.134.78",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "mail.accessunited-bank.com",
       "links": "149896eadd42805d9363e0557b8233515c57f24f",
       "type": "certs",
@@ -2589,6 +2595,24 @@
     {
       "host": "www.ufahimkom.ru",
       "links": "188.43.2.245",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.ufahimkom.ru",
+      "links": "92.50.134.78",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.xn----itbgkhnenp.xn--p1ai",
+      "links": "92.50.134.78",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "xn----itbgkhnenp.xn--p1ai",
+      "links": "92.50.134.78",
       "type": "pdns",
       "ln": 2
     }
