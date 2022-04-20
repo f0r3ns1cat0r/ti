@@ -5383,6 +5383,12 @@
       "ln": 2
     },
     {
+      "host": "farbiotech.com",
+      "links": "162.144.23.247",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "fb-staging.doctolib.fr",
       "links": "73fc371a30c8a52fe3d8a1ca1a2485a46bd61527",
       "type": "certs",
@@ -6410,24 +6416,6 @@
     },
     {
       "host": "ijrer.org",
-      "links": "b85237f195b6119b9ce453937d83c2d763c21e21",
-      "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "imperva.com",
-      "links": "22c62cf246ecaa39e8e92e84dd82e03d68aff633",
-      "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "imperva.com",
-      "links": "4459504a51193b5fa1cfe2c370f59bc99528032f",
-      "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "imperva.com",
       "links": "b85237f195b6119b9ce453937d83c2d763c21e21",
       "type": "certs",
       "ln": 2
@@ -8505,12 +8493,6 @@
     {
       "host": "ns1.foodisforfuel.com",
       "links": "145.239.107.153",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns1.serverwealthyminds.com",
-      "links": "50.116.111.27",
       "type": "pdns",
       "ln": 2
     },

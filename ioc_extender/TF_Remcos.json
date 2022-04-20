@@ -386,7 +386,19 @@
     },
     {
       "host": "judyhus19.dvrlists.com",
+      "links": "185.19.85.141",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "judyhus19.dvrlists.com",
       "links": "79.134.225.32",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "legend4000.duckdns.org",
+      "links": "185.19.85.141",
       "type": "pdns",
       "ln": 2
     },

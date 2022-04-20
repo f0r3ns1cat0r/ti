@@ -181,12 +181,6 @@
       "ln": 2
     },
     {
-      "host": "dns1.rchosts.com",
-      "links": "51.89.50.153",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "freescanonline.com",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
@@ -352,12 +346,6 @@
       "host": "rchosts.com",
       "links": "3f5e56846b0be08f7ed728b19e78215f80a2cbb9",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "rchosts.com",
-      "links": "51.89.50.153",
-      "type": "pdns",
       "ln": 2
     },
     {

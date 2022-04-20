@@ -470,6 +470,12 @@
     },
     {
       "host": "jeliskvosh.com",
+      "links": "5885238b553f48c5f80ad6d877d1eb6cc49d6a74",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "jeliskvosh.com",
       "links": "9283361754dce8dc2b2afabc7b53164a591f6d70",
       "type": "certs",
       "ln": 2
@@ -544,6 +550,12 @@
       "host": "reseptors.com",
       "links": "185.193.125.27",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "reseptors.com",
+      "links": "5885238b553f48c5f80ad6d877d1eb6cc49d6a74",
+      "type": "certs",
       "ln": 2
     },
     {
