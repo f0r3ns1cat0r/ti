@@ -404,6 +404,12 @@
     },
     {
       "host": "christopherngai.com",
+      "links": "04f7ab2f16835ea385492a3c292e8d49483ffa5c",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "christopherngai.com",
       "links": "11ea60950f8a75227af0ae9db2c6a120dedfcef0",
       "type": "certs",
       "ln": 2
@@ -2218,6 +2224,12 @@
       "host": "www.chaytel.com",
       "links": "162.0.219.214",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.christopherngai.com",
+      "links": "04f7ab2f16835ea385492a3c292e8d49483ffa5c",
+      "type": "certs",
       "ln": 2
     },
     {
