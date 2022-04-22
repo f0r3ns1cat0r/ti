@@ -19,6 +19,30 @@
   ],
   "data": [
     {
+      "host": "16384-28637.bacloud.info",
+      "links": "213.252.244.60",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "210466-10002.clodo.ru",
+      "links": "62.76.189.81",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "229784-1.vm.clodoserver.ru",
+      "links": "62.76.189.81",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "57251.web.hosting-russia.ru",
+      "links": "194.147.115.74",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ThreatFox: Hancitor",
       "links": "cilidobas.com",
       "type": "z",
@@ -44,6 +68,12 @@
     },
     {
       "host": "ThreatFox: Hancitor",
+      "links": "otedsalon.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Hancitor",
       "links": "requirend.com",
       "type": "z",
       "ln": 2
@@ -57,6 +87,12 @@
     {
       "host": "ThreatFox: Hancitor",
       "links": "trictuatiove.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Hancitor",
+      "links": "vidompleury.com",
       "type": "z",
       "ln": 2
     },
@@ -115,6 +151,12 @@
       "ln": 2
     },
     {
+      "host": "otedsalon.com",
+      "links": "62.76.189.81",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "requirend.com",
       "links": "4f673ded714f66cf26ce54cb99e63efba59aee7a",
       "type": "certs",
@@ -124,6 +166,12 @@
       "host": "requirend.com",
       "links": "8d132119304bd682419c4033440ea884e5fb9122",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "scontesvis.com",
+      "links": "85.10.222.114",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -157,9 +205,21 @@
       "ln": 2
     },
     {
+      "host": "vidompleury.com",
+      "links": "213.252.244.60",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "weshopp.co.uk",
       "links": "4f673ded714f66cf26ce54cb99e63efba59aee7a",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.idei-dh.ru",
+      "links": "37.230.112.249",
+      "type": "pdns",
       "ln": 2
     },
     {

@@ -25,6 +25,9 @@
       "name": "TF_BazarBackdoor"
     },
     {
+      "name": "TF_BetaBot"
+    },
+    {
       "name": "TF_BillGates"
     },
     {
@@ -43,9 +46,6 @@
       "name": "TF_Cobalt Strike"
     },
     {
-      "name": "TF_Coinminer"
-    },
-    {
       "name": "TF_CryptBot"
     },
     {
@@ -53,6 +53,9 @@
     },
     {
       "name": "TF_Emotet"
+    },
+    {
+      "name": "TF_Ficker Stealer"
     },
     {
       "name": "TF_FluBot"
@@ -121,6 +124,9 @@
       "name": "TF_Remcos"
     },
     {
+      "name": "TF_Roaming Mantis"
+    },
+    {
       "name": "TF_STOP"
     },
     {
@@ -133,13 +139,22 @@
       "name": "TF_SmokeLoader"
     },
     {
+      "name": "TF_SystemBC"
+    },
+    {
       "name": "TF_Tofsee"
     },
     {
       "name": "TF_TrickBot"
     },
     {
+      "name": "TF_Tsunami"
+    },
+    {
       "name": "TF_Unknown malware"
+    },
+    {
+      "name": "TF_Venom RAT"
     },
     {
       "name": "TF_Vidar"

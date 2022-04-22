@@ -19,8 +19,20 @@
   ],
   "data": [
     {
+      "host": "169-239-128-11.cprapid.com",
+      "links": "169.239.128.11",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "HP Threat Research: TA505",
       "links": "diarromonico.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "HP Threat Research: TA505",
+      "links": "feristoaul.com",
       "type": "z",
       "ln": 2
     },
@@ -79,6 +91,12 @@
       "ln": 2
     },
     {
+      "host": "dc-1f523edf8254.sekam.co",
+      "links": "51.195.150.10",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "deutschebank-helpdesk.eu",
       "links": "730cdea95c02319289ee20b9b4e8b694e13d1d39",
       "type": "certs",
@@ -94,6 +112,18 @@
       "host": "digionlinebeheer.us",
       "links": "5511745394ac8ab9de8f97f35553f4be03d0a6d4",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "feristoaul.com",
+      "links": "46.161.40.172",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "fidufagios.com",
+      "links": "169.239.128.11",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -157,6 +187,18 @@
       "ln": 2
     },
     {
+      "host": "mail.sekam.co",
+      "links": "51.195.150.10",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "root.feristoaul.com",
+      "links": "46.161.40.172",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "routinecmmrz.xyz",
       "links": "4a5e60fdbd240c4dfaacacca0c453f1554a1c045",
       "type": "certs",
@@ -165,6 +207,18 @@
     {
       "host": "vps-48feb325.vps.ovh.net",
       "links": "51.195.150.10",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "webmail.sekam.co",
+      "links": "51.195.150.10",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "webnotifier.net",
+      "links": "185.225.19.136",
       "type": "pdns",
       "ln": 2
     },
@@ -178,6 +232,12 @@
       "host": "webnotifier.net",
       "links": "6eaeb3bc61130f8edf3eb9bb8b5705f583c354fd",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.169-239-128-11.cprapid.com",
+      "links": "169.239.128.11",
+      "type": "pdns",
       "ln": 2
     },
     {

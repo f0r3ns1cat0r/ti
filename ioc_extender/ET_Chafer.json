@@ -19,12 +19,36 @@
   ],
   "data": [
     {
+      "host": "30.ip-51-68-136.eu",
+      "links": "51.68.136.30",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ET Trojan: Chafer",
       "links": "sabre-airlinesolutions.com",
       "type": "z",
       "ln": 2
     },
     {
+      "host": "hostmaster.mycrossweb.com",
+      "links": "51.68.136.30",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hostmaster.sabre-airlinesolutions.com",
+      "links": "51.68.136.30",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hostmaster.saveingone.com",
+      "links": "51.68.136.30",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "junisszczucin.ml",
       "links": "08597f9f55ed5a402f2bc27a3e22555f263bc92f",
       "type": "certs",
@@ -40,6 +64,12 @@
       "host": "junisszczucin.ml",
       "links": "41ceda2db46fd5637cd2a15274ef6569b7a31b67",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "junisszczucin.ml",
+      "links": "51.68.136.30",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -79,6 +109,78 @@
       "ln": 2
     },
     {
+      "host": "ns1.mycrossweb.com",
+      "links": "51.68.136.30",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.sabre-airlinesolutions.com",
+      "links": "51.68.136.30",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.saveingone.com",
+      "links": "51.68.136.30",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.mycrossweb.com",
+      "links": "51.68.136.30",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.sabre-airlinesolutions.com",
+      "links": "51.68.136.30",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.saveingone.com",
+      "links": "51.68.136.30",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns3.mycrossweb.com",
+      "links": "51.68.136.30",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns3.sabre-airlinesolutions.com",
+      "links": "51.68.136.30",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns3.saveingone.com",
+      "links": "51.68.136.30",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns4.mycrossweb.com",
+      "links": "51.68.136.30",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns4.sabre-airlinesolutions.com",
+      "links": "51.68.136.30",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns4.saveingone.com",
+      "links": "51.68.136.30",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "sabre-airlinesolutions.com",
       "links": "08597f9f55ed5a402f2bc27a3e22555f263bc92f",
       "type": "certs",
@@ -109,6 +211,12 @@
       "ln": 2
     },
     {
+      "host": "saveingone.com",
+      "links": "51.68.136.30",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "www.junisszczucin.ml",
       "links": "08597f9f55ed5a402f2bc27a3e22555f263bc92f",
       "type": "certs",
@@ -124,6 +232,12 @@
       "host": "www.junisszczucin.ml",
       "links": "41ceda2db46fd5637cd2a15274ef6569b7a31b67",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.junisszczucin.ml",
+      "links": "51.68.136.30",
+      "type": "pdns",
       "ln": 2
     },
     {

@@ -20,7 +20,19 @@
   "data": [
     {
       "host": "3laallah.myvnc.com",
+      "links": "179.43.166.50",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "3laallah.myvnc.com",
       "links": "198.244.206.23",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "3laallah.myvnc.com",
+      "links": "51.89.253.23",
       "type": "pdns",
       "ln": 2
     },
@@ -67,12 +79,6 @@
       "ln": 2
     },
     {
-      "host": "ThreatFox: AsyncRAT",
-      "links": "zerocool888.duckdns.org",
-      "type": "z",
-      "ln": 2
-    },
-    {
       "host": "agnus.app",
       "links": "021cc80a118caa47313ca16a59d8e7b6787df70b",
       "type": "certs",
@@ -82,6 +88,36 @@
       "host": "ahmedhasan-43601.portmap.host",
       "links": "de23e3ce838f2334ffeabac6b29a59d49c4f90a7",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "aliveafterguard.fun",
+      "links": "179.43.166.50",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "aliveafterguard.icu",
+      "links": "179.43.166.50",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "aliveafterguard.space",
+      "links": "179.43.166.50",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "aliveafterguard.tech",
+      "links": "179.43.166.50",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "aliveafterguard.website",
+      "links": "179.43.166.50",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -301,6 +337,12 @@
       "ln": 2
     },
     {
+      "host": "ip23.ip-51-89-253.eu",
+      "links": "51.89.253.23",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "jackbiceps.com",
       "links": "021cc80a118caa47313ca16a59d8e7b6787df70b",
       "type": "certs",
@@ -481,14 +523,38 @@
       "ln": 2
     },
     {
-      "host": "tsklloops.ddns.net",
-      "links": "172.83.152.126",
+      "host": "twistednerd.dvrlists.com",
+      "links": "91.193.75.239",
       "type": "pdns",
       "ln": 2
     },
     {
-      "host": "twistednerd.dvrlists.com",
-      "links": "91.193.75.239",
+      "host": "www.aliveafterguard.fun",
+      "links": "179.43.166.50",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.aliveafterguard.icu",
+      "links": "179.43.166.50",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.aliveafterguard.space",
+      "links": "179.43.166.50",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.aliveafterguard.tech",
+      "links": "179.43.166.50",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.aliveafterguard.website",
+      "links": "179.43.166.50",
       "type": "pdns",
       "ln": 2
     },
@@ -508,12 +574,6 @@
       "host": "zeldorispiety-50433.portmap.host",
       "links": "de23e3ce838f2334ffeabac6b29a59d49c4f90a7",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "zerocool888.duckdns.org",
-      "links": "172.83.152.126",
-      "type": "pdns",
       "ln": 2
     }
   ]

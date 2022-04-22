@@ -26,6 +26,12 @@
     },
     {
       "host": "ThreatFox: Ave Maria",
+      "links": "blaq.nerdpol.ovh",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Ave Maria",
       "links": "darkworldblackerlocker.dumb1.com",
       "type": "z",
       "ln": 2
@@ -75,6 +81,12 @@
     {
       "host": "bakuzamokala.duckdns.org",
       "links": "65.108.68.54",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "blaq.nerdpol.ovh",
+      "links": "213.152.161.211",
       "type": "pdns",
       "ln": 2
     },
@@ -338,6 +350,12 @@
     },
     {
       "host": "iphanyi.webredirect.org",
+      "links": "150.242.14.61",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iphanyi.webredirect.org",
       "links": "185.140.53.134",
       "type": "pdns",
       "ln": 2
@@ -421,6 +439,18 @@
       "ln": 2
     },
     {
+      "host": "joeconsbeachresort.rapidns.com",
+      "links": "150.242.14.61",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "joeconsmarine.com",
+      "links": "150.242.14.61",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "lockerrollercooller.mywire.org",
       "links": "198.46.132.206",
       "type": "pdns",
@@ -465,6 +495,12 @@
     {
       "host": "takertltd.com",
       "links": "185.140.53.73",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "tesdns.airdns.org",
+      "links": "213.152.161.211",
       "type": "pdns",
       "ln": 2
     },

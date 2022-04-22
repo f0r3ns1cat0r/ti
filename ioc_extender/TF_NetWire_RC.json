@@ -19,6 +19,18 @@
   ],
   "data": [
     {
+      "host": "184-105-237-196.sinkhole.shadowserver.org",
+      "links": "184.105.237.196",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "217-64-149-171.pool.ovpn.com",
+      "links": "217.64.149.171",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ThreatFox: NetWire RC",
       "links": "info1.dynamic-dns.net",
       "type": "z",
@@ -39,6 +51,12 @@
     {
       "host": "boysgoblow.hopto.org",
       "links": "91.193.75.132",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "email.vg-energy.com",
+      "links": "184.105.237.196",
       "type": "pdns",
       "ln": 2
     },
@@ -361,6 +379,18 @@
       "ln": 2
     },
     {
+      "host": "mta-sts.email.vg-energy.com",
+      "links": "184.105.237.196",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mx.vg-energy.com",
+      "links": "184.105.237.196",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "nanopc.linkpc.net",
       "links": "185.192.69.136",
       "type": "pdns",
@@ -369,6 +399,12 @@
     {
       "host": "netwire.linkpc.net",
       "links": "185.192.69.136",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "netwire.linkpc.net",
+      "links": "217.64.149.171",
       "type": "pdns",
       "ln": 2
     },
@@ -387,6 +423,12 @@
     {
       "host": "shiestynerd.dvrlists.com",
       "links": "91.193.75.222",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "vg-energy.com",
+      "links": "184.105.237.196",
       "type": "pdns",
       "ln": 2
     },

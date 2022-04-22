@@ -19,9 +19,27 @@
   ],
   "data": [
     {
+      "host": "391531.msk-ovz.ru",
+      "links": "31.148.99.170",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "791service.ru",
       "links": "b367556a24630fe7cf4cd07c0398a72b07e3b6e6",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Gozi",
+      "links": "bizneswow.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Gozi",
+      "links": "drazbargura.xyz",
+      "type": "z",
       "ln": 2
     },
     {
@@ -49,6 +67,18 @@
       "ln": 2
     },
     {
+      "host": "admin.drazbargura.xyz",
+      "links": "185.186.247.42",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "admin.pumolenory.xyz",
+      "links": "185.186.247.42",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "arasinhayerto-zero.ru",
       "links": "45.130.151.193",
       "type": "pdns",
@@ -73,6 +103,12 @@
       "ln": 2
     },
     {
+      "host": "bizneswow.com",
+      "links": "193.56.255.176",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "book13riches.ru",
       "links": "b367556a24630fe7cf4cd07c0398a72b07e3b6e6",
       "type": "certs",
@@ -94,6 +130,12 @@
       "host": "dobrozaim-lichnyj-kabinet.ru",
       "links": "b367556a24630fe7cf4cd07c0398a72b07e3b6e6",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "drazbargura.xyz",
+      "links": "185.186.247.42",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -127,9 +169,33 @@
       "ln": 2
     },
     {
+      "host": "iconbuild.online",
+      "links": "162.0.213.149",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "inbiz-cons.com",
+      "links": "162.0.213.149",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "inbiz-cons.com",
       "links": "ab606e8fb65ca36acf275098818ef1a688e36d14",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.drazbargura.xyz",
+      "links": "185.186.247.42",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.pumolenory.xyz",
+      "links": "185.186.247.42",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -175,6 +241,12 @@
       "ln": 2
     },
     {
+      "host": "pumolenory.xyz",
+      "links": "185.186.247.42",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "review-cashback.ru",
       "links": "b367556a24630fe7cf4cd07c0398a72b07e3b6e6",
       "type": "certs",
@@ -199,6 +271,12 @@
       "ln": 2
     },
     {
+      "host": "staticjv.gnscbn.com",
+      "links": "193.56.255.176",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "stolnik58.ru",
       "links": "743a3b269bed3112ada96de119bc6972d1317736",
       "type": "certs",
@@ -208,6 +286,12 @@
       "host": "stratosferiss.ru",
       "links": "07f4b7361855de185f6514af1e5bbd7348e2e00b",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "stratosferiss.ru",
+      "links": "31.148.99.170",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -244,6 +328,12 @@
       "host": "tranzlo.ru",
       "links": "480a095bdcccd1afc6bfbd3150c116282f79f00a",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "vpn-update.info",
+      "links": "162.0.213.149",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -286,6 +376,12 @@
       "host": "www.expired.maxname.ru",
       "links": "b367556a24630fe7cf4cd07c0398a72b07e3b6e6",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.gnscbn.com",
+      "links": "193.56.255.176",
+      "type": "pdns",
       "ln": 2
     },
     {

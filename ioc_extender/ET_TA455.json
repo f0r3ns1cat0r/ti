@@ -1,0 +1,40 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ET Trojan: TA455",
+      "links": "librarycollection.org",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ip30.ip-147-135-116.us",
+      "links": "147.135.116.30",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "librarycollection.org",
+      "links": "147.135.116.30",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

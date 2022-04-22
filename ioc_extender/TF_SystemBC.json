@@ -32,6 +32,12 @@
     },
     {
       "host": "mainscpnl.xyz",
+      "links": "46.30.42.17",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mainscpnl.xyz",
       "links": "5.61.62.144",
       "type": "pdns",
       "ln": 2
@@ -39,6 +45,12 @@
     {
       "host": "nem4tst.xyz",
       "links": "5.61.62.144",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "vm495820.eurodir.ru",
+      "links": "46.30.42.17",
       "type": "pdns",
       "ln": 2
     }

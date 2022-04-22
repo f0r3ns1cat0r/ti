@@ -19,6 +19,18 @@
   ],
   "data": [
     {
+      "host": "178-21-11-77.ovz.vps.regruhosting.ru",
+      "links": "178.21.11.77",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "178-21-11-77.xen.vps.regruhosting.ru",
+      "links": "178.21.11.77",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "194-58-108-89.cloudvps.regruhosting.ru",
       "links": "4bf0cdf06b9fdd8506d182c67285ff961b600db3",
       "type": "certs",
@@ -391,6 +403,12 @@
       "ln": 2
     },
     {
+      "host": "banya.user2140.ru",
+      "links": "178.21.11.77",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "barionnyjzaryad.ru",
       "links": "193.124.18.128",
       "type": "pdns",
@@ -573,6 +591,12 @@
     {
       "host": "lkjhgfgsdshja.com",
       "links": "52.160.149.86",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.z-mail.site",
+      "links": "178.21.11.77",
       "type": "pdns",
       "ln": 2
     },
@@ -892,6 +916,12 @@
       "host": "yomcidiobjacfxfstpkj.com",
       "links": "4bf0cdf06b9fdd8506d182c67285ff961b600db3",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "z-mail.site",
+      "links": "178.21.11.77",
+      "type": "pdns",
       "ln": 2
     },
     {

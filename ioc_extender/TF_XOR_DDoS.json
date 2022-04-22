@@ -20,8 +20,26 @@
   "data": [
     {
       "host": "ThreatFox: XOR DDoS",
+      "links": "aa369369.f3322.org",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: XOR DDoS",
       "links": "www.myserv012.com",
       "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "aa369369.f3322.org",
+      "links": "96.43.105.68",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "wonderfireworks.net",
+      "links": "96.43.105.68",
+      "type": "pdns",
       "ln": 2
     },
     {
