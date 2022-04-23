@@ -572,6 +572,12 @@
     },
     {
       "host": "jeliskvosh.com",
+      "links": "144.217.60.34",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "jeliskvosh.com",
       "links": "164.90.204.224",
       "type": "pdns",
       "ln": 2
@@ -704,6 +710,12 @@
     },
     {
       "host": "reseptors.com",
+      "links": "144.217.60.34",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "reseptors.com",
       "links": "164.90.204.224",
       "type": "pdns",
       "ln": 2
@@ -825,6 +837,12 @@
     {
       "host": "stagramads.top",
       "links": "159.89.171.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "vopnoz.com",
+      "links": "144.217.60.34",
       "type": "pdns",
       "ln": 2
     },

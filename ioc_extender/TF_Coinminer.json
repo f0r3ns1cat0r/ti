@@ -25,6 +25,54 @@
       "ln": 2
     },
     {
+      "host": "de.minexmr.com",
+      "links": "136.243.49.177",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "de.minexmr.com",
+      "links": "94.130.164.163",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "de.minexmr.com",
+      "links": "94.130.165.85",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "de.minexmr.com",
+      "links": "94.130.165.87",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "de72.minexmr.com",
+      "links": "94.130.165.87",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "de73.minexmr.com",
+      "links": "94.130.165.85",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "de74.minexmr.com",
+      "links": "94.130.164.163",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "de75.minexmr.com",
+      "links": "136.243.49.177",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "fr.minexmr.com",
       "links": "178.32.120.127",
       "type": "pdns",
@@ -49,6 +97,66 @@
       "ln": 2
     },
     {
+      "host": "fr11.minexmr.com",
+      "links": "51.68.21.186",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "fr12.minexmr.com",
+      "links": "51.68.21.188",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "fr13.minexmr.com",
+      "links": "51.254.84.37",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "fr14.minexmr.com",
+      "links": "178.32.120.127",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ip127.ip-178-32-120.eu",
+      "links": "178.32.120.127",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ip186.ip-51-68-21.eu",
+      "links": "51.68.21.186",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ip188.ip-51-68-21.eu",
+      "links": "51.68.21.188",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ip37.ip-51-254-84.eu",
+      "links": "51.254.84.37",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "pl.webdirecti.com",
+      "links": "51.254.84.37",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "pool.minexmr.com",
+      "links": "136.243.49.177",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "pool.minexmr.com",
       "links": "178.32.120.127",
       "type": "pdns",
@@ -73,6 +181,24 @@
       "ln": 2
     },
     {
+      "host": "pool.minexmr.com",
+      "links": "94.130.164.163",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "pool.minexmr.com",
+      "links": "94.130.165.85",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "pool.minexmr.com",
+      "links": "94.130.165.87",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "pool.minexmr.uk",
       "links": "178.32.120.127",
       "type": "pdns",
@@ -93,6 +219,24 @@
     {
       "host": "pool.minexmr.uk",
       "links": "51.68.21.188",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "pool.minexmr.uk",
+      "links": "94.130.164.163",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "pool.minexmr.uk",
+      "links": "94.130.165.85",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "pool.minexmr.uk",
+      "links": "94.130.165.87",
       "type": "pdns",
       "ln": 2
     }

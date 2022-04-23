@@ -1724,12 +1724,6 @@
     },
     {
       "host": "amogohuigotuli.at",
-      "links": "109.102.255.230",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "amogohuigotuli.at",
       "links": "109.98.58.98",
       "type": "pdns",
       "ln": 2
@@ -1898,12 +1892,6 @@
     },
     {
       "host": "amogohuigotuli.at",
-      "links": "189.165.13.241",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "amogohuigotuli.at",
       "links": "189.225.195.118",
       "type": "pdns",
       "ln": 2
@@ -1923,12 +1911,6 @@
     {
       "host": "amogohuigotuli.at",
       "links": "196.200.111.5",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "amogohuigotuli.at",
-      "links": "197.44.54.172",
       "type": "pdns",
       "ln": 2
     },
@@ -1995,12 +1977,6 @@
     {
       "host": "amogohuigotuli.at",
       "links": "222.236.49.124",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "amogohuigotuli.at",
-      "links": "37.34.176.37",
       "type": "pdns",
       "ln": 2
     },
@@ -4748,12 +4724,6 @@
     },
     {
       "host": "nahbleiben.at",
-      "links": "110.14.121.125",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "nahbleiben.at",
       "links": "115.88.24.202",
       "type": "pdns",
       "ln": 2
@@ -4808,12 +4778,6 @@
     },
     {
       "host": "nahbleiben.at",
-      "links": "180.69.193.102",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "nahbleiben.at",
       "links": "183.100.39.157",
       "type": "pdns",
       "ln": 2
@@ -4863,12 +4827,6 @@
     {
       "host": "nahbleiben.at",
       "links": "189.129.113.216",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "nahbleiben.at",
-      "links": "189.165.13.241",
       "type": "pdns",
       "ln": 2
     },
@@ -5007,12 +4965,6 @@
     {
       "host": "ns1.logformhop1.org",
       "links": "186.188.224.208",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns1.logformhop1.org",
-      "links": "189.165.13.241",
       "type": "pdns",
       "ln": 2
     },
@@ -5408,6 +5360,12 @@
     },
     {
       "host": "privacy-tools-for-you-800.com",
+      "links": "35.238.161.88",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "privacy-tools-for-you-900.com",
       "links": "35.238.161.88",
       "type": "pdns",
       "ln": 2

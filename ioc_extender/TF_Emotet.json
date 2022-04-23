@@ -1460,6 +1460,12 @@
     },
     {
       "host": "krezolgroup.com",
+      "links": "188.43.2.245",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "krezolgroup.com",
       "links": "188.43.202.85",
       "type": "pdns",
       "ln": 2

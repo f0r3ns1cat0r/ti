@@ -2354,6 +2354,12 @@
     },
     {
       "host": "jeliskvosh.com",
+      "links": "144.217.60.34",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "jeliskvosh.com",
       "links": "164.90.204.224",
       "type": "pdns",
       "ln": 2
@@ -3302,6 +3308,12 @@
     },
     {
       "host": "reseptors.com",
+      "links": "144.217.60.34",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "reseptors.com",
       "links": "164.90.204.224",
       "type": "pdns",
       "ln": 2
@@ -3706,6 +3718,12 @@
       "host": "volincon.top",
       "links": "2b70d739719e33d402c3aa1fe2fb47f98f0890ee",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "vopnoz.com",
+      "links": "144.217.60.34",
+      "type": "pdns",
       "ln": 2
     },
     {

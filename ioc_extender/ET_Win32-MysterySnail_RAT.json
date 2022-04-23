@@ -19,9 +19,63 @@
   ],
   "data": [
     {
+      "host": "8888.google",
+      "links": "666691373d3849bc59d6bba22cf5ab844b086171",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "ET Trojan: Win32-MysterySnail RAT",
       "links": "http.ddspadus.com",
       "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "adobeautoupdate.dns1.us",
+      "links": "666691373d3849bc59d6bba22cf5ab844b086171",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "adobeupdate.ddns.info",
+      "links": "666691373d3849bc59d6bba22cf5ab844b086171",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "adobeupdate.dns2.us",
+      "links": "666691373d3849bc59d6bba22cf5ab844b086171",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "authormc.dubya.info",
+      "links": "666691373d3849bc59d6bba22cf5ab844b086171",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "chmowd.xyz",
+      "links": "666691373d3849bc59d6bba22cf5ab844b086171",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "dns64.dns.google",
+      "links": "666691373d3849bc59d6bba22cf5ab844b086171",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "gazprombank.com.ru",
+      "links": "666691373d3849bc59d6bba22cf5ab844b086171",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "http.ddspadus.com",
+      "links": "666691373d3849bc59d6bba22cf5ab844b086171",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -31,9 +85,57 @@
       "ln": 2
     },
     {
+      "host": "info.kashaservice.com",
+      "links": "666691373d3849bc59d6bba22cf5ab844b086171",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "intelupdate.dns1.us",
+      "links": "666691373d3849bc59d6bba22cf5ab844b086171",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.dmailnas.com",
+      "links": "666691373d3849bc59d6bba22cf5ab844b086171",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "mail.dmailnas.com",
       "links": "92.38.135.167",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "office.dns04.com",
+      "links": "666691373d3849bc59d6bba22cf5ab844b086171",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "pokersonic.publicvm.com",
+      "links": "666691373d3849bc59d6bba22cf5ab844b086171",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "vpnkerio.com",
+      "links": "666691373d3849bc59d6bba22cf5ab844b086171",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "word.azureword.com",
+      "links": "666691373d3849bc59d6bba22cf5ab844b086171",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "yahaaq.trickip.net",
+      "links": "666691373d3849bc59d6bba22cf5ab844b086171",
+      "type": "certs",
       "ln": 2
     }
   ]
