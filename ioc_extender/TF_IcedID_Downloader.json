@@ -164,12 +164,6 @@
     },
     {
       "host": "anz-confirm.com",
-      "links": "5.181.80.14",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "anz-confirm.com",
       "links": "5790ae30d9e055c8c8ca0e3aa25e2dddcd828405",
       "type": "certs",
       "ln": 2
@@ -596,6 +590,12 @@
     },
     {
       "host": "jeliskvosh.com",
+      "links": "68c4410aac3c0d69024d3ad868a94a1b98e2b43c",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "jeliskvosh.com",
       "links": "9283361754dce8dc2b2afabc7b53164a591f6d70",
       "type": "certs",
       "ln": 2
@@ -662,12 +662,6 @@
     },
     {
       "host": "normyils.com",
-      "links": "5.181.80.14",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "normyils.com",
       "links": "51.89.115.112",
       "type": "pdns",
       "ln": 2
@@ -729,6 +723,12 @@
     {
       "host": "reseptors.com",
       "links": "5885238b553f48c5f80ad6d877d1eb6cc49d6a74",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "reseptors.com",
+      "links": "68c4410aac3c0d69024d3ad868a94a1b98e2b43c",
       "type": "certs",
       "ln": 2
     },
@@ -867,6 +867,12 @@
     {
       "host": "vopnoz.com",
       "links": "5885238b553f48c5f80ad6d877d1eb6cc49d6a74",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "vopnoz.com",
+      "links": "68c4410aac3c0d69024d3ad868a94a1b98e2b43c",
       "type": "certs",
       "ln": 2
     },

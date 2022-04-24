@@ -68,6 +68,12 @@
     },
     {
       "host": "ethdns.mywire.org",
+      "links": "18a9cc2e4da5d763ba8e11c05d93c3ca82b3a6be",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "ethdns.mywire.org",
       "links": "38c656592a0e99fb501902f520442a9a394f8f0f",
       "type": "certs",
       "ln": 2
@@ -106,6 +112,12 @@
       "host": "hotspot.accesscam.org",
       "links": "185.162.8.12",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hotspot.accesscam.org",
+      "links": "18a9cc2e4da5d763ba8e11c05d93c3ca82b3a6be",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -171,6 +183,12 @@
     {
       "host": "xxruxx.com",
       "links": "10bd960c9e133156e904ab65e7bff3df1e1c8fc1",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "xxruxx.com",
+      "links": "18a9cc2e4da5d763ba8e11c05d93c3ca82b3a6be",
       "type": "certs",
       "ln": 2
     },
