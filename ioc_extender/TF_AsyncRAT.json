@@ -188,6 +188,12 @@
     },
     {
       "host": "crazydns.linkpc.net",
+      "links": "91.193.75.189",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "crazydns.linkpc.net",
       "links": "91.193.75.239",
       "type": "pdns",
       "ln": 2
@@ -478,6 +484,12 @@
       "host": "realfive5-49318.portmap.host",
       "links": "de23e3ce838f2334ffeabac6b29a59d49c4f90a7",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "rick63.publicvm.com",
+      "links": "91.193.75.189",
+      "type": "pdns",
       "ln": 2
     },
     {

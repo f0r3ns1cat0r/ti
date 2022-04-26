@@ -92,12 +92,6 @@
     },
     {
       "host": "eonsabode.at",
-      "links": "141.8.193.150",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "eonsabode.at",
       "links": "185.105.91.24",
       "type": "pdns",
       "ln": 2
@@ -296,12 +290,6 @@
     },
     {
       "host": "supermakler-logowanie.org",
-      "links": "141.8.193.150",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "supermakler-logowanie.org",
       "links": "185.105.91.24",
       "type": "pdns",
       "ln": 2
@@ -369,12 +357,6 @@
     {
       "host": "www.sravni-cardb.ru",
       "links": "185.105.91.24",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.supermakler-logowanie.org",
-      "links": "141.8.193.150",
       "type": "pdns",
       "ln": 2
     }

@@ -284,6 +284,12 @@
     },
     {
       "host": "ThreatFox: IcedID",
+      "links": "holniakea.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: IcedID",
       "links": "huavertion.bond",
       "type": "z",
       "ln": 2
@@ -526,6 +532,12 @@
       "host": "additionalsupport.fun",
       "links": "164.92.214.108",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "agsdef.com",
+      "links": "f86e0d9cb936ce75d2ee7e0fbdbd07ab2d42ec3b",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -2248,6 +2260,12 @@
       "host": "holit.top",
       "links": "115.126.21.5",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "holniakea.com",
+      "links": "f86e0d9cb936ce75d2ee7e0fbdbd07ab2d42ec3b",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -4107,6 +4125,12 @@
     {
       "host": "whoisthisa.site",
       "links": "5a54cc4137ea3f95cebc13b53c94e5fa439f2f1c",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.agsdef.com",
+      "links": "f86e0d9cb936ce75d2ee7e0fbdbd07ab2d42ec3b",
       "type": "certs",
       "ln": 2
     },
