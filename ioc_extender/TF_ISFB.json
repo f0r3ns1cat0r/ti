@@ -326,12 +326,6 @@
     },
     {
       "host": "abpa.at",
-      "links": "118.33.109.122",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "abpa.at",
       "links": "138.36.3.134",
       "type": "pdns",
       "ln": 2
@@ -369,18 +363,6 @@
     {
       "host": "abpa.at",
       "links": "197.44.54.172",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "abpa.at",
-      "links": "210.92.250.133",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "abpa.at",
-      "links": "211.171.233.127",
       "type": "pdns",
       "ln": 2
     },
@@ -446,12 +428,6 @@
     },
     {
       "host": "admin.admin.admin.admin.admin.www.union-shop.at",
-      "links": "210.92.250.133",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.admin.admin.admin.www.union-shop.at",
       "links": "58.124.228.242",
       "type": "pdns",
       "ln": 2
@@ -459,12 +435,6 @@
     {
       "host": "admin.admin.admin.admin.hostmaster.omerta.cc",
       "links": "116.121.62.237",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.admin.admin.hostmaster.omerta.cc",
-      "links": "178.31.236.98",
       "type": "pdns",
       "ln": 2
     },
@@ -489,12 +459,6 @@
     {
       "host": "admin.admin.admin.admin.hostmaster.omerta.cc",
       "links": "220.125.1.129",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.admin.admin.hostmaster.omerta.cc",
-      "links": "61.36.14.230",
       "type": "pdns",
       "ln": 2
     },
@@ -596,12 +560,6 @@
     },
     {
       "host": "admin.admin.admin.cvv-union.at",
-      "links": "115.88.24.203",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.admin.cvv-union.at",
       "links": "116.58.10.58",
       "type": "pdns",
       "ln": 2
@@ -609,12 +567,6 @@
     {
       "host": "admin.admin.admin.cvv-union.at",
       "links": "197.44.54.172",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.admin.cvv-union.at",
-      "links": "210.92.250.133",
       "type": "pdns",
       "ln": 2
     },
@@ -633,12 +585,6 @@
     {
       "host": "admin.admin.admin.fraudlabpros.at",
       "links": "121.136.102.4",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.admin.fraudlabpros.at",
-      "links": "178.31.236.98",
       "type": "pdns",
       "ln": 2
     },
@@ -734,12 +680,6 @@
     },
     {
       "host": "admin.admin.cvv-union.at",
-      "links": "115.88.24.203",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.cvv-union.at",
       "links": "116.58.10.58",
       "type": "pdns",
       "ln": 2
@@ -747,12 +687,6 @@
     {
       "host": "admin.admin.cvv-union.at",
       "links": "197.44.54.172",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.cvv-union.at",
-      "links": "210.92.250.133",
       "type": "pdns",
       "ln": 2
     },
@@ -908,12 +842,6 @@
     },
     {
       "host": "admin.admin.www.omerta.cc",
-      "links": "178.31.236.98",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.www.omerta.cc",
       "links": "183.100.39.157",
       "type": "pdns",
       "ln": 2
@@ -933,12 +861,6 @@
     {
       "host": "admin.admin.www.omerta.cc",
       "links": "220.125.1.129",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.www.omerta.cc",
-      "links": "61.36.14.230",
       "type": "pdns",
       "ln": 2
     },
@@ -987,12 +909,6 @@
     {
       "host": "admin.admin.www.union-shop.at",
       "links": "197.44.54.172",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.admin.www.union-shop.at",
-      "links": "210.92.250.133",
       "type": "pdns",
       "ln": 2
     },
@@ -1022,12 +938,6 @@
     },
     {
       "host": "admin.cvv-union.at",
-      "links": "118.33.109.122",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.cvv-union.at",
       "links": "148.0.74.229",
       "type": "pdns",
       "ln": 2
@@ -1041,12 +951,6 @@
     {
       "host": "admin.fraudlabpros.at",
       "links": "121.136.102.4",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.fraudlabpros.at",
-      "links": "178.31.236.98",
       "type": "pdns",
       "ln": 2
     },
@@ -1124,12 +1028,6 @@
     },
     {
       "host": "admin.piologhesfin.org",
-      "links": "118.33.109.122",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.piologhesfin.org",
       "links": "183.100.39.157",
       "type": "pdns",
       "ln": 2
@@ -1173,12 +1071,6 @@
     {
       "host": "admin.union-shop.at",
       "links": "197.44.54.172",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "admin.union-shop.at",
-      "links": "210.92.250.133",
       "type": "pdns",
       "ln": 2
     },
@@ -1286,12 +1178,6 @@
     },
     {
       "host": "algrcabel.ru",
-      "links": "118.33.109.122",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "algrcabel.ru",
       "links": "138.36.3.134",
       "type": "pdns",
       "ln": 2
@@ -1311,12 +1197,6 @@
     {
       "host": "algrcabel.ru",
       "links": "203.228.9.102",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "algrcabel.ru",
-      "links": "210.92.250.133",
       "type": "pdns",
       "ln": 2
     },
@@ -1358,12 +1238,6 @@
     },
     {
       "host": "amogohuigotuli.at",
-      "links": "115.88.24.203",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "amogohuigotuli.at",
       "links": "115.91.217.231",
       "type": "pdns",
       "ln": 2
@@ -1371,12 +1245,6 @@
     {
       "host": "amogohuigotuli.at",
       "links": "116.121.62.237",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "amogohuigotuli.at",
-      "links": "118.33.109.122",
       "type": "pdns",
       "ln": 2
     },
@@ -1400,19 +1268,7 @@
     },
     {
       "host": "amogohuigotuli.at",
-      "links": "151.251.30.69",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "amogohuigotuli.at",
       "links": "175.119.10.231",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "amogohuigotuli.at",
-      "links": "178.31.236.98",
       "type": "pdns",
       "ln": 2
     },
@@ -1430,19 +1286,7 @@
     },
     {
       "host": "amogohuigotuli.at",
-      "links": "187.212.179.214",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "amogohuigotuli.at",
       "links": "190.140.74.43",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "amogohuigotuli.at",
-      "links": "210.92.250.133",
       "type": "pdns",
       "ln": 2
     },
@@ -1455,12 +1299,6 @@
     {
       "host": "amogohuigotuli.at",
       "links": "211.171.233.126",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "amogohuigotuli.at",
-      "links": "211.171.233.127",
       "type": "pdns",
       "ln": 2
     },
@@ -1514,12 +1352,6 @@
     },
     {
       "host": "amogohuigotuli.at",
-      "links": "61.36.14.230",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "amogohuigotuli.at",
       "links": "61.98.7.132",
       "type": "pdns",
       "ln": 2
@@ -1527,12 +1359,6 @@
     {
       "host": "amogohuigotuli.at",
       "links": "84.40.106.91",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "amogohuigotuli.at",
-      "links": "91.203.174.38",
       "type": "pdns",
       "ln": 2
     },
@@ -1742,12 +1568,6 @@
     },
     {
       "host": "blablasoft12.net",
-      "links": "115.88.24.203",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "blablasoft12.net",
       "links": "116.58.10.58",
       "type": "pdns",
       "ln": 2
@@ -1844,12 +1664,6 @@
     },
     {
       "host": "coralee.at",
-      "links": "115.88.24.203",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "coralee.at",
       "links": "115.91.217.231",
       "type": "pdns",
       "ln": 2
@@ -1857,12 +1671,6 @@
     {
       "host": "coralee.at",
       "links": "116.121.62.237",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "coralee.at",
-      "links": "118.33.109.122",
       "type": "pdns",
       "ln": 2
     },
@@ -1911,12 +1719,6 @@
     {
       "host": "coralee.at",
       "links": "203.228.9.102",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "coralee.at",
-      "links": "210.92.250.133",
       "type": "pdns",
       "ln": 2
     },
@@ -2204,12 +2006,6 @@
     },
     {
       "host": "fuyt.org",
-      "links": "115.88.24.203",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "fuyt.org",
       "links": "115.91.217.231",
       "type": "pdns",
       "ln": 2
@@ -2217,12 +2013,6 @@
     {
       "host": "fuyt.org",
       "links": "116.121.62.237",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "fuyt.org",
-      "links": "118.33.109.122",
       "type": "pdns",
       "ln": 2
     },
@@ -2259,12 +2049,6 @@
     {
       "host": "fuyt.org",
       "links": "190.43.145.172",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "fuyt.org",
-      "links": "210.92.250.133",
       "type": "pdns",
       "ln": 2
     },
@@ -2366,12 +2150,6 @@
     },
     {
       "host": "giporedtrip.at",
-      "links": "115.88.24.203",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "giporedtrip.at",
       "links": "115.91.217.231",
       "type": "pdns",
       "ln": 2
@@ -2385,12 +2163,6 @@
     {
       "host": "giporedtrip.at",
       "links": "116.58.10.58",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "giporedtrip.at",
-      "links": "118.33.109.122",
       "type": "pdns",
       "ln": 2
     },
@@ -2438,12 +2210,6 @@
     },
     {
       "host": "giporedtrip.at",
-      "links": "178.31.236.98",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "giporedtrip.at",
       "links": "179.185.176.227",
       "type": "pdns",
       "ln": 2
@@ -2474,12 +2240,6 @@
     },
     {
       "host": "giporedtrip.at",
-      "links": "187.212.179.214",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "giporedtrip.at",
       "links": "190.140.74.43",
       "type": "pdns",
       "ln": 2
@@ -2504,12 +2264,6 @@
     },
     {
       "host": "giporedtrip.at",
-      "links": "210.92.250.133",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "giporedtrip.at",
       "links": "211.119.84.111",
       "type": "pdns",
       "ln": 2
@@ -2523,12 +2277,6 @@
     {
       "host": "giporedtrip.at",
       "links": "211.171.233.126",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "giporedtrip.at",
-      "links": "211.171.233.127",
       "type": "pdns",
       "ln": 2
     },
@@ -2582,12 +2330,6 @@
     },
     {
       "host": "giporedtrip.at",
-      "links": "61.36.14.230",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "giporedtrip.at",
       "links": "61.98.7.132",
       "type": "pdns",
       "ln": 2
@@ -2601,12 +2343,6 @@
     {
       "host": "giporedtrip.at",
       "links": "84.40.106.91",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "giporedtrip.at",
-      "links": "91.203.174.38",
       "type": "pdns",
       "ln": 2
     },
@@ -2672,12 +2408,6 @@
     },
     {
       "host": "habpfans.at",
-      "links": "115.88.24.203",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "habpfans.at",
       "links": "115.91.217.231",
       "type": "pdns",
       "ln": 2
@@ -2691,12 +2421,6 @@
     {
       "host": "habpfans.at",
       "links": "116.58.10.58",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "habpfans.at",
-      "links": "118.33.109.122",
       "type": "pdns",
       "ln": 2
     },
@@ -2744,12 +2468,6 @@
     },
     {
       "host": "habpfans.at",
-      "links": "178.31.236.98",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "habpfans.at",
       "links": "179.185.176.227",
       "type": "pdns",
       "ln": 2
@@ -2780,12 +2498,6 @@
     },
     {
       "host": "habpfans.at",
-      "links": "187.212.179.214",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "habpfans.at",
       "links": "190.140.74.43",
       "type": "pdns",
       "ln": 2
@@ -2810,12 +2522,6 @@
     },
     {
       "host": "habpfans.at",
-      "links": "210.92.250.133",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "habpfans.at",
       "links": "211.119.84.111",
       "type": "pdns",
       "ln": 2
@@ -2829,12 +2535,6 @@
     {
       "host": "habpfans.at",
       "links": "211.171.233.126",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "habpfans.at",
-      "links": "211.171.233.127",
       "type": "pdns",
       "ln": 2
     },
@@ -2888,12 +2588,6 @@
     },
     {
       "host": "habpfans.at",
-      "links": "61.36.14.230",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "habpfans.at",
       "links": "61.98.7.132",
       "type": "pdns",
       "ln": 2
@@ -2907,12 +2601,6 @@
     {
       "host": "habpfans.at",
       "links": "84.40.106.91",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "habpfans.at",
-      "links": "91.203.174.38",
       "type": "pdns",
       "ln": 2
     },
@@ -3026,19 +2714,7 @@
     },
     {
       "host": "iqsruckyssthgry.ru",
-      "links": "115.88.24.203",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "iqsruckyssthgry.ru",
       "links": "116.121.62.237",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "iqsruckyssthgry.ru",
-      "links": "118.33.109.122",
       "type": "pdns",
       "ln": 2
     },
@@ -3057,12 +2733,6 @@
     {
       "host": "iqsruckyssthgry.ru",
       "links": "175.119.10.231",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "iqsruckyssthgry.ru",
-      "links": "210.92.250.133",
       "type": "pdns",
       "ln": 2
     },
@@ -3176,12 +2846,6 @@
     },
     {
       "host": "lencu.top",
-      "links": "115.88.24.203",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "lencu.top",
       "links": "116.121.62.237",
       "type": "pdns",
       "ln": 2
@@ -3261,12 +2925,6 @@
     {
       "host": "lencu.top",
       "links": "84.40.106.91",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "lencu.top",
-      "links": "91.203.174.38",
       "type": "pdns",
       "ln": 2
     },
@@ -3458,31 +3116,13 @@
     },
     {
       "host": "nahbleiben.at",
-      "links": "118.33.109.122",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "nahbleiben.at",
       "links": "183.100.39.157",
       "type": "pdns",
       "ln": 2
     },
     {
       "host": "nahbleiben.at",
-      "links": "186.188.224.208",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "nahbleiben.at",
       "links": "197.44.54.172",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "nahbleiben.at",
-      "links": "210.92.250.133",
       "type": "pdns",
       "ln": 2
     },
@@ -3603,12 +3243,6 @@
     {
       "host": "omerta.cc",
       "links": "148.0.74.229",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "omerta.cc",
-      "links": "61.36.14.230",
       "type": "pdns",
       "ln": 2
     },
@@ -3795,12 +3429,6 @@
     {
       "host": "qwyvryvsksdqvye.ru",
       "links": "116.121.62.237",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "qwyvryvsksdqvye.ru",
-      "links": "210.92.250.133",
       "type": "pdns",
       "ln": 2
     },
@@ -4106,18 +3734,6 @@
     },
     {
       "host": "www.omerta.cc",
-      "links": "115.88.24.203",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.omerta.cc",
-      "links": "118.33.109.122",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.omerta.cc",
       "links": "121.136.102.4",
       "type": "pdns",
       "ln": 2
@@ -4196,12 +3812,6 @@
     },
     {
       "host": "zerit.top",
-      "links": "115.88.24.203",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "zerit.top",
       "links": "115.91.217.231",
       "type": "pdns",
       "ln": 2
@@ -4209,12 +3819,6 @@
     {
       "host": "zerit.top",
       "links": "116.121.62.237",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "zerit.top",
-      "links": "118.33.109.122",
       "type": "pdns",
       "ln": 2
     },
@@ -4263,12 +3867,6 @@
     {
       "host": "zerit.top",
       "links": "203.228.9.102",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "zerit.top",
-      "links": "210.92.250.133",
       "type": "pdns",
       "ln": 2
     },
