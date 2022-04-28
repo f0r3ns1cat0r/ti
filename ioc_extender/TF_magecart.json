@@ -43,12 +43,6 @@
       "ln": 2
     },
     {
-      "host": "1.stripe-auth-api.com",
-      "links": "185.105.118.22",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "149.bhs.ovh.abcd.network",
       "links": "198.27.83.62",
       "type": "pdns",
@@ -195,12 +189,6 @@
     {
       "host": "ThreatFox: magecart",
       "links": "google-sagepay.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: magecart",
-      "links": "google-thumbs.com",
       "type": "z",
       "ln": 2
     },
@@ -406,12 +394,6 @@
       "host": "anta-shoes.store",
       "links": "9fc8a24867a03252f89f19ac5094697cacdccc54",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "apayments.top",
-      "links": "185.105.118.22",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -1147,24 +1129,6 @@
       "ln": 2
     },
     {
-      "host": "google-codes.com",
-      "links": "91.219.62.215",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "google-create.com",
-      "links": "91.219.62.215",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "google-globals.com",
-      "links": "91.219.62.215",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "google-sagepay.com",
       "links": "193.233.16.184",
       "type": "pdns",
@@ -1179,24 +1143,6 @@
     {
       "host": "google-sagepay.com",
       "links": "94.228.112.223",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "google-sanek.com",
-      "links": "91.219.62.215",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "google-squery.com",
-      "links": "91.219.62.215",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "google-thumbs.com",
-      "links": "91.219.62.215",
       "type": "pdns",
       "ln": 2
     },
@@ -1658,12 +1604,6 @@
     },
     {
       "host": "livechatlnc.com",
-      "links": "185.105.118.22",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "livechatlnc.com",
       "links": "31.184.249.26",
       "type": "pdns",
       "ln": 2
@@ -2071,12 +2011,6 @@
       "ln": 2
     },
     {
-      "host": "paypal-merchants.com",
-      "links": "91.219.62.215",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "pechiteplov24.ru",
       "links": "2c09059d52b37da81f70710c330eedd46d285e7a",
       "type": "certs",
@@ -2479,21 +2413,9 @@
       "ln": 2
     },
     {
-      "host": "ssl-authorization.com",
-      "links": "91.219.62.215",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "stduroven.store",
       "links": "4d8e2becdfb0a3309e46e243b1f98b46ae049d36",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "stripe-auth-api.com",
-      "links": "185.105.118.22",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -2554,12 +2476,6 @@
       "host": "system-logs-spk.com",
       "links": "9fc8a24867a03252f89f19ac5094697cacdccc54",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "tagmanaqer.com",
-      "links": "185.105.118.22",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -2722,18 +2638,6 @@
       "host": "vbooster.ru",
       "links": "9fc8a24867a03252f89f19ac5094697cacdccc54",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "vds2169853.my-ihor.ru",
-      "links": "185.105.118.22",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "vds2172951.my-ihor.ru",
-      "links": "185.105.118.22",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -2923,18 +2827,6 @@
       "ln": 2
     },
     {
-      "host": "www.google-sanek.com",
-      "links": "91.219.62.215",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.google-squery.com",
-      "links": "91.219.62.215",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "www.googleadservlces.com",
       "links": "1dc7ca935531db252239c91440098887efe4af03",
       "type": "certs",
@@ -2977,12 +2869,6 @@
       "ln": 2
     },
     {
-      "host": "www.paypal-merchants.com",
-      "links": "91.219.62.215",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "www.pechiteplov24.ru",
       "links": "2c09059d52b37da81f70710c330eedd46d285e7a",
       "type": "certs",
@@ -2997,12 +2883,6 @@
     {
       "host": "www.sixmofreegate.com",
       "links": "176.9.51.172",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.ssl-authorization.com",
-      "links": "91.219.62.215",
       "type": "pdns",
       "ln": 2
     },

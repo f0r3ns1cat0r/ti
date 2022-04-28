@@ -31,6 +31,12 @@
       "ln": 2
     },
     {
+      "host": "8970.ddns.net",
+      "links": "91.193.75.201",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ThreatFox: NetWire RC",
       "links": "info1.dynamic-dns.net",
       "type": "z",
@@ -63,6 +69,12 @@
     {
       "host": "emedoo.ddns.net",
       "links": "91.193.75.132",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "info1.dynamic-dns.net",
+      "links": "160.152.83.172",
       "type": "pdns",
       "ln": 2
     },
@@ -171,6 +183,12 @@
     {
       "host": "info1.dynamic-dns.net",
       "links": "91.193.75.233",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iphanyi.chickenkiller.com",
+      "links": "160.152.83.172",
       "type": "pdns",
       "ln": 2
     },

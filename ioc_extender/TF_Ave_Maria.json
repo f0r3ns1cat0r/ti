@@ -19,14 +19,14 @@
   ],
   "data": [
     {
-      "host": "ThreatFox: Ave Maria",
-      "links": "bakuzamokala.duckdns.org",
-      "type": "z",
+      "host": "8970.ddns.net",
+      "links": "91.193.75.201",
+      "type": "pdns",
       "ln": 2
     },
     {
       "host": "ThreatFox: Ave Maria",
-      "links": "blaq.nerdpol.ovh",
+      "links": "bakuzamokala.duckdns.org",
       "type": "z",
       "ln": 2
     },
@@ -81,12 +81,6 @@
     {
       "host": "bakuzamokala.duckdns.org",
       "links": "65.108.68.54",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "blaq.nerdpol.ovh",
-      "links": "213.152.161.211",
       "type": "pdns",
       "ln": 2
     },
@@ -147,6 +141,12 @@
     {
       "host": "huhuhu.ooguy.com",
       "links": "185.140.53.73",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "info1.dynamic-dns.net",
+      "links": "160.152.83.172",
       "type": "pdns",
       "ln": 2
     },
@@ -255,6 +255,12 @@
     {
       "host": "info1.dynamic-dns.net",
       "links": "91.193.75.233",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iphanyi.chickenkiller.com",
+      "links": "160.152.83.172",
       "type": "pdns",
       "ln": 2
     },
@@ -507,12 +513,6 @@
     {
       "host": "takertltd.com",
       "links": "185.140.53.73",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "tesdns.airdns.org",
-      "links": "213.152.161.211",
       "type": "pdns",
       "ln": 2
     },

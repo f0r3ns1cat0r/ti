@@ -1,0 +1,232 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ET Trojan: TraderTraitor",
+      "links": "alticgo.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: TraderTraitor",
+      "links": "tokenais.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "alticgo.com",
+      "links": "5fb5ec7e532ff4637a69800588b5e17403341a44",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "alticgo.com",
+      "links": "dbed14c97c89240e933a55287b58110442c8ecba",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "alticgo.com",
+      "links": "f38890a220bb9294866ffb6af83e7ca619f30032",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "alticgo.com",
+      "links": "fd66f9b231c258926ecf5b777408497880122695",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "autodiscover.alticgo.com",
+      "links": "5fb5ec7e532ff4637a69800588b5e17403341a44",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "autodiscover.alticgo.com",
+      "links": "fd66f9b231c258926ecf5b777408497880122695",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpanel.alticgo.com",
+      "links": "5fb5ec7e532ff4637a69800588b5e17403341a44",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpanel.alticgo.com",
+      "links": "dbed14c97c89240e933a55287b58110442c8ecba",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpanel.alticgo.com",
+      "links": "f38890a220bb9294866ffb6af83e7ca619f30032",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpanel.alticgo.com",
+      "links": "fd66f9b231c258926ecf5b777408497880122695",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcalendars.alticgo.com",
+      "links": "5fb5ec7e532ff4637a69800588b5e17403341a44",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcalendars.alticgo.com",
+      "links": "dbed14c97c89240e933a55287b58110442c8ecba",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcalendars.alticgo.com",
+      "links": "f38890a220bb9294866ffb6af83e7ca619f30032",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcalendars.alticgo.com",
+      "links": "fd66f9b231c258926ecf5b777408497880122695",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcontacts.alticgo.com",
+      "links": "5fb5ec7e532ff4637a69800588b5e17403341a44",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcontacts.alticgo.com",
+      "links": "dbed14c97c89240e933a55287b58110442c8ecba",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcontacts.alticgo.com",
+      "links": "f38890a220bb9294866ffb6af83e7ca619f30032",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcontacts.alticgo.com",
+      "links": "fd66f9b231c258926ecf5b777408497880122695",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "fshkoxt.smartshealthacare.com",
+      "links": "137.74.75.92",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ip92.ip-137-74-75.eu",
+      "links": "137.74.75.92",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.alticgo.com",
+      "links": "5fb5ec7e532ff4637a69800588b5e17403341a44",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.alticgo.com",
+      "links": "dbed14c97c89240e933a55287b58110442c8ecba",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.alticgo.com",
+      "links": "f38890a220bb9294866ffb6af83e7ca619f30032",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.alticgo.com",
+      "links": "fd66f9b231c258926ecf5b777408497880122695",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "tokenais.com",
+      "links": "137.74.75.92",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "webdisk.alticgo.com",
+      "links": "5fb5ec7e532ff4637a69800588b5e17403341a44",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webdisk.alticgo.com",
+      "links": "dbed14c97c89240e933a55287b58110442c8ecba",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webdisk.alticgo.com",
+      "links": "f38890a220bb9294866ffb6af83e7ca619f30032",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webdisk.alticgo.com",
+      "links": "fd66f9b231c258926ecf5b777408497880122695",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webmail.alticgo.com",
+      "links": "5fb5ec7e532ff4637a69800588b5e17403341a44",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webmail.alticgo.com",
+      "links": "dbed14c97c89240e933a55287b58110442c8ecba",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webmail.alticgo.com",
+      "links": "f38890a220bb9294866ffb6af83e7ca619f30032",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webmail.alticgo.com",
+      "links": "fd66f9b231c258926ecf5b777408497880122695",
+      "type": "certs",
+      "ln": 2
+    }
+  ]
+}
