@@ -152,6 +152,12 @@
     },
     {
       "host": "info1.dynamic-dns.net",
+      "links": "169.159.90.137",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "info1.dynamic-dns.net",
       "links": "182.56.132.100",
       "type": "pdns",
       "ln": 2
@@ -261,6 +267,12 @@
     {
       "host": "iphanyi.chickenkiller.com",
       "links": "160.152.83.172",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iphanyi.chickenkiller.com",
+      "links": "169.159.90.137",
       "type": "pdns",
       "ln": 2
     },
