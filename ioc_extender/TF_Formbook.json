@@ -1561,12 +1561,6 @@
       "ln": 2
     },
     {
-      "host": "localhost.localdomain",
-      "links": "ca6a9ec2bc8388df4d5c76898f2a7dae938c8a0c",
-      "type": "certs",
-      "ln": 2
-    },
-    {
       "host": "lownak.com",
       "links": "192.64.115.15",
       "type": "pdns",

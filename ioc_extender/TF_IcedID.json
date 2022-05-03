@@ -2222,6 +2222,12 @@
     },
     {
       "host": "kummamemybaby.rest",
+      "links": "185.8.105.181",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "kummamemybaby.rest",
       "links": "45.147.228.138",
       "type": "pdns",
       "ln": 2
@@ -2229,6 +2235,12 @@
     {
       "host": "kummamemybaby.rest",
       "links": "573b96f0609b7b854fffe87418c58a476699b392",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "kummamemybaby.rest",
+      "links": "79d97f01a01ef4fa7c4d1106fdc8c659b25a92cd",
       "type": "certs",
       "ln": 2
     },
@@ -2703,12 +2715,6 @@
     {
       "host": "ouldmakeithapp.top",
       "links": "45.147.228.138",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "paidtoask.uno",
-      "links": "159.223.167.251",
       "type": "pdns",
       "ln": 2
     },
