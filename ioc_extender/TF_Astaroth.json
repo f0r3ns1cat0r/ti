@@ -56,6 +56,12 @@
     },
     {
       "host": "escriturario.us",
+      "links": "049ef3ca0b2cc53ac9ff2cfd1491933a03611482",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "escriturario.us",
       "links": "0805f4ac4caa09359f1d75462b789686bbf2c1d9",
       "type": "certs",
       "ln": 2
@@ -68,13 +74,31 @@
     },
     {
       "host": "financialbom.us",
+      "links": "049ef3ca0b2cc53ac9ff2cfd1491933a03611482",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "financialbom.us",
       "links": "48f377c1caf66dd50197158e67decb2e9198ee65",
       "type": "certs",
       "ln": 2
     },
     {
       "host": "mail.financialbom.us",
+      "links": "049ef3ca0b2cc53ac9ff2cfd1491933a03611482",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.financialbom.us",
       "links": "48f377c1caf66dd50197158e67decb2e9198ee65",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "ponderadocs.cloud",
+      "links": "049ef3ca0b2cc53ac9ff2cfd1491933a03611482",
       "type": "certs",
       "ln": 2
     },
