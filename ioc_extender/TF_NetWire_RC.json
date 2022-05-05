@@ -19,18 +19,6 @@
   ],
   "data": [
     {
-      "host": "184-105-237-196.sinkhole.shadowserver.org",
-      "links": "184.105.237.196",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "217-64-149-171.pool.ovpn.com",
-      "links": "217.64.149.171",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "8970.ddns.net",
       "links": "91.193.75.201",
       "type": "pdns",
@@ -61,14 +49,14 @@
       "ln": 2
     },
     {
-      "host": "email.vg-energy.com",
-      "links": "184.105.237.196",
+      "host": "emedoo.ddns.net",
+      "links": "91.193.75.132",
       "type": "pdns",
       "ln": 2
     },
     {
-      "host": "emedoo.ddns.net",
-      "links": "91.193.75.132",
+      "host": "info1.dynamic-dns.net",
+      "links": "160.152.179.16",
       "type": "pdns",
       "ln": 2
     },
@@ -195,6 +183,12 @@
     {
       "host": "info1.dynamic-dns.net",
       "links": "91.193.75.233",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iphanyi.chickenkiller.com",
+      "links": "160.152.179.16",
       "type": "pdns",
       "ln": 2
     },
@@ -421,18 +415,6 @@
       "ln": 2
     },
     {
-      "host": "mta-sts.email.vg-energy.com",
-      "links": "184.105.237.196",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "mx.vg-energy.com",
-      "links": "184.105.237.196",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "nanopc.linkpc.net",
       "links": "185.192.69.136",
       "type": "pdns",
@@ -441,12 +423,6 @@
     {
       "host": "netwire.linkpc.net",
       "links": "185.192.69.136",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "netwire.linkpc.net",
-      "links": "217.64.149.171",
       "type": "pdns",
       "ln": 2
     },
@@ -469,7 +445,7 @@
       "ln": 2
     },
     {
-      "host": "vg-energy.com",
+      "host": "timmy22.ddns.net",
       "links": "184.105.237.196",
       "type": "pdns",
       "ln": 2

@@ -19,12 +19,6 @@
   ],
   "data": [
     {
-      "host": "40.ip-91-134-132.eu",
-      "links": "91.134.132.40",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ET Trojan: Turla-Crutch",
       "links": "ethdns.mywire.org",
       "type": "z",
@@ -33,12 +27,6 @@
     {
       "host": "ET Trojan: Turla-Crutch",
       "links": "hotspot.accesscam.org",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ET Trojan: Turla-Crutch",
-      "links": "theguardian.webredirect.org",
       "type": "z",
       "ln": 2
     },
@@ -153,12 +141,6 @@
     {
       "host": "qrrd.ru",
       "links": "185.162.8.12",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "theguardian.webredirect.org",
-      "links": "91.134.132.40",
       "type": "pdns",
       "ln": 2
     },

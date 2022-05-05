@@ -103,24 +103,6 @@
       "ln": 2
     },
     {
-      "host": "ThreatFox: Emotet",
-      "links": "rkeeperua.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "a2plvcpnl390836.prod.iad2.secureserver.net",
-      "links": "198.12.217.110",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "acausefortea.org",
-      "links": "198.12.217.110",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "accessunited-bank.alainnationalbank.com",
       "links": "149896eadd42805d9363e0557b8233515c57f24f",
       "type": "certs",
@@ -142,6 +124,12 @@
       "host": "accessunited-bank.com",
       "links": "bc5439e1582fa7c2778f797951a6a9cd8c337512",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "adios.co.il",
+      "links": "64.4.161.42",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -361,12 +349,6 @@
       "ln": 2
     },
     {
-      "host": "corp.krezol.ru",
-      "links": "92.50.134.78",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "cpanel.accessunited-bank.com",
       "links": "149896eadd42805d9363e0557b8233515c57f24f",
       "type": "certs",
@@ -541,12 +523,6 @@
       "ln": 2
     },
     {
-      "host": "cpanel.plyboncompany.com",
-      "links": "198.12.217.110",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "cpanel.renovatiog.ltd",
       "links": "3b5010851aa0c5bcac7974913cb9d2ec4a655af4",
       "type": "certs",
@@ -661,6 +637,12 @@
       "ln": 2
     },
     {
+      "host": "cpcalendars.earnlearn.org",
+      "links": "67.209.127.21",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "cpcalendars.eventmasti.com",
       "links": "247a52801fc021daf12657905c90ba85d3680b46",
       "type": "certs",
@@ -742,12 +724,6 @@
       "host": "cpcalendars.pinnaclehomesusa.net",
       "links": "82ac55f420cef2ce648cee9008de2db7deb939b3",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "cpcalendars.plyboncompany.com",
-      "links": "198.12.217.110",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -949,12 +925,6 @@
       "ln": 2
     },
     {
-      "host": "cpcontacts.plyboncompany.com",
-      "links": "198.12.217.110",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "cpcontacts.renovatiog.ltd",
       "links": "3b5010851aa0c5bcac7974913cb9d2ec4a655af4",
       "type": "certs",
@@ -1058,12 +1028,6 @@
     },
     {
       "host": "dandtpremierhomes.gaydillerdesign.com",
-      "links": "198.12.217.110",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "dandtpremierhomes.gaydillerdesign.com",
       "links": "2206cf99578c1e17eb8a094cdd8891e85af89dd5",
       "type": "certs",
       "ln": 2
@@ -1087,20 +1051,32 @@
       "ln": 2
     },
     {
-      "host": "dandtpremierrealty.com",
-      "links": "198.12.217.110",
+      "host": "dlatoteli.com",
+      "links": "64.4.161.42",
       "type": "pdns",
       "ln": 2
     },
     {
-      "host": "dev.gaydillerdesign.com",
-      "links": "198.12.217.110",
+      "host": "doctorniagara.com",
+      "links": "64.4.161.42",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "earnlearn.org",
+      "links": "67.209.127.21",
       "type": "pdns",
       "ln": 2
     },
     {
       "host": "eleccom.shop",
       "links": "91.226.80.51",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "emporio-valentini.com",
+      "links": "64.4.161.42",
       "type": "pdns",
       "ln": 2
     },
@@ -1114,6 +1090,12 @@
       "host": "eventmasti.com",
       "links": "38a428a93324d115abaf70d7d330209eb91b4e27",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "eventmasti.com",
+      "links": "67.209.127.21",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -1166,6 +1148,12 @@
     },
     {
       "host": "fameitc.com",
+      "links": "67.209.127.21",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "fameitc.com",
       "links": "70e204085decc37bcc3ff0d1d19d55dd00165208",
       "type": "certs",
       "ln": 2
@@ -1195,8 +1183,14 @@
       "ln": 2
     },
     {
-      "host": "hawkinsfortmillrealty.com",
-      "links": "198.12.217.110",
+      "host": "gt-glass.co.il",
+      "links": "64.4.161.42",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hamamcpa.com",
+      "links": "64.4.161.42",
       "type": "pdns",
       "ln": 2
     },
@@ -1249,12 +1243,6 @@
       "ln": 2
     },
     {
-      "host": "ip-198-12-217-110.ip.secureserver.net",
-      "links": "198.12.217.110",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "izocab.com",
       "links": "069a2ff76db2f531888e0e8c1c5cbe82e54c0829",
       "type": "certs",
@@ -1291,12 +1279,6 @@
       "ln": 2
     },
     {
-      "host": "joynerproductions.com",
-      "links": "198.12.217.110",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "karlamejia.com",
       "links": "1d243cf01554114406e6be5df40ce2d40e38fdb5",
       "type": "certs",
@@ -1312,12 +1294,6 @@
       "host": "karlamejia.com",
       "links": "ffce5f158006a55b7c785b156c90b01e66426cad",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "katieskidz.gaydillerdesign.com",
-      "links": "198.12.217.110",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -1352,12 +1328,6 @@
     },
     {
       "host": "krezol-ns.ru",
-      "links": "92.50.134.78",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "krezol.com",
       "links": "92.50.134.78",
       "type": "pdns",
       "ln": 2
@@ -1400,12 +1370,6 @@
     },
     {
       "host": "krs.eleccom.shop",
-      "links": "91.226.80.51",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "kzn.eleccom.shop",
       "links": "91.226.80.51",
       "type": "pdns",
       "ln": 2
@@ -1591,12 +1555,6 @@
       "ln": 2
     },
     {
-      "host": "mail.gaydillerdesign.com",
-      "links": "198.12.217.110",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "mail.karlamejia.com",
       "links": "1d243cf01554114406e6be5df40ce2d40e38fdb5",
       "type": "certs",
@@ -1633,12 +1591,6 @@
       "ln": 2
     },
     {
-      "host": "mail.plyboncompany.com",
-      "links": "198.12.217.110",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "mail.renovatiog.ltd",
       "links": "3b5010851aa0c5bcac7974913cb9d2ec4a655af4",
       "type": "certs",
@@ -1675,18 +1627,6 @@
       "ln": 2
     },
     {
-      "host": "mail.waxhawumc.com",
-      "links": "198.12.217.110",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "marketplusua.com",
-      "links": "77.87.198.34",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "mccoy-usa.com",
       "links": "198.12.217.110",
       "type": "pdns",
@@ -1694,12 +1634,6 @@
     },
     {
       "host": "mmctextiles.com",
-      "links": "198.12.217.110",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "moodyhd.com",
       "links": "198.12.217.110",
       "type": "pdns",
       "ln": 2
@@ -1717,6 +1651,12 @@
       "ln": 2
     },
     {
+      "host": "ns64416142.a2dns.com",
+      "links": "64.4.161.42",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "nsk.eleccom.shop",
       "links": "91.226.80.51",
       "type": "pdns",
@@ -1724,12 +1664,6 @@
     },
     {
       "host": "omsk.eleccom.shop",
-      "links": "91.226.80.51",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "perm.eleccom.shop",
       "links": "91.226.80.51",
       "type": "pdns",
       "ln": 2
@@ -1783,8 +1717,8 @@
       "ln": 2
     },
     {
-      "host": "pinpoint-us.com",
-      "links": "198.12.217.110",
+      "host": "platinum-mutagim.co.il",
+      "links": "64.4.161.42",
       "type": "pdns",
       "ln": 2
     },
@@ -1795,8 +1729,8 @@
       "ln": 2
     },
     {
-      "host": "portal.krezol.ru",
-      "links": "92.50.134.78",
+      "host": "queens.renovatiog.ltd",
+      "links": "64.4.161.42",
       "type": "pdns",
       "ln": 2
     },
@@ -1820,6 +1754,12 @@
     },
     {
       "host": "renovatiog.ltd",
+      "links": "64.4.161.42",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "renovatiog.ltd",
       "links": "956dbfcff5d7cc830a0a33d3f51b46b1b9bbebfb",
       "type": "certs",
       "ln": 2
@@ -1837,14 +1777,8 @@
       "ln": 2
     },
     {
-      "host": "rkeeperua.com",
-      "links": "77.87.198.34",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "roseta-staging.gaydillerdesign.com",
-      "links": "198.12.217.110",
+      "host": "royal-shoes.co.il",
+      "links": "64.4.161.42",
       "type": "pdns",
       "ln": 2
     },
@@ -1891,8 +1825,14 @@
       "ln": 2
     },
     {
-      "host": "shopearps.com",
-      "links": "198.12.217.110",
+      "host": "sanskrutiahmedabad.in",
+      "links": "67.209.127.21",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "shemenhamor2.renovatiog.ltd",
+      "links": "64.4.161.42",
       "type": "pdns",
       "ln": 2
     },
@@ -1915,31 +1855,7 @@
       "ln": 2
     },
     {
-      "host": "staging.gaydillerdesign.com",
-      "links": "198.12.217.110",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "sucuriip.gaydillerdesign.com",
-      "links": "198.12.217.110",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "tanglesyarn.com",
-      "links": "198.12.217.110",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "tmn.eleccom.shop",
-      "links": "91.226.80.51",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ufa.eleccom.shop",
       "links": "91.226.80.51",
       "type": "pdns",
       "ln": 2
@@ -1963,44 +1879,26 @@
       "ln": 2
     },
     {
+      "host": "unicornmetalindustries.com",
+      "links": "67.209.127.21",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "unos-glasses.com",
+      "links": "64.4.161.42",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "verisproperties.com",
       "links": "198.12.217.110",
       "type": "pdns",
       "ln": 2
     },
     {
-      "host": "vgg.eleccom.shop",
-      "links": "91.226.80.51",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "vm-898e98d3.netangels.ru",
-      "links": "91.226.80.51",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "vpn.krezol.ru",
-      "links": "92.50.134.78",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "vrn.eleccom.shop",
-      "links": "91.226.80.51",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "vs1760.mirohost.net",
-      "links": "77.87.198.34",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "waxhawtaphouse.com",
-      "links": "198.12.217.110",
+      "host": "we-animate.com",
+      "links": "64.4.161.42",
       "type": "pdns",
       "ln": 2
     },
@@ -2176,12 +2074,6 @@
       "host": "webdisk.pinnaclehomesusa.net",
       "links": "82ac55f420cef2ce648cee9008de2db7deb939b3",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "webdisk.plyboncompany.com",
-      "links": "198.12.217.110",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -2395,12 +2287,6 @@
       "ln": 2
     },
     {
-      "host": "webmail.plyboncompany.com",
-      "links": "198.12.217.110",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "webmail.renovatiog.ltd",
       "links": "3b5010851aa0c5bcac7974913cb9d2ec4a655af4",
       "type": "certs",
@@ -2434,6 +2320,18 @@
       "host": "webmail.renovatiog.ltd",
       "links": "e31795788d6ed23e956aa6379cee3551125d17b8",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webmail.sanskrutiahmedabad.in",
+      "links": "67.209.127.21",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "wesites.co.il",
+      "links": "64.4.161.42",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -2617,12 +2515,6 @@
       "ln": 2
     },
     {
-      "host": "www.greenlinkre.com",
-      "links": "198.12.217.110",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "www.karlamejia.com",
       "links": "1d243cf01554114406e6be5df40ce2d40e38fdb5",
       "type": "certs",
@@ -2636,12 +2528,6 @@
     },
     {
       "host": "www.krezol-ns.ru",
-      "links": "92.50.134.78",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.krezol.com",
       "links": "92.50.134.78",
       "type": "pdns",
       "ln": 2
@@ -2665,12 +2551,6 @@
       "ln": 2
     },
     {
-      "host": "www.krezolgroup.com",
-      "links": "92.50.134.78",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "www.pinnaclehomesusa.gaydillerdesign.com",
       "links": "0a2daf35e28442c146bcaa0fca16ec6c359d0d17",
       "type": "certs",
@@ -2686,18 +2566,6 @@
       "host": "www.pinnaclehomesusa.gaydillerdesign.com",
       "links": "73b657d6bfae7484b7c2a8bf1b7c90ec509d825d",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "www.plyboncompany.com",
-      "links": "198.12.217.110",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.portal.krezol.ru",
-      "links": "92.50.134.78",
-      "type": "pdns",
       "ln": 2
     },
     {
