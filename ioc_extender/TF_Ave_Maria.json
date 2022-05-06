@@ -410,12 +410,6 @@
     },
     {
       "host": "iphanyi.webredirect.org",
-      "links": "185.140.53.134",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "iphanyi.webredirect.org",
       "links": "185.140.53.137",
       "type": "pdns",
       "ln": 2
@@ -531,6 +525,12 @@
     {
       "host": "shiestynerd.dvrlists.com",
       "links": "91.193.75.222",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "sky01.publicvm.com",
+      "links": "91.193.75.175",
       "type": "pdns",
       "ln": 2
     },

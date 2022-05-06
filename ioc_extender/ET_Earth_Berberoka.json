@@ -1,0 +1,40 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ET Trojan: Earth Berberoka",
+      "links": "github.wiki",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "github.wiki",
+      "links": "5b439ac5305e09efb0f29e4e36f3b72484bc677b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "kdbox.github.wiki",
+      "links": "5b439ac5305e09efb0f29e4e36f3b72484bc677b",
+      "type": "certs",
+      "ln": 2
+    }
+  ]
+}
