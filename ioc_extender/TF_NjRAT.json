@@ -50,6 +50,12 @@
     },
     {
       "host": "bakuzamokala.duckdns.org",
+      "links": "103.133.105.61",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "bakuzamokala.duckdns.org",
       "links": "65.108.68.54",
       "type": "pdns",
       "ln": 2
@@ -75,6 +81,12 @@
     {
       "host": "legend4000.duckdns.org",
       "links": "185.19.85.141",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mobibanewdan.duckdns.org",
+      "links": "103.133.105.61",
       "type": "pdns",
       "ln": 2
     },
