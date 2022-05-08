@@ -1069,12 +1069,6 @@
       "ln": 2
     },
     {
-      "host": "emporio-valentini.com",
-      "links": "64.4.161.42",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "eventmasti.com",
       "links": "247a52801fc021daf12657905c90ba85d3680b46",
       "type": "certs",
@@ -1621,6 +1615,12 @@
       "ln": 2
     },
     {
+      "host": "mail.unicornmetalindustries.com",
+      "links": "67.209.127.21",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "mccoy-usa.com",
       "links": "198.12.217.110",
       "type": "pdns",
@@ -1708,12 +1708,6 @@
       "host": "pinnaclehomesusa.net",
       "links": "82ac55f420cef2ce648cee9008de2db7deb939b3",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "platinum-mutagim.co.il",
-      "links": "64.4.161.42",
-      "type": "pdns",
       "ln": 2
     },
     {

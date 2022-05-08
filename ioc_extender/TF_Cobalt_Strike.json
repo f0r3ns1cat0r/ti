@@ -896,12 +896,6 @@
     },
     {
       "host": "ThreatFox: Cobalt Strike",
-      "links": "pfizerlab.info",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: Cobalt Strike",
       "links": "rismorf.com",
       "type": "z",
       "ln": 2
@@ -1549,8 +1543,20 @@
       "ln": 2
     },
     {
+      "host": "apgameapi.com",
+      "links": "e9e755a1698da28ded1427b3f7bd98e73b1e77a2",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "api.shop.qualiaglass.com",
       "links": "15e4e3053ac4c1e2ec5545542d6098359e0dd2e9",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "aplongws.com",
+      "links": "e9e755a1698da28ded1427b3f7bd98e73b1e77a2",
       "type": "certs",
       "ln": 2
     },
@@ -5821,6 +5827,12 @@
       "ln": 2
     },
     {
+      "host": "notifiication.cf",
+      "links": "162.244.81.10",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "novichok-nrg.online",
       "links": "8d9fd71eca6dfad97ea3b794c4f998d9294f1723",
       "type": "certs",
@@ -6232,12 +6244,6 @@
       "host": "petlux.ma",
       "links": "635ae6c71205980a921a20b65f2a15216998de01",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "pfizerlab.info",
-      "links": "3.144.182.117",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -8290,12 +8296,6 @@
       "host": "www.komdsecko.net",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "www.mikrotik.golf",
-      "links": "3.144.182.117",
-      "type": "pdns",
       "ln": 2
     },
     {

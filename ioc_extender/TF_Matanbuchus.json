@@ -1,0 +1,58 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ThreatFox: Matanbuchus",
+      "links": "azure-dbupdate.at",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Matanbuchus",
+      "links": "azure-updatedb.at",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "azure-dbupdate.at",
+      "links": "0de290ee5cad23fd12f1deef406b4da18fc36dd3",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "azure-updatedb.at",
+      "links": "0de290ee5cad23fd12f1deef406b4da18fc36dd3",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "azuretelemetry.xyz",
+      "links": "0de290ee5cad23fd12f1deef406b4da18fc36dd3",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.azuretelemetry.xyz",
+      "links": "0de290ee5cad23fd12f1deef406b4da18fc36dd3",
+      "type": "certs",
+      "ln": 2
+    }
+  ]
+}

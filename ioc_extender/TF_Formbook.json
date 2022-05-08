@@ -266,6 +266,12 @@
     },
     {
       "host": "akxchange.com",
+      "links": "2b3af619e6713f9a2fc260584c56765ff0bc9983",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "akxchange.com",
       "links": "57d939e26681b948c3190e802832e29744b009c2",
       "type": "certs",
       "ln": 2
@@ -1297,12 +1303,6 @@
       "ln": 2
     },
     {
-      "host": "ns1.azzmall.com",
-      "links": "199.192.26.235",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ns1.beniasohokola.com",
       "links": "162.0.222.228",
       "type": "pdns",
@@ -1443,12 +1443,6 @@
     {
       "host": "ns2.arbitchain.ltd",
       "links": "63.250.44.253",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.azzmall.com",
-      "links": "199.192.26.235",
       "type": "pdns",
       "ln": 2
     },
@@ -2138,6 +2132,12 @@
     },
     {
       "host": "www.brateix.info",
+      "links": "2b3af619e6713f9a2fc260584c56765ff0bc9983",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.brateix.info",
       "links": "3cd70b6b939e1317f15799407bf2d9042b6528e2",
       "type": "certs",
       "ln": 2
@@ -2763,12 +2763,6 @@
     {
       "host": "www.ravexim3.com",
       "links": "192.64.115.131",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.resctub.com",
-      "links": "199.192.26.235",
       "type": "pdns",
       "ln": 2
     },

@@ -44,12 +44,6 @@
     },
     {
       "host": "189.stripe-auth-api.com",
-      "links": "8.212.134.72",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "189.stripe-auth-api.com",
       "links": "93.189.42.136",
       "type": "pdns",
       "ln": 2
@@ -363,6 +357,12 @@
     {
       "host": "alitus-info.store",
       "links": "9fc8a24867a03252f89f19ac5094697cacdccc54",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "amazon-fba.ru",
+      "links": "d2e4f43cc60aa488006afd5a29f0358d4c9612df",
       "type": "certs",
       "ln": 2
     },
@@ -703,6 +703,12 @@
       "ln": 2
     },
     {
+      "host": "catch-gifts.ru",
+      "links": "d2e4f43cc60aa488006afd5a29f0358d4c9612df",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "cdn-doubleclick.net",
       "links": "142.4.211.167",
       "type": "pdns",
@@ -711,6 +717,12 @@
     {
       "host": "cdnattn.site",
       "links": "3362de9a6d214799ca804f9c9816bb1da1ea8700",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cdnattn.site",
+      "links": "d2e4f43cc60aa488006afd5a29f0358d4c9612df",
       "type": "certs",
       "ln": 2
     },
@@ -741,6 +753,12 @@
     {
       "host": "cloudfiare.site",
       "links": "3362de9a6d214799ca804f9c9816bb1da1ea8700",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cloudfiare.site",
+      "links": "d2e4f43cc60aa488006afd5a29f0358d4c9612df",
       "type": "certs",
       "ln": 2
     },
@@ -1581,12 +1599,6 @@
     {
       "host": "livechatlnc.com",
       "links": "31.184.249.26",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "livechatlnc.com",
-      "links": "8.212.134.72",
       "type": "pdns",
       "ln": 2
     },
@@ -2444,12 +2456,6 @@
     },
     {
       "host": "tagmanaqer.com",
-      "links": "8.212.134.72",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "tagmanaqer.com",
       "links": "93.189.42.136",
       "type": "pdns",
       "ln": 2
@@ -2469,6 +2475,12 @@
     {
       "host": "termit.space",
       "links": "3362de9a6d214799ca804f9c9816bb1da1ea8700",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "termit.space",
+      "links": "d2e4f43cc60aa488006afd5a29f0358d4c9612df",
       "type": "certs",
       "ln": 2
     },
@@ -2578,12 +2590,6 @@
       "host": "uangkufinance.com",
       "links": "9fc8a24867a03252f89f19ac5094697cacdccc54",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "umc.astra.cloudns.cx",
-      "links": "142.4.211.167",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -2715,6 +2721,12 @@
     {
       "host": "www.admin.yunu.ru",
       "links": "5b410f323f84cc0ea3f41697444153e11400c683",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.amazon-fba.ru",
+      "links": "d2e4f43cc60aa488006afd5a29f0358d4c9612df",
       "type": "certs",
       "ln": 2
     },
