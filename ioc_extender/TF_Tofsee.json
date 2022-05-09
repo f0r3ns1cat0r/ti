@@ -25,6 +25,12 @@
       "ln": 2
     },
     {
+      "host": "ejeana.co.ug",
+      "links": "45.8.124.99",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "niflheimr.cn",
       "links": "35.228.103.145",
       "type": "pdns",
@@ -33,6 +39,12 @@
     {
       "host": "patmushta.info",
       "links": "35.228.103.145",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "patmushta.info",
+      "links": "45.8.124.99",
       "type": "pdns",
       "ln": 2
     }

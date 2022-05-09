@@ -73,12 +73,6 @@
       "ln": 2
     },
     {
-      "host": "123kdjkdkfjdk-kdkdkd-jfjjd.info",
-      "links": "192.42.116.41",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "127-stopdolg.store",
       "links": "8d9fd71eca6dfad97ea3b794c4f998d9294f1723",
       "type": "certs",
@@ -3025,12 +3019,6 @@
       "ln": 2
     },
     {
-      "host": "dmnxgeomscopy.info",
-      "links": "192.42.116.41",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "dns64.dns.google",
       "links": "0ce4bad11d8631c6924b771f1857abe1b3c0bc8e",
       "type": "certs",
@@ -5209,6 +5197,12 @@
       "ln": 2
     },
     {
+      "host": "lus1.inzenyn.xyz",
+      "links": "98b37635d983cecc7f68575e06bccef3b694bbef",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "lusten-house.art",
       "links": "233dc7c632eb4774476d700031f1795fefad39f4",
       "type": "certs",
@@ -7245,6 +7239,12 @@
     {
       "host": "survmeter.live",
       "links": "4a7ae11323a0f6b5203efbe48c375aa679d42bc7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "survmeter.live",
+      "links": "98b37635d983cecc7f68575e06bccef3b694bbef",
       "type": "certs",
       "ln": 2
     },
