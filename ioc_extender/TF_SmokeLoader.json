@@ -110,6 +110,12 @@
     },
     {
       "host": "ThreatFox: SmokeLoader",
+      "links": "afrocalite.ga",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: SmokeLoader",
       "links": "amogohuigotuli.at",
       "type": "z",
       "ln": 2
@@ -220,6 +226,12 @@
       "host": "abiesvc.jp.net",
       "links": "abc582733ecd762ced4df0f28829c39e78c26ff4",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "afrocalite.ga",
+      "links": "185.119.58.75",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -598,12 +610,6 @@
       "host": "cms37889.com",
       "links": "abc582733ecd762ced4df0f28829c39e78c26ff4",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "coin-coin-file-9.com",
-      "links": "194.36.178.148",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -1052,12 +1058,6 @@
     },
     {
       "host": "file-coin-host-12.com",
-      "links": "194.36.178.148",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "file-coin-host-12.com",
       "links": "194.36.178.184",
       "type": "pdns",
       "ln": 2
@@ -1303,6 +1303,12 @@
       "ln": 2
     },
     {
+      "host": "gacqefrjquuy.info",
+      "links": "192.42.116.41",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "gandmar.xyz",
       "links": "233dc7c632eb4774476d700031f1795fefad39f4",
       "type": "certs",
@@ -1336,12 +1342,6 @@
       "host": "groupealmakrizi.com",
       "links": "abc582733ecd762ced4df0f28829c39e78c26ff4",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "grvcmmrrryogle.info",
-      "links": "192.42.116.41",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -1699,6 +1699,18 @@
       "ln": 2
     },
     {
+      "host": "ns1.pron-logistics.com",
+      "links": "185.119.58.75",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.pron-logistics.com",
+      "links": "185.119.58.75",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "nt-sekigahara.cn",
       "links": "37bb340b4d8dc6270c3178aee4cf76626eb1a298",
       "type": "certs",
@@ -1809,18 +1821,6 @@
     {
       "host": "privacy-tools-for-you-100.xyz",
       "links": "194.147.84.27",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "privacy-tools-for-you-781.com",
-      "links": "194.36.178.148",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "privacy-tools-for-you-783.com",
-      "links": "194.36.178.148",
       "type": "pdns",
       "ln": 2
     },

@@ -505,6 +505,12 @@
       "ln": 2
     },
     {
+      "host": "feen007.at",
+      "links": "87.106.18.141",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "fgx.dangerboy.at",
       "links": "34.65.143.203",
       "type": "pdns",
@@ -592,12 +598,6 @@
       "host": "gstatistica.com",
       "links": "c1fffc9e111faad70d016674579d74d5e68ab652",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "heuristic-hodgkin.79-110-52-188.plesk.page",
-      "links": "79.110.52.188",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -1216,12 +1216,6 @@
       "host": "www.vipinbiz.com",
       "links": "a42ccbd53bf5927a9fc3925b730bcd4aaaba5fff",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "yaronav.at",
-      "links": "87.106.18.141",
-      "type": "pdns",
       "ln": 2
     }
   ]

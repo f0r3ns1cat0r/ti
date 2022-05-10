@@ -73,6 +73,12 @@
       "ln": 2
     },
     {
+      "host": "ThreatFox: Ave Maria",
+      "links": "iphy.strangled.net",
+      "type": "z",
+      "ln": 2
+    },
+    {
       "host": "auragmdh.com",
       "links": "185.140.53.73",
       "type": "pdns",
@@ -152,6 +158,12 @@
     },
     {
       "host": "info1.dynamic-dns.net",
+      "links": "169.159.66.63",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "info1.dynamic-dns.net",
       "links": "169.159.90.137",
       "type": "pdns",
       "ln": 2
@@ -278,6 +290,12 @@
     },
     {
       "host": "iphanyi.chickenkiller.com",
+      "links": "169.159.66.63",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iphanyi.chickenkiller.com",
       "links": "169.159.90.137",
       "type": "pdns",
       "ln": 2
@@ -459,6 +477,18 @@
     {
       "host": "iphanyi.webredirect.org",
       "links": "91.193.75.233",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iphy.strangled.net",
+      "links": "169.159.66.63",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iphy.strangled.net",
+      "links": "185.19.85.134",
       "type": "pdns",
       "ln": 2
     },

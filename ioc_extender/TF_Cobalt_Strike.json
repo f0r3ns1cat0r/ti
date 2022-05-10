@@ -590,6 +590,12 @@
     },
     {
       "host": "ThreatFox: Cobalt Strike",
+      "links": "driverpackcdn.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Cobalt Strike",
       "links": "dunclikf.com",
       "type": "z",
       "ln": 2
@@ -759,6 +765,12 @@
     {
       "host": "ThreatFox: Cobalt Strike",
       "links": "korunder.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Cobalt Strike",
+      "links": "kusufu.com",
       "type": "z",
       "ln": 2
     },
@@ -1803,6 +1815,18 @@
     {
       "host": "ayx666.org",
       "links": "fae8562d87b2585ec5e563332d0c17851182bfd4",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "az34.ibestproxy.com",
+      "links": "23.81.246.66",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "az34.ibestproxy.com",
+      "links": "4635a63f25e7e04d975dddec695c69c3934a23a8",
       "type": "certs",
       "ln": 2
     },
@@ -3865,6 +3889,12 @@
       "ln": 2
     },
     {
+      "host": "gacqefrjquuy.info",
+      "links": "192.42.116.41",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "galinamarketing.store",
       "links": "8d9fd71eca6dfad97ea3b794c4f998d9294f1723",
       "type": "certs",
@@ -4108,12 +4138,6 @@
       "host": "groubaty.com",
       "links": "635ae6c71205980a921a20b65f2a15216998de01",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "grvcmmrrryogle.info",
-      "links": "192.42.116.41",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -4977,6 +5001,18 @@
     {
       "host": "kulon-roza.ru",
       "links": "8d9fd71eca6dfad97ea3b794c4f998d9294f1723",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "kusufu.com",
+      "links": "23.81.246.66",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "kusufu.com",
+      "links": "4635a63f25e7e04d975dddec695c69c3934a23a8",
       "type": "certs",
       "ln": 2
     },
@@ -6740,8 +6776,20 @@
     },
     {
       "host": "sbronm.com",
+      "links": "139.60.161.47",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "sbronm.com",
       "links": "7c3baed6482fea141fca31086ff6ad03adead1cd",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "scanixu.com",
+      "links": "139.60.161.47",
+      "type": "pdns",
       "ln": 2
     },
     {
