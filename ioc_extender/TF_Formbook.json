@@ -949,6 +949,12 @@
       "ln": 2
     },
     {
+      "host": "localhost.localdomain",
+      "links": "ca6a9ec2bc8388df4d5c76898f2a7dae938c8a0c",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "mail.akxchange.com",
       "links": "57d939e26681b948c3190e802832e29744b009c2",
       "type": "certs",
@@ -1345,12 +1351,6 @@
       "ln": 2
     },
     {
-      "host": "ns1.answerstrack.com",
-      "links": "162.0.233.6",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ns1.arbitchain.ltd",
       "links": "63.250.44.253",
       "type": "pdns",
@@ -1467,12 +1467,6 @@
     {
       "host": "ns2.allwarks.shop",
       "links": "63.250.35.57",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.answerstrack.com",
-      "links": "162.0.233.6",
       "type": "pdns",
       "ln": 2
     },
@@ -2476,12 +2470,6 @@
       "host": "www.gogokh.com",
       "links": "af5d4261a40c046ed439291d3bdb1b1f8bd63cd1",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "www.haxb33.xyz",
-      "links": "162.0.233.6",
-      "type": "pdns",
       "ln": 2
     },
     {

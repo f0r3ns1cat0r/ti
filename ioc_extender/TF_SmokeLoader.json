@@ -1094,6 +1094,12 @@
     },
     {
       "host": "file-coin-host-12.com",
+      "links": "46.173.219.196",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "file-coin-host-12.com",
       "links": "47.89.255.242",
       "type": "pdns",
       "ln": 2
@@ -1821,6 +1827,12 @@
     {
       "host": "privacy-tools-for-you-100.xyz",
       "links": "194.147.84.27",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "privacy-tools-for-you-100.xyz",
+      "links": "46.173.219.196",
       "type": "pdns",
       "ln": 2
     },
