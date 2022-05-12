@@ -20,31 +20,19 @@
   "data": [
     {
       "host": "ThreatFox: BitRAT",
-      "links": "eter102.dvrlists.com",
+      "links": "bitrat9300.duckdns.org",
       "type": "z",
       "ln": 2
     },
     {
-      "host": "eter101.dvrlists.com",
-      "links": "185.19.85.178",
+      "host": "bitrat9300.duckdns.org",
+      "links": "194.147.140.17",
       "type": "pdns",
       "ln": 2
     },
     {
-      "host": "eter102.dvrlists.com",
-      "links": "185.140.53.221",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "eter102.dvrlists.com",
-      "links": "185.19.85.178",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "eter103.dvrlists.com",
-      "links": "185.140.53.221",
+      "host": "dan9400.duckdns.org",
+      "links": "194.147.140.17",
       "type": "pdns",
       "ln": 2
     }

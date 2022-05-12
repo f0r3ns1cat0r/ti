@@ -302,6 +302,12 @@
     },
     {
       "host": "8888.google",
+      "links": "6b2fcc96493816e093a7d841980a1863fa4c2af7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "8888.google",
       "links": "92c862cfb1799ebc9f3715c41da8ce88241c8cdc",
       "type": "certs",
       "ln": 2
@@ -2486,6 +2492,12 @@
     },
     {
       "host": "chmowd.xyz",
+      "links": "6b2fcc96493816e093a7d841980a1863fa4c2af7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "chmowd.xyz",
       "links": "92c862cfb1799ebc9f3715c41da8ce88241c8cdc",
       "type": "certs",
       "ln": 2
@@ -3111,6 +3123,12 @@
     {
       "host": "dns64.dns.google",
       "links": "6875777f458559ce1daf42d91f25fe5b2721d8ee",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "dns64.dns.google",
+      "links": "6b2fcc96493816e093a7d841980a1863fa4c2af7",
       "type": "certs",
       "ln": 2
     },
@@ -4273,6 +4291,12 @@
       "ln": 2
     },
     {
+      "host": "hinft.cn",
+      "links": "e9e755a1698da28ded1427b3f7bd98e73b1e77a2",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "hivuce.com",
       "links": "23.81.246.114",
       "type": "pdns",
@@ -5260,12 +5284,6 @@
       "host": "luxury777ovo.com",
       "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "lwqlqrxnnrsb.info",
-      "links": "192.42.116.41",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -6283,6 +6301,42 @@
       "ln": 2
     },
     {
+      "host": "pervxl101.xyz",
+      "links": "e9e755a1698da28ded1427b3f7bd98e73b1e77a2",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "pervxl102.xyz",
+      "links": "e9e755a1698da28ded1427b3f7bd98e73b1e77a2",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "pervxl103.xyz",
+      "links": "e9e755a1698da28ded1427b3f7bd98e73b1e77a2",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "pervxl201.xyz",
+      "links": "e9e755a1698da28ded1427b3f7bd98e73b1e77a2",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "pervxl202.xyz",
+      "links": "e9e755a1698da28ded1427b3f7bd98e73b1e77a2",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "pervxl203.xyz",
+      "links": "e9e755a1698da28ded1427b3f7bd98e73b1e77a2",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "petlux.ma",
       "links": "635ae6c71205980a921a20b65f2a15216998de01",
       "type": "certs",
@@ -6381,6 +6435,12 @@
     {
       "host": "pokersonic.publicvm.com",
       "links": "666691373d3849bc59d6bba22cf5ab844b086171",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "pokersonic.publicvm.com",
+      "links": "6b2fcc96493816e093a7d841980a1863fa4c2af7",
       "type": "certs",
       "ln": 2
     },
@@ -7526,12 +7586,6 @@
     },
     {
       "host": "trendmrcio.com",
-      "links": "192.42.116.41",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "truefree.pw",
       "links": "192.42.116.41",
       "type": "pdns",
       "ln": 2

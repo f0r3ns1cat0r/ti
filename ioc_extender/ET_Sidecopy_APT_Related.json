@@ -62,7 +62,19 @@
     },
     {
       "host": "afrepublic.xyz",
+      "links": "56d5d8d70268799d993f177c8cc6696e88c3e7d6",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "afrepublic.xyz",
       "links": "71869a1cc9fb6e30d225da44e81f36e53052f083",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "app.esiv.be",
+      "links": "56d5d8d70268799d993f177c8cc6696e88c3e7d6",
       "type": "certs",
       "ln": 2
     },
@@ -87,6 +99,12 @@
     {
       "host": "republicofaf.xyz",
       "links": "28db6278b8a51f6eec9293836e1903bb782cc722",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "republicofaf.xyz",
+      "links": "56d5d8d70268799d993f177c8cc6696e88c3e7d6",
       "type": "certs",
       "ln": 2
     },

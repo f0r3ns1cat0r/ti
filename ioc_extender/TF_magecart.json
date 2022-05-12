@@ -55,6 +55,12 @@
       "ln": 2
     },
     {
+      "host": "1news-ru.ru",
+      "links": "e1568eb6242e3754b660c6c5f3f5e66a6ba55e87",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "1successresults.com",
       "links": "9fc8a24867a03252f89f19ac5094697cacdccc54",
       "type": "certs",
@@ -1534,6 +1540,12 @@
       "host": "kfateevo.store",
       "links": "9fc8a24867a03252f89f19ac5094697cacdccc54",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "kidakitap.com",
+      "links": "142.4.211.167",
+      "type": "pdns",
       "ln": 2
     },
     {
