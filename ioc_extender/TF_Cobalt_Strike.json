@@ -1274,6 +1274,12 @@
     },
     {
       "host": "adobeupdate.ddns.info",
+      "links": "6b2fcc96493816e093a7d841980a1863fa4c2af7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "adobeupdate.ddns.info",
       "links": "92c862cfb1799ebc9f3715c41da8ce88241c8cdc",
       "type": "certs",
       "ln": 2
@@ -2894,6 +2900,12 @@
     },
     {
       "host": "dajuw.com",
+      "links": "6b2fcc96493816e093a7d841980a1863fa4c2af7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "dajuw.com",
       "links": "e9e755a1698da28ded1427b3f7bd98e73b1e77a2",
       "type": "certs",
       "ln": 2
@@ -3022,12 +3034,6 @@
       "host": "dfvhpf.com",
       "links": "216edef2f26a94071007aab8ec5e36c6b072c949",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "dgudrunf77ai.info",
-      "links": "192.42.116.41",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -3998,6 +4004,12 @@
     },
     {
       "host": "gazprombank.com.ru",
+      "links": "6b2fcc96493816e093a7d841980a1863fa4c2af7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "gazprombank.com.ru",
       "links": "92c862cfb1799ebc9f3715c41da8ce88241c8cdc",
       "type": "certs",
       "ln": 2
@@ -4557,6 +4569,12 @@
     {
       "host": "intelupdate.dns1.us",
       "links": "666691373d3849bc59d6bba22cf5ab844b086171",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "intelupdate.dns1.us",
+      "links": "6b2fcc96493816e093a7d841980a1863fa4c2af7",
       "type": "certs",
       "ln": 2
     },
@@ -5323,6 +5341,24 @@
       "ln": 2
     },
     {
+      "host": "maherxscdn01.xyz",
+      "links": "6b2fcc96493816e093a7d841980a1863fa4c2af7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "maherxscdn02.xyz",
+      "links": "e9e755a1698da28ded1427b3f7bd98e73b1e77a2",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "maherxscdn03.xyz",
+      "links": "6b2fcc96493816e093a7d841980a1863fa4c2af7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "mail-settings.online",
       "links": "307f45733c1deb553c108ba6f11bc63ae0abada4",
       "type": "certs",
@@ -6033,6 +6069,12 @@
     {
       "host": "office.dns04.com",
       "links": "666691373d3849bc59d6bba22cf5ab844b086171",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "office.dns04.com",
+      "links": "6b2fcc96493816e093a7d841980a1863fa4c2af7",
       "type": "certs",
       "ln": 2
     },
@@ -7279,6 +7321,12 @@
       "ln": 2
     },
     {
+      "host": "sputnikviktori-pro.ru",
+      "links": "8d9fd71eca6dfad97ea3b794c4f998d9294f1723",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "sql.healthtechsales.com",
       "links": "143.198.158.146",
       "type": "pdns",
@@ -7330,12 +7378,6 @@
       "host": "storeloot.store",
       "links": "8d9fd71eca6dfad97ea3b794c4f998d9294f1723",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "strikotunrev.top",
-      "links": "192.42.116.41",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -7515,6 +7557,12 @@
     {
       "host": "theyardservice.com",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "tonyzbs.ru",
+      "links": "8d9fd71eca6dfad97ea3b794c4f998d9294f1723",
       "type": "certs",
       "ln": 2
     },
@@ -7959,6 +8007,12 @@
     {
       "host": "vpnkerio.com",
       "links": "666691373d3849bc59d6bba22cf5ab844b086171",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "vpnkerio.com",
+      "links": "6b2fcc96493816e093a7d841980a1863fa4c2af7",
       "type": "certs",
       "ln": 2
     },
@@ -8497,8 +8551,20 @@
       "ln": 2
     },
     {
+      "host": "xn----7sb3aqcgd0e.xn--p1ai",
+      "links": "8d9fd71eca6dfad97ea3b794c4f998d9294f1723",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "xn---64-5cduriitqboeoxq4ftd.xn--p1ai",
       "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "xn---82-fddihwm9axje.xn--p1ai",
+      "links": "8d9fd71eca6dfad97ea3b794c4f998d9294f1723",
       "type": "certs",
       "ln": 2
     },
@@ -8523,6 +8589,12 @@
     {
       "host": "xn--80addhmgaobjtlbb0bj.xn--p1ai",
       "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "xn--80ak4acffb.xn--p1ai",
+      "links": "8d9fd71eca6dfad97ea3b794c4f998d9294f1723",
       "type": "certs",
       "ln": 2
     },
@@ -8559,6 +8631,24 @@
     {
       "host": "xoz-torg.store",
       "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "xporncdn01.xyz",
+      "links": "e9e755a1698da28ded1427b3f7bd98e73b1e77a2",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "xporncdn02.xyz",
+      "links": "e9e755a1698da28ded1427b3f7bd98e73b1e77a2",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "xporncdn03.xyz",
+      "links": "e9e755a1698da28ded1427b3f7bd98e73b1e77a2",
       "type": "certs",
       "ln": 2
     },
