@@ -145,6 +145,12 @@
       "ln": 2
     },
     {
+      "host": "darkworldblackerlocker.dumb1.com",
+      "links": "45.137.20.4",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "godisgood1.hopto.org",
       "links": "146.70.35.187",
       "type": "pdns",
@@ -183,6 +189,12 @@
     {
       "host": "lockerrollercooller.mywire.org",
       "links": "198.46.132.206",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "lockerrollercooller.mywire.org",
+      "links": "45.137.20.4",
       "type": "pdns",
       "ln": 2
     },

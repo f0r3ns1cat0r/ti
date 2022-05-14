@@ -1208,6 +1208,12 @@
     },
     {
       "host": "adobeautoupdate.dns1.us",
+      "links": "6b2fcc96493816e093a7d841980a1863fa4c2af7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "adobeautoupdate.dns1.us",
       "links": "92c862cfb1799ebc9f3715c41da8ce88241c8cdc",
       "type": "certs",
       "ln": 2
@@ -1341,6 +1347,12 @@
     {
       "host": "adobeupdate.dns2.us",
       "links": "666691373d3849bc59d6bba22cf5ab844b086171",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "adobeupdate.dns2.us",
+      "links": "6b2fcc96493816e093a7d841980a1863fa4c2af7",
       "type": "certs",
       "ln": 2
     },
@@ -2637,6 +2649,12 @@
     {
       "host": "codorasys.com",
       "links": "e9e755a1698da28ded1427b3f7bd98e73b1e77a2",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "coff.su",
+      "links": "8d9fd71eca6dfad97ea3b794c4f998d9294f1723",
       "type": "certs",
       "ln": 2
     },
@@ -7375,6 +7393,12 @@
       "ln": 2
     },
     {
+      "host": "stonekamen.ru",
+      "links": "8d9fd71eca6dfad97ea3b794c4f998d9294f1723",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "storeloot.store",
       "links": "8d9fd71eca6dfad97ea3b794c4f998d9294f1723",
       "type": "certs",
@@ -8551,7 +8575,19 @@
       "ln": 2
     },
     {
+      "host": "xn-----6kcc8aorehecazy.xn--p1ai",
+      "links": "8d9fd71eca6dfad97ea3b794c4f998d9294f1723",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "xn----7sb3aqcgd0e.xn--p1ai",
+      "links": "8d9fd71eca6dfad97ea3b794c4f998d9294f1723",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "xn----7sbabejrnj9aqdm9c.xn--p1ai",
       "links": "8d9fd71eca6dfad97ea3b794c4f998d9294f1723",
       "type": "certs",
       "ln": 2
@@ -8594,6 +8630,18 @@
     },
     {
       "host": "xn--80ak4acffb.xn--p1ai",
+      "links": "8d9fd71eca6dfad97ea3b794c4f998d9294f1723",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "xn--90achlmkhiccl3amc.xn--p1ai",
+      "links": "8d9fd71eca6dfad97ea3b794c4f998d9294f1723",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "xn--b1aeaccas0aqddc7aqk3lf.xn--p1ai",
       "links": "8d9fd71eca6dfad97ea3b794c4f998d9294f1723",
       "type": "certs",
       "ln": 2

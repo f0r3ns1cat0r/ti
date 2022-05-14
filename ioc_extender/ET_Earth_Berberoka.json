@@ -50,6 +50,12 @@
     },
     {
       "host": "adobeautoupdate.dns1.us",
+      "links": "6b2fcc96493816e093a7d841980a1863fa4c2af7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "adobeautoupdate.dns1.us",
       "links": "e9e755a1698da28ded1427b3f7bd98e73b1e77a2",
       "type": "certs",
       "ln": 2
@@ -63,6 +69,12 @@
     {
       "host": "adobeupdate.ddns.info",
       "links": "e9e755a1698da28ded1427b3f7bd98e73b1e77a2",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "adobeupdate.dns2.us",
+      "links": "6b2fcc96493816e093a7d841980a1863fa4c2af7",
       "type": "certs",
       "ln": 2
     },
