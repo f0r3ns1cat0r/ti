@@ -974,12 +974,6 @@
     },
     {
       "host": "file-coin-coin-10.com",
-      "links": "87.251.79.93",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "file-coin-coin-10.com",
       "links": "87.251.79.99",
       "type": "pdns",
       "ln": 2
@@ -1131,6 +1125,12 @@
     {
       "host": "file-coin-host-12.com",
       "links": "94.103.87.199",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "file-coin-host-12.com",
+      "links": "94.228.125.39",
       "type": "pdns",
       "ln": 2
     },
@@ -1735,12 +1735,6 @@
       "ln": 2
     },
     {
-      "host": "pjr82milford.xyz",
-      "links": "192.42.116.41",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "pjure.at",
       "links": "185.95.186.58",
       "type": "pdns",
@@ -1815,6 +1809,12 @@
     {
       "host": "privacy-tools-for-you-100.xyz",
       "links": "46.173.219.217",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "privacy-tools-for-you-102.xyz",
+      "links": "94.228.125.39",
       "type": "pdns",
       "ln": 2
     },
