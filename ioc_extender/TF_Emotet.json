@@ -1238,6 +1238,12 @@
     },
     {
       "host": "izocab.com",
+      "links": "477416f6e7deb27ffe5adcafb1feb3763467f898",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "izocab.com",
       "links": "8d33af93d0993bdf8bec13379f9b581c2b1d065b",
       "type": "certs",
       "ln": 2
@@ -1621,12 +1627,6 @@
       "ln": 2
     },
     {
-      "host": "mmctextiles.com",
-      "links": "198.12.217.110",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "msk.eleccom.shop",
       "links": "91.226.80.51",
       "type": "pdns",
@@ -1761,6 +1761,12 @@
     {
       "host": "ru.izocab.com",
       "links": "069a2ff76db2f531888e0e8c1c5cbe82e54c0829",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "ru.izocab.com",
+      "links": "477416f6e7deb27ffe5adcafb1feb3763467f898",
       "type": "certs",
       "ln": 2
     },
@@ -2535,6 +2541,12 @@
     {
       "host": "www.ru.izocab.com",
       "links": "069a2ff76db2f531888e0e8c1c5cbe82e54c0829",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.ru.izocab.com",
+      "links": "477416f6e7deb27ffe5adcafb1feb3763467f898",
       "type": "certs",
       "ln": 2
     },

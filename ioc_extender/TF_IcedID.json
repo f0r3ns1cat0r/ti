@@ -601,12 +601,6 @@
       "ln": 2
     },
     {
-      "host": "afiirme-web.com",
-      "links": "51.89.73.150",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "agsdef.com",
       "links": "84.32.188.130",
       "type": "pdns",
@@ -2414,12 +2408,6 @@
     },
     {
       "host": "reseptors.com",
-      "links": "51.89.73.150",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "reseptors.com",
       "links": "5885238b553f48c5f80ad6d877d1eb6cc49d6a74",
       "type": "certs",
       "ln": 2
@@ -2595,6 +2583,12 @@
     {
       "host": "stenion.bond",
       "links": "db63f6c6b4951d847b4f2b3de8802917705c6dfc",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "strangeshoulder.net",
+      "links": "c03283374f3243335eb692972b851da248754d1f",
       "type": "certs",
       "ln": 2
     },

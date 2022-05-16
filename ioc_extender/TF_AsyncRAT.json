@@ -32,12 +32,6 @@
     },
     {
       "host": "ThreatFox: AsyncRAT",
-      "links": "bodmas01.zapto.org",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: AsyncRAT",
       "links": "crazydns.linkpc.net",
       "type": "z",
       "ln": 2
@@ -105,18 +99,6 @@
     {
       "host": "bigdips0n.publicvm.com",
       "links": "91.193.75.186",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "blade23.newyork-rack421.nodes.gen4.ninja",
-      "links": "191.96.227.192",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "bodmas01.zapto.org",
-      "links": "191.96.227.192",
       "type": "pdns",
       "ln": 2
     },
@@ -316,6 +298,12 @@
       "host": "ikatec.cloud",
       "links": "021cc80a118caa47313ca16a59d8e7b6787df70b",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "impots-gouv-verif.com",
+      "links": "212.192.241.104",
+      "type": "pdns",
       "ln": 2
     },
     {

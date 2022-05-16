@@ -26,6 +26,12 @@
     },
     {
       "host": "HP Threat Research: TA551",
+      "links": "digivape6.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "HP Threat Research: TA551",
       "links": "zslot8.com",
       "type": "z",
       "ln": 2
@@ -181,6 +187,12 @@
       "ln": 2
     },
     {
+      "host": "digivape6.com",
+      "links": "145.239.228.217",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ebiano.com",
       "links": "145.239.228.217",
       "type": "pdns",
@@ -200,6 +212,12 @@
     },
     {
       "host": "mail.tasmas.com",
+      "links": "145.239.228.217",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mohsenbeheshti.com",
       "links": "145.239.228.217",
       "type": "pdns",
       "ln": 2
