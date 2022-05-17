@@ -421,12 +421,6 @@
       "ln": 2
     },
     {
-      "host": "crasa.at",
-      "links": "87.106.18.141",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "entrate.bar",
       "links": "29b468ba8c7b5d845d5b57148b0b9a8c7b9db183",
       "type": "certs",
@@ -740,12 +734,6 @@
     },
     {
       "host": "linkspremium.ru",
-      "links": "31.41.44.3",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "linkspremium.ru",
       "links": "62.173.149.135",
       "type": "pdns",
       "ln": 2
@@ -829,12 +817,6 @@
       "ln": 2
     },
     {
-      "host": "ns1.ladyother.com",
-      "links": "31.41.44.3",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ns1.pointibo.xyz",
       "links": "199.192.24.38",
       "type": "pdns",
@@ -843,12 +825,6 @@
     {
       "host": "ns1.sodasphere.com",
       "links": "62.173.149.99",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.ladyother.com",
-      "links": "31.41.44.3",
       "type": "pdns",
       "ln": 2
     },

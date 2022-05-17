@@ -20,6 +20,12 @@
   "data": [
     {
       "host": "ThreatFox: Mirai",
+      "links": "dota.iwishiwashappy.eu",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Mirai",
       "links": "log.exposedbotnets.ru",
       "type": "z",
       "ln": 2
@@ -76,6 +82,18 @@
       "host": "deftsecurity.com",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "dota.iwishiwashappy.eu",
+      "links": "45.14.226.143",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "dota.iwishiwashappy.eu",
+      "links": "74.119.193.34",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -148,6 +166,54 @@
       "host": "ns1.avsvmcloud.com",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "ns1.hkthi.com",
+      "links": "45.14.226.143",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.hkthi.info",
+      "links": "45.14.226.143",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.hkthi.org",
+      "links": "45.14.226.143",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.jhefuke.com",
+      "links": "74.119.193.34",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.hkthi.com",
+      "links": "45.14.226.143",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.hkthi.info",
+      "links": "45.14.226.143",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.hkthi.org",
+      "links": "45.14.226.143",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.jhefuke.com",
+      "links": "74.119.193.34",
+      "type": "pdns",
       "ln": 2
     },
     {

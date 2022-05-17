@@ -44,6 +44,12 @@
     },
     {
       "host": "crazydns.linkpc.net",
+      "links": "91.193.75.143",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "crazydns.linkpc.net",
       "links": "91.193.75.189",
       "type": "pdns",
       "ln": 2
@@ -92,7 +98,7 @@
     },
     {
       "host": "rick63.publicvm.com",
-      "links": "91.193.75.133",
+      "links": "91.193.75.143",
       "type": "pdns",
       "ln": 2
     },
@@ -165,12 +171,6 @@
     {
       "host": "tq744.publicvm.com",
       "links": "91.193.75.240",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "travcharles.duia.ro",
-      "links": "91.193.75.133",
       "type": "pdns",
       "ln": 2
     },

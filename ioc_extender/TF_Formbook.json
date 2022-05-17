@@ -92,12 +92,6 @@
     },
     {
       "host": "ThreatFox: Formbook",
-      "links": "www.contex33.xyz",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: Formbook",
       "links": "www.contorig2.com",
       "type": "z",
       "ln": 2
@@ -153,12 +147,6 @@
     {
       "host": "ThreatFox: Formbook",
       "links": "www.magetu.info",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: Formbook",
-      "links": "www.mex33.info",
       "type": "z",
       "ln": 2
     },
@@ -505,6 +493,12 @@
       "ln": 2
     },
     {
+      "host": "cpanel.itslinuxfoss.com",
+      "links": "19a529bee06fb0c4faf3442b59564c8dc0b9e466",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "cpanel.maximus-tech-solutions.com",
       "links": "65a1650c8e02393bb5719027e40fa58d6362bfee",
       "type": "certs",
@@ -619,6 +613,12 @@
       "ln": 2
     },
     {
+      "host": "cpcalendars.itslinuxfoss.com",
+      "links": "19a529bee06fb0c4faf3442b59564c8dc0b9e466",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "cpcalendars.maximus-tech-solutions.com",
       "links": "65a1650c8e02393bb5719027e40fa58d6362bfee",
       "type": "certs",
@@ -729,6 +729,12 @@
     {
       "host": "cpcontacts.gogokh.com",
       "links": "af5d4261a40c046ed439291d3bdb1b1f8bd63cd1",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcontacts.itslinuxfoss.com",
+      "links": "19a529bee06fb0c4faf3442b59564c8dc0b9e466",
       "type": "certs",
       "ln": 2
     },
@@ -931,14 +937,14 @@
       "ln": 2
     },
     {
-      "host": "kuppers.info",
-      "links": "5fb4dfb797847a49768de4cab95e421597999356",
+      "host": "itslinuxfoss.com",
+      "links": "19a529bee06fb0c4faf3442b59564c8dc0b9e466",
       "type": "certs",
       "ln": 2
     },
     {
-      "host": "localhost.localdomain",
-      "links": "ca6a9ec2bc8388df4d5c76898f2a7dae938c8a0c",
+      "host": "kuppers.info",
+      "links": "5fb4dfb797847a49768de4cab95e421597999356",
       "type": "certs",
       "ln": 2
     },
@@ -987,6 +993,12 @@
     {
       "host": "mail.hyipboybtc.com",
       "links": "e8a659e3f6a913cf76b7f836c846bd74ffdf5f02",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.itslinuxfoss.com",
+      "links": "19a529bee06fb0c4faf3442b59564c8dc0b9e466",
       "type": "certs",
       "ln": 2
     },
@@ -1339,12 +1351,6 @@
       "ln": 2
     },
     {
-      "host": "ns1.arbitchain.ltd",
-      "links": "63.250.44.253",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ns1.beniasohokola.com",
       "links": "162.0.222.228",
       "type": "pdns",
@@ -1449,12 +1455,6 @@
     {
       "host": "ns2.allwarks.shop",
       "links": "63.250.35.57",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.arbitchain.ltd",
-      "links": "63.250.44.253",
       "type": "pdns",
       "ln": 2
     },
@@ -1657,6 +1657,12 @@
       "ln": 2
     },
     {
+      "host": "server1.itslinuxfoss.com",
+      "links": "55fcd4176f71d1f284234e4d7090b8c9c7f056d3",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "server1.katanacapital.tech",
       "links": "27a02278a2cb6dbfa358c3515f7caaf9f7037cf8",
       "type": "certs",
@@ -1813,6 +1819,12 @@
       "ln": 2
     },
     {
+      "host": "webdisk.itslinuxfoss.com",
+      "links": "19a529bee06fb0c4faf3442b59564c8dc0b9e466",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "webdisk.maximus-tech-solutions.com",
       "links": "65a1650c8e02393bb5719027e40fa58d6362bfee",
       "type": "certs",
@@ -1915,6 +1927,12 @@
       "ln": 2
     },
     {
+      "host": "webmail.itslinuxfoss.com",
+      "links": "19a529bee06fb0c4faf3442b59564c8dc0b9e466",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "webmail.maximus-tech-solutions.com",
       "links": "65a1650c8e02393bb5719027e40fa58d6362bfee",
       "type": "certs",
@@ -2002,12 +2020,6 @@
       "host": "whm.server1.coolstories22.com.ng",
       "links": "f70022349b3945e2d3a3abe8ea20a6c540f531b5",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "wpad.surf",
-      "links": "162.0.223.226",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -2132,6 +2144,12 @@
     },
     {
       "host": "www.brateix.info",
+      "links": "19a529bee06fb0c4faf3442b59564c8dc0b9e466",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.brateix.info",
       "links": "2b3af619e6713f9a2fc260584c56765ff0bc9983",
       "type": "certs",
       "ln": 2
@@ -2139,6 +2157,12 @@
     {
       "host": "www.brateix.info",
       "links": "3cd70b6b939e1317f15799407bf2d9042b6528e2",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.brateix.info",
+      "links": "55fcd4176f71d1f284234e4d7090b8c9c7f056d3",
       "type": "certs",
       "ln": 2
     },
@@ -2296,12 +2320,6 @@
       "host": "www.cinmax.xyz",
       "links": "f70022349b3945e2d3a3abe8ea20a6c540f531b5",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "www.contex33.xyz",
-      "links": "162.0.223.226",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -2479,6 +2497,12 @@
       "ln": 2
     },
     {
+      "host": "www.itslinuxfoss.com",
+      "links": "19a529bee06fb0c4faf3442b59564c8dc0b9e466",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "www.juxrams.info",
       "links": "162.0.223.225",
       "type": "pdns",
@@ -2542,12 +2566,6 @@
       "host": "www.maximus-tech-solutions.com",
       "links": "65a1650c8e02393bb5719027e40fa58d6362bfee",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "www.mex33.info",
-      "links": "162.0.223.226",
-      "type": "pdns",
       "ln": 2
     },
     {
