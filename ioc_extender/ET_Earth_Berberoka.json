@@ -26,6 +26,12 @@
     },
     {
       "host": "8888.google",
+      "links": "8e6e0bd7791964cad094374d2cab13f39f1c00be",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "8888.google",
       "links": "e9e755a1698da28ded1427b3f7bd98e73b1e77a2",
       "type": "certs",
       "ln": 2
@@ -122,6 +128,12 @@
     },
     {
       "host": "dajuw.com",
+      "links": "8e6e0bd7791964cad094374d2cab13f39f1c00be",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "dajuw.com",
       "links": "e9e755a1698da28ded1427b3f7bd98e73b1e77a2",
       "type": "certs",
       "ln": 2
@@ -134,7 +146,19 @@
     },
     {
       "host": "dns64.dns.google",
+      "links": "8e6e0bd7791964cad094374d2cab13f39f1c00be",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "dns64.dns.google",
       "links": "e9e755a1698da28ded1427b3f7bd98e73b1e77a2",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "earwaxgene.info",
+      "links": "6b2fcc96493816e093a7d841980a1863fa4c2af7",
       "type": "certs",
       "ln": 2
     },
@@ -147,6 +171,12 @@
     {
       "host": "gazprombank.com.ru",
       "links": "6b2fcc96493816e093a7d841980a1863fa4c2af7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "gazprombank.com.ru",
+      "links": "8e6e0bd7791964cad094374d2cab13f39f1c00be",
       "type": "certs",
       "ln": 2
     },
@@ -177,6 +207,12 @@
     {
       "host": "intelupdate.dns1.us",
       "links": "6b2fcc96493816e093a7d841980a1863fa4c2af7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "intelupdate.dns1.us",
+      "links": "8e6e0bd7791964cad094374d2cab13f39f1c00be",
       "type": "certs",
       "ln": 2
     },

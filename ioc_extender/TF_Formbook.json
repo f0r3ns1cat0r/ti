@@ -908,12 +908,6 @@
     },
     {
       "host": "hyipboybtc.com",
-      "links": "63.250.44.253",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "hyipboybtc.com",
       "links": "a6ccbe695b4da4deaccb0b0a38fe07311845d428",
       "type": "certs",
       "ln": 2
@@ -945,6 +939,12 @@
     {
       "host": "kuppers.info",
       "links": "5fb4dfb797847a49768de4cab95e421597999356",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "localhost.localdomain",
+      "links": "ca6a9ec2bc8388df4d5c76898f2a7dae938c8a0c",
       "type": "certs",
       "ln": 2
     },
@@ -1393,6 +1393,12 @@
       "ln": 2
     },
     {
+      "host": "ns1.itslinuxfoss.com",
+      "links": "199.192.17.149",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ns1.logosnode.com",
       "links": "199.192.17.149",
       "type": "pdns",
@@ -1503,6 +1509,12 @@
     {
       "host": "ns2.hasnahena.org",
       "links": "162.0.222.228",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.itslinuxfoss.com",
+      "links": "199.192.17.149",
       "type": "pdns",
       "ln": 2
     },
@@ -2224,12 +2236,6 @@
       "host": "www.casnop.com",
       "links": "5507922b90b7a62e2e7c34a476032844d1981d65",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "www.chaing-list.xyz",
-      "links": "63.250.44.253",
-      "type": "pdns",
       "ln": 2
     },
     {
