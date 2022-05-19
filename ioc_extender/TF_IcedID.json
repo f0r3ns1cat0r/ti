@@ -145,6 +145,12 @@
       "ln": 2
     },
     {
+      "host": "4da5945d0280a.org",
+      "links": "c03283374f3243335eb692972b851da248754d1f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "57b5546f.top",
       "links": "c03283374f3243335eb692972b851da248754d1f",
       "type": "certs",
@@ -626,6 +632,12 @@
     },
     {
       "host": "antnosience.com",
+      "links": "51.161.42.80",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "antnosience.com",
       "links": "93d190e9ff0adacde35695fe85d86f5a4ab636a6",
       "type": "certs",
       "ln": 2
@@ -777,6 +789,12 @@
     {
       "host": "blackhousevoid.com",
       "links": "143.110.214.243",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "blackhousevoid.com",
+      "links": "51.161.42.80",
       "type": "pdns",
       "ln": 2
     },
@@ -2053,6 +2071,12 @@
       "ln": 2
     },
     {
+      "host": "morninglikely.net",
+      "links": "c03283374f3243335eb692972b851da248754d1f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "moskomosto.top",
       "links": "137.184.117.189",
       "type": "pdns",
@@ -2673,6 +2697,12 @@
     {
       "host": "trendpiplis.com",
       "links": "143.110.214.243",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "trendpiplis.com",
+      "links": "51.161.42.80",
       "type": "pdns",
       "ln": 2
     },
