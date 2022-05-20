@@ -164,6 +164,12 @@
     },
     {
       "host": "antnosience.com",
+      "links": "864b8f1c270ab38ba116c3f9bc5fc07c930ccee1",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "antnosience.com",
       "links": "93d190e9ff0adacde35695fe85d86f5a4ab636a6",
       "type": "certs",
       "ln": 2
@@ -286,6 +292,12 @@
       "host": "blackhousevoid.com",
       "links": "51.161.42.80",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "blackhousevoid.com",
+      "links": "864b8f1c270ab38ba116c3f9bc5fc07c930ccee1",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -910,6 +922,12 @@
       "host": "trendpiplis.com",
       "links": "51.161.42.80",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "trendpiplis.com",
+      "links": "864b8f1c270ab38ba116c3f9bc5fc07c930ccee1",
+      "type": "certs",
       "ln": 2
     },
     {
