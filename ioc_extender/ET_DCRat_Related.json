@@ -1,0 +1,40 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ET Trojan: DCRat Related",
+      "links": "dcrat.ru",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "bomber.dcrat.ru",
+      "links": "452cd3a41c1dd4b09c3ecfa4644d72c723ef0b3b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "dcrat.ru",
+      "links": "452cd3a41c1dd4b09c3ecfa4644d72c723ef0b3b",
+      "type": "certs",
+      "ln": 2
+    }
+  ]
+}

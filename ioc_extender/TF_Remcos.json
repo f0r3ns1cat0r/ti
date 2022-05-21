@@ -19,6 +19,12 @@
   ],
   "data": [
     {
+      "host": "1116.hopto.org",
+      "links": "91.193.75.132",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ThreatFox: Remcos",
       "links": "boysgoblow.hopto.org",
       "type": "z",
@@ -274,12 +280,6 @@
       "host": "eter103.dvrlists.com",
       "links": "a3d0b11ecb6a009dc06dccc124f28b70d224126a",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "frankproxynue.duckdns.org",
-      "links": "181.131.217.138",
-      "type": "pdns",
       "ln": 2
     },
     {
