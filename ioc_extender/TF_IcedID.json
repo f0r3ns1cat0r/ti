@@ -2101,6 +2101,12 @@
       "ln": 2
     },
     {
+      "host": "mspl5-02.com",
+      "links": "c03283374f3243335eb692972b851da248754d1f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "msupdt.net",
       "links": "139.59.250.183",
       "type": "pdns",
@@ -2727,6 +2733,12 @@
     {
       "host": "trendpiplis.com",
       "links": "93d190e9ff0adacde35695fe85d86f5a4ab636a6",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "uavnlrraj.com",
+      "links": "c03283374f3243335eb692972b851da248754d1f",
       "type": "certs",
       "ln": 2
     },

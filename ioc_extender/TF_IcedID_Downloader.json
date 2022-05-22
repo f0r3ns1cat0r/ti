@@ -398,6 +398,12 @@
     },
     {
       "host": "ertimadifa.com",
+      "links": "164.92.104.194",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ertimadifa.com",
       "links": "394052afdf8ebba5274cb74380a8d8eff2bd4dca",
       "type": "certs",
       "ln": 2
@@ -406,6 +412,12 @@
       "host": "ertimadifa.com",
       "links": "fe58cea8a9a00e4388eaeae0cd431244262f12ed",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "fikasterwer.top",
+      "links": "164.92.104.194",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -729,6 +741,18 @@
     {
       "host": "jeliskvosh.com",
       "links": "dd712483a82b961a0fba4f0542168208aac98c14",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "jevejosader.top",
+      "links": "164.92.104.194",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "jevejosader.top",
+      "links": "394052afdf8ebba5274cb74380a8d8eff2bd4dca",
       "type": "certs",
       "ln": 2
     },
