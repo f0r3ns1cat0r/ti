@@ -25,6 +25,12 @@
       "ln": 2
     },
     {
+      "host": "ET Trojan: Quasar",
+      "links": "societyf500.ddns.net",
+      "type": "z",
+      "ln": 2
+    },
+    {
       "host": "black-crystal.net",
       "links": "856fd5f1994507e1b4d22d535b7b90f17c52124e",
       "type": "certs",
@@ -34,6 +40,18 @@
       "host": "cybercloudz.net",
       "links": "856fd5f1994507e1b4d22d535b7b90f17c52124e",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "societyf500.ddns.net",
+      "links": "91.109.180.7",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "zeroxzerox19.ddns.net",
+      "links": "91.109.180.7",
+      "type": "pdns",
       "ln": 2
     }
   ]
