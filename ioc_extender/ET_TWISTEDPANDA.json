@@ -1,0 +1,46 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ET Trojan: TWISTEDPANDA",
+      "links": "www.miniboxmail.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "btcadress.org",
+      "links": "195.93.173.40",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hiveos.eu",
+      "links": "195.93.173.40",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.miniboxmail.com",
+      "links": "195.93.173.40",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

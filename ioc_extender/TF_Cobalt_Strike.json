@@ -1507,6 +1507,12 @@
       "ln": 2
     },
     {
+      "host": "aleks-topiary.store",
+      "links": "8d9fd71eca6dfad97ea3b794c4f998d9294f1723",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "algo.cyou",
       "links": "fae8562d87b2585ec5e563332d0c17851182bfd4",
       "type": "certs",
@@ -4369,6 +4375,12 @@
       "ln": 2
     },
     {
+      "host": "hityok.com",
+      "links": "139.60.161.60",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "hivuce.com",
       "links": "23.81.246.114",
       "type": "pdns",
@@ -6589,12 +6601,6 @@
       "ln": 2
     },
     {
-      "host": "prcawshmofivlzdtwhqzpykv.info",
-      "links": "192.42.116.41",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "presentart.pt",
       "links": "4e5aec62bf06b70740511e03828fb1c6e84f5370",
       "type": "certs",
@@ -7135,6 +7141,12 @@
       "ln": 2
     },
     {
+      "host": "shormanz.com",
+      "links": "139.60.161.60",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "sib-trust.store",
       "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
       "type": "certs",
@@ -7185,6 +7197,12 @@
     {
       "host": "slo-uri.store",
       "links": "c4fcae41ae4c57061f31a74c2de72bc72afb2201",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "slovakeducation.store",
+      "links": "8d9fd71eca6dfad97ea3b794c4f998d9294f1723",
       "type": "certs",
       "ln": 2
     },
@@ -7957,6 +7975,12 @@
       "ln": 2
     },
     {
+      "host": "vedingumbr.com",
+      "links": "139.60.161.60",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "veivkqvvamlgx.info",
       "links": "192.42.116.41",
       "type": "pdns",
@@ -8684,6 +8708,12 @@
     },
     {
       "host": "xn--b1aeaccas0aqddc7aqk3lf.xn--p1ai",
+      "links": "8d9fd71eca6dfad97ea3b794c4f998d9294f1723",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "xn--c1aapkosob.com",
       "links": "8d9fd71eca6dfad97ea3b794c4f998d9294f1723",
       "type": "certs",
       "ln": 2

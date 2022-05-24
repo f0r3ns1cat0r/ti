@@ -74,12 +74,6 @@
     },
     {
       "host": "ThreatFox: Formbook",
-      "links": "www.chaytel.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: Formbook",
       "links": "www.christopherngai.com",
       "type": "z",
       "ln": 2
@@ -367,12 +361,6 @@
       "ln": 2
     },
     {
-      "host": "chaytel.com",
-      "links": "162.0.219.214",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "christopherngai.com",
       "links": "04f7ab2f16835ea385492a3c292e8d49483ffa5c",
       "type": "certs",
@@ -541,6 +529,12 @@
       "ln": 2
     },
     {
+      "host": "cpanel.server1.itslinuxfoss.com",
+      "links": "d86f61f28de965bde01ef64426aab03649466af8",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "cpanel.soft-shop.app",
       "links": "1bea842d541474abfeb1ad4f4f51a7a73cff58bd",
       "type": "certs",
@@ -661,6 +655,12 @@
       "ln": 2
     },
     {
+      "host": "cpcalendars.server1.itslinuxfoss.com",
+      "links": "d86f61f28de965bde01ef64426aab03649466af8",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "cpcalendars.soft-shop.app",
       "links": "1bea842d541474abfeb1ad4f4f51a7a73cff58bd",
       "type": "certs",
@@ -777,6 +777,12 @@
     {
       "host": "cpcontacts.server1.coolstories22.com.ng",
       "links": "f70022349b3945e2d3a3abe8ea20a6c540f531b5",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcontacts.server1.itslinuxfoss.com",
+      "links": "d86f61f28de965bde01ef64426aab03649466af8",
       "type": "certs",
       "ln": 2
     },
@@ -943,12 +949,6 @@
       "ln": 2
     },
     {
-      "host": "localhost.localdomain",
-      "links": "ca6a9ec2bc8388df4d5c76898f2a7dae938c8a0c",
-      "type": "certs",
-      "ln": 2
-    },
-    {
       "host": "mail.akxchange.com",
       "links": "57d939e26681b948c3190e802832e29744b009c2",
       "type": "certs",
@@ -1071,6 +1071,12 @@
     {
       "host": "mail.server1.coolstories22.com.ng",
       "links": "f70022349b3945e2d3a3abe8ea20a6c540f531b5",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.server1.itslinuxfoss.com",
+      "links": "d86f61f28de965bde01ef64426aab03649466af8",
       "type": "certs",
       "ln": 2
     },
@@ -1579,6 +1585,12 @@
       "ln": 2
     },
     {
+      "host": "server1.itslinuxfoss.com",
+      "links": "d86f61f28de965bde01ef64426aab03649466af8",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "server1.katanacapital.tech",
       "links": "27a02278a2cb6dbfa358c3515f7caaf9f7037cf8",
       "type": "certs",
@@ -1891,6 +1903,12 @@
       "ln": 2
     },
     {
+      "host": "webmail.server1.itslinuxfoss.com",
+      "links": "d86f61f28de965bde01ef64426aab03649466af8",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "webmail.soft-shop.app",
       "links": "1bea842d541474abfeb1ad4f4f51a7a73cff58bd",
       "type": "certs",
@@ -1935,6 +1953,12 @@
     {
       "host": "whm.server1.coolstories22.com.ng",
       "links": "f70022349b3945e2d3a3abe8ea20a6c540f531b5",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "whm.server1.itslinuxfoss.com",
+      "links": "d86f61f28de965bde01ef64426aab03649466af8",
       "type": "certs",
       "ln": 2
     },
@@ -2096,6 +2120,12 @@
     },
     {
       "host": "www.brateix.info",
+      "links": "d86f61f28de965bde01ef64426aab03649466af8",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.brateix.info",
       "links": "de1fdeba0e7a8ecc92e89d3f1fd9d44fbac7c58f",
       "type": "certs",
       "ln": 2
@@ -2158,12 +2188,6 @@
       "host": "www.chaing-list.xyz",
       "links": "e8a659e3f6a913cf76b7f836c846bd74ffdf5f02",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "www.chaytel.com",
-      "links": "162.0.219.214",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -2721,6 +2745,12 @@
     {
       "host": "www.server1.coolstories22.com.ng",
       "links": "f70022349b3945e2d3a3abe8ea20a6c540f531b5",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.server1.itslinuxfoss.com",
+      "links": "d86f61f28de965bde01ef64426aab03649466af8",
       "type": "certs",
       "ln": 2
     },
