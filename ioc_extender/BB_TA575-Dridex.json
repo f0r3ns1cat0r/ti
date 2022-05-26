@@ -9361,6 +9361,12 @@
       "ln": 2
     },
     {
+      "host": "rez.volna.top",
+      "links": "af5830f3b20ae5b37a283cdec8795ac26089b0ce",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "ringoku.work",
       "links": "d8c4443a159f82d52a33ac137e68a3c60fff83a2",
       "type": "certs",
@@ -11074,6 +11080,12 @@
       "host": "volna.top",
       "links": "51.158.122.151",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "volna.top",
+      "links": "af5830f3b20ae5b37a283cdec8795ac26089b0ce",
+      "type": "certs",
       "ln": 2
     },
     {
