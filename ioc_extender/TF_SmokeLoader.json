@@ -1285,12 +1285,6 @@
       "ln": 2
     },
     {
-      "host": "govfree.pw",
-      "links": "192.42.116.41",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "groupealmakrizi.com",
       "links": "abc582733ecd762ced4df0f28829c39e78c26ff4",
       "type": "certs",
@@ -1803,6 +1797,12 @@
     {
       "host": "privacy-tools-for-you-792.com",
       "links": "80.66.64.204",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "privacy-tools-for-you-793.com",
+      "links": "185.151.147.191",
       "type": "pdns",
       "ln": 2
     },

@@ -80,6 +80,12 @@
     },
     {
       "host": "ThreatFox: SMSspy",
+      "links": "iran-eblagh-ir.cf",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: SMSspy",
       "links": "myadliran.com",
       "type": "z",
       "ln": 2
@@ -343,6 +349,30 @@
       "ln": 2
     },
     {
+      "host": "iran-eblagh-ir.cf",
+      "links": "3f68a75c0b7ccb06ae2fe5287b74cf38f6ba3809",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "iran-eblagh-ir.cf",
+      "links": "89c3b6970cbb9cbc5dfb9f6b6ca6ab2e98357fe3",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "iran-eblagh-ir.cf.king-mester.tk",
+      "links": "89c3b6970cbb9cbc5dfb9f6b6ca6ab2e98357fe3",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "iran-eblagh-ir.cf.mester-sew.tk",
+      "links": "3f68a75c0b7ccb06ae2fe5287b74cf38f6ba3809",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "mail.dadgahieir.cf",
       "links": "2d19be71aeaaac35d1fd6971fbd57c789907353b",
       "type": "certs",
@@ -531,6 +561,18 @@
     {
       "host": "www.eladate.ml",
       "links": "8f42bdf95e26795f21544dcc27f697f8a9ba8622",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.iran-eblagh-ir.cf.king-mester.tk",
+      "links": "89c3b6970cbb9cbc5dfb9f6b6ca6ab2e98357fe3",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.iran-eblagh-ir.cf.mester-sew.tk",
+      "links": "3f68a75c0b7ccb06ae2fe5287b74cf38f6ba3809",
       "type": "certs",
       "ln": 2
     },
