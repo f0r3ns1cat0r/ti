@@ -38,12 +38,6 @@
     },
     {
       "host": "ThreatFox: AsyncRAT",
-      "links": "fresh01.ddns.net",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: AsyncRAT",
       "links": "lyoni-55552.portmap.host",
       "type": "z",
       "ln": 2
@@ -69,6 +63,12 @@
     {
       "host": "agnus.app",
       "links": "021cc80a118caa47313ca16a59d8e7b6787df70b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "agnus.app",
+      "links": "2e1c61bf71a42f8ee3937bd7f55719b693681c88",
       "type": "certs",
       "ln": 2
     },
@@ -109,6 +109,12 @@
       "ln": 2
     },
     {
+      "host": "box4launch.app",
+      "links": "2e1c61bf71a42f8ee3937bd7f55719b693681c88",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "clientcode.net",
       "links": "021cc80a118caa47313ca16a59d8e7b6787df70b",
       "type": "certs",
@@ -130,12 +136,6 @@
       "host": "cplusaganteng27.net",
       "links": "ae51a24ffc60075852ec63e9d450da44adccd4ca",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "crazydns.linkpc.net",
-      "links": "91.193.75.143",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -181,8 +181,20 @@
       "ln": 2
     },
     {
+      "host": "digisac.app",
+      "links": "2e1c61bf71a42f8ee3937bd7f55719b693681c88",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "digisac.chat",
       "links": "021cc80a118caa47313ca16a59d8e7b6787df70b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "digisac.chat",
+      "links": "2e1c61bf71a42f8ee3937bd7f55719b693681c88",
       "type": "certs",
       "ln": 2
     },
@@ -193,8 +205,20 @@
       "ln": 2
     },
     {
+      "host": "digisac.co",
+      "links": "2e1c61bf71a42f8ee3937bd7f55719b693681c88",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "digisac.com.br",
       "links": "021cc80a118caa47313ca16a59d8e7b6787df70b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "digisac.com.br",
+      "links": "2e1c61bf71a42f8ee3937bd7f55719b693681c88",
       "type": "certs",
       "ln": 2
     },
@@ -205,8 +229,20 @@
       "ln": 2
     },
     {
+      "host": "digisac.io",
+      "links": "2e1c61bf71a42f8ee3937bd7f55719b693681c88",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "digisac.me",
       "links": "021cc80a118caa47313ca16a59d8e7b6787df70b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "digisac.me",
+      "links": "2e1c61bf71a42f8ee3937bd7f55719b693681c88",
       "type": "certs",
       "ln": 2
     },
@@ -241,12 +277,6 @@
       "ln": 2
     },
     {
-      "host": "fresh01.ddns.net",
-      "links": "79.134.225.8",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "fundationsecurity.com",
       "links": "021cc80a118caa47313ca16a59d8e7b6787df70b",
       "type": "certs",
@@ -268,12 +298,6 @@
       "host": "greatplacetovvork.com",
       "links": "ae51a24ffc60075852ec63e9d450da44adccd4ca",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "hafiznor336.duckdns.org",
-      "links": "79.134.225.8",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -303,6 +327,12 @@
     {
       "host": "ikatec.cloud",
       "links": "021cc80a118caa47313ca16a59d8e7b6787df70b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "ikatec.cloud",
+      "links": "2e1c61bf71a42f8ee3937bd7f55719b693681c88",
       "type": "certs",
       "ln": 2
     },
@@ -361,8 +391,20 @@
       "ln": 2
     },
     {
+      "host": "mandeumzap.app",
+      "links": "2e1c61bf71a42f8ee3937bd7f55719b693681c88",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "mandeumzap.com.br",
       "links": "021cc80a118caa47313ca16a59d8e7b6787df70b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mandeumzap.com.br",
+      "links": "2e1c61bf71a42f8ee3937bd7f55719b693681c88",
       "type": "certs",
       "ln": 2
     },
@@ -393,6 +435,12 @@
     {
       "host": "nyannewtoday.duckdns.org",
       "links": "021cc80a118caa47313ca16a59d8e7b6787df70b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "nyannewtoday.duckdns.org",
+      "links": "2e1c61bf71a42f8ee3937bd7f55719b693681c88",
       "type": "certs",
       "ln": 2
     },
@@ -457,9 +505,9 @@
       "ln": 2
     },
     {
-      "host": "rick63.publicvm.com",
-      "links": "91.193.75.143",
-      "type": "pdns",
+      "host": "redirection-topayplcstmrs.tech",
+      "links": "2e1c61bf71a42f8ee3937bd7f55719b693681c88",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -507,6 +555,12 @@
     {
       "host": "sorteiazap.com.br",
       "links": "021cc80a118caa47313ca16a59d8e7b6787df70b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "sorteiazap.com.br",
+      "links": "2e1c61bf71a42f8ee3937bd7f55719b693681c88",
       "type": "certs",
       "ln": 2
     },

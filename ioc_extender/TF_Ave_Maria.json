@@ -139,12 +139,6 @@
       "ln": 2
     },
     {
-      "host": "fresh01.ddns.net",
-      "links": "79.134.225.8",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "haash.duckdns.org",
       "links": "197.211.61.35",
       "type": "pdns",
@@ -153,12 +147,6 @@
     {
       "host": "hafiznor336.duckdns.org",
       "links": "197.211.61.35",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "hafiznor336.duckdns.org",
-      "links": "79.134.225.8",
       "type": "pdns",
       "ln": 2
     },
@@ -183,6 +171,12 @@
     {
       "host": "info1.dynamic-dns.net",
       "links": "122.180.86.185",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "info1.dynamic-dns.net",
+      "links": "160.152.109.137",
       "type": "pdns",
       "ln": 2
     },
@@ -333,6 +327,12 @@
     {
       "host": "iphanyi.chickenkiller.com",
       "links": "122.180.86.185",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iphanyi.chickenkiller.com",
+      "links": "160.152.109.137",
       "type": "pdns",
       "ln": 2
     },
@@ -567,6 +567,12 @@
     {
       "host": "iphy.strangled.net",
       "links": "122.180.86.185",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iphy.strangled.net",
+      "links": "160.152.109.137",
       "type": "pdns",
       "ln": 2
     },
@@ -645,6 +651,12 @@
     {
       "host": "nweke.ddnsgeek.com",
       "links": "216.246.49.168",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "rick63.publicvm.com",
+      "links": "91.193.75.222",
       "type": "pdns",
       "ln": 2
     },
