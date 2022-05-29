@@ -818,6 +818,12 @@
     },
     {
       "host": "neuinfotech.com",
+      "links": "164.92.104.194",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "neuinfotech.com",
       "links": "394052afdf8ebba5274cb74380a8d8eff2bd4dca",
       "type": "certs",
       "ln": 2
