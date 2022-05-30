@@ -253,12 +253,6 @@
       "ln": 2
     },
     {
-      "host": "api3.lamanak.at",
-      "links": "87.106.18.141",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "app.crasa.at",
       "links": "87.106.18.141",
       "type": "pdns",
@@ -412,6 +406,12 @@
       "host": "cpcontacts.veobionline.com",
       "links": "fc5034e563be8f445aa37eb4db412d98017d4228",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "crasa.at",
+      "links": "87.106.18.141",
+      "type": "pdns",
       "ln": 2
     },
     {

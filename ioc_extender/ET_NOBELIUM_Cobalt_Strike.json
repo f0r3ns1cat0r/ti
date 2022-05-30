@@ -20,8 +20,20 @@
   "data": [
     {
       "host": "ET Trojan: NOBELIUM Cobalt Strike",
+      "links": "dom-news.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: NOBELIUM Cobalt Strike",
       "links": "midcitylanews.com",
       "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "dom-news.com",
+      "links": "103.232.53.230",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -34,6 +46,12 @@
       "host": "midcitylanews.com",
       "links": "e460870b1758f359cf70b84ed912e851d7d48362",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "update.volamhungba.vn",
+      "links": "103.232.53.230",
+      "type": "pdns",
       "ln": 2
     },
     {
