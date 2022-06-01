@@ -19,6 +19,12 @@
   ],
   "data": [
     {
+      "host": "1biggie.publicvm.com",
+      "links": "91.193.75.196",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "3laallah.myvnc.com",
       "links": "198.244.206.23",
       "type": "pdns",
@@ -152,6 +158,18 @@
     },
     {
       "host": "crazydns.linkpc.net",
+      "links": "91.193.75.196",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "crazydns.linkpc.net",
+      "links": "91.193.75.204",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "crazydns.linkpc.net",
       "links": "91.193.75.239",
       "type": "pdns",
       "ln": 2
@@ -244,6 +262,12 @@
       "host": "digisac.me",
       "links": "ae51a24ffc60075852ec63e9d450da44adccd4ca",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "ecx1hang.publicvm.com",
+      "links": "91.193.75.204",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -367,6 +391,12 @@
       "ln": 2
     },
     {
+      "host": "lordfish12312-53903.portmap.host",
+      "links": "6e57f1b6a7b6e3506ddfa87664faee91ac5c6f05",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "lyoni-55552.portmap.host",
       "links": "6e57f1b6a7b6e3506ddfa87664faee91ac5c6f05",
       "type": "certs",
@@ -411,6 +441,12 @@
     {
       "host": "minecrafthosting6969-35389.portmap.io",
       "links": "de23e3ce838f2334ffeabac6b29a59d49c4f90a7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "misall-dev.com",
+      "links": "2e1c61bf71a42f8ee3937bd7f55719b693681c88",
       "type": "certs",
       "ln": 2
     },
@@ -513,6 +549,12 @@
     {
       "host": "rick63.publicvm.com",
       "links": "91.193.75.194",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "rick63.publicvm.com",
+      "links": "91.193.75.204",
       "type": "pdns",
       "ln": 2
     },

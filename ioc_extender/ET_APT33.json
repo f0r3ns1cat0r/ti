@@ -61,12 +61,6 @@
       "ln": 2
     },
     {
-      "host": "archicoon.hopto.com",
-      "links": "192.163.237.103",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "bifrost-jordan.zapto.org",
       "links": "52.204.228.76",
       "type": "pdns",
@@ -1906,12 +1900,6 @@
       "host": "hopto.com",
       "links": "ffd39fa833b5e8c5f80a0b8dbd85137b25b0f9d5",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "https://archicoon.hopto.com",
-      "links": "192.163.237.103",
-      "type": "pdns",
       "ln": 2
     },
     {
