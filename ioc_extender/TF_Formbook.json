@@ -62,6 +62,12 @@
     },
     {
       "host": "ThreatFox: Formbook",
+      "links": "www.calsury.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Formbook",
       "links": "www.casnop.com",
       "type": "z",
       "ln": 2
@@ -925,6 +931,12 @@
       "ln": 2
     },
     {
+      "host": "iptu.cariocariodigital.org",
+      "links": "8625428d8a51c6a7e9a348cd15576da8f27a0a35",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "itslinuxfoss.com",
       "links": "19a529bee06fb0c4faf3442b59564c8dc0b9e466",
       "type": "certs",
@@ -1591,6 +1603,12 @@
       "ln": 2
     },
     {
+      "host": "server1.metorus.com",
+      "links": "cff128bffc6c7637304b01feb41b5daec1e6cf39",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "server1.passamcq.com",
       "links": "7eddb5be9c548b2edffee49beff8e6a1f97cfefd",
       "type": "certs",
@@ -1600,6 +1618,12 @@
       "host": "server1.q1bookscdn.com",
       "links": "826e72979d5297285176543807d299cb5f802db3",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "soft-shop.app",
+      "links": "162.0.221.213",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -2143,6 +2167,18 @@
       "ln": 2
     },
     {
+      "host": "www.calsury.com",
+      "links": "8625428d8a51c6a7e9a348cd15576da8f27a0a35",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.calsury.com",
+      "links": "cff128bffc6c7637304b01feb41b5daec1e6cf39",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "www.casnop.com",
       "links": "162.0.216.51",
       "type": "pdns",
@@ -2409,6 +2445,12 @@
     {
       "host": "www.idealprofiel-registratie.site",
       "links": "5fb4dfb797847a49768de4cab95e421597999356",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.iptu.cariocariodigital.org",
+      "links": "8625428d8a51c6a7e9a348cd15576da8f27a0a35",
       "type": "certs",
       "ln": 2
     },

@@ -26,6 +26,12 @@
     },
     {
       "host": "ThreatFox: Mirai",
+      "links": "fridgexperts.cc",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Mirai",
       "links": "log.exposedbotnets.ru",
       "type": "z",
       "ln": 2
@@ -91,6 +97,30 @@
       "ln": 2
     },
     {
+      "host": "fridgexperts.cc",
+      "links": "139.162.69.4",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "gortisir.ru",
+      "links": "139.162.69.4",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "gortomalo.ru",
+      "links": "139.162.69.4",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iruto.ru",
+      "links": "139.162.69.4",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "knjghuig.biz",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
@@ -100,6 +130,12 @@
       "host": "lab.symantecsafe.org",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "langosta.ru",
+      "links": "139.162.69.4",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -115,6 +151,18 @@
       "ln": 2
     },
     {
+      "host": "maizuko.ru",
+      "links": "139.162.69.4",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "malgaloda.ru",
+      "links": "139.162.69.4",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "nazi.uy",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
@@ -127,9 +175,87 @@
       "ln": 2
     },
     {
+      "host": "ns1.aibin.info",
+      "links": "193.178.210.90",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.alsbin.info",
+      "links": "193.178.210.90",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ns1.avsvmcloud.com",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "ns1.binanx.works",
+      "links": "193.178.210.90",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.canfar.sbs",
+      "links": "193.178.210.90",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.casbin.info",
+      "links": "193.178.210.90",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.coreany.space",
+      "links": "193.178.210.90",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.didgain.space",
+      "links": "193.178.210.90",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.elseice.website",
+      "links": "193.178.210.90",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.eribin.info",
+      "links": "193.178.210.90",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.flatis.uno",
+      "links": "193.178.210.90",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.fobin.info",
+      "links": "193.178.210.90",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.forhalf.space",
+      "links": "193.178.210.90",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.hellcs.fun",
+      "links": "193.178.210.90",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -151,8 +277,44 @@
       "ln": 2
     },
     {
+      "host": "ns1.jesbin.info",
+      "links": "193.178.210.90",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ns1.jhefuke.com",
       "links": "74.119.193.34",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.kbinan.info",
+      "links": "193.178.210.90",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.kopbin.info",
+      "links": "193.178.210.90",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.perbin.info",
+      "links": "193.178.210.90",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.rotbin.info",
+      "links": "193.178.210.90",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.vosbin.info",
+      "links": "193.178.210.90",
       "type": "pdns",
       "ln": 2
     },
@@ -196,6 +358,12 @@
       "host": "static.theyardservice.com",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "takak.ru",
+      "links": "139.162.69.4",
+      "type": "pdns",
       "ln": 2
     },
     {

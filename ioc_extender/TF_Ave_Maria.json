@@ -85,6 +85,12 @@
       "ln": 2
     },
     {
+      "host": "ThreatFox: Ave Maria",
+      "links": "zoneproess.duckdns.org",
+      "type": "z",
+      "ln": 2
+    },
+    {
       "host": "auragmdh.com",
       "links": "185.140.53.73",
       "type": "pdns",
@@ -93,6 +99,12 @@
     {
       "host": "bakuzamokala.duckdns.org",
       "links": "103.133.105.61",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "bakuzamokala.duckdns.org",
+      "links": "194.31.98.108",
       "type": "pdns",
       "ln": 2
     },
@@ -224,6 +236,12 @@
     },
     {
       "host": "info1.dynamic-dns.net",
+      "links": "160.152.27.4",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "info1.dynamic-dns.net",
       "links": "160.152.83.172",
       "type": "pdns",
       "ln": 2
@@ -315,12 +333,6 @@
     {
       "host": "info1.dynamic-dns.net",
       "links": "91.193.75.136",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "info1.dynamic-dns.net",
-      "links": "91.193.75.146",
       "type": "pdns",
       "ln": 2
     },
@@ -404,6 +416,12 @@
     },
     {
       "host": "iphanyi.chickenkiller.com",
+      "links": "160.152.27.4",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iphanyi.chickenkiller.com",
       "links": "160.152.83.172",
       "type": "pdns",
       "ln": 2
@@ -488,12 +506,6 @@
     },
     {
       "host": "iphanyi.chickenkiller.com",
-      "links": "91.193.75.146",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "iphanyi.chickenkiller.com",
       "links": "91.193.75.166",
       "type": "pdns",
       "ln": 2
@@ -555,12 +567,6 @@
     {
       "host": "iphanyi.webredirect.org",
       "links": "91.193.75.136",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "iphanyi.webredirect.org",
-      "links": "91.193.75.146",
       "type": "pdns",
       "ln": 2
     },
@@ -686,6 +692,12 @@
     },
     {
       "host": "mobibanewdan.duckdns.org",
+      "links": "194.31.98.108",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mobibanewdan.duckdns.org",
       "links": "65.108.68.54",
       "type": "pdns",
       "ln": 2
@@ -721,6 +733,12 @@
       "ln": 2
     },
     {
+      "host": "streelifes.duckdns.org",
+      "links": "185.29.8.57",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "sydlarremedies.com",
       "links": "185.140.53.73",
       "type": "pdns",
@@ -745,8 +763,20 @@
       "ln": 2
     },
     {
+      "host": "vncgoga.duckdns.org",
+      "links": "194.31.98.108",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "vpnnid.hopto.org",
       "links": "85.202.169.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "zoneproess.duckdns.org",
+      "links": "185.29.8.57",
       "type": "pdns",
       "ln": 2
     }

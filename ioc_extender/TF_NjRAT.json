@@ -62,6 +62,12 @@
     },
     {
       "host": "bakuzamokala.duckdns.org",
+      "links": "194.31.98.108",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "bakuzamokala.duckdns.org",
       "links": "65.108.68.54",
       "type": "pdns",
       "ln": 2
@@ -98,6 +104,12 @@
     },
     {
       "host": "mobibanewdan.duckdns.org",
+      "links": "194.31.98.108",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mobibanewdan.duckdns.org",
       "links": "65.108.68.54",
       "type": "pdns",
       "ln": 2
@@ -111,6 +123,12 @@
     {
       "host": "vncgoga.duckdns.org",
       "links": "103.133.105.61",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "vncgoga.duckdns.org",
+      "links": "194.31.98.108",
       "type": "pdns",
       "ln": 2
     },
