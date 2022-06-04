@@ -1,0 +1,40 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ET Trojan: TA455 Related",
+      "links": "electroboard.net",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "electroboard.net",
+      "links": "20.94.209.251",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "librarycollection.org",
+      "links": "20.94.209.251",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

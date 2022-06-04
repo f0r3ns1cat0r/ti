@@ -61,6 +61,12 @@
       "ln": 2
     },
     {
+      "host": "adpfr.ro",
+      "links": "dd644edba6fff208602de6035d689dda54bc6aa3",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "ftp.adpfr.ro",
       "links": "3eed09db7eb9054fb933bc0c9d4ea1e66a64bb5c",
       "type": "certs",
@@ -97,6 +103,12 @@
       "ln": 2
     },
     {
+      "host": "ftp.adpfr.ro",
+      "links": "dd644edba6fff208602de6035d689dda54bc6aa3",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "www.adcm.adpfr.ro",
       "links": "3eed09db7eb9054fb933bc0c9d4ea1e66a64bb5c",
       "type": "certs",
@@ -127,6 +139,12 @@
       "ln": 2
     },
     {
+      "host": "www.adcm.adpfr.ro",
+      "links": "dd644edba6fff208602de6035d689dda54bc6aa3",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "www.orda.adpfr.ro",
       "links": "3eed09db7eb9054fb933bc0c9d4ea1e66a64bb5c",
       "type": "certs",
@@ -151,6 +169,12 @@
       "ln": 2
     },
     {
+      "host": "www.orda.adpfr.ro",
+      "links": "dd644edba6fff208602de6035d689dda54bc6aa3",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "www.raportare.adpfr.ro",
       "links": "3eed09db7eb9054fb933bc0c9d4ea1e66a64bb5c",
       "type": "certs",
@@ -175,6 +199,12 @@
       "ln": 2
     },
     {
+      "host": "www.raportare.adpfr.ro",
+      "links": "dd644edba6fff208602de6035d689dda54bc6aa3",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "www.raptest.adpfr.ro",
       "links": "3eed09db7eb9054fb933bc0c9d4ea1e66a64bb5c",
       "type": "certs",
@@ -195,6 +225,12 @@
     {
       "host": "www.raptest.adpfr.ro",
       "links": "c6a34e2c31c70417fab93cce6896b6b098dbac47",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.raptest.adpfr.ro",
+      "links": "dd644edba6fff208602de6035d689dda54bc6aa3",
       "type": "certs",
       "ln": 2
     }

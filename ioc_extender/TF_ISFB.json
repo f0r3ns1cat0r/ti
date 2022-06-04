@@ -194,6 +194,12 @@
     },
     {
       "host": "ThreatFox: ISFB",
+      "links": "portablesoft.bar",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: ISFB",
       "links": "premiumlists.ru",
       "type": "z",
       "ln": 2
@@ -208,6 +214,12 @@
       "host": "ThreatFox: ISFB",
       "links": "v10.avyanok.com",
       "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "aaaaa.bar",
+      "links": "31.41.45.79",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -297,12 +309,6 @@
     {
       "host": "bookliner.top",
       "links": "62.173.149.135",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "c56.lepini.at",
-      "links": "87.106.18.141",
       "type": "pdns",
       "ln": 2
     },
@@ -721,12 +727,6 @@
       "ln": 2
     },
     {
-      "host": "magcih.xyz",
-      "links": "199.192.24.38",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "mail.server1.pointibo.xyz",
       "links": "a9a9b1938067fa391dd59280f8e9f51625efa947",
       "type": "certs",
@@ -835,6 +835,12 @@
       "ln": 2
     },
     {
+      "host": "portablesoft.bar",
+      "links": "31.41.45.79",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "portale-cliente-info-configure.dns1.us",
       "links": "5c600299731bdfe7340872623a510f0adfcba24d",
       "type": "certs",
@@ -878,6 +884,12 @@
     },
     {
       "host": "robatop.at",
+      "links": "87.106.18.141",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "securezza.at",
       "links": "87.106.18.141",
       "type": "pdns",
       "ln": 2
