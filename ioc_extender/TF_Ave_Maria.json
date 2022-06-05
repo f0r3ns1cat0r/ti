@@ -242,6 +242,12 @@
     },
     {
       "host": "info1.dynamic-dns.net",
+      "links": "160.152.4.186",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "info1.dynamic-dns.net",
       "links": "160.152.83.172",
       "type": "pdns",
       "ln": 2
@@ -411,6 +417,12 @@
     {
       "host": "iphanyi.chickenkiller.com",
       "links": "160.152.27.4",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iphanyi.chickenkiller.com",
+      "links": "160.152.4.186",
       "type": "pdns",
       "ln": 2
     },
@@ -621,6 +633,12 @@
     {
       "host": "iphy.strangled.net",
       "links": "160.152.27.32",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iphy.strangled.net",
+      "links": "160.152.4.186",
       "type": "pdns",
       "ln": 2
     },

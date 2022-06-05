@@ -728,6 +728,12 @@
     },
     {
       "host": "afis.ch",
+      "links": "185.70.42.12",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "afis.ch",
       "links": "45e19010414652f02bf969528bea3a014e7b1831",
       "type": "certs",
       "ln": 2
@@ -1150,12 +1156,6 @@
       "host": "aprendizajeprofundo.es",
       "links": "ea6919bf367f447052c04c6e1ff4691a6193478d",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "ar15.parts",
-      "links": "192.64.117.35",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -2173,8 +2173,8 @@
       "ln": 2
     },
     {
-      "host": "bitoshi.me",
-      "links": "192.64.117.35",
+      "host": "bkdr.ch",
+      "links": "185.70.42.12",
       "type": "pdns",
       "ln": 2
     },
@@ -4801,12 +4801,6 @@
       "ln": 2
     },
     {
-      "host": "dubaiautogates.com",
-      "links": "192.64.117.35",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "dunnies.com.au",
       "links": "d73c80655d305bc81be1fc7c055618ac08a4cf97",
       "type": "certs",
@@ -5367,12 +5361,6 @@
     {
       "host": "framingflamingos.com",
       "links": "162.144.23.247",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "freecopywritingcourses.com",
-      "links": "192.64.117.35",
       "type": "pdns",
       "ln": 2
     },
@@ -7471,12 +7459,6 @@
       "ln": 2
     },
     {
-      "host": "marvellousexports.com",
-      "links": "192.64.117.35",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "masterpiecesoftheearth-world.miriamdyak.com",
       "links": "5bbed00218173ee044026732d3964bdd9ead4a37",
       "type": "certs",
@@ -7846,12 +7828,6 @@
       "host": "mobile.cwikx.com",
       "links": "d8c4443a159f82d52a33ac137e68a3c60fff83a2",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "mobimedia.co",
-      "links": "192.64.117.35",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -9919,12 +9895,6 @@
       "ln": 2
     },
     {
-      "host": "socialfirstaid.com",
-      "links": "192.64.117.35",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "solarzestintl.com",
       "links": "4d8199a1bf3e47f994bb5fa5a05affaade30d55e",
       "type": "certs",
@@ -11527,12 +11497,6 @@
       "ln": 2
     },
     {
-      "host": "webmail.dheerajholidays.com",
-      "links": "192.64.117.35",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "webmail.dhiyaussalafalatsary.com",
       "links": "a6ee117c0a17d029bfa5538b0bfd7a87c6eb4869",
       "type": "certs",
@@ -11788,12 +11752,6 @@
       "host": "webmail.selfcareadvocacy.com",
       "links": "fa08791a20ac9aa7087ceb02fca39292315c788d",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "webmail.uet.edu.al",
-      "links": "192.64.117.35",
-      "type": "pdns",
       "ln": 2
     },
     {

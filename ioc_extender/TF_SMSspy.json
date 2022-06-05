@@ -20,6 +20,12 @@
   "data": [
     {
       "host": "ThreatFox: SMSspy",
+      "links": "adal1401.tk",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: SMSspy",
       "links": "adl-eran.cf",
       "type": "z",
       "ln": 2
@@ -80,6 +86,12 @@
     },
     {
       "host": "ThreatFox: SMSspy",
+      "links": "halpopen-ir.tk",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: SMSspy",
       "links": "iran-eblagh-ir.cf",
       "type": "z",
       "ln": 2
@@ -106,6 +118,12 @@
       "host": "ThreatFox: SMSspy",
       "links": "server-shirazzi.ga",
       "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "adal1401.tk",
+      "links": "45.87.42.158",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -361,6 +379,12 @@
       "ln": 2
     },
     {
+      "host": "halpopen-ir.tk",
+      "links": "45.87.42.158",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "iran-eblagh-ir.cf",
       "links": "3f68a75c0b7ccb06ae2fe5287b74cf38f6ba3809",
       "type": "certs",
@@ -481,14 +505,38 @@
       "ln": 2
     },
     {
+      "host": "ns1.p-server.top",
+      "links": "45.87.42.158",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ns1.server-shirazzi.ga",
       "links": "45.148.145.151",
       "type": "pdns",
       "ln": 2
     },
     {
+      "host": "ns2.p-server.top",
+      "links": "45.87.42.158",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ns2.server-shirazzi.ga",
       "links": "45.148.145.151",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns7.p-server.top",
+      "links": "45.87.42.158",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns8.p-server.top",
+      "links": "45.87.42.158",
       "type": "pdns",
       "ln": 2
     },

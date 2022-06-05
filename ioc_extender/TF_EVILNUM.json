@@ -1,0 +1,46 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ThreatFox: EVILNUM",
+      "links": "kalpoipolpmi.net",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "aka7newmalp23.com",
+      "links": "196.196.195.80",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "kalpoipolpmi.net",
+      "links": "196.196.195.80",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "pallomnareraebrazo.com",
+      "links": "196.196.195.80",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}
