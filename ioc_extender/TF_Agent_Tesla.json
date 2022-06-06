@@ -218,6 +218,12 @@
     },
     {
       "host": "www.raptest.adpfr.ro",
+      "links": "89.37.143.80",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.raptest.adpfr.ro",
       "links": "c620fef971a32bc44b3f8f4ade1e6bcc15c6d06f",
       "type": "certs",
       "ln": 2

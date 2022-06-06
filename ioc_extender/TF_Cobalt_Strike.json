@@ -512,6 +512,12 @@
     },
     {
       "host": "ThreatFox: Cobalt Strike",
+      "links": "cloud-office365.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Cobalt Strike",
       "links": "cojirol.com",
       "type": "z",
       "ln": 2
@@ -1456,6 +1462,12 @@
       "host": "akamaistats.com",
       "links": "135.148.101.100",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "akatsukinu.com",
+      "links": "d0a732fdb24b6afce2a1bc9e84d6e12bd2d0f0a8",
+      "type": "certs",
       "ln": 2
     },
     {
@@ -2426,6 +2438,12 @@
     },
     {
       "host": "clermy.com",
+      "links": "d0a732fdb24b6afce2a1bc9e84d6e12bd2d0f0a8",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "clermy.com",
       "links": "e2e2e8486c7b9d9d97787562c3841961b1449ada",
       "type": "certs",
       "ln": 2
@@ -2475,6 +2493,12 @@
     {
       "host": "clothonsale.com",
       "links": "216edef2f26a94071007aab8ec5e36c6b072c949",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cloud-office365.com",
+      "links": "15932ebdf6f657111356ae8fe7f53ad717f56d6f",
       "type": "certs",
       "ln": 2
     },
@@ -4531,12 +4555,6 @@
       "ln": 2
     },
     {
-      "host": "knjghuig.biz",
-      "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
-      "type": "certs",
-      "ln": 2
-    },
-    {
       "host": "kobranews.store",
       "links": "c4fcae41ae4c57061f31a74c2de72bc72afb2201",
       "type": "certs",
@@ -5308,6 +5326,12 @@
       "host": "nhct4vkwnawvv.com",
       "links": "635ae6c71205980a921a20b65f2a15216998de01",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "nic-cert.bar",
+      "links": "192.34.109.14",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -6657,6 +6681,12 @@
     {
       "host": "thesurveygame.com",
       "links": "216edef2f26a94071007aab8ec5e36c6b072c949",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "tnelectionresults.com",
+      "links": "15932ebdf6f657111356ae8fe7f53ad717f56d6f",
       "type": "certs",
       "ln": 2
     },

@@ -1285,6 +1285,12 @@
       "ln": 2
     },
     {
+      "host": "cdn-plugin.co.uk",
+      "links": "195.54.160.61",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "cdn-plugin.us",
       "links": "195.54.160.61",
       "type": "pdns",
@@ -4034,6 +4040,12 @@
     },
     {
       "host": "data-update.site",
+      "links": "195.54.160.61",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "dev-extension.cloud",
       "links": "195.54.160.61",
       "type": "pdns",
       "ln": 2

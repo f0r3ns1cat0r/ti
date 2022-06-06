@@ -1,0 +1,40 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "938jss.com",
+      "links": "51.195.57.232",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: Win32-Darkme",
+      "links": "938jss.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "racuracalipop.biz",
+      "links": "51.195.57.232",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}
