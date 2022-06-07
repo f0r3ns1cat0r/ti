@@ -31,8 +31,20 @@
       "ln": 2
     },
     {
+      "host": "streelifes.duckdns.org",
+      "links": "194.31.98.214",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "zoneproess.duckdns.org",
       "links": "185.29.8.57",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "zoneproess.duckdns.org",
+      "links": "194.31.98.214",
       "type": "pdns",
       "ln": 2
     }

@@ -31,6 +31,18 @@
       "ln": 2
     },
     {
+      "host": "ET Trojan: Win32-Darkme",
+      "links": "cspapop110.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "cspapop110.com",
+      "links": "51.195.57.232",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "racuracalipop.biz",
       "links": "51.195.57.232",
       "type": "pdns",

@@ -19,6 +19,18 @@
   ],
   "data": [
     {
+      "host": "938jss.com",
+      "links": "51.195.57.232",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: EVILNUM",
+      "links": "cspapop110.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
       "host": "ThreatFox: EVILNUM",
       "links": "kalpoipolpmi.net",
       "type": "z",
@@ -31,6 +43,12 @@
       "ln": 2
     },
     {
+      "host": "cspapop110.com",
+      "links": "51.195.57.232",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "kalpoipolpmi.net",
       "links": "196.196.195.80",
       "type": "pdns",
@@ -39,6 +57,12 @@
     {
       "host": "pallomnareraebrazo.com",
       "links": "196.196.195.80",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "racuracalipop.biz",
+      "links": "51.195.57.232",
       "type": "pdns",
       "ln": 2
     }

@@ -127,6 +127,12 @@
       "ln": 2
     },
     {
+      "host": "ns1.alsbin.info",
+      "links": "193.178.210.90",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ns1.avsvmcloud.com",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",

@@ -488,12 +488,6 @@
     },
     {
       "host": "iphanyi.chickenkiller.com",
-      "links": "43.240.66.232",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "iphanyi.chickenkiller.com",
       "links": "5.62.34.10",
       "type": "pdns",
       "ln": 2
@@ -733,6 +727,12 @@
       "ln": 2
     },
     {
+      "host": "streelifes.duckdns.org",
+      "links": "194.31.98.214",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "sydlarremedies.com",
       "links": "185.140.53.73",
       "type": "pdns",
@@ -771,6 +771,12 @@
     {
       "host": "zoneproess.duckdns.org",
       "links": "185.29.8.57",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "zoneproess.duckdns.org",
+      "links": "194.31.98.214",
       "type": "pdns",
       "ln": 2
     }
