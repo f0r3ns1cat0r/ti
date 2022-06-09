@@ -26,6 +26,12 @@
     },
     {
       "host": "ThreatFox: Mirai",
+      "links": "fridgexperts.cc",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Mirai",
       "links": "log.exposedbotnets.ru",
       "type": "z",
       "ln": 2
@@ -91,9 +97,39 @@
       "ln": 2
     },
     {
+      "host": "fridgexperts.cc",
+      "links": "139.162.69.4",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "gortisir.ru",
+      "links": "139.162.69.4",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "gortomalo.ru",
+      "links": "139.162.69.4",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iruto.ru",
+      "links": "139.162.69.4",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "lab.symantecsafe.org",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "langosta.ru",
+      "links": "139.162.69.4",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -106,6 +142,18 @@
       "host": "mail.avsvmcloud.com",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "maizuko.ru",
+      "links": "139.162.69.4",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "malgaloda.ru",
+      "links": "139.162.69.4",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -304,6 +352,12 @@
       "host": "static.theyardservice.com",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "takak.ru",
+      "links": "139.162.69.4",
+      "type": "pdns",
       "ln": 2
     },
     {

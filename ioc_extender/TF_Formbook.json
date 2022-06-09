@@ -1381,12 +1381,6 @@
       "ln": 2
     },
     {
-      "host": "ns1.statespeed.solutions",
-      "links": "66.29.131.244",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ns1.visionistsolutions.com",
       "links": "162.0.213.148",
       "type": "pdns",
@@ -1449,12 +1443,6 @@
     {
       "host": "ns2.newinterval.com",
       "links": "199.192.23.253",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.statespeed.solutions",
-      "links": "66.29.131.244",
       "type": "pdns",
       "ln": 2
     },

@@ -91,6 +91,12 @@
       "ln": 2
     },
     {
+      "host": "ET Trojan: Earth Berberoka",
+      "links": "linux.wy01.vip",
+      "type": "z",
+      "ln": 2
+    },
+    {
       "host": "adobeautoupdate.dns1.us",
       "links": "5c779dd15e15f69f7542e8afbfb5272ac8a2cfb9",
       "type": "certs",
@@ -986,6 +992,12 @@
     },
     {
       "host": "linux.wy01.com",
+      "links": "207.148.103.108",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "linux.wy01.vip",
       "links": "207.148.103.108",
       "type": "pdns",
       "ln": 2

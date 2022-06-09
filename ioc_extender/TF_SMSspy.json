@@ -116,6 +116,12 @@
     },
     {
       "host": "ThreatFox: SMSspy",
+      "links": "rubikas-otp.ml",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: SMSspy",
       "links": "server-shirazzi.ga",
       "type": "z",
       "ln": 2
@@ -556,6 +562,12 @@
       "host": "peygirir.tk",
       "links": "8f42bdf95e26795f21544dcc27f697f8a9ba8622",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "rubikas-otp.ml",
+      "links": "45.148.145.151",
+      "type": "pdns",
       "ln": 2
     },
     {
