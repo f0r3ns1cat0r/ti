@@ -19,6 +19,12 @@
   ],
   "data": [
     {
+      "host": "EEGRN.ru",
+      "links": "185.162.8.12",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ET Trojan: Turla-Crutch",
       "links": "ethdns.mywire.org",
       "type": "z",
@@ -28,6 +34,18 @@
       "host": "ET Trojan: Turla-Crutch",
       "links": "hotspot.accesscam.org",
       "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "EVTA.ru",
+      "links": "185.162.8.12",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "db.QRRD.ru",
+      "links": "185.162.8.12",
+      "type": "pdns",
       "ln": 2
     },
     {

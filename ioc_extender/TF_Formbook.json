@@ -464,6 +464,12 @@
     },
     {
       "host": "cpanel.itslinuxfoss.com",
+      "links": "199.192.17.149",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cpanel.itslinuxfoss.com",
       "links": "19a529bee06fb0c4faf3442b59564c8dc0b9e466",
       "type": "certs",
       "ln": 2
@@ -514,6 +520,12 @@
       "host": "cpanel.server1.itslinuxfoss.com",
       "links": "d86f61f28de965bde01ef64426aab03649466af8",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpanel.soft-shop.app",
+      "links": "162.0.221.213",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -590,6 +602,12 @@
     },
     {
       "host": "cpcalendars.itslinuxfoss.com",
+      "links": "199.192.17.149",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cpcalendars.itslinuxfoss.com",
       "links": "19a529bee06fb0c4faf3442b59564c8dc0b9e466",
       "type": "certs",
       "ln": 2
@@ -640,6 +658,12 @@
       "host": "cpcalendars.server1.itslinuxfoss.com",
       "links": "d86f61f28de965bde01ef64426aab03649466af8",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcalendars.soft-shop.app",
+      "links": "162.0.221.213",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -716,6 +740,12 @@
     },
     {
       "host": "cpcontacts.itslinuxfoss.com",
+      "links": "199.192.17.149",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cpcontacts.itslinuxfoss.com",
       "links": "19a529bee06fb0c4faf3442b59564c8dc0b9e466",
       "type": "certs",
       "ln": 2
@@ -766,6 +796,12 @@
       "host": "cpcontacts.server1.itslinuxfoss.com",
       "links": "d86f61f28de965bde01ef64426aab03649466af8",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcontacts.soft-shop.app",
+      "links": "162.0.221.213",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -878,6 +914,12 @@
     },
     {
       "host": "help2others.in",
+      "links": "199.192.17.149",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "help2others.in",
       "links": "3cd70b6b939e1317f15799407bf2d9042b6528e2",
       "type": "certs",
       "ln": 2
@@ -982,6 +1024,12 @@
       "host": "mail.hyipboybtc.com",
       "links": "e8a659e3f6a913cf76b7f836c846bd74ffdf5f02",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.itslinuxfoss.com",
+      "links": "199.192.17.149",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -1724,6 +1772,12 @@
     },
     {
       "host": "webdisk.itslinuxfoss.com",
+      "links": "199.192.17.149",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "webdisk.itslinuxfoss.com",
       "links": "19a529bee06fb0c4faf3442b59564c8dc0b9e466",
       "type": "certs",
       "ln": 2
@@ -1756,6 +1810,12 @@
       "host": "webdisk.newinterval.com",
       "links": "d7b9a592ba27a54598a15d8375f91d136c9d4be2",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webdisk.soft-shop.app",
+      "links": "162.0.221.213",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -1832,6 +1892,12 @@
     },
     {
       "host": "webmail.itslinuxfoss.com",
+      "links": "199.192.17.149",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "webmail.itslinuxfoss.com",
       "links": "19a529bee06fb0c4faf3442b59564c8dc0b9e466",
       "type": "certs",
       "ln": 2
@@ -1882,6 +1948,12 @@
       "host": "webmail.server1.itslinuxfoss.com",
       "links": "d86f61f28de965bde01ef64426aab03649466af8",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webmail.soft-shop.app",
+      "links": "162.0.221.213",
+      "type": "pdns",
       "ln": 2
     },
     {

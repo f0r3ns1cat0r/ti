@@ -74,6 +74,12 @@
     },
     {
       "host": "1us.epicgames.asia",
+      "links": "185.106.96.158",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "1us.epicgames.asia",
       "links": "4a7ae11323a0f6b5203efbe48c375aa679d42bc7",
       "type": "certs",
       "ln": 2
@@ -1148,6 +1154,12 @@
     },
     {
       "host": "acitopram.com",
+      "links": "139.60.161.236",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "acitopram.com",
       "links": "7f4275a8224c08b969df622f9830ca13bd2fa6a5",
       "type": "certs",
       "ln": 2
@@ -1447,6 +1459,12 @@
       "ln": 2
     },
     {
+      "host": "airgiordan.com",
+      "links": "79.141.163.33",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "akademithalhah.com",
       "links": "216edef2f26a94071007aab8ec5e36c6b072c949",
       "type": "certs",
@@ -1492,6 +1510,12 @@
       "host": "alt-buh.store",
       "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "amsteo.com",
+      "links": "139.60.160.7",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -1892,6 +1916,12 @@
     },
     {
       "host": "bbbstage.stots.edu",
+      "links": "167.172.20.187",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "bbbstage.stots.edu",
       "links": "35f2f05e07b41ffcf986135bddac4e20e3520a7d",
       "type": "certs",
       "ln": 2
@@ -1930,6 +1960,12 @@
       "host": "betanode.xyz",
       "links": "233dc7c632eb4774476d700031f1795fefad39f4",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "bettermovementin2222.duckdns.org",
+      "links": "172.93.201.63",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -1976,6 +2012,12 @@
     },
     {
       "host": "billiokz.com",
+      "links": "139.60.161.214",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "billiokz.com",
       "links": "623a8d08be2ef747fda5bfdfaa1c48f011ced947",
       "type": "certs",
       "ln": 2
@@ -1984,6 +2026,12 @@
       "host": "billiopa.com",
       "links": "0b0b01cb185d31ddd42553bf3500933cbcbf287d",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "billiopa.com",
+      "links": "139.60.161.99",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -2612,6 +2660,12 @@
     },
     {
       "host": "cpanel.bettermovementin2222.duckdns.org",
+      "links": "172.93.201.63",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cpanel.bettermovementin2222.duckdns.org",
       "links": "83e8a2fd52dbef1e79637571a8518418b313833d",
       "type": "certs",
       "ln": 2
@@ -2624,8 +2678,20 @@
     },
     {
       "host": "cpanel.notificat-on.ga",
+      "links": "162.244.81.10",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cpanel.notificat-on.ga",
       "links": "dd1e7fb71be8434f9b93c6d262b394c733fbd3ac",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcalendars.bettermovementin2222.duckdns.org",
+      "links": "172.93.201.63",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -2636,14 +2702,32 @@
     },
     {
       "host": "cpcalendars.notificat-on.ga",
+      "links": "162.244.81.10",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cpcalendars.notificat-on.ga",
       "links": "dd1e7fb71be8434f9b93c6d262b394c733fbd3ac",
       "type": "certs",
       "ln": 2
     },
     {
       "host": "cpcontacts.bettermovementin2222.duckdns.org",
+      "links": "172.93.201.63",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cpcontacts.bettermovementin2222.duckdns.org",
       "links": "83e8a2fd52dbef1e79637571a8518418b313833d",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcontacts.notificat-on.ga",
+      "links": "162.244.81.10",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -2866,6 +2950,12 @@
       "host": "deutschebank-zugangphototan.xyz",
       "links": "1072d53db9fc050d9d289cec9ce34ce64ae2d1fc",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "dexatyn.com",
+      "links": "139.60.161.214",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -3260,6 +3350,12 @@
     },
     {
       "host": "ex4ange.cc",
+      "links": "185.64.106.64",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ex4ange.cc",
       "links": "2b6ccfe8e892ae25a6f6fdb256640ff2c8ee45b1",
       "type": "certs",
       "ln": 2
@@ -3446,6 +3542,12 @@
     },
     {
       "host": "fedij.com",
+      "links": "139.60.161.236",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "fedij.com",
       "links": "7f4275a8224c08b969df622f9830ca13bd2fa6a5",
       "type": "certs",
       "ln": 2
@@ -3454,6 +3556,12 @@
       "host": "fenimoz.com",
       "links": "00f8f5fe0613f774cce515134279b0ab1795258c",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "fervent-poitras.162-244-81-10.plesk.page",
+      "links": "162.244.81.10",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -4424,6 +4532,12 @@
     },
     {
       "host": "josefgur.com",
+      "links": "139.60.160.7",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "josefgur.com",
       "links": "94e33985c6e681b5e00023798f978623a5120a1a",
       "type": "certs",
       "ln": 2
@@ -4910,6 +5024,12 @@
     },
     {
       "host": "mantosombra.com",
+      "links": "167.172.20.187",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mantosombra.com",
       "links": "35f2f05e07b41ffcf986135bddac4e20e3520a7d",
       "type": "certs",
       "ln": 2
@@ -5050,6 +5170,18 @@
       "host": "mediaspool.net",
       "links": "0b0b01cb185d31ddd42553bf3500933cbcbf287d",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mediaspool.net",
+      "links": "139.60.161.99",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "meet.wlthplum.com",
+      "links": "18.196.101.17",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -5281,6 +5413,12 @@
       "ln": 2
     },
     {
+      "host": "nentundo.com",
+      "links": "139.60.161.99",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "netstatus.report",
       "links": "4e37e0159c045c55f4220a7c24d19cdf95bcf475",
       "type": "certs",
@@ -5344,6 +5482,12 @@
       "host": "notary-gagarina.online",
       "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "notificat-on.ga",
+      "links": "162.244.81.10",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -6452,6 +6596,12 @@
     },
     {
       "host": "softzbh.com",
+      "links": "185.64.106.64",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "softzbh.com",
       "links": "2b6ccfe8e892ae25a6f6fdb256640ff2c8ee45b1",
       "type": "certs",
       "ln": 2
@@ -6580,6 +6730,12 @@
       "host": "surveyfox.net",
       "links": "8a115c209cc06970cae97447b8f7498e9a72d264",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "survmeter.live",
+      "links": "185.106.96.158",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -7142,6 +7298,12 @@
     },
     {
       "host": "webdisk.notificat-on.ga",
+      "links": "162.244.81.10",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "webdisk.notificat-on.ga",
       "links": "dd1e7fb71be8434f9b93c6d262b394c733fbd3ac",
       "type": "certs",
       "ln": 2
@@ -7156,6 +7318,12 @@
       "host": "webmail.bettermovementin2222.duckdns.org",
       "links": "83e8a2fd52dbef1e79637571a8518418b313833d",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webmail.notificat-on.ga",
+      "links": "162.244.81.10",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -7186,6 +7354,12 @@
       "host": "wi4n.pw",
       "links": "3bc2eabb0c2cb41d3ac21000d4b259096226a87a",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "wlthplum.com",
+      "links": "18.196.101.17",
+      "type": "pdns",
       "ln": 2
     },
     {

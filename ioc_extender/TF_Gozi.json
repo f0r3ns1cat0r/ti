@@ -128,6 +128,12 @@
     },
     {
       "host": "inbiz-cons.com",
+      "links": "162.0.213.149",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "inbiz-cons.com",
       "links": "8acdc17ead09a1bd677523654842ad00f0957047",
       "type": "certs",
       "ln": 2
@@ -202,6 +208,12 @@
       "host": "roshkov.ru",
       "links": "b367556a24630fe7cf4cd07c0398a72b07e3b6e6",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "server1.sia7.me",
+      "links": "162.0.213.149",
+      "type": "pdns",
       "ln": 2
     },
     {

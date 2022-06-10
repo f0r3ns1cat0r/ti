@@ -56,6 +56,12 @@
     },
     {
       "host": "afrepublic.xyz",
+      "links": "194.163.139.250",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "afrepublic.xyz",
       "links": "28db6278b8a51f6eec9293836e1903bb782cc722",
       "type": "certs",
       "ln": 2
@@ -74,8 +80,20 @@
     },
     {
       "host": "app.esiv.be",
+      "links": "194.163.139.250",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "app.esiv.be",
       "links": "56d5d8d70268799d993f177c8cc6696e88c3e7d6",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "hulpkantoor.be",
+      "links": "194.163.139.250",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -93,6 +111,12 @@
     {
       "host": "newsroom247.xyz",
       "links": "144.126.141.41",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "republicofaf.xyz",
+      "links": "194.163.139.250",
       "type": "pdns",
       "ln": 2
     },

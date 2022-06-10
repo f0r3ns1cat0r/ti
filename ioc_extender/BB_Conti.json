@@ -25,6 +25,12 @@
       "ln": 2
     },
     {
+      "host": "BB Threat Research: Conti",
+      "links": "merssed.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
       "host": "bbb.edu-cisco.org",
       "links": "26c436d45d327c6df5d89704266b1e91ab4ca974",
       "type": "certs",
@@ -87,6 +93,36 @@
     {
       "host": "malta2419.startdedicated.com",
       "links": "85.93.88.165",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "merssed.com",
+      "links": "162.244.80.254",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.tighingmarks.com",
+      "links": "162.244.80.254",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.trunshipps.com",
+      "links": "162.244.80.254",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.tighingmarks.com",
+      "links": "162.244.80.254",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.trunshipps.com",
+      "links": "162.244.80.254",
       "type": "pdns",
       "ln": 2
     }
