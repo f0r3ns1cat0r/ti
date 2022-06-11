@@ -1,0 +1,46 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ET Trojan: Win32.Stealer",
+      "links": "ping.otwalkun.16mb.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "itscreative.digital",
+      "links": "185.224.137.173",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "kimrka.ru",
+      "links": "185.224.137.173",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ping.otwalkun.16mb.com",
+      "links": "185.224.137.173",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

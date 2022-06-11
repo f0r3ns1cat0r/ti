@@ -3109,6 +3109,12 @@
       "ln": 2
     },
     {
+      "host": "clienthq.co",
+      "links": "139.180.163.253",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "codepush.dev",
       "links": "ea6919bf367f447052c04c6e1ff4691a6193478d",
       "type": "certs",

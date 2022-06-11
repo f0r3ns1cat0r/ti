@@ -32,12 +32,6 @@
     },
     {
       "host": "ThreatFox: ISFB",
-      "links": "agenziaitaliane.bar",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: ISFB",
       "links": "apr.intoolkom.at",
       "type": "z",
       "ln": 2
@@ -238,12 +232,6 @@
       "host": "admin.goptimum.com",
       "links": "fcd0e97398e23bf7eac21bbb86dfc690ff79cc1e",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "agenziaitaliane.bar",
-      "links": "62.173.149.99",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -787,20 +775,8 @@
       "ln": 2
     },
     {
-      "host": "ns1.sodasphere.com",
-      "links": "62.173.149.99",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ns2.pointibo.xyz",
       "links": "199.192.24.38",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.sodasphere.com",
-      "links": "62.173.149.99",
       "type": "pdns",
       "ln": 2
     },
@@ -1090,6 +1066,12 @@
       "host": "webmail.veobionline.com",
       "links": "fc5034e563be8f445aa37eb4db412d98017d4228",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "werfjmqmhpvpfrm.com",
+      "links": "87.106.18.141",
+      "type": "pdns",
       "ln": 2
     },
     {

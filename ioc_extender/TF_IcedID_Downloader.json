@@ -260,6 +260,12 @@
     },
     {
       "host": "balliordan.com",
+      "links": "84.32.188.191",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "balliordan.com",
       "links": "84.32.190.47",
       "type": "pdns",
       "ln": 2
@@ -362,6 +368,12 @@
     },
     {
       "host": "bleizcarsgood.com",
+      "links": "84.32.188.191",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "bleizcarsgood.com",
       "links": "84.32.190.47",
       "type": "pdns",
       "ln": 2
@@ -433,6 +445,24 @@
       "ln": 2
     },
     {
+      "host": "cue.esri.co",
+      "links": "8ab22f1a6f44dba7734102b9e622eaaf7ed85145",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cue.esri.ec",
+      "links": "8ab22f1a6f44dba7734102b9e622eaaf7ed85145",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cue.esri.pa",
+      "links": "8ab22f1a6f44dba7734102b9e622eaaf7ed85145",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "desagreelokilo.top",
       "links": "6fd9edf5d513fc9cbef7b7a9b5a32fa3a45b8580",
       "type": "certs",
@@ -459,6 +489,12 @@
     {
       "host": "ertimadifa.com",
       "links": "fe58cea8a9a00e4388eaeae0cd431244262f12ed",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "esri.ec",
+      "links": "8ab22f1a6f44dba7734102b9e622eaaf7ed85145",
       "type": "certs",
       "ln": 2
     },
@@ -532,6 +568,12 @@
       "host": "firstdatachannel.click",
       "links": "71ebd963f91684aa765b1a5a4cd78cc042c1398f",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "firstdatachannel.click",
+      "links": "84.32.188.191",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -619,6 +661,12 @@
       "ln": 2
     },
     {
+      "host": "grendafolz.com",
+      "links": "8ab22f1a6f44dba7734102b9e622eaaf7ed85145",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "greshman.xyz",
       "links": "138.124.184.117",
       "type": "pdns",
@@ -646,6 +694,12 @@
       "host": "greshman.xyz",
       "links": "71ebd963f91684aa765b1a5a4cd78cc042c1398f",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "greshman.xyz",
+      "links": "84.32.188.191",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -718,6 +772,12 @@
       "host": "helloshoplegs.com",
       "links": "71ebd963f91684aa765b1a5a4cd78cc042c1398f",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "helloshoplegs.com",
+      "links": "84.32.188.191",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -1179,6 +1239,12 @@
     {
       "host": "vopnoz.com",
       "links": "dd712483a82b961a0fba4f0542168208aac98c14",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.esri.ec",
+      "links": "8ab22f1a6f44dba7734102b9e622eaaf7ed85145",
       "type": "certs",
       "ln": 2
     },

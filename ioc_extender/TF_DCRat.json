@@ -103,6 +103,24 @@
       "ln": 2
     },
     {
+      "host": "info1.dynamic-dns.net",
+      "links": "91.193.75.136",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iphanyi.chickenkiller.com",
+      "links": "91.193.75.136",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iphanyi.webredirect.org",
+      "links": "91.193.75.136",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "mobibanewdan.duckdns.org",
       "links": "103.133.105.61",
       "type": "pdns",
@@ -117,6 +135,12 @@
     {
       "host": "press.linkpc.net",
       "links": "91.193.75.176",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "rick63.publicvm.com",
+      "links": "91.193.75.136",
       "type": "pdns",
       "ln": 2
     },

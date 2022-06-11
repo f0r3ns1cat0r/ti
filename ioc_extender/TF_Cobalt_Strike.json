@@ -836,6 +836,12 @@
     },
     {
       "host": "ThreatFox: Cobalt Strike",
+      "links": "mikrokoma.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Cobalt Strike",
       "links": "milanvar.com",
       "type": "z",
       "ln": 2
@@ -5233,6 +5239,12 @@
       "ln": 2
     },
     {
+      "host": "mikrokoma.com",
+      "links": "935c1369451eb316c3ecc288d2a2066babfe19a5",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "milesm.link",
       "links": "10fa06dfa4db5dd6432a75241f4084622ff9d2ee",
       "type": "certs",
@@ -6501,6 +6513,12 @@
     {
       "host": "signalgoal.com",
       "links": "10fa06dfa4db5dd6432a75241f4084622ff9d2ee",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "sinjoan.com",
+      "links": "935c1369451eb316c3ecc288d2a2066babfe19a5",
       "type": "certs",
       "ln": 2
     },
