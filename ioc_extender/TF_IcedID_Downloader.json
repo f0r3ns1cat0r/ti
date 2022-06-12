@@ -260,6 +260,12 @@
     },
     {
       "host": "balliordan.com",
+      "links": "7a29d3fe32fcf1073b305a7a1bd1b6e6e96fe4b0",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "balliordan.com",
       "links": "84.32.188.191",
       "type": "pdns",
       "ln": 2
@@ -368,6 +374,12 @@
     },
     {
       "host": "bleizcarsgood.com",
+      "links": "7a29d3fe32fcf1073b305a7a1bd1b6e6e96fe4b0",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "bleizcarsgood.com",
       "links": "84.32.188.191",
       "type": "pdns",
       "ln": 2
@@ -446,14 +458,32 @@
     },
     {
       "host": "cue.esri.co",
+      "links": "138.68.5.22",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cue.esri.co",
       "links": "8ab22f1a6f44dba7734102b9e622eaaf7ed85145",
       "type": "certs",
       "ln": 2
     },
     {
       "host": "cue.esri.ec",
+      "links": "138.68.5.22",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cue.esri.ec",
       "links": "8ab22f1a6f44dba7734102b9e622eaaf7ed85145",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cue.esri.pa",
+      "links": "138.68.5.22",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -572,6 +602,12 @@
     },
     {
       "host": "firstdatachannel.click",
+      "links": "7a29d3fe32fcf1073b305a7a1bd1b6e6e96fe4b0",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "firstdatachannel.click",
       "links": "84.32.188.191",
       "type": "pdns",
       "ln": 2
@@ -650,6 +686,12 @@
     },
     {
       "host": "grendafolz.com",
+      "links": "138.68.5.22",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "grendafolz.com",
       "links": "3332856c49d82b43d7c2823d0d2957b61aeca585",
       "type": "certs",
       "ln": 2
@@ -693,6 +735,12 @@
     {
       "host": "greshman.xyz",
       "links": "71ebd963f91684aa765b1a5a4cd78cc042c1398f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "greshman.xyz",
+      "links": "7a29d3fe32fcf1073b305a7a1bd1b6e6e96fe4b0",
       "type": "certs",
       "ln": 2
     },
@@ -771,6 +819,12 @@
     {
       "host": "helloshoplegs.com",
       "links": "71ebd963f91684aa765b1a5a4cd78cc042c1398f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "helloshoplegs.com",
+      "links": "7a29d3fe32fcf1073b305a7a1bd1b6e6e96fe4b0",
       "type": "certs",
       "ln": 2
     },

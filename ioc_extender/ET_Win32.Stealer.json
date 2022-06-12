@@ -20,6 +20,12 @@
   "data": [
     {
       "host": "ET Trojan: Win32.Stealer",
+      "links": "kealkun.16mb.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: Win32.Stealer",
       "links": "ping.otwalkun.16mb.com",
       "type": "z",
       "ln": 2
@@ -27,6 +33,12 @@
     {
       "host": "itscreative.digital",
       "links": "185.224.137.173",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "kealkun.16mb.com",
+      "links": "195.179.237.239",
       "type": "pdns",
       "ln": 2
     },
@@ -39,6 +51,24 @@
     {
       "host": "ping.otwalkun.16mb.com",
       "links": "185.224.137.173",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ping.otwalkun.16mb.com",
+      "links": "195.179.237.236",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "sx3tuned.com",
+      "links": "195.179.237.236",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "turismomonteria.com",
+      "links": "195.179.237.239",
       "type": "pdns",
       "ln": 2
     }
