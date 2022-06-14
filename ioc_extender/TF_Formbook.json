@@ -973,12 +973,6 @@
       "ln": 2
     },
     {
-      "host": "localhost.localdomain",
-      "links": "ca6a9ec2bc8388df4d5c76898f2a7dae938c8a0c",
-      "type": "certs",
-      "ln": 2
-    },
-    {
       "host": "mail.akxchange.com",
       "links": "57d939e26681b948c3190e802832e29744b009c2",
       "type": "certs",
@@ -1399,12 +1393,6 @@
       "ln": 2
     },
     {
-      "host": "ns1.gogokh.com",
-      "links": "162.0.223.225",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ns1.grackle.services",
       "links": "162.0.216.51",
       "type": "pdns",
@@ -1461,12 +1449,6 @@
     {
       "host": "ns2.dawnforge.org",
       "links": "199.192.21.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.gogokh.com",
-      "links": "162.0.223.225",
       "type": "pdns",
       "ln": 2
     },
@@ -2494,12 +2476,6 @@
       "host": "www.itslinuxfoss.com",
       "links": "19a529bee06fb0c4faf3442b59564c8dc0b9e466",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "www.juxrams.info",
-      "links": "162.0.223.225",
-      "type": "pdns",
       "ln": 2
     },
     {
