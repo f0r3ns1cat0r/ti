@@ -19,12 +19,6 @@
   ],
   "data": [
     {
-      "host": "EEGRN.ru",
-      "links": "185.162.8.12",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ET Trojan: Turla-Crutch",
       "links": "ethdns.mywire.org",
       "type": "z",
@@ -37,39 +31,15 @@
       "ln": 2
     },
     {
-      "host": "EVTA.ru",
-      "links": "185.162.8.12",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "db.QRRD.ru",
-      "links": "185.162.8.12",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "db.qrrd.ru",
       "links": "f1f7546c6658dd59f6bcde986e1051bd72446a7c",
       "type": "certs",
       "ln": 2
     },
     {
-      "host": "eegrn.ru",
-      "links": "185.162.8.12",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ethdns.mywire.org",
       "links": "10bd960c9e133156e904ab65e7bff3df1e1c8fc1",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "ethdns.mywire.org",
-      "links": "185.162.8.12",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -103,21 +73,9 @@
       "ln": 2
     },
     {
-      "host": "evta.ru",
-      "links": "185.162.8.12",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "hotspot.accesscam.org",
       "links": "10bd960c9e133156e904ab65e7bff3df1e1c8fc1",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "hotspot.accesscam.org",
-      "links": "185.162.8.12",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -148,36 +106,6 @@
       "host": "hotspot.accesscam.org",
       "links": "f1f7546c6658dd59f6bcde986e1051bd72446a7c",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "orybalke.ru",
-      "links": "185.162.8.12",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "qrrd.ru",
-      "links": "185.162.8.12",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.eegrn.ru",
-      "links": "185.162.8.12",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.orybalke.ru",
-      "links": "185.162.8.12",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "www.qrrd.ru",
-      "links": "185.162.8.12",
-      "type": "pdns",
       "ln": 2
     },
     {

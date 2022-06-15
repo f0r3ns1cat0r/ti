@@ -20,12 +20,6 @@
   "data": [
     {
       "host": "HP Threat Research: TA505",
-      "links": "cdn03664-dl-fileshare.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "HP Threat Research: TA505",
       "links": "fidufagios.com",
       "type": "z",
       "ln": 2
@@ -34,12 +28,6 @@
       "host": "HP Threat Research: TA505",
       "links": "int-onedrive.com",
       "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "cdn-g0962.int-onedrive.com",
-      "links": "185.225.19.136",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -68,20 +56,8 @@
     },
     {
       "host": "cdn-g6645.int-onedrive.com",
-      "links": "185.225.19.136",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "cdn-g6645.int-onedrive.com",
       "links": "aa8d92a2eda58b28ae4cb59370ccdf93b99c9f57",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "cdn03664-dl-fileshare.com",
-      "links": "79.141.161.168",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -134,12 +110,6 @@
     },
     {
       "host": "int-onedrive.com",
-      "links": "185.225.19.136",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "int-onedrive.com",
       "links": "1d15c3db6c61452954b7d074ebcba347e5515455",
       "type": "certs",
       "ln": 2
@@ -160,12 +130,6 @@
       "host": "int-onedrive.com",
       "links": "aa8d92a2eda58b28ae4cb59370ccdf93b99c9f57",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "libreery.club",
-      "links": "79.141.161.168",
-      "type": "pdns",
       "ln": 2
     },
     {

@@ -20,12 +20,6 @@
   "data": [
     {
       "host": "ThreatFox: Mirai",
-      "links": "dota.iwishiwashappy.eu",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: Mirai",
       "links": "log.exposedbotnets.ru",
       "type": "z",
       "ln": 2
@@ -49,12 +43,6 @@
       "ln": 2
     },
     {
-      "host": "casbin.info",
-      "links": "193.178.210.90",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "cdn.theyardservice.com",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
@@ -64,30 +52,6 @@
       "host": "dataplane.theyardservice.com",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "dota.iwishiwashappy.eu",
-      "links": "193.178.210.90",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "dota.iwishiwashappy.eu",
-      "links": "45.14.226.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "dota.iwishiwashappy.eu",
-      "links": "74.119.193.34",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "flatis.uno",
-      "links": "193.178.210.90",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -121,171 +85,9 @@
       "ln": 2
     },
     {
-      "host": "ns1.aibin.info",
-      "links": "193.178.210.90",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns1.alsbin.info",
-      "links": "193.178.210.90",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ns1.avsvmcloud.com",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "ns1.binanx.works",
-      "links": "193.178.210.90",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns1.canfar.sbs",
-      "links": "193.178.210.90",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns1.casbin.info",
-      "links": "193.178.210.90",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns1.coreany.space",
-      "links": "193.178.210.90",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns1.didgain.space",
-      "links": "193.178.210.90",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns1.elseice.website",
-      "links": "193.178.210.90",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns1.eribin.info",
-      "links": "193.178.210.90",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns1.flatis.uno",
-      "links": "193.178.210.90",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns1.fobin.info",
-      "links": "193.178.210.90",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns1.forhalf.space",
-      "links": "193.178.210.90",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns1.hellcs.fun",
-      "links": "193.178.210.90",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns1.hkthi.com",
-      "links": "45.14.226.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns1.hkthi.info",
-      "links": "45.14.226.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns1.hkthi.org",
-      "links": "45.14.226.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns1.jesbin.info",
-      "links": "193.178.210.90",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns1.jhefuke.com",
-      "links": "74.119.193.34",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns1.kbinan.info",
-      "links": "193.178.210.90",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns1.kopbin.info",
-      "links": "193.178.210.90",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns1.perbin.info",
-      "links": "193.178.210.90",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns1.rotbin.info",
-      "links": "193.178.210.90",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns1.vosbin.info",
-      "links": "193.178.210.90",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.hkthi.com",
-      "links": "45.14.226.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.hkthi.info",
-      "links": "45.14.226.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.hkthi.org",
-      "links": "45.14.226.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.jhefuke.com",
-      "links": "74.119.193.34",
-      "type": "pdns",
       "ln": 2
     },
     {

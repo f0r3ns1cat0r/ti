@@ -20,12 +20,6 @@
   "data": [
     {
       "host": "ThreatFox: SMSspy",
-      "links": "adal1401.tk",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: SMSspy",
       "links": "adl-eran.cf",
       "type": "z",
       "ln": 2
@@ -86,12 +80,6 @@
     },
     {
       "host": "ThreatFox: SMSspy",
-      "links": "halpopen-ir.tk",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: SMSspy",
       "links": "iran-eblagh-ir.cf",
       "type": "z",
       "ln": 2
@@ -112,24 +100,6 @@
       "host": "ThreatFox: SMSspy",
       "links": "peygirir.tk",
       "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: SMSspy",
-      "links": "rubikas-otp.ml",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: SMSspy",
-      "links": "server-shirazzi.ga",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "adal1401.tk",
-      "links": "45.87.42.158",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -385,12 +355,6 @@
       "ln": 2
     },
     {
-      "host": "halpopen-ir.tk",
-      "links": "45.87.42.158",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "iran-eblagh-ir.cf",
       "links": "3f68a75c0b7ccb06ae2fe5287b74cf38f6ba3809",
       "type": "certs",
@@ -511,42 +475,6 @@
       "ln": 2
     },
     {
-      "host": "ns1.p-server.top",
-      "links": "45.87.42.158",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns1.server-shirazzi.ga",
-      "links": "45.148.145.151",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.p-server.top",
-      "links": "45.87.42.158",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.server-shirazzi.ga",
-      "links": "45.148.145.151",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns7.p-server.top",
-      "links": "45.87.42.158",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns8.p-server.top",
-      "links": "45.87.42.158",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "peygirir.ml",
       "links": "65cd7cf538851b6dc2530d14f18cbb2fc2f60e40",
       "type": "certs",
@@ -562,18 +490,6 @@
       "host": "peygirir.tk",
       "links": "8f42bdf95e26795f21544dcc27f697f8a9ba8622",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "rubikas-otp.ml",
-      "links": "45.148.145.151",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "server-shirazzi.ga",
-      "links": "45.148.145.151",
-      "type": "pdns",
       "ln": 2
     },
     {

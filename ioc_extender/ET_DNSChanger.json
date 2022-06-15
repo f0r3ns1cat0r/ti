@@ -1,0 +1,106 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ET Trojan: DNSChanger",
+      "links": "rmedia15.ru",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: DNSChanger",
+      "links": "strds.ru",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "babbleify.ru",
+      "links": "4QAb9TycEYdJUdRnixtnoK04hExtvB9gbh5LujSEYbTn5LMoDz7xgxgjfZFXVLg1j6l7ocJ5bFxro9hHsnvuyA==###20211228",
+      "type": "whois",
+      "ln": 2
+    },
+    {
+      "host": "bistr4.ru",
+      "links": "4QAb9TycEYdJUdRnixtnoK04hExtvB9gbh5LujSEYbTn5LMoDz7xgxgjfZFXVLg1j6l7ocJ5bFxro9hHsnvuyA==###20211218",
+      "type": "whois",
+      "ln": 2
+    },
+    {
+      "host": "doctorpops.ru",
+      "links": "4QAb9TycEYdJUdRnixtnoK04hExtvB9gbh5LujSEYbTn5LMoDz7xgxgjfZFXVLg1j6l7ocJ5bFxro9hHsnvuyA==###20211218",
+      "type": "whois",
+      "ln": 2
+    },
+    {
+      "host": "e1faffb3e614e6c2fba74296962386a7.ru",
+      "links": "4QAb9TycEYdJUdRnixtnoK04hExtvB9gbh5LujSEYbTn5LMoDz7xgxgjfZFXVLg1j6l7ocJ5bFxro9hHsnvuyA==###20211218",
+      "type": "whois",
+      "ln": 2
+    },
+    {
+      "host": "monitoring-deneg.ru",
+      "links": "4QAb9TycEYdJUdRnixtnoK04hExtvB9gbh5LujSEYbTn5LMoDz7xgxgjfZFXVLg1j6l7ocJ5bFxro9hHsnvuyA==###20211218",
+      "type": "whois",
+      "ln": 2
+    },
+    {
+      "host": "nobeltec.ru",
+      "links": "4QAb9TycEYdJUdRnixtnoK04hExtvB9gbh5LujSEYbTn5LMoDz7xgxgjfZFXVLg1j6l7ocJ5bFxro9hHsnvuyA==###20211218",
+      "type": "whois",
+      "ln": 2
+    },
+    {
+      "host": "rmedia15.ru",
+      "links": "4QAb9TycEYdJUdRnixtnoK04hExtvB9gbh5LujSEYbTn5LMoDz7xgxgjfZFXVLg1j6l7ocJ5bFxro9hHsnvuyA==###20211218",
+      "type": "whois",
+      "ln": 2
+    },
+    {
+      "host": "rustechnogroup.ru",
+      "links": "4QAb9TycEYdJUdRnixtnoK04hExtvB9gbh5LujSEYbTn5LMoDz7xgxgjfZFXVLg1j6l7ocJ5bFxro9hHsnvuyA==###20211218",
+      "type": "whois",
+      "ln": 2
+    },
+    {
+      "host": "salesbar.ru",
+      "links": "4QAb9TycEYdJUdRnixtnoK04hExtvB9gbh5LujSEYbTn5LMoDz7xgxgjfZFXVLg1j6l7ocJ5bFxro9hHsnvuyA==###20211218",
+      "type": "whois",
+      "ln": 2
+    },
+    {
+      "host": "sangta.ru",
+      "links": "4QAb9TycEYdJUdRnixtnoK04hExtvB9gbh5LujSEYbTn5LMoDz7xgxgjfZFXVLg1j6l7ocJ5bFxro9hHsnvuyA==###20211218",
+      "type": "whois",
+      "ln": 2
+    },
+    {
+      "host": "strds.ru",
+      "links": "4QAb9TycEYdJUdRnixtnoK04hExtvB9gbh5LujSEYbTn5LMoDz7xgxgjfZFXVLg1j6l7ocJ5bFxro9hHsnvuyA==###20211228",
+      "type": "whois",
+      "ln": 2
+    },
+    {
+      "host": "studygur.ru",
+      "links": "4QAb9TycEYdJUdRnixtnoK04hExtvB9gbh5LujSEYbTn5LMoDz7xgxgjfZFXVLg1j6l7ocJ5bFxro9hHsnvuyA==###20211218",
+      "type": "whois",
+      "ln": 2
+    }
+  ]
+}

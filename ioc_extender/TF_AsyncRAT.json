@@ -19,30 +19,6 @@
   ],
   "data": [
     {
-      "host": "1biggie.publicvm.com",
-      "links": "91.193.75.196",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "3laallah.myvnc.com",
-      "links": "198.244.206.23",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: AsyncRAT",
-      "links": "3laallah.myvnc.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: AsyncRAT",
-      "links": "crazydns.linkpc.net",
-      "type": "z",
-      "ln": 2
-    },
-    {
       "host": "ThreatFox: AsyncRAT",
       "links": "lyoni-55552.portmap.host",
       "type": "z",
@@ -51,12 +27,6 @@
     {
       "host": "ThreatFox: AsyncRAT",
       "links": "nyannewtoday.duckdns.org",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: AsyncRAT",
-      "links": "pop5.ddns.net",
       "type": "z",
       "ln": 2
     },
@@ -88,18 +58,6 @@
       "host": "ahmedhasan-43601.portmap.host",
       "links": "de23e3ce838f2334ffeabac6b29a59d49c4f90a7",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "assur-maladie.com",
-      "links": "212.192.241.104",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "assurmaladie.com",
-      "links": "212.192.241.104",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -148,42 +106,6 @@
       "host": "cplusaganteng27.net",
       "links": "ae51a24ffc60075852ec63e9d450da44adccd4ca",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "crazydns.linkpc.net",
-      "links": "91.193.75.189",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "crazydns.linkpc.net",
-      "links": "91.193.75.194",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "crazydns.linkpc.net",
-      "links": "91.193.75.196",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "crazydns.linkpc.net",
-      "links": "91.193.75.200",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "crazydns.linkpc.net",
-      "links": "91.193.75.204",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "crazydns.linkpc.net",
-      "links": "91.193.75.239",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -277,12 +199,6 @@
       "ln": 2
     },
     {
-      "host": "ecx1hang.publicvm.com",
-      "links": "91.193.75.204",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "expressmsp.com",
       "links": "021cc80a118caa47313ca16a59d8e7b6787df70b",
       "type": "certs",
@@ -367,21 +283,9 @@
       "ln": 2
     },
     {
-      "host": "impots-gouv-verif.com",
-      "links": "212.192.241.104",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "jackbiceps.com",
       "links": "021cc80a118caa47313ca16a59d8e7b6787df70b",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "java.servebeer.com",
-      "links": "198.244.206.23",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -463,12 +367,6 @@
       "ln": 2
     },
     {
-      "host": "newedgeoversea.com",
-      "links": "212.192.241.104",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "nyannewtoday.duckdns.org",
       "links": "021cc80a118caa47313ca16a59d8e7b6787df70b",
       "type": "certs",
@@ -496,12 +394,6 @@
       "host": "personeroscaplalibertad.org",
       "links": "ae51a24ffc60075852ec63e9d450da44adccd4ca",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "pop5.ddns.net",
-      "links": "212.192.241.104",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -547,24 +439,6 @@
       "ln": 2
     },
     {
-      "host": "rick63.publicvm.com",
-      "links": "91.193.75.189",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "rick63.publicvm.com",
-      "links": "91.193.75.194",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "rick63.publicvm.com",
-      "links": "91.193.75.204",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "sgnninmyppyalsrvcces.com",
       "links": "021cc80a118caa47313ca16a59d8e7b6787df70b",
       "type": "certs",
@@ -577,21 +451,9 @@
       "ln": 2
     },
     {
-      "host": "shiestynerd.dvrlists.com",
-      "links": "91.193.75.239",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "shoperglobal.com",
       "links": "ae51a24ffc60075852ec63e9d450da44adccd4ca",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "sky01.publicvm.com",
-      "links": "91.193.75.200",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -616,12 +478,6 @@
       "host": "tokcharts.com",
       "links": "021cc80a118caa47313ca16a59d8e7b6787df70b",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "twistednerd.dvrlists.com",
-      "links": "91.193.75.239",
-      "type": "pdns",
       "ln": 2
     },
     {

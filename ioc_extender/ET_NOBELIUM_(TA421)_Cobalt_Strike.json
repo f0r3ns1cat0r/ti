@@ -26,19 +26,7 @@
     },
     {
       "host": "ET Trojan: NOBELIUM (TA421) Cobalt Strike",
-      "links": "cityloss.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ET Trojan: NOBELIUM (TA421) Cobalt Strike",
       "links": "dailydews.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ET Trojan: NOBELIUM (TA421) Cobalt Strike",
-      "links": "hanproud.com",
       "type": "z",
       "ln": 2
     },
@@ -103,12 +91,6 @@
       "ln": 2
     },
     {
-      "host": "cityloss.com",
-      "links": "51.38.85.225",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "dailydews.com",
       "links": "03bbe3533f1540a745b0206a2818696c4cb6b21b",
       "type": "certs",
@@ -154,12 +136,6 @@
       "host": "dataplane.theyardservice.com",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "hanproud.com",
-      "links": "141.94.115.20",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -223,12 +199,6 @@
       "ln": 2
     },
     {
-      "host": "mail.pankin.org",
-      "links": "185.243.215.198",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "meep.ooo",
       "links": "8bc8f7612be29fad96b43ec22545544624fd2c3e",
       "type": "certs",
@@ -265,18 +235,6 @@
       "ln": 2
     },
     {
-      "host": "ns1.cityloss.com",
-      "links": "51.38.85.225",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.cityloss.com",
-      "links": "51.38.85.225",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "rchosts.com",
       "links": "3f5e56846b0be08f7ed728b19e78215f80a2cbb9",
       "type": "certs",
@@ -286,12 +244,6 @@
       "host": "scart24.cc",
       "links": "3f5e56846b0be08f7ed728b19e78215f80a2cbb9",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "sdfsd.cityloss.com",
-      "links": "51.38.85.225",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -313,21 +265,9 @@
       "ln": 2
     },
     {
-      "host": "themoviehometheather.com",
-      "links": "141.94.115.20",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "theyardservice.com",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "trendignews.com",
-      "links": "185.243.215.198",
-      "type": "pdns",
       "ln": 2
     },
     {
