@@ -92,6 +92,12 @@
     },
     {
       "host": "ThreatFox: Chrysaor",
+      "links": "holdstory.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Chrysaor",
       "links": "medicalcircle.net",
       "type": "z",
       "ln": 2
@@ -295,6 +301,12 @@
       "ln": 2
     },
     {
+      "host": "autodiscover.holdstory.com",
+      "links": "647f234b2bc49870620042f8d6d94b544345da27",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "autodiscover.youintelligence.com",
       "links": "28ca22bdca06c054d553bd43e63e0907af4c9b4e",
       "type": "certs",
@@ -469,14 +481,32 @@
       "ln": 2
     },
     {
+      "host": "cpanel.holdstory.com",
+      "links": "647f234b2bc49870620042f8d6d94b544345da27",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "cpanel.youintelligence.com",
       "links": "28ca22bdca06c054d553bd43e63e0907af4c9b4e",
       "type": "certs",
       "ln": 2
     },
     {
+      "host": "cpcalendars.holdstory.com",
+      "links": "647f234b2bc49870620042f8d6d94b544345da27",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "cpcalendars.youintelligence.com",
       "links": "28ca22bdca06c054d553bd43e63e0907af4c9b4e",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcontacts.holdstory.com",
+      "links": "647f234b2bc49870620042f8d6d94b544345da27",
       "type": "certs",
       "ln": 2
     },
@@ -871,6 +901,12 @@
       "ln": 2
     },
     {
+      "host": "holdstory.com",
+      "links": "647f234b2bc49870620042f8d6d94b544345da27",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "homvideo.xyz",
       "links": "f501b65d9b42f9ad8cc284032fbbd6c6fa0251cc",
       "type": "certs",
@@ -1071,6 +1107,12 @@
     {
       "host": "magenspyegelung.de",
       "links": "2398719f04a0f2a1602deb5c7876ea4f0adb6aa7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.holdstory.com",
+      "links": "647f234b2bc49870620042f8d6d94b544345da27",
       "type": "certs",
       "ln": 2
     },
@@ -1537,8 +1579,20 @@
       "ln": 2
     },
     {
+      "host": "webdisk.holdstory.com",
+      "links": "647f234b2bc49870620042f8d6d94b544345da27",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "webdisk.youintelligence.com",
       "links": "28ca22bdca06c054d553bd43e63e0907af4c9b4e",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webmail.holdstory.com",
+      "links": "647f234b2bc49870620042f8d6d94b544345da27",
       "type": "certs",
       "ln": 2
     },
