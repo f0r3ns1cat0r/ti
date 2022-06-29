@@ -25,6 +25,12 @@
       "ln": 2
     },
     {
+      "host": "ThreatFox: Agent Tesla",
+      "links": "mail.morabitur.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
       "host": "adpfr.ro",
       "links": "3eed09db7eb9054fb933bc0c9d4ea1e66a64bb5c",
       "type": "certs",
@@ -61,6 +67,102 @@
       "ln": 2
     },
     {
+      "host": "autodiscover.morabitur.com",
+      "links": "4555378c680d2f6bdc3527f85dd432d51c39c6fe",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "autodiscover.morabitur.com",
+      "links": "78a3fe34bce3e01f42c3d068972f6be7411f15d0",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "autodiscover.morabitur.com",
+      "links": "c85c8d907cbf6a12fabf26cdb2ed658f183f232b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "autodiscover.morabitur.com",
+      "links": "d8a406e463dff1bfc4de031a4cf2c8da1e0a7cad",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpanel.morabitur.com",
+      "links": "4555378c680d2f6bdc3527f85dd432d51c39c6fe",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpanel.morabitur.com",
+      "links": "78a3fe34bce3e01f42c3d068972f6be7411f15d0",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpanel.morabitur.com",
+      "links": "c85c8d907cbf6a12fabf26cdb2ed658f183f232b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpanel.morabitur.com",
+      "links": "d8a406e463dff1bfc4de031a4cf2c8da1e0a7cad",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcalendars.morabitur.com",
+      "links": "4555378c680d2f6bdc3527f85dd432d51c39c6fe",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcalendars.morabitur.com",
+      "links": "78a3fe34bce3e01f42c3d068972f6be7411f15d0",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcalendars.morabitur.com",
+      "links": "c85c8d907cbf6a12fabf26cdb2ed658f183f232b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcalendars.morabitur.com",
+      "links": "d8a406e463dff1bfc4de031a4cf2c8da1e0a7cad",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcontacts.morabitur.com",
+      "links": "4555378c680d2f6bdc3527f85dd432d51c39c6fe",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcontacts.morabitur.com",
+      "links": "78a3fe34bce3e01f42c3d068972f6be7411f15d0",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcontacts.morabitur.com",
+      "links": "c85c8d907cbf6a12fabf26cdb2ed658f183f232b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcontacts.morabitur.com",
+      "links": "d8a406e463dff1bfc4de031a4cf2c8da1e0a7cad",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "ftp.adpfr.ro",
       "links": "3eed09db7eb9054fb933bc0c9d4ea1e66a64bb5c",
       "type": "certs",
@@ -97,6 +199,126 @@
       "ln": 2
     },
     {
+      "host": "mail.morabitur.com",
+      "links": "4555378c680d2f6bdc3527f85dd432d51c39c6fe",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.morabitur.com",
+      "links": "78a3fe34bce3e01f42c3d068972f6be7411f15d0",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.morabitur.com",
+      "links": "c85c8d907cbf6a12fabf26cdb2ed658f183f232b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.morabitur.com",
+      "links": "d8a406e463dff1bfc4de031a4cf2c8da1e0a7cad",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "morabitur.com",
+      "links": "4555378c680d2f6bdc3527f85dd432d51c39c6fe",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "morabitur.com",
+      "links": "78a3fe34bce3e01f42c3d068972f6be7411f15d0",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "morabitur.com",
+      "links": "c85c8d907cbf6a12fabf26cdb2ed658f183f232b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "morabitur.com",
+      "links": "d8a406e463dff1bfc4de031a4cf2c8da1e0a7cad",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "morabitur.morabitur.net",
+      "links": "4555378c680d2f6bdc3527f85dd432d51c39c6fe",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "morabitur.morabitur.net",
+      "links": "78a3fe34bce3e01f42c3d068972f6be7411f15d0",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "morabitur.morabitur.net",
+      "links": "c85c8d907cbf6a12fabf26cdb2ed658f183f232b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "morabitur.morabitur.net",
+      "links": "d8a406e463dff1bfc4de031a4cf2c8da1e0a7cad",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webdisk.morabitur.com",
+      "links": "4555378c680d2f6bdc3527f85dd432d51c39c6fe",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webdisk.morabitur.com",
+      "links": "78a3fe34bce3e01f42c3d068972f6be7411f15d0",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webdisk.morabitur.com",
+      "links": "c85c8d907cbf6a12fabf26cdb2ed658f183f232b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webdisk.morabitur.com",
+      "links": "d8a406e463dff1bfc4de031a4cf2c8da1e0a7cad",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webmail.morabitur.com",
+      "links": "4555378c680d2f6bdc3527f85dd432d51c39c6fe",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webmail.morabitur.com",
+      "links": "78a3fe34bce3e01f42c3d068972f6be7411f15d0",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webmail.morabitur.com",
+      "links": "c85c8d907cbf6a12fabf26cdb2ed658f183f232b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webmail.morabitur.com",
+      "links": "d8a406e463dff1bfc4de031a4cf2c8da1e0a7cad",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "www.adcm.adpfr.ro",
       "links": "3eed09db7eb9054fb933bc0c9d4ea1e66a64bb5c",
       "type": "certs",
@@ -129,6 +351,54 @@
     {
       "host": "www.adcm.adpfr.ro",
       "links": "dd644edba6fff208602de6035d689dda54bc6aa3",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.morabitur.com",
+      "links": "4555378c680d2f6bdc3527f85dd432d51c39c6fe",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.morabitur.com",
+      "links": "78a3fe34bce3e01f42c3d068972f6be7411f15d0",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.morabitur.com",
+      "links": "c85c8d907cbf6a12fabf26cdb2ed658f183f232b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.morabitur.com",
+      "links": "d8a406e463dff1bfc4de031a4cf2c8da1e0a7cad",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.morabitur.morabitur.net",
+      "links": "4555378c680d2f6bdc3527f85dd432d51c39c6fe",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.morabitur.morabitur.net",
+      "links": "78a3fe34bce3e01f42c3d068972f6be7411f15d0",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.morabitur.morabitur.net",
+      "links": "c85c8d907cbf6a12fabf26cdb2ed658f183f232b",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.morabitur.morabitur.net",
+      "links": "d8a406e463dff1bfc4de031a4cf2c8da1e0a7cad",
       "type": "certs",
       "ln": 2
     },
