@@ -8,7 +8,7 @@ List of IoCs generated using IP addresses and SSL certificates as a relationship
 * https://rules.emergingthreats.net/open/
 
 ### Visualization
-* https://ti-research.io/ioc_extender/
+* https://ti-research-io.github.io/ti/ioc_extender/
 
 
 ## DGA Lists
