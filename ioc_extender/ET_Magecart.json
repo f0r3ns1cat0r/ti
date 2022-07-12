@@ -662,6 +662,12 @@
     },
     {
       "host": "ET Trojan: Magecart",
+      "links": "magesource.su",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: Magecart",
       "links": "nexcesscdh.net",
       "type": "z",
       "ln": 2
@@ -1387,6 +1393,18 @@
       "ln": 2
     },
     {
+      "host": "cdn-plugin.co.uk",
+      "links": "195.54.160.61",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cdn-plugin.us",
+      "links": "195.54.160.61",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "cdn1-comingsoon.net",
       "links": "558aeb2899730cb7d48a86dcfc979d6c88f8bceb",
       "type": "certs",
@@ -1843,9 +1861,27 @@
       "ln": 2
     },
     {
+      "host": "cloud-info.click",
+      "links": "195.54.160.161",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cloud-info.email",
+      "links": "195.54.160.161",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "cloud-info.email",
       "links": "272094b9a70c927f7fa266465fe637e3d5e59127",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cloud-info.express",
+      "links": "195.54.160.161",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -4183,6 +4219,24 @@
       "ln": 2
     },
     {
+      "host": "data-log.site",
+      "links": "195.54.160.61",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "data-update.site",
+      "links": "195.54.160.61",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "dev-extension.cloud",
+      "links": "195.54.160.61",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "dfdffgff.kitewhite.online",
       "links": "6046bd48eb5520f83e33f0a64b2ecc227a5832c5",
       "type": "certs",
@@ -4837,6 +4891,18 @@
       "ln": 2
     },
     {
+      "host": "google-info.us",
+      "links": "195.54.160.61",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "google-stats.work",
+      "links": "195.54.160.61",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "grandriverinspection.com",
       "links": "0bd1361cc28c3222ca93853767f076bd5db1fce2",
       "type": "certs",
@@ -5284,6 +5350,18 @@
       "host": "konkhmer8.info",
       "links": "7645b0c2fb518dd582520892c08361dbb6e85273",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "kvazis.fvds.ru",
+      "links": "37.46.135.58",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "magesource.su",
+      "links": "37.46.135.58",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -7021,6 +7099,18 @@
       "ln": 2
     },
     {
+      "host": "plugin-app.cloud",
+      "links": "195.54.160.61",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "plugin-connect.cloud",
+      "links": "195.54.160.61",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "pokerdestek.com",
       "links": "754649ef1e110ca0f2c9de3a9e61fafed45ff465",
       "type": "certs",
@@ -7558,6 +7648,12 @@
       "host": "prizrakov.net",
       "links": "584d923a78ac2fecd01c75402ca757b9df459aab",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "pro-cdn2.site",
+      "links": "195.54.160.61",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -8455,9 +8551,69 @@
       "ln": 2
     },
     {
+      "host": "ticket-stat.site",
+      "links": "195.54.160.61",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "trafficapps.business",
+      "links": "195.54.160.161",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "trafficapps.business",
       "links": "272094b9a70c927f7fa266465fe637e3d5e59127",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "trafficapps.org",
+      "links": "195.54.160.161",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "trafficapps.quest",
+      "links": "195.54.160.161",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "trafficapps.us",
+      "links": "195.54.160.161",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "trafficstats.business",
+      "links": "195.54.160.61",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "trafficstats.co",
+      "links": "195.54.160.61",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "wp-extension.cloud",
+      "links": "195.54.160.161",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "wp-extension.work",
+      "links": "195.54.160.161",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "xenapp.blog",
+      "links": "195.54.160.161",
+      "type": "pdns",
       "ln": 2
     }
   ]

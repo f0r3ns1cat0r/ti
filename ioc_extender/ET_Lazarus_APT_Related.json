@@ -20,19 +20,25 @@
   "data": [
     {
       "host": "ET Trojan: Lazarus APT Related",
-      "links": "product.onlinedoc.dev",
+      "links": "designautocad.org",
       "type": "z",
       "ln": 2
     },
     {
-      "host": "product.onlinedoc.dev",
-      "links": "149.28.162.113",
+      "host": "designautocad.org",
+      "links": "207.246.100.105",
       "type": "pdns",
       "ln": 2
     },
     {
-      "host": "www.onlinedocpage.org",
-      "links": "149.28.162.113",
+      "host": "ns1.wodsonparke.com",
+      "links": "207.246.100.105",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.wodsonparke.com",
+      "links": "207.246.100.105",
       "type": "pdns",
       "ln": 2
     }

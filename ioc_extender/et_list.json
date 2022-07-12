@@ -7,10 +7,19 @@
   ],
   "data": [
     {
+      "name": "ET_APT 41"
+    },
+    {
+      "name": "ET_APT DNSpionage-Karkoff"
+    },
+    {
       "name": "ET_APT-Bitter Related"
     },
     {
       "name": "ET_APT-Donot Group"
+    },
+    {
+      "name": "ET_APT-Sidewinder"
     },
     {
       "name": "ET_APT33"
@@ -23,6 +32,9 @@
     },
     {
       "name": "ET_AppleJeus - CoinGoTrade"
+    },
+    {
+      "name": "ET_AppleJeus - Dorusio"
     },
     {
       "name": "ET_BlackMatter"
@@ -38,6 +50,9 @@
     },
     {
       "name": "ET_Cobalt Strike Infrastructure"
+    },
+    {
+      "name": "ET_ComRAT"
     },
     {
       "name": "ET_DCRat Related"
@@ -71,6 +86,9 @@
     },
     {
       "name": "ET_Lazarus"
+    },
+    {
+      "name": "ET_Lazarus APT Related"
     },
     {
       "name": "ET_Lemon_Duck"
@@ -109,6 +127,9 @@
       "name": "ET_NSO Group Pegasus"
     },
     {
+      "name": "ET_Observed DNS Query to Known Indexsinas"
+    },
+    {
       "name": "ET_Observed JS-Skimmer (likely Magecart)"
     },
     {
@@ -127,6 +148,15 @@
       "name": "ET_Sidecopy APT Related"
     },
     {
+      "name": "ET_TA455"
+    },
+    {
+      "name": "ET_TA455 Related"
+    },
+    {
+      "name": "ET_Tandem Espionage"
+    },
+    {
       "name": "ET_TeamTNT Gattling Gun"
     },
     {
@@ -142,7 +172,22 @@
       "name": "ET_Unk-LNKR"
     },
     {
+      "name": "ET_Unknown Chinese Threat Actor"
+    },
+    {
+      "name": "ET_WEBMONITOR RAT"
+    },
+    {
+      "name": "ET_Win32-Bisonal Backdoor"
+    },
+    {
+      "name": "ET_Win32-Darkme"
+    },
+    {
       "name": "ET_Win32-Eternity Stealer"
+    },
+    {
+      "name": "ET_Win32.Stealer"
     },
     {
       "name": "ET_Wintervivern Related"

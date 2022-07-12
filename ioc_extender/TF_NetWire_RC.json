@@ -19,20 +19,8 @@
   ],
   "data": [
     {
-      "host": "1116.hopto.org",
-      "links": "91.193.75.132",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ThreatFox: NetWire RC",
       "links": "info1.dynamic-dns.net",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: NetWire RC",
-      "links": "netwire.linkpc.net",
       "type": "z",
       "ln": 2
     },
@@ -43,18 +31,6 @@
       "ln": 2
     },
     {
-      "host": "boysgoblow.hopto.org",
-      "links": "91.193.75.132",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "emedoo.ddns.net",
-      "links": "91.193.75.132",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "info1.dynamic-dns.net",
       "links": "103.168.204.152",
       "type": "pdns",
@@ -134,7 +110,7 @@
     },
     {
       "host": "info1.dynamic-dns.net",
-      "links": "160.152.83.172",
+      "links": "160.152.79.204",
       "type": "pdns",
       "ln": 2
     },
@@ -164,37 +140,7 @@
     },
     {
       "host": "info1.dynamic-dns.net",
-      "links": "169.159.90.137",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "info1.dynamic-dns.net",
-      "links": "182.56.132.100",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "info1.dynamic-dns.net",
-      "links": "185.140.53.137",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "info1.dynamic-dns.net",
       "links": "185.19.85.134",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "info1.dynamic-dns.net",
-      "links": "194.5.98.17",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "info1.dynamic-dns.net",
-      "links": "212.69.2.31",
       "type": "pdns",
       "ln": 2
     },
@@ -213,24 +159,6 @@
     {
       "host": "info1.dynamic-dns.net",
       "links": "85.202.169.14",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "info1.dynamic-dns.net",
-      "links": "91.193.75.132",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "info1.dynamic-dns.net",
-      "links": "91.193.75.136",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "info1.dynamic-dns.net",
-      "links": "91.193.75.184",
       "type": "pdns",
       "ln": 2
     },
@@ -308,7 +236,7 @@
     },
     {
       "host": "iphanyi.chickenkiller.com",
-      "links": "160.152.83.172",
+      "links": "160.152.79.204",
       "type": "pdns",
       "ln": 2
     },
@@ -338,31 +266,7 @@
     },
     {
       "host": "iphanyi.chickenkiller.com",
-      "links": "169.159.90.137",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "iphanyi.chickenkiller.com",
-      "links": "185.140.53.137",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "iphanyi.chickenkiller.com",
       "links": "185.19.85.134",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "iphanyi.chickenkiller.com",
-      "links": "194.5.98.17",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "iphanyi.chickenkiller.com",
-      "links": "212.69.2.31",
       "type": "pdns",
       "ln": 2
     },
@@ -379,24 +283,6 @@
       "ln": 2
     },
     {
-      "host": "iphanyi.chickenkiller.com",
-      "links": "91.193.75.132",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "iphanyi.chickenkiller.com",
-      "links": "91.193.75.136",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "iphanyi.chickenkiller.com",
-      "links": "91.193.75.184",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "iphanyi.webredirect.org",
       "links": "103.168.204.152",
       "type": "pdns",
@@ -404,37 +290,7 @@
     },
     {
       "host": "iphanyi.webredirect.org",
-      "links": "182.56.132.100",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "iphanyi.webredirect.org",
-      "links": "194.5.98.17",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "iphanyi.webredirect.org",
       "links": "45.127.101.18",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "iphanyi.webredirect.org",
-      "links": "91.193.75.132",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "iphanyi.webredirect.org",
-      "links": "91.193.75.136",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "iphanyi.webredirect.org",
-      "links": "91.193.75.184",
       "type": "pdns",
       "ln": 2
     },
@@ -495,6 +351,12 @@
     {
       "host": "iphy.strangled.net",
       "links": "160.152.4.186",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iphy.strangled.net",
+      "links": "160.152.79.204",
       "type": "pdns",
       "ln": 2
     },
@@ -547,24 +409,6 @@
       "ln": 2
     },
     {
-      "host": "nanopc.linkpc.net",
-      "links": "185.192.69.136",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "netwire.linkpc.net",
-      "links": "185.192.69.136",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "rick63.publicvm.com",
-      "links": "91.193.75.136",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "securedns360.hopto.org",
       "links": "184.105.237.196",
       "type": "pdns",
@@ -579,12 +423,6 @@
     {
       "host": "timmy22.ddns.net",
       "links": "184.105.237.196",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "vpnnid.hopto.org",
-      "links": "85.202.169.14",
       "type": "pdns",
       "ln": 2
     }

@@ -19,12 +19,6 @@
   ],
   "data": [
     {
-      "host": "1116.hopto.org",
-      "links": "91.193.75.132",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ThreatFox: Ave Maria",
       "links": "bakuzamokala.duckdns.org",
       "type": "z",
@@ -45,12 +39,6 @@
     {
       "host": "ThreatFox: Ave Maria",
       "links": "hafiznor336.duckdns.org",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: Ave Maria",
-      "links": "hotboy01.ddns.net",
       "type": "z",
       "ln": 2
     },
@@ -109,12 +97,6 @@
       "ln": 2
     },
     {
-      "host": "boysgoblow.hopto.org",
-      "links": "91.193.75.132",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "darkworldblackerlocker.dumb1.com",
       "links": "198.46.132.206",
       "type": "pdns",
@@ -139,12 +121,6 @@
       "ln": 2
     },
     {
-      "host": "emedoo.ddns.net",
-      "links": "91.193.75.132",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "haash.duckdns.org",
       "links": "197.211.61.35",
       "type": "pdns",
@@ -153,12 +129,6 @@
     {
       "host": "hafiznor336.duckdns.org",
       "links": "197.211.61.35",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "hotboy01.ddns.net",
-      "links": "194.5.98.103",
       "type": "pdns",
       "ln": 2
     },
@@ -248,7 +218,7 @@
     },
     {
       "host": "info1.dynamic-dns.net",
-      "links": "160.152.83.172",
+      "links": "160.152.79.204",
       "type": "pdns",
       "ln": 2
     },
@@ -278,37 +248,7 @@
     },
     {
       "host": "info1.dynamic-dns.net",
-      "links": "169.159.90.137",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "info1.dynamic-dns.net",
-      "links": "182.56.132.100",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "info1.dynamic-dns.net",
-      "links": "185.140.53.137",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "info1.dynamic-dns.net",
       "links": "185.19.85.134",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "info1.dynamic-dns.net",
-      "links": "194.5.98.17",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "info1.dynamic-dns.net",
-      "links": "212.69.2.31",
       "type": "pdns",
       "ln": 2
     },
@@ -327,24 +267,6 @@
     {
       "host": "info1.dynamic-dns.net",
       "links": "85.202.169.14",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "info1.dynamic-dns.net",
-      "links": "91.193.75.132",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "info1.dynamic-dns.net",
-      "links": "91.193.75.136",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "info1.dynamic-dns.net",
-      "links": "91.193.75.184",
       "type": "pdns",
       "ln": 2
     },
@@ -422,7 +344,7 @@
     },
     {
       "host": "iphanyi.chickenkiller.com",
-      "links": "160.152.83.172",
+      "links": "160.152.79.204",
       "type": "pdns",
       "ln": 2
     },
@@ -452,31 +374,7 @@
     },
     {
       "host": "iphanyi.chickenkiller.com",
-      "links": "169.159.90.137",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "iphanyi.chickenkiller.com",
-      "links": "185.140.53.137",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "iphanyi.chickenkiller.com",
       "links": "185.19.85.134",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "iphanyi.chickenkiller.com",
-      "links": "194.5.98.17",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "iphanyi.chickenkiller.com",
-      "links": "212.69.2.31",
       "type": "pdns",
       "ln": 2
     },
@@ -493,24 +391,6 @@
       "ln": 2
     },
     {
-      "host": "iphanyi.chickenkiller.com",
-      "links": "91.193.75.132",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "iphanyi.chickenkiller.com",
-      "links": "91.193.75.136",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "iphanyi.chickenkiller.com",
-      "links": "91.193.75.184",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "iphanyi.webredirect.org",
       "links": "103.168.204.152",
       "type": "pdns",
@@ -518,37 +398,7 @@
     },
     {
       "host": "iphanyi.webredirect.org",
-      "links": "182.56.132.100",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "iphanyi.webredirect.org",
-      "links": "194.5.98.17",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "iphanyi.webredirect.org",
       "links": "45.127.101.18",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "iphanyi.webredirect.org",
-      "links": "91.193.75.132",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "iphanyi.webredirect.org",
-      "links": "91.193.75.136",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "iphanyi.webredirect.org",
-      "links": "91.193.75.184",
       "type": "pdns",
       "ln": 2
     },
@@ -614,6 +464,12 @@
     },
     {
       "host": "iphy.strangled.net",
+      "links": "160.152.79.204",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iphy.strangled.net",
       "links": "169.159.106.72",
       "type": "pdns",
       "ln": 2
@@ -673,6 +529,12 @@
       "ln": 2
     },
     {
+      "host": "newehmpage.webredirect.org",
+      "links": "45.83.129.166",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ns1.estralin.cam",
       "links": "212.114.52.67",
       "type": "pdns",
@@ -691,14 +553,8 @@
       "ln": 2
     },
     {
-      "host": "rick63.publicvm.com",
-      "links": "91.193.75.136",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "sannation.duckdns.org",
-      "links": "194.5.98.103",
+      "host": "nweke.ddnsgeek.com",
+      "links": "45.83.129.166",
       "type": "pdns",
       "ln": 2
     },
@@ -710,19 +566,13 @@
     },
     {
       "host": "streelifes.duckdns.org",
+      "links": "193.233.185.89",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "streelifes.duckdns.org",
       "links": "194.31.98.214",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "sydlarremedies.com",
-      "links": "185.140.53.73",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "takertltd.com",
-      "links": "185.140.53.73",
       "type": "pdns",
       "ln": 2
     },
@@ -745,14 +595,14 @@
       "ln": 2
     },
     {
-      "host": "vpnnid.hopto.org",
-      "links": "85.202.169.14",
+      "host": "zoneproess.duckdns.org",
+      "links": "185.29.8.57",
       "type": "pdns",
       "ln": 2
     },
     {
       "host": "zoneproess.duckdns.org",
-      "links": "185.29.8.57",
+      "links": "193.233.185.89",
       "type": "pdns",
       "ln": 2
     },

@@ -26,7 +26,19 @@
     },
     {
       "host": "ET Trojan: NOBELIUM (TA421) Cobalt Strike",
+      "links": "cityloss.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: NOBELIUM (TA421) Cobalt Strike",
       "links": "dailydews.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: NOBELIUM (TA421) Cobalt Strike",
+      "links": "hanproud.com",
       "type": "z",
       "ln": 2
     },
@@ -103,6 +115,12 @@
       "ln": 2
     },
     {
+      "host": "cityloss.com",
+      "links": "51.38.85.225",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "dailydews.com",
       "links": "03bbe3533f1540a745b0206a2818696c4cb6b21b",
       "type": "certs",
@@ -172,6 +190,12 @@
       "host": "greenssprinklerrepair.com",
       "links": "b66277cf7ec7027fecaee6433779ebf161561ab0",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "hanproud.com",
+      "links": "141.94.115.20",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -283,6 +307,12 @@
       "ln": 2
     },
     {
+      "host": "mail.pankin.org",
+      "links": "185.243.215.198",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "matchmakerbyu.com",
       "links": "b66277cf7ec7027fecaee6433779ebf161561ab0",
       "type": "certs",
@@ -328,6 +358,18 @@
       "host": "nevadahousingsearch.org",
       "links": "b66277cf7ec7027fecaee6433779ebf161561ab0",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "ns1.cityloss.com",
+      "links": "51.38.85.225",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.cityloss.com",
+      "links": "51.38.85.225",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -403,6 +445,12 @@
       "ln": 2
     },
     {
+      "host": "sdfsd.cityloss.com",
+      "links": "51.38.85.225",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "shoopee.com.br",
       "links": "b66277cf7ec7027fecaee6433779ebf161561ab0",
       "type": "certs",
@@ -445,9 +493,21 @@
       "ln": 2
     },
     {
+      "host": "themoviehometheather.com",
+      "links": "141.94.115.20",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "theyardservice.com",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "trendignews.com",
+      "links": "185.243.215.198",
+      "type": "pdns",
       "ln": 2
     },
     {

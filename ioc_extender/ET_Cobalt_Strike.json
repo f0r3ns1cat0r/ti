@@ -32,14 +32,32 @@
     },
     {
       "host": "awsmcafee.com",
+      "links": "34.250.71.157",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "awsmcafee.com",
       "links": "9a46b99dfdafe100e80e6777d09dbbe5f0f1dfa5",
       "type": "certs",
       "ln": 2
     },
     {
       "host": "cloudmcafee.net",
+      "links": "34.250.71.157",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cloudmcafee.net",
       "links": "9a46b99dfdafe100e80e6777d09dbbe5f0f1dfa5",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.cloudmcafee.net",
+      "links": "34.250.71.157",
+      "type": "pdns",
       "ln": 2
     },
     {

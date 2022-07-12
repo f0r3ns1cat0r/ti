@@ -25,6 +25,18 @@
       "ln": 2
     },
     {
+      "host": "ET Trojan: Earth Berberoka",
+      "links": "linux.wy01.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: Earth Berberoka",
+      "links": "linux.wy01.vip",
+      "type": "z",
+      "ln": 2
+    },
+    {
       "host": "github.wiki",
       "links": "5b439ac5305e09efb0f29e4e36f3b72484bc677b",
       "type": "certs",
@@ -34,6 +46,30 @@
       "host": "kdbox.github.wiki",
       "links": "5b439ac5305e09efb0f29e4e36f3b72484bc677b",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "linux.wy01.com",
+      "links": "207.148.103.108",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "linux.wy01.vip",
+      "links": "207.148.103.108",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "tcp.wy01.com",
+      "links": "207.148.103.108",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "udp.wy01.com",
+      "links": "207.148.103.108",
+      "type": "pdns",
       "ln": 2
     }
   ]
