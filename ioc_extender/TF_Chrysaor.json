@@ -122,12 +122,6 @@
     },
     {
       "host": "ThreatFox: Chrysaor",
-      "links": "randomlane.net",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: Chrysaor",
       "links": "regularhours.net",
       "type": "z",
       "ln": 2
@@ -177,6 +171,12 @@
     {
       "host": "ThreatFox: Chrysaor",
       "links": "web-page.co",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Chrysaor",
+      "links": "web-url.net",
       "type": "z",
       "ln": 2
     },
@@ -1105,12 +1105,6 @@
       "ln": 2
     },
     {
-      "host": "flexcourses.net",
-      "links": "92.119.112.7",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "flipkart-sale.in",
       "links": "58e3d346469b490f4203881e7726103cbd030617",
       "type": "certs",
@@ -1633,12 +1627,6 @@
       "ln": 2
     },
     {
-      "host": "randomlane.net",
-      "links": "92.119.112.7",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "recover-item.com",
       "links": "58e3d346469b490f4203881e7726103cbd030617",
       "type": "certs",
@@ -1933,6 +1921,18 @@
       "ln": 2
     },
     {
+      "host": "web-url.net",
+      "links": "0188c0e67cde049f5c65a1fc18853c32659ec1c3",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "web-url.net",
+      "links": "edd8a675eeac16a42f4bdc4cf448af4abc5e32be",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "webdisk.holdstory.com",
       "links": "647f234b2bc49870620042f8d6d94b544345da27",
       "type": "certs",
@@ -1947,6 +1947,18 @@
     {
       "host": "webmail.holdstory.com",
       "links": "647f234b2bc49870620042f8d6d94b544345da27",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webmail.web-url.net",
+      "links": "0188c0e67cde049f5c65a1fc18853c32659ec1c3",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webmail.web-url.net",
+      "links": "edd8a675eeac16a42f4bdc4cf448af4abc5e32be",
       "type": "certs",
       "ln": 2
     },
