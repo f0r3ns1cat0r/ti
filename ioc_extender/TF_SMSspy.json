@@ -134,6 +134,12 @@
     },
     {
       "host": "ThreatFox: SMSspy",
+      "links": "say-parapak.ga",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: SMSspy",
       "links": "server-shirazzi.ga",
       "type": "z",
       "ln": 2
@@ -237,6 +243,12 @@
     {
       "host": "cpanel.kimo.vip",
       "links": "ee6e2d9c1db0670e08ec6a864d23f6931c0fafcb",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpanel.say-parapak.ga",
+      "links": "71c98fb5a73611f504870936e4bc6d2cb835b5ca",
       "type": "certs",
       "ln": 2
     },
@@ -511,6 +523,12 @@
       "ln": 2
     },
     {
+      "host": "ftp.say-parapak.ga",
+      "links": "71c98fb5a73611f504870936e4bc6d2cb835b5ca",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "halpopen-ir.tk",
       "links": "45.87.42.158",
       "type": "pdns",
@@ -685,6 +703,12 @@
       "ln": 2
     },
     {
+      "host": "mail.say-parapak.ga",
+      "links": "71c98fb5a73611f504870936e4bc6d2cb835b5ca",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "mail.xwebapp.xyz",
       "links": "b77e831e1ab561f79b37156b61a52f10273fe05d",
       "type": "certs",
@@ -705,6 +729,12 @@
     {
       "host": "myadliran.com",
       "links": "876a7658d3d209ac651c5c27c39342f46a0aa896",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "namalakp.tk",
+      "links": "b09aace39ea2846314051e7570941be079195f78",
       "type": "certs",
       "ln": 2
     },
@@ -783,6 +813,18 @@
     {
       "host": "s1.kimo.vip",
       "links": "2dd01f6c4367b19b8e65a1b5ae1f26515351fcb3",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "say-parapak.ga",
+      "links": "71c98fb5a73611f504870936e4bc6d2cb835b5ca",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "say-parapak.ga",
+      "links": "b09aace39ea2846314051e7570941be079195f78",
       "type": "certs",
       "ln": 2
     },
@@ -921,6 +963,12 @@
     {
       "host": "webmail.kimo.vip",
       "links": "ee6e2d9c1db0670e08ec6a864d23f6931c0fafcb",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webmail.say-parapak.ga",
+      "links": "71c98fb5a73611f504870936e4bc6d2cb835b5ca",
       "type": "certs",
       "ln": 2
     },
