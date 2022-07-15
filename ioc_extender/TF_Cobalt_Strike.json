@@ -308,12 +308,6 @@
     },
     {
       "host": "ThreatFox: Cobalt Strike",
-      "links": "bujoke.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: Cobalt Strike",
       "links": "bunced.net",
       "type": "z",
       "ln": 2
@@ -3055,6 +3049,18 @@
       "ln": 2
     },
     {
+      "host": "mr.un1k0d3r.com",
+      "links": "9b934030eadfdd0cbf3b1661ea2859fc3c4c682e",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mr.un1k0d3r.world",
+      "links": "9b934030eadfdd0cbf3b1661ea2859fc3c4c682e",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "myusapayroll.com",
       "links": "192.34.109.14",
       "type": "pdns",
@@ -3951,6 +3957,18 @@
     {
       "host": "un1k0d3r.com",
       "links": "742c7862da4d41c71a26d711d12135df519891dd",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "un1k0d3r.com",
+      "links": "9b934030eadfdd0cbf3b1661ea2859fc3c4c682e",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "un1k0d3r.world",
+      "links": "9b934030eadfdd0cbf3b1661ea2859fc3c4c682e",
       "type": "certs",
       "ln": 2
     },
