@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ThreatFox: Quasar RAT",
+      "links": "dnuocc.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Quasar RAT",
+      "links": "www.dnuocc.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "dnuocc.com",
+      "links": "00485d112d2a0efbbb500038997967d0c041b6cc",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "dnuocc.com",
+      "links": "d19078e902cd39f308e5bd626cbc29b67fab5f27",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.vervetama.com",
+      "links": "00485d112d2a0efbbb500038997967d0c041b6cc",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.vervetama.com",
+      "links": "d19078e902cd39f308e5bd626cbc29b67fab5f27",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.dnuocc.com",
+      "links": "00485d112d2a0efbbb500038997967d0c041b6cc",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.dnuocc.com",
+      "links": "d19078e902cd39f308e5bd626cbc29b67fab5f27",
+      "type": "certs",
+      "ln": 2
+    }
+  ]
+}

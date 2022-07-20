@@ -1333,12 +1333,6 @@
       "ln": 2
     },
     {
-      "host": "ns1.newinterval.com",
-      "links": "199.192.23.253",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ns1.yellowcloudvps.com",
       "links": "199.192.17.149",
       "type": "pdns",
@@ -1359,12 +1353,6 @@
     {
       "host": "ns2.logosnode.com",
       "links": "199.192.17.149",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.newinterval.com",
-      "links": "199.192.23.253",
       "type": "pdns",
       "ln": 2
     },
@@ -2116,12 +2104,6 @@
       "host": "www.cinmax.xyz",
       "links": "f70022349b3945e2d3a3abe8ea20a6c540f531b5",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "www.contorig2.com",
-      "links": "199.192.23.253",
-      "type": "pdns",
       "ln": 2
     },
     {

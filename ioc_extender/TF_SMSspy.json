@@ -187,6 +187,12 @@
       "ln": 2
     },
     {
+      "host": "ThreatFox: SMSspy",
+      "links": "yooz-shop.tk",
+      "type": "z",
+      "ln": 2
+    },
+    {
       "host": "adal1401.tk",
       "links": "45.87.42.158",
       "type": "pdns",
@@ -351,6 +357,18 @@
     {
       "host": "cpanel.xwebapp.xyz",
       "links": "b77e831e1ab561f79b37156b61a52f10273fe05d",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpanel.yooz-shop.tk",
+      "links": "8c7bab278be4d105da4479c05346a77aaeee1929",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpanel.yooz-shop.tk",
+      "links": "d06f4523f6fdc33674164a008476eeb723503dac",
       "type": "certs",
       "ln": 2
     },
@@ -679,6 +697,18 @@
       "ln": 2
     },
     {
+      "host": "ftp.yooz-shop.tk",
+      "links": "8c7bab278be4d105da4479c05346a77aaeee1929",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "ftp.yooz-shop.tk",
+      "links": "d06f4523f6fdc33674164a008476eeb723503dac",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "halpopen-ir.tk",
       "links": "45.87.42.158",
       "type": "pdns",
@@ -885,6 +915,18 @@
     {
       "host": "mail.xwebapp.xyz",
       "links": "b77e831e1ab561f79b37156b61a52f10273fe05d",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.yooz-shop.tk",
+      "links": "8c7bab278be4d105da4479c05346a77aaeee1929",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.yooz-shop.tk",
+      "links": "d06f4523f6fdc33674164a008476eeb723503dac",
       "type": "certs",
       "ln": 2
     },
@@ -1285,6 +1327,18 @@
       "ln": 2
     },
     {
+      "host": "webmail.yooz-shop.tk",
+      "links": "8c7bab278be4d105da4479c05346a77aaeee1929",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webmail.yooz-shop.tk",
+      "links": "d06f4523f6fdc33674164a008476eeb723503dac",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "www.dadgahieir.cf",
       "links": "2d19be71aeaaac35d1fd6971fbd57c789907353b",
       "type": "certs",
@@ -1371,6 +1425,18 @@
     {
       "host": "xwebapp.xyz",
       "links": "b77e831e1ab561f79b37156b61a52f10273fe05d",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "yooz-shop.tk",
+      "links": "8c7bab278be4d105da4479c05346a77aaeee1929",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "yooz-shop.tk",
+      "links": "d06f4523f6fdc33674164a008476eeb723503dac",
       "type": "certs",
       "ln": 2
     }

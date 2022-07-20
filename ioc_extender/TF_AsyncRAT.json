@@ -50,6 +50,12 @@
     },
     {
       "host": "ThreatFox: AsyncRAT",
+      "links": "moaaaza.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: AsyncRAT",
       "links": "nyannewtoday.duckdns.org",
       "type": "z",
       "ln": 2
@@ -319,6 +325,12 @@
       "ln": 2
     },
     {
+      "host": "host5.moaaaza.com",
+      "links": "142.202.242.210",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "hotentregas.app",
       "links": "021cc80a118caa47313ca16a59d8e7b6787df70b",
       "type": "certs",
@@ -442,6 +454,12 @@
       "host": "misall-dev.com",
       "links": "2e1c61bf71a42f8ee3937bd7f55719b693681c88",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "moaaaza.com",
+      "links": "142.202.242.210",
+      "type": "pdns",
       "ln": 2
     },
     {
