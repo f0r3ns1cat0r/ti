@@ -158,12 +158,6 @@
     },
     {
       "host": "crazydns.linkpc.net",
-      "links": "91.193.75.194",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "crazydns.linkpc.net",
       "links": "91.193.75.196",
       "type": "pdns",
       "ln": 2
@@ -544,12 +538,6 @@
       "host": "redirection-topayplcstmrs.tech",
       "links": "2e1c61bf71a42f8ee3937bd7f55719b693681c88",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "rick63.publicvm.com",
-      "links": "91.193.75.194",
-      "type": "pdns",
       "ln": 2
     },
     {

@@ -74,12 +74,6 @@
     },
     {
       "host": "crazydns.linkpc.net",
-      "links": "91.193.75.194",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "crazydns.linkpc.net",
       "links": "91.193.75.196",
       "type": "pdns",
       "ln": 2
@@ -123,12 +117,6 @@
     {
       "host": "rick63.publicvm.com",
       "links": "91.193.75.176",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "rick63.publicvm.com",
-      "links": "91.193.75.194",
       "type": "pdns",
       "ln": 2
     },

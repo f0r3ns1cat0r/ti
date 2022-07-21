@@ -350,6 +350,12 @@
     },
     {
       "host": "ThreatFox: Cobalt Strike",
+      "links": "colasc.net",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Cobalt Strike",
       "links": "concurpro.com",
       "type": "z",
       "ln": 2
@@ -1069,6 +1075,18 @@
       "ln": 2
     },
     {
+      "host": "allstarserviceind.com",
+      "links": "139.162.120.150",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "allstarserviceind.com",
+      "links": "50.116.17.41",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "alt-buh.store",
       "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
       "type": "certs",
@@ -1114,6 +1132,18 @@
       "host": "antibroadcast.ru",
       "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "apbinvestments.com",
+      "links": "139.162.120.150",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "apbinvestments.com",
+      "links": "50.116.17.41",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -1471,6 +1501,18 @@
       "ln": 2
     },
     {
+      "host": "blackhillspianogallery.com",
+      "links": "139.162.120.150",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "blackhillspianogallery.com",
+      "links": "50.116.17.41",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "blackpointstudio.ru",
       "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
       "type": "certs",
@@ -1639,6 +1681,18 @@
       "ln": 2
     },
     {
+      "host": "cimexcoinc.net",
+      "links": "139.162.120.150",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cimexcoinc.net",
+      "links": "50.116.17.41",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ck-mosfilmovsky.online",
       "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
       "type": "certs",
@@ -1707,6 +1761,18 @@
     {
       "host": "cojirol.com",
       "links": "79.141.163.33",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "colasc.net",
+      "links": "139.162.120.150",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "colasc.net",
+      "links": "50.116.17.41",
       "type": "pdns",
       "ln": 2
     },
@@ -1981,12 +2047,6 @@
       "ln": 2
     },
     {
-      "host": "deutsch-griffen.com",
-      "links": "45.9.20.203",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "deutschebank-zugangphototan.xyz",
       "links": "1072d53db9fc050d9d289cec9ce34ce64ae2d1fc",
       "type": "certs",
@@ -2062,6 +2122,18 @@
       "host": "doverikon.ru",
       "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "downloads.damemp3.org",
+      "links": "139.162.120.150",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "downloads.damemp3.org",
+      "links": "50.116.17.41",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -2503,6 +2575,42 @@
       "ln": 2
     },
     {
+      "host": "imap.abqgrandhotel.com",
+      "links": "139.162.120.150",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "imap.abqgrandhotel.com",
+      "links": "50.116.17.41",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "imap.mail.bestiemail.com",
+      "links": "139.162.120.150",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "imap.mail.bestiemail.com",
+      "links": "50.116.17.41",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "imap.meridahh.com",
+      "links": "139.162.120.150",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "imap.meridahh.com",
+      "links": "50.116.17.41",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ingonline-zugangsdaten.xyz",
       "links": "c2be9baacb3c427e11e63abf2084492553bc5d8d",
       "type": "certs",
@@ -2617,12 +2725,6 @@
       "ln": 2
     },
     {
-      "host": "kunitachi-creation.com",
-      "links": "45.9.20.203",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "kusufu.com",
       "links": "23.81.246.66",
       "type": "pdns",
@@ -2662,6 +2764,18 @@
       "host": "lebedevey.online",
       "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "li1604-150.members.linode.com",
+      "links": "139.162.120.150",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "li601-41.members.linode.com",
+      "links": "50.116.17.41",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -2782,6 +2896,42 @@
       "host": "mail.notificat-on.ga",
       "links": "dd1e7fb71be8434f9b93c6d262b394c733fbd3ac",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.peletonfraud.com",
+      "links": "139.162.120.150",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.peletonfraud.com",
+      "links": "50.116.17.41",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.technologisticsafrica.com",
+      "links": "139.162.120.150",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.technologisticsafrica.com",
+      "links": "50.116.17.41",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.threesonssignature.com",
+      "links": "139.162.120.150",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.threesonssignature.com",
+      "links": "50.116.17.41",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -3040,6 +3190,18 @@
       "host": "new-shoes.store",
       "links": "c4fcae41ae4c57061f31a74c2de72bc72afb2201",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "newska-uanews.biz",
+      "links": "139.162.120.150",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "newska-uanews.biz",
+      "links": "50.116.17.41",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -3355,6 +3517,18 @@
       "ln": 2
     },
     {
+      "host": "primedesigns.biz",
+      "links": "139.162.120.150",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "primedesigns.biz",
+      "links": "50.116.17.41",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "primelink.codershop.shop",
       "links": "8a3dc1e7bb3bd7e1665e42fd908079d8bc44f008",
       "type": "certs",
@@ -3394,12 +3568,6 @@
       "host": "pro-sto-ufa.store",
       "links": "c4fcae41ae4c57061f31a74c2de72bc72afb2201",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "pro-trux.com",
-      "links": "45.9.20.203",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -3448,12 +3616,6 @@
       "host": "rvk-klimat.online",
       "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "samkennedyphotographer.com",
-      "links": "45.9.20.203",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -3532,6 +3694,18 @@
       "host": "sellerbestprice.com",
       "links": "216edef2f26a94071007aab8ec5e36c6b072c949",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "server.apbinvestments.com",
+      "links": "139.162.120.150",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "server.apbinvestments.com",
+      "links": "50.116.17.41",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -3628,6 +3802,18 @@
       "host": "smartwatchc013.store",
       "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "smtp.threesonssignature.com",
+      "links": "139.162.120.150",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "smtp.threesonssignature.com",
+      "links": "50.116.17.41",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -3751,6 +3937,18 @@
       "ln": 2
     },
     {
+      "host": "telegraf-news.biz",
+      "links": "139.162.120.150",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "telegraf-news.biz",
+      "links": "50.116.17.41",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "teodoziapepe.com",
       "links": "45.9.20.203",
       "type": "pdns",
@@ -3778,6 +3976,18 @@
       "host": "tnelectionresults.com",
       "links": "15932ebdf6f657111356ae8fe7f53ad717f56d6f",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "tnskvggujjqfcskwk.com",
+      "links": "139.162.120.150",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "tnskvggujjqfcskwk.com",
+      "links": "50.116.17.41",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -3844,6 +4054,18 @@
       "host": "tupperware29.store",
       "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "twinesandvines.com",
+      "links": "139.162.120.150",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "twinesandvines.com",
+      "links": "50.116.17.41",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -3952,12 +4174,6 @@
       "host": "voodoopanda01.com",
       "links": "216edef2f26a94071007aab8ec5e36c6b072c949",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "vtrobinsons.com",
-      "links": "45.9.20.203",
-      "type": "pdns",
       "ln": 2
     },
     {
