@@ -74,6 +74,12 @@
     },
     {
       "host": "autodiscover.fan",
+      "links": "134.209.227.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "autodiscover.fan",
       "links": "7de3c515d60dcfd8a7146a4116a4e985fbdf6f19",
       "type": "certs",
       "ln": 2
@@ -92,8 +98,20 @@
     },
     {
       "host": "autodiscover.moe",
+      "links": "134.209.227.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "autodiscover.moe",
       "links": "7de3c515d60dcfd8a7146a4116a4e985fbdf6f19",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "autodiscover.vin",
+      "links": "134.209.227.14",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -106,6 +124,12 @@
       "host": "b.watashinonegai.ru",
       "links": "45fff0130b3bce2f9d86740cd45f97cb2b8d367a",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "banner-counter.com",
+      "links": "134.209.227.14",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -154,6 +178,12 @@
       "host": "clarionhpdu.top",
       "links": "7de3c515d60dcfd8a7146a4116a4e985fbdf6f19",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cltpk.doomdns.org",
+      "links": "134.209.227.14",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -220,6 +250,12 @@
       "host": "crabbedly.club",
       "links": "7de3c515d60dcfd8a7146a4116a4e985fbdf6f19",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "craptioerne.com",
+      "links": "134.209.227.14",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -614,6 +650,12 @@
     },
     {
       "host": "vz206llb19o.com",
+      "links": "134.209.227.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "vz206llb19o.com",
       "links": "45fff0130b3bce2f9d86740cd45f97cb2b8d367a",
       "type": "certs",
       "ln": 2
@@ -658,6 +700,12 @@
       "host": "www.pegasusco.net.dnyfn39049.rakkoserver.net",
       "links": "a38b35e07989b961c48d64be45663214163e45cd",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "xyfnvvbuovcd.be",
+      "links": "134.209.227.14",
+      "type": "pdns",
       "ln": 2
     },
     {

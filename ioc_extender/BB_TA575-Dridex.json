@@ -374,6 +374,12 @@
     },
     {
       "host": "BB Threat Research: TA575-Dridex",
+      "links": "clickcastr.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "BB Threat Research: TA575-Dridex",
       "links": "clientgeneration.co",
       "type": "z",
       "ln": 2
@@ -1633,6 +1639,18 @@
       "ln": 2
     },
     {
+      "host": "autodiscover.clickcastr.com",
+      "links": "7342feeac5ae72558ea9bad63670706bbd66a660",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "autodiscover.clickcastr.com",
+      "links": "ecdb2c00231fc971f7c620559131713b992c6f5f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "autodiscover.dancingwithchange.com",
       "links": "3d6f582b8c3811ef9c6361a04746348916cdfe89",
       "type": "certs",
@@ -1755,6 +1773,12 @@
     {
       "host": "autodiscover.life-energy.net",
       "links": "6a28ade89686be12c528a6fffcc6cb1bfaf6fdfa",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "autodiscover.life-energy.net",
+      "links": "8467e5283501abd565cc7073e2928427066b309f",
       "type": "certs",
       "ln": 2
     },
@@ -3259,6 +3283,18 @@
       "ln": 2
     },
     {
+      "host": "clickcastr.com",
+      "links": "7342feeac5ae72558ea9bad63670706bbd66a660",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "clickcastr.com",
+      "links": "ecdb2c00231fc971f7c620559131713b992c6f5f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "clientgeneration.co",
       "links": "139.180.163.253",
       "type": "pdns",
@@ -3601,6 +3637,18 @@
       "ln": 2
     },
     {
+      "host": "cpanel.clickcastr.com",
+      "links": "7342feeac5ae72558ea9bad63670706bbd66a660",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpanel.clickcastr.com",
+      "links": "ecdb2c00231fc971f7c620559131713b992c6f5f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "cpanel.dancingwithchange.com",
       "links": "3d6f582b8c3811ef9c6361a04746348916cdfe89",
       "type": "certs",
@@ -3723,6 +3771,12 @@
     {
       "host": "cpanel.life-energy.net",
       "links": "6a28ade89686be12c528a6fffcc6cb1bfaf6fdfa",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpanel.life-energy.net",
+      "links": "8467e5283501abd565cc7073e2928427066b309f",
       "type": "certs",
       "ln": 2
     },
@@ -3949,6 +4003,18 @@
       "ln": 2
     },
     {
+      "host": "cpcalendars.clickcastr.com",
+      "links": "7342feeac5ae72558ea9bad63670706bbd66a660",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcalendars.clickcastr.com",
+      "links": "ecdb2c00231fc971f7c620559131713b992c6f5f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "cpcalendars.dancingwithchange.com",
       "links": "3d6f582b8c3811ef9c6361a04746348916cdfe89",
       "type": "certs",
@@ -4071,6 +4137,12 @@
     {
       "host": "cpcalendars.life-energy.net",
       "links": "6a28ade89686be12c528a6fffcc6cb1bfaf6fdfa",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcalendars.life-energy.net",
+      "links": "8467e5283501abd565cc7073e2928427066b309f",
       "type": "certs",
       "ln": 2
     },
@@ -4297,6 +4369,18 @@
       "ln": 2
     },
     {
+      "host": "cpcontacts.clickcastr.com",
+      "links": "7342feeac5ae72558ea9bad63670706bbd66a660",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcontacts.clickcastr.com",
+      "links": "ecdb2c00231fc971f7c620559131713b992c6f5f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "cpcontacts.dancingwithchange.com",
       "links": "3d6f582b8c3811ef9c6361a04746348916cdfe89",
       "type": "certs",
@@ -4419,6 +4503,12 @@
     {
       "host": "cpcontacts.life-energy.net",
       "links": "6a28ade89686be12c528a6fffcc6cb1bfaf6fdfa",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcontacts.life-energy.net",
+      "links": "8467e5283501abd565cc7073e2928427066b309f",
       "type": "certs",
       "ln": 2
     },
@@ -7868,6 +7958,12 @@
     },
     {
       "host": "life-energy-net.miriamdyak.com",
+      "links": "8467e5283501abd565cc7073e2928427066b309f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "life-energy-net.miriamdyak.com",
       "links": "d6363c2d8dbf44bbd57aca81903148bcb4b7e9e5",
       "type": "certs",
       "ln": 2
@@ -7905,6 +8001,12 @@
     {
       "host": "life-energy.net",
       "links": "6a28ade89686be12c528a6fffcc6cb1bfaf6fdfa",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "life-energy.net",
+      "links": "8467e5283501abd565cc7073e2928427066b309f",
       "type": "certs",
       "ln": 2
     },
@@ -8257,6 +8359,18 @@
       "ln": 2
     },
     {
+      "host": "mail.clickcastr.com",
+      "links": "7342feeac5ae72558ea9bad63670706bbd66a660",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.clickcastr.com",
+      "links": "ecdb2c00231fc971f7c620559131713b992c6f5f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "mail.dancingwithchange.com",
       "links": "3d6f582b8c3811ef9c6361a04746348916cdfe89",
       "type": "certs",
@@ -8427,6 +8541,12 @@
     {
       "host": "mail.life-energy.net",
       "links": "6a28ade89686be12c528a6fffcc6cb1bfaf6fdfa",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.life-energy.net",
+      "links": "8467e5283501abd565cc7073e2928427066b309f",
       "type": "certs",
       "ln": 2
     },
@@ -13183,6 +13303,18 @@
       "ln": 2
     },
     {
+      "host": "webdisk.clickcastr.com",
+      "links": "7342feeac5ae72558ea9bad63670706bbd66a660",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webdisk.clickcastr.com",
+      "links": "ecdb2c00231fc971f7c620559131713b992c6f5f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "webdisk.dancingwithchange.com",
       "links": "3d6f582b8c3811ef9c6361a04746348916cdfe89",
       "type": "certs",
@@ -13305,6 +13437,12 @@
     {
       "host": "webdisk.life-energy.net",
       "links": "6a28ade89686be12c528a6fffcc6cb1bfaf6fdfa",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webdisk.life-energy.net",
+      "links": "8467e5283501abd565cc7073e2928427066b309f",
       "type": "certs",
       "ln": 2
     },
@@ -13537,6 +13675,18 @@
       "ln": 2
     },
     {
+      "host": "webmail.clickcastr.com",
+      "links": "7342feeac5ae72558ea9bad63670706bbd66a660",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webmail.clickcastr.com",
+      "links": "ecdb2c00231fc971f7c620559131713b992c6f5f",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "webmail.dancingwithchange.com",
       "links": "3d6f582b8c3811ef9c6361a04746348916cdfe89",
       "type": "certs",
@@ -13659,6 +13809,12 @@
     {
       "host": "webmail.life-energy.net",
       "links": "6a28ade89686be12c528a6fffcc6cb1bfaf6fdfa",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webmail.life-energy.net",
+      "links": "8467e5283501abd565cc7073e2928427066b309f",
       "type": "certs",
       "ln": 2
     },
@@ -16347,6 +16503,12 @@
     {
       "host": "www.life-energy-net.miriamdyak.com",
       "links": "6a28ade89686be12c528a6fffcc6cb1bfaf6fdfa",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.life-energy-net.miriamdyak.com",
+      "links": "8467e5283501abd565cc7073e2928427066b309f",
       "type": "certs",
       "ln": 2
     },
