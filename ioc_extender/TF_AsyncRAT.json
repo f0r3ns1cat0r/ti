@@ -19,12 +19,6 @@
   ],
   "data": [
     {
-      "host": "1biggie.publicvm.com",
-      "links": "91.193.75.196",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "3laallah.myvnc.com",
       "links": "198.244.206.23",
       "type": "pdns",
@@ -154,12 +148,6 @@
       "host": "cplusaganteng27.net",
       "links": "ae51a24ffc60075852ec63e9d450da44adccd4ca",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "crazydns.linkpc.net",
-      "links": "91.193.75.196",
-      "type": "pdns",
       "ln": 2
     },
     {
