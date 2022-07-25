@@ -12212,6 +12212,12 @@
     },
     {
       "host": "telcodata.us",
+      "links": "329bc1990a0e1bc62c2d737ec560f4da48adb3a0",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "telcodata.us",
       "links": "3e8c0d6f01fc8653c20c4c5fed32ad753d8a6585",
       "type": "certs",
       "ln": 2
@@ -18658,6 +18664,12 @@
       "host": "zorak.telcodata.us",
       "links": "208.83.69.36",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "zorak.telcodata.us",
+      "links": "329bc1990a0e1bc62c2d737ec560f4da48adb3a0",
+      "type": "certs",
       "ln": 2
     },
     {
