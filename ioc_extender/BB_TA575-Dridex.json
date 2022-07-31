@@ -530,6 +530,12 @@
     },
     {
       "host": "BB Threat Research: TA575-Dridex",
+      "links": "hostwindsdns.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "BB Threat Research: TA575-Dridex",
       "links": "huminz.com",
       "type": "z",
       "ln": 2
@@ -7009,6 +7015,12 @@
       "ln": 2
     },
     {
+      "host": "hostwindsdns.com",
+      "links": "142.11.230.202",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "hr1.amgradio.ru",
       "links": "185.86.147.14",
       "type": "pdns",
@@ -9823,6 +9835,12 @@
       "ln": 2
     },
     {
+      "host": "ns2.ineeddts.net",
+      "links": "142.11.230.202",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "nsedeals.in",
       "links": "686908396b29d73e917d730427f65cd40bd52154",
       "type": "certs",
@@ -11138,6 +11156,12 @@
     },
     {
       "host": "remixfm.ru",
+      "links": "185.86.147.14",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "retro2.amgradio.ru",
       "links": "185.86.147.14",
       "type": "pdns",
       "ln": 2
