@@ -1,0 +1,220 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ET Trojan: CHIMNEYSWEEP Backdoor",
+      "links": "pgp.eu.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: CHIMNEYSWEEP Backdoor",
+      "links": "telegram-update.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: CHIMNEYSWEEP Backdoor",
+      "links": "update-real.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "cpanel.pgp.eu.com",
+      "links": "033ee4897243bb99177c1ea22ff250b6f301a41d",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpanel.pgp.eu.com",
+      "links": "63fd5525ca780bb51a38f85b7c34cf890d1712e7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpanel.pgp.eu.com",
+      "links": "cc7686fef13529f0ceed9d843b3a416aba7843d8",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcalendars.pgp.eu.com",
+      "links": "033ee4897243bb99177c1ea22ff250b6f301a41d",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcalendars.pgp.eu.com",
+      "links": "63fd5525ca780bb51a38f85b7c34cf890d1712e7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcalendars.pgp.eu.com",
+      "links": "cc7686fef13529f0ceed9d843b3a416aba7843d8",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcontacts.pgp.eu.com",
+      "links": "033ee4897243bb99177c1ea22ff250b6f301a41d",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcontacts.pgp.eu.com",
+      "links": "63fd5525ca780bb51a38f85b7c34cf890d1712e7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcontacts.pgp.eu.com",
+      "links": "cc7686fef13529f0ceed9d843b3a416aba7843d8",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.pgp.eu.com",
+      "links": "033ee4897243bb99177c1ea22ff250b6f301a41d",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.pgp.eu.com",
+      "links": "63fd5525ca780bb51a38f85b7c34cf890d1712e7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.pgp.eu.com",
+      "links": "cc7686fef13529f0ceed9d843b3a416aba7843d8",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.telegram-update.com",
+      "links": "033ee4897243bb99177c1ea22ff250b6f301a41d",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.telegram-update.com",
+      "links": "63fd5525ca780bb51a38f85b7c34cf890d1712e7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.telegram-update.com",
+      "links": "cc7686fef13529f0ceed9d843b3a416aba7843d8",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "pgp.eu.com",
+      "links": "033ee4897243bb99177c1ea22ff250b6f301a41d",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "pgp.eu.com",
+      "links": "63fd5525ca780bb51a38f85b7c34cf890d1712e7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "pgp.eu.com",
+      "links": "cc7686fef13529f0ceed9d843b3a416aba7843d8",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "telegram-update.com",
+      "links": "033ee4897243bb99177c1ea22ff250b6f301a41d",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "telegram-update.com",
+      "links": "63fd5525ca780bb51a38f85b7c34cf890d1712e7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "telegram-update.com",
+      "links": "cc7686fef13529f0ceed9d843b3a416aba7843d8",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "update-real.com",
+      "links": "143.95.66.198",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "uppercanadanovelties.com",
+      "links": "143.95.66.198",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "vektorengineeringinc.com",
+      "links": "143.95.66.198",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "webdisk.pgp.eu.com",
+      "links": "033ee4897243bb99177c1ea22ff250b6f301a41d",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webdisk.pgp.eu.com",
+      "links": "63fd5525ca780bb51a38f85b7c34cf890d1712e7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webdisk.pgp.eu.com",
+      "links": "cc7686fef13529f0ceed9d843b3a416aba7843d8",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webmail.pgp.eu.com",
+      "links": "033ee4897243bb99177c1ea22ff250b6f301a41d",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webmail.pgp.eu.com",
+      "links": "63fd5525ca780bb51a38f85b7c34cf890d1712e7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webmail.pgp.eu.com",
+      "links": "cc7686fef13529f0ceed9d843b3a416aba7843d8",
+      "type": "certs",
+      "ln": 2
+    }
+  ]
+}
