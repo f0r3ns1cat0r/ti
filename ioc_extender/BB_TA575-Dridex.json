@@ -193,6 +193,12 @@
       "ln": 2
     },
     {
+      "host": "7sm5ved84k6r.cloudmaestro.com",
+      "links": "107.22.48.119",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "93regimentalcan.com",
       "links": "0583a3efae17fb86bae6b737af341ee95a100b53",
       "type": "certs",
@@ -7009,6 +7015,18 @@
       "ln": 2
     },
     {
+      "host": "hr4tqnltvxi7.cloudmaestro.com",
+      "links": "107.22.48.119",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hr4tqnltvxi7.cloudmaestro.com",
+      "links": "44.205.54.163",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "huminz.com",
       "links": "162.144.23.247",
       "type": "pdns",
@@ -9542,7 +9560,19 @@
     },
     {
       "host": "nightingale.com",
+      "links": "107.22.48.119",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "nightingale.com",
       "links": "34.198.240.177",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "nightingale.com",
+      "links": "44.205.54.163",
       "type": "pdns",
       "ln": 2
     },
@@ -13144,6 +13174,12 @@
       "host": "valdha.turnosweb.app",
       "links": "66f72d2187c343a89a7e76f557eda43d06cf89bf",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "vectorlabs.com",
+      "links": "107.22.48.119",
+      "type": "pdns",
       "ln": 2
     },
     {
