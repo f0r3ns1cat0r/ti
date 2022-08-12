@@ -284,12 +284,6 @@
     },
     {
       "host": "consultatyon.com",
-      "links": "199.192.24.38",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "consultatyon.com",
       "links": "a9a9b1938067fa391dd59280f8e9f51625efa947",
       "type": "certs",
       "ln": 2
@@ -675,18 +669,6 @@
     {
       "host": "notlaren.at",
       "links": "87.106.18.141",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns1.pointibo.xyz",
-      "links": "199.192.24.38",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.pointibo.xyz",
-      "links": "199.192.24.38",
       "type": "pdns",
       "ln": 2
     },
