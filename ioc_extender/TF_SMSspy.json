@@ -122,6 +122,12 @@
     },
     {
       "host": "ThreatFox: SMSspy",
+      "links": "joker1719.ml",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: SMSspy",
       "links": "kimo.vip",
       "type": "z",
       "ln": 2
@@ -219,6 +225,12 @@
     {
       "host": "ThreatFox: SMSspy",
       "links": "server-shirazzi.ga",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: SMSspy",
+      "links": "shapark-19.cf",
       "type": "z",
       "ln": 2
     },
@@ -1015,6 +1027,30 @@
       "ln": 2
     },
     {
+      "host": "joker1719.gq",
+      "links": "7e7fe949302761edfd31012b10d65946eecca2cd",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "joker1719.gq",
+      "links": "c874352490baebfcbf666e03055d73d1835f5349",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "joker1719.ml",
+      "links": "7e7fe949302761edfd31012b10d65946eecca2cd",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "joker1719.ml",
+      "links": "c874352490baebfcbf666e03055d73d1835f5349",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "keetab-dars.tk",
       "links": "198.144.189.66",
       "type": "pdns",
@@ -1744,6 +1780,12 @@
       "host": "server-shirazzi.ga",
       "links": "45.148.145.151",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "shapark-19.cf",
+      "links": "7e7fe949302761edfd31012b10d65946eecca2cd",
+      "type": "certs",
       "ln": 2
     },
     {
