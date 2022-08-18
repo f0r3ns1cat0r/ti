@@ -1327,12 +1327,6 @@
       "ln": 2
     },
     {
-      "host": "ns1.itslinuxfoss.com",
-      "links": "199.192.17.149",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ns1.logosnode.com",
       "links": "199.192.17.149",
       "type": "pdns",
@@ -1347,12 +1341,6 @@
     {
       "host": "ns2.dawnforge.org",
       "links": "199.192.21.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.itslinuxfoss.com",
-      "links": "199.192.17.149",
       "type": "pdns",
       "ln": 2
     },
