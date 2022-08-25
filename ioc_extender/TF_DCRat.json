@@ -56,12 +56,6 @@
     },
     {
       "host": "crazydns.linkpc.net",
-      "links": "91.193.75.200",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "crazydns.linkpc.net",
       "links": "91.193.75.204",
       "type": "pdns",
       "ln": 2
@@ -87,12 +81,6 @@
     {
       "host": "sky01.publicvm.com",
       "links": "91.193.75.181",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "sky01.publicvm.com",
-      "links": "91.193.75.200",
       "type": "pdns",
       "ln": 2
     },
