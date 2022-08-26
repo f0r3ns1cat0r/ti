@@ -218,12 +218,6 @@
     },
     {
       "host": "ThreatFox: SMSspy",
-      "links": "rubikas-otp.ml",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: SMSspy",
       "links": "saham-daran-meli.tk",
       "type": "z",
       "ln": 2
@@ -237,12 +231,6 @@
     {
       "host": "ThreatFox: SMSspy",
       "links": "say-parapak.ga",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: SMSspy",
-      "links": "server-shirazzi.ga",
       "type": "z",
       "ln": 2
     },
@@ -1693,12 +1681,6 @@
       "ln": 2
     },
     {
-      "host": "ns1.server-shirazzi.ga",
-      "links": "45.148.145.151",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ns2.energy100.xyz",
       "links": "45.148.145.138",
       "type": "pdns",
@@ -1707,12 +1689,6 @@
     {
       "host": "ns2.p-server.top",
       "links": "45.87.42.158",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.server-shirazzi.ga",
-      "links": "45.148.145.151",
       "type": "pdns",
       "ln": 2
     },
@@ -1831,12 +1807,6 @@
       "ln": 2
     },
     {
-      "host": "rubikas-otp.ml",
-      "links": "45.148.145.151",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "s1.kimo.vip",
       "links": "2dd01f6c4367b19b8e65a1b5ae1f26515351fcb3",
       "type": "certs",
@@ -1888,12 +1858,6 @@
       "host": "say-parapak.ga",
       "links": "b09aace39ea2846314051e7570941be079195f78",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "server-shirazzi.ga",
-      "links": "45.148.145.151",
-      "type": "pdns",
       "ln": 2
     },
     {
