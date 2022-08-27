@@ -3541,12 +3541,6 @@
       "ln": 2
     },
     {
-      "host": "ns1.collateralunion.com",
-      "links": "79.141.163.33",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ns1.holimnd.com",
       "links": "109.236.81.61",
       "type": "pdns",
@@ -3559,20 +3553,8 @@
       "ln": 2
     },
     {
-      "host": "ns1.sorienam.com",
-      "links": "79.141.163.33",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ns2.accountsballancce.com",
       "links": "162.244.81.10",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.collateralunion.com",
-      "links": "79.141.163.33",
       "type": "pdns",
       "ln": 2
     },
@@ -3585,12 +3567,6 @@
     {
       "host": "ns2.loidka.com",
       "links": "8.39.147.87",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.sorienam.com",
-      "links": "79.141.163.33",
       "type": "pdns",
       "ln": 2
     },
@@ -4126,18 +4102,6 @@
       "host": "sellerbestprice.com",
       "links": "216edef2f26a94071007aab8ec5e36c6b072c949",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "server.apbinvestments.com",
-      "links": "139.162.120.150",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "server.apbinvestments.com",
-      "links": "50.116.17.41",
-      "type": "pdns",
       "ln": 2
     },
     {

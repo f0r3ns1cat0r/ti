@@ -157,18 +157,6 @@
       "ln": 2
     },
     {
-      "host": "necklace.negative59.linuxo.ru",
-      "links": "217.69.4.234",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "negative59.linuxo.ru",
-      "links": "217.69.4.234",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "nematoceras.online",
       "links": "94d06b251813e5c1840c764fd2c6467d0111274e",
       "type": "certs",
@@ -200,20 +188,8 @@
     },
     {
       "host": "tomond.ru",
-      "links": "217.69.4.234",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "tomond.ru",
       "links": "5a95083c25b703c8abb50902fe770c9e79462cd5",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "vibrida.ru",
-      "links": "217.69.4.234",
-      "type": "pdns",
       "ln": 2
     }
   ]
