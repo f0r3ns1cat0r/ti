@@ -80,6 +80,12 @@
     },
     {
       "host": "ThreatFox: IRATA",
+      "links": "mmd-uskm.tk",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: IRATA",
       "links": "musklive.ga",
       "type": "z",
       "ln": 2
@@ -596,7 +602,19 @@
     },
     {
       "host": "mmd-uskm.tk",
+      "links": "635faba43ba852f48e62429d577b1816a633d9d3",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mmd-uskm.tk",
       "links": "ba801edcf47c2aa78617442fe0f35316e47f1cbb",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mmd-uskm.tk.eblagghe-ir.tk",
+      "links": "635faba43ba852f48e62429d577b1816a633d9d3",
       "type": "certs",
       "ln": 2
     },
@@ -921,6 +939,12 @@
     {
       "host": "webmail.roshdestan.tk",
       "links": "3fb6c7bfab413b0ddf08dd00f5713d4ccbe4b5e0",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.mmd-uskm.tk.eblagghe-ir.tk",
+      "links": "635faba43ba852f48e62429d577b1816a633d9d3",
       "type": "certs",
       "ln": 2
     },

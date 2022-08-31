@@ -1,0 +1,40 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ThreatFox: Vjw0rm",
+      "links": "franmhort.duia.ro",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "franmhort.duia.ro",
+      "links": "194.5.97.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "pm2bitcoin.com",
+      "links": "194.5.97.3",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

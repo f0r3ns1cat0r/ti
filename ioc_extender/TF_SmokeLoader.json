@@ -104,6 +104,12 @@
     },
     {
       "host": "ThreatFox: SmokeLoader",
+      "links": "host-file-host6.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: SmokeLoader",
       "links": "jeevanpunetha.com",
       "type": "z",
       "ln": 2
@@ -277,6 +283,42 @@
       "ln": 2
     },
     {
+      "host": "host-file-host6.com",
+      "links": "34.118.39.10",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "host-file-host6.com",
+      "links": "34.81.117.83",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "host-file-host6.com",
+      "links": "34.84.224.187",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "host-file-host9.com",
+      "links": "34.118.39.10",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "host-file-host9.com",
+      "links": "34.81.117.83",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "host-file-host9.com",
+      "links": "34.84.224.187",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "jeevanpunetha.com",
       "links": "37bb340b4d8dc6270c3178aee4cf76626eb1a298",
       "type": "certs",
@@ -424,6 +466,12 @@
       "host": "singhzaby.music.blog",
       "links": "30728b5bc161bfc64c72fa6ced5540e54068dc94",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "stats404.info",
+      "links": "34.81.117.83",
+      "type": "pdns",
       "ln": 2
     },
     {

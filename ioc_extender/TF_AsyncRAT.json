@@ -32,12 +32,6 @@
     },
     {
       "host": "ThreatFox: AsyncRAT",
-      "links": "crazydns.linkpc.net",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: AsyncRAT",
       "links": "lyoni-55552.portmap.host",
       "type": "z",
       "ln": 2
@@ -133,12 +127,6 @@
       "ln": 2
     },
     {
-      "host": "crazydns.linkpc.net",
-      "links": "91.193.75.204",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "darkvader94-36189.portmap.host",
       "links": "de23e3ce838f2334ffeabac6b29a59d49c4f90a7",
       "type": "certs",
@@ -226,12 +214,6 @@
       "host": "digisac.me",
       "links": "ae51a24ffc60075852ec63e9d450da44adccd4ca",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "ecx1hang.publicvm.com",
-      "links": "91.193.75.204",
-      "type": "pdns",
       "ln": 2
     },
     {

@@ -19,8 +19,98 @@
   ],
   "data": [
     {
+      "host": "2.tcp.eu.ngrok.io",
+      "links": "18.192.93.86",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "4.tcp.ngrok.io",
+      "links": "3.129.187.220",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "5.tcp.eu.ngrok.io",
+      "links": "3.67.161.133",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "5b5tanarch.cf",
+      "links": "3.67.15.169",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "5b5tanarch.cf",
+      "links": "3.67.161.133",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "6.tcp.eu.ngrok.io",
+      "links": "18.197.239.109",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "6.tcp.ngrok.io",
+      "links": "3.132.159.158",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "7.tcp.eu.ngrok.io",
+      "links": "3.67.15.169",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Nanocore RAT",
+      "links": "2.tcp.eu.ngrok.io",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Nanocore RAT",
+      "links": "4.tcp.ngrok.io",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Nanocore RAT",
+      "links": "5.tcp.eu.ngrok.io",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Nanocore RAT",
+      "links": "6.tcp.eu.ngrok.io",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Nanocore RAT",
+      "links": "6.tcp.ngrok.io",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Nanocore RAT",
+      "links": "7.tcp.eu.ngrok.io",
+      "type": "z",
+      "ln": 2
+    },
+    {
       "host": "ThreatFox: Nanocore RAT",
       "links": "cardeliver.ca",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Nanocore RAT",
+      "links": "emedoo.ddns.net",
       "type": "z",
       "ln": 2
     },
@@ -32,8 +122,38 @@
     },
     {
       "host": "ThreatFox: Nanocore RAT",
+      "links": "nibiru3.duckdns.org",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Nanocore RAT",
+      "links": "pm2bitcoin.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Nanocore RAT",
       "links": "researchcentre.ddns.net",
       "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Nanocore RAT",
+      "links": "www.uplooder.net",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "battlebits.cf",
+      "links": "18.197.239.109",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "boysgoblow.hopto.org",
+      "links": "91.193.75.132",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -133,6 +253,30 @@
       "ln": 2
     },
     {
+      "host": "dusttoash.org",
+      "links": "3.129.187.220",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "elefterria.ru",
+      "links": "18.192.93.86",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "emedoo.ddns.net",
+      "links": "91.193.75.132",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "franmhort.duia.ro",
+      "links": "194.5.97.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "kesec.com",
       "links": "198.12.252.160",
       "type": "pdns",
@@ -169,12 +313,102 @@
       "ln": 2
     },
     {
+      "host": "mc.elefterria.ru",
+      "links": "18.192.93.86",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mc.empire-craft.ru",
+      "links": "18.192.93.86",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mc.milconlabs.ru",
+      "links": "3.67.161.133",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "nibiru3.duckdns.org",
+      "links": "85.86.25.62",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "nibiru4.duckdns.org",
+      "links": "85.86.25.62",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.uplooder.net",
+      "links": "144.76.120.25",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.uplooder.net",
+      "links": "67233c786f10f5ccc5997fa19dc792e8757dd300",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "ns2.uplooder.net",
+      "links": "144.76.120.25",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.uplooder.net",
+      "links": "67233c786f10f5ccc5997fa19dc792e8757dd300",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "pm2bitcoin.com",
+      "links": "194.5.97.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "pokih.cf",
+      "links": "3.129.187.220",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "pokimaneh.cf",
+      "links": "3.132.159.158",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "researchcentre.ddns.net",
       "links": "184.105.237.199",
       "type": "pdns",
       "ln": 2
     },
     {
+      "host": "uplooder.net",
+      "links": "144.76.120.25",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "uplooder.net",
+      "links": "67233c786f10f5ccc5997fa19dc792e8757dd300",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "uplooder.net",
+      "links": "9f3464545109f3620d6d9e862e5cd37d9e9ad7ff",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "webdisk.cardeliver.ca",
       "links": "09226c06940568463b0050c89558ef5b9b963d10",
       "type": "certs",
@@ -207,6 +441,24 @@
     {
       "host": "webmail.cardeliver.ca",
       "links": "e8a1bedba4b1cfa7106a814baf8d92f79f516342",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.uplooder.net",
+      "links": "144.76.120.25",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.uplooder.net",
+      "links": "67233c786f10f5ccc5997fa19dc792e8757dd300",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.uplooder.net",
+      "links": "9f3464545109f3620d6d9e862e5cd37d9e9ad7ff",
       "type": "certs",
       "ln": 2
     }

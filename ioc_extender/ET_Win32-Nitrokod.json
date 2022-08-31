@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ET Trojan: Win32-Nitrokod",
+      "links": "intelserviceupdate.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: Win32-Nitrokod",
+      "links": "nitrokod.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: Win32-Nitrokod",
+      "links": "nvidiacenter.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "intelserviceupdate.com",
+      "links": "116.203.114.245",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns.intelserviceupdate.com",
+      "links": "116.203.114.245",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns3.intelserviceupdate.com",
+      "links": "116.203.114.245",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns3.nvidiacenter.com",
+      "links": "116.203.114.245",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns4.nvidiacenter.com",
+      "links": "116.203.114.245",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "nvidiacenter.com",
+      "links": "116.203.114.245",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}
