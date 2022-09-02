@@ -73,7 +73,19 @@
       "ln": 2
     },
     {
+      "host": "albums.sophosenterprisecenter.com",
+      "links": "52.214.97.178",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "arthur.sophosfirewallupdate.com",
+      "links": "52.214.97.178",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "aws.sophosproductupdate.com",
       "links": "52.214.97.178",
       "type": "pdns",
       "ln": 2
@@ -127,6 +139,12 @@
       "ln": 2
     },
     {
+      "host": "s.sophosproductupdate.com",
+      "links": "52.214.97.178",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "sophosenterprisecenter.com",
       "links": "52.214.97.178",
       "type": "pdns",
@@ -146,6 +164,12 @@
     },
     {
       "host": "updatefileservercross.com",
+      "links": "52.214.97.178",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "weber.sophosenterprisecenter.com",
       "links": "52.214.97.178",
       "type": "pdns",
       "ln": 2
