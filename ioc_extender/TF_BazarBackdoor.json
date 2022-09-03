@@ -26,6 +26,12 @@
     },
     {
       "host": "ThreatFox: BazarBackdoor",
+      "links": "lokoloppo1.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: BazarBackdoor",
       "links": "vystarcu.space",
       "type": "z",
       "ln": 2
@@ -223,6 +229,12 @@
       "ln": 2
     },
     {
+      "host": "immotransfer.top",
+      "links": "86.119.36.140",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "jarabet365.com",
       "links": "d00bb36fcf045b2b103459d8a26dccf47694723f",
       "type": "certs",
@@ -235,9 +247,33 @@
       "ln": 2
     },
     {
+      "host": "kassandra5024d.xyz",
+      "links": "86.119.36.140",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "lascakatheather.top",
+      "links": "86.119.36.140",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "location-chalet-pas-cher.com",
       "links": "d00bb36fcf045b2b103459d8a26dccf47694723f",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "lokoloppo1.com",
+      "links": "86.119.36.140",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "munipalis.top",
+      "links": "86.119.36.140",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -250,6 +286,12 @@
       "host": "payungmini.com",
       "links": "d00bb36fcf045b2b103459d8a26dccf47694723f",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "plangosh27a.com",
+      "links": "86.119.36.140",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -442,6 +484,18 @@
       "host": "yenitrias.com",
       "links": "d00bb36fcf045b2b103459d8a26dccf47694723f",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "ynarliahel.xyz",
+      "links": "86.119.36.140",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "zasatava.top",
+      "links": "86.119.36.140",
+      "type": "pdns",
       "ln": 2
     }
   ]

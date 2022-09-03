@@ -1,0 +1,88 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ET Trojan: Win32-Delf.TJJ",
+      "links": "bk.957wan.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: Win32-Delf.TJJ",
+      "links": "cfg.jipinwan.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: Win32-Delf.TJJ",
+      "links": "gc.wb51.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: Win32-Delf.TJJ",
+      "links": "udo.jxwan.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: Win32-Delf.TJJ",
+      "links": "ysl.jxwan.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "bk.957wan.com",
+      "links": "119.97.143.64",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cfg.jipinwan.com",
+      "links": "119.97.143.64",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "gc.wb51.com",
+      "links": "119.97.143.64",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mg.5636.com",
+      "links": "119.97.143.64",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "udo.jxwan.com",
+      "links": "119.97.143.64",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ysl.jxwan.com",
+      "links": "119.97.143.64",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

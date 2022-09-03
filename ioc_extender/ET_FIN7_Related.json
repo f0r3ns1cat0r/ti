@@ -19,6 +19,18 @@
   ],
   "data": [
     {
+      "host": "5com-informatique-dax.com",
+      "links": "139.162.120.150",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "5com-informatique-dax.com",
+      "links": "50.116.17.41",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ET Trojan: FIN7 Related",
       "links": "tnskvggujjqfcskwk.com",
       "type": "z",
@@ -44,6 +56,18 @@
     },
     {
       "host": "downloads.damemp3.org",
+      "links": "50.116.17.41",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hyui.org",
+      "links": "139.162.120.150",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hyui.org",
       "links": "50.116.17.41",
       "type": "pdns",
       "ln": 2

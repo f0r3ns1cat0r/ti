@@ -19,8 +19,92 @@
   ],
   "data": [
     {
+      "host": "1002.clmonth.nyashteam.ml",
+      "links": "178.248.214.228",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "1006.clmonth.nyashteam.ml",
+      "links": "178.248.214.228",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "10090.clmonth.nyashteam.ml",
+      "links": "178.248.214.228",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "10481.clmonth.nyashteam.ml",
+      "links": "178.248.214.228",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "28747.clmonth.nyashteam.ml",
+      "links": "178.248.214.228",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "43425.clmonth.nyashteam.ml",
+      "links": "178.248.214.228",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "49856.clmonth.nyashteam.ml",
+      "links": "178.248.214.228",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "61633.clmonth.nyashteam.ml",
+      "links": "178.248.214.228",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "69888.clmonth.nyashteam.ml",
+      "links": "178.248.214.228",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "7485.clmonth.nyashteam.ml",
+      "links": "178.248.214.228",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "7539.clmonth.nyashteam.ml",
+      "links": "178.248.214.228",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "99099.clmonth.nyashteam.ml",
+      "links": "178.248.214.228",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: DCRat",
+      "links": "49856.clmonth.nyashteam.ml",
+      "type": "z",
+      "ln": 2
+    },
+    {
       "host": "ThreatFox: DCRat",
       "links": "marspaste.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: DCRat",
+      "links": "rick63.publicvm.com",
       "type": "z",
       "ln": 2
     },
@@ -37,8 +121,26 @@
       "ln": 2
     },
     {
+      "host": "clmonth.nyashteam.ml",
+      "links": "178.248.214.228",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "mobibanewdan.duckdns.org",
       "links": "194.31.98.108",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "papacy.ddns.net",
+      "links": "91.193.75.136",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "rick63.publicvm.com",
+      "links": "91.193.75.136",
       "type": "pdns",
       "ln": 2
     },

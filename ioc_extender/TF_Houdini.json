@@ -1,0 +1,40 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ThreatFox: Houdini",
+      "links": "severdops.ddns.net",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "severdops.ddns.net",
+      "links": "208.67.106.143",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "spdxx.ddns.net",
+      "links": "208.67.106.143",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

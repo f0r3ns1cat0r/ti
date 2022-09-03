@@ -31,9 +31,33 @@
       "ln": 2
     },
     {
+      "host": "gazeteaxpres.com",
+      "links": "89.34.97.59",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "gazetoexpress.com",
+      "links": "89.34.97.59",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "indeksonline.org",
       "links": "178769bf1b55a1dc38ca041781003471a37e48d7",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "indeksonline.org",
+      "links": "89.34.97.59",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "klankosova.net",
+      "links": "89.34.97.59",
+      "type": "pdns",
       "ln": 2
     }
   ]

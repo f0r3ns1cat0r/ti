@@ -194,6 +194,12 @@
     },
     {
       "host": "ThreatFox: Formbook",
+      "links": "www.stevebana.xyz",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Formbook",
       "links": "www.yeasuc.com",
       "type": "z",
       "ln": 2
@@ -1291,6 +1297,12 @@
       "ln": 2
     },
     {
+      "host": "necght.xyz",
+      "links": "162.0.221.213",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "newinterval.com",
       "links": "6217252f768c24cafdf87f6e8b8b4fd328b32134",
       "type": "certs",
@@ -1321,6 +1333,12 @@
       "ln": 2
     },
     {
+      "host": "ns1.cubanmop.net",
+      "links": "162.0.228.30",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ns1.dawnforge.org",
       "links": "199.192.21.143",
       "type": "pdns",
@@ -1335,6 +1353,12 @@
     {
       "host": "ns1.yellowcloudvps.com",
       "links": "199.192.17.149",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.cubanmop.net",
+      "links": "162.0.228.30",
       "type": "pdns",
       "ln": 2
     },
@@ -1477,6 +1501,12 @@
       "ln": 2
     },
     {
+      "host": "stevebana.xyz",
+      "links": "162.0.216.198",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "swiftsol.io",
       "links": "6ace473e38e7affd40ab76f1195b7bcf3bc6d716",
       "type": "certs",
@@ -1504,6 +1534,12 @@
       "host": "telepath.school",
       "links": "c619b510fe8744928c01739abc0f54e5ddf61280",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "thimelic.online",
+      "links": "162.0.228.30",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -2578,6 +2614,12 @@
       "host": "www.solevux.com",
       "links": "65a1650c8e02393bb5719027e40fa58d6362bfee",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.stevebana.xyz",
+      "links": "162.0.216.198",
+      "type": "pdns",
       "ln": 2
     },
     {

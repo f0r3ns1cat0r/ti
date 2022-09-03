@@ -25,8 +25,20 @@
       "ln": 2
     },
     {
+      "host": "3laallah.myvnc.com",
+      "links": "51.89.200.202",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ThreatFox: AsyncRAT",
       "links": "3laallah.myvnc.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: AsyncRAT",
+      "links": "fresh01.ddns.net",
       "type": "z",
       "ln": 2
     },
@@ -241,6 +253,18 @@
       "ln": 2
     },
     {
+      "host": "fresh01.ddns.net",
+      "links": "194.5.98.249",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "fresh02.ddns.net",
+      "links": "194.5.98.249",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "fundationsecurity.com",
       "links": "021cc80a118caa47313ca16a59d8e7b6787df70b",
       "type": "certs",
@@ -315,6 +339,12 @@
     {
       "host": "java.servebeer.com",
       "links": "198.244.206.23",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "java.servebeer.com",
+      "links": "51.89.200.202",
       "type": "pdns",
       "ln": 2
     },
@@ -460,6 +490,12 @@
       "host": "portmap.io",
       "links": "de23e3ce838f2334ffeabac6b29a59d49c4f90a7",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "python.myvnc.com",
+      "links": "51.89.200.202",
+      "type": "pdns",
       "ln": 2
     },
     {
