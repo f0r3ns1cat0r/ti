@@ -73,8 +73,20 @@
       "ln": 2
     },
     {
+      "host": "n46-youxib-hk-01.oss-cn-hongkong.aliyuncs.com",
+      "links": "47.56.33.32",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "proscenic-bbs.oss-cn-hongkong.aliyuncs.com",
       "links": "47.56.33.32",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "rc.dajuw.com",
+      "links": "207.148.103.108",
       "type": "pdns",
       "ln": 2
     },

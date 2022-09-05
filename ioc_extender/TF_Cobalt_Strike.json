@@ -3649,18 +3649,6 @@
       "ln": 2
     },
     {
-      "host": "ns1.collateralunion.com",
-      "links": "79.141.163.33",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns1.commitableconcious.com",
-      "links": "210.16.100.2",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ns1.holimnd.com",
       "links": "109.236.81.61",
       "type": "pdns",
@@ -3673,26 +3661,8 @@
       "ln": 2
     },
     {
-      "host": "ns1.sorienam.com",
-      "links": "79.141.163.33",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ns2.accountsballancce.com",
       "links": "162.244.81.10",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.collateralunion.com",
-      "links": "79.141.163.33",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.commitableconcious.com",
-      "links": "210.16.100.2",
       "type": "pdns",
       "ln": 2
     },
@@ -3705,12 +3675,6 @@
     {
       "host": "ns2.loidka.com",
       "links": "8.39.147.87",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.sorienam.com",
-      "links": "79.141.163.33",
       "type": "pdns",
       "ln": 2
     },
@@ -3898,12 +3862,6 @@
       "host": "pda2.137bpm.de",
       "links": "4e37e0159c045c55f4220a7c24d19cdf95bcf475",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "pdcdci.cn",
-      "links": "101.35.200.58",
-      "type": "pdns",
       "ln": 2
     },
     {

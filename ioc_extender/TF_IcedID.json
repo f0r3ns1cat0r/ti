@@ -464,6 +464,12 @@
     },
     {
       "host": "ThreatFox: IcedID",
+      "links": "klevertrio.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: IcedID",
       "links": "klosterrion.casa",
       "type": "z",
       "ln": 2
@@ -1585,6 +1591,12 @@
       "ln": 2
     },
     {
+      "host": "fghermaast.top",
+      "links": "91.238.50.124",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "fighterdesert.golf",
       "links": "7e9658cceb33c9410f266acd42ed7f54884cc2be",
       "type": "certs",
@@ -2163,6 +2175,12 @@
     {
       "host": "kassandra5024d.xyz",
       "links": "86.119.36.140",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "klevertrio.com",
+      "links": "91.238.50.124",
       "type": "pdns",
       "ln": 2
     },

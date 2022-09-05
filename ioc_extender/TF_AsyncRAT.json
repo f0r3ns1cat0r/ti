@@ -259,8 +259,20 @@
       "ln": 2
     },
     {
+      "host": "fresh01.ddns.net",
+      "links": "202.55.132.51",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "fresh02.ddns.net",
       "links": "194.5.98.249",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "fresh02.ddns.net",
+      "links": "202.55.132.51",
       "type": "pdns",
       "ln": 2
     },

@@ -284,6 +284,12 @@
     },
     {
       "host": "host-file-host6.com",
+      "links": "34.116.208.152",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "host-file-host6.com",
       "links": "34.118.39.10",
       "type": "pdns",
       "ln": 2
@@ -297,6 +303,12 @@
     {
       "host": "host-file-host6.com",
       "links": "34.84.224.187",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "host-file-host9.com",
+      "links": "34.116.208.152",
       "type": "pdns",
       "ln": 2
     },

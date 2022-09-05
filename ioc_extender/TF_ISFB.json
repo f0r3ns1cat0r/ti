@@ -487,6 +487,12 @@
       "ln": 2
     },
     {
+      "host": "karfaganda.com",
+      "links": "79.110.52.188",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "kaztam.com",
       "links": "387d7e2d03a1e4c1e5d8c2e7861e042f15746143",
       "type": "certs",
@@ -664,6 +670,18 @@
       "host": "silly-lalande.79-110-52-188.plesk.page",
       "links": "4f8332d5c1f24933b3afd0ec59f321c009dc55b8",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "silly-lalande.79-110-52-188.plesk.page",
+      "links": "79.110.52.188",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "sistemliner.top",
+      "links": "31.41.46.120",
+      "type": "pdns",
       "ln": 2
     },
     {

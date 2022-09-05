@@ -32,6 +32,12 @@
     },
     {
       "host": "ThreatFox: NetWire RC",
+      "links": "ohioohioa.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: NetWire RC",
       "links": "securedns360.hopto.org",
       "type": "z",
       "ln": 2
@@ -57,6 +63,12 @@
     {
       "host": "createluma3.hopto.org",
       "links": "184.105.237.196",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "davanaceshar14.com",
+      "links": "185.122.204.51",
       "type": "pdns",
       "ln": 2
     },
@@ -110,6 +122,12 @@
     },
     {
       "host": "info1.dynamic-dns.net",
+      "links": "103.168.204.152",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "info1.dynamic-dns.net",
       "links": "160.152.32.232",
       "type": "pdns",
       "ln": 2
@@ -121,6 +139,12 @@
       "ln": 2
     },
     {
+      "host": "info1.dynu.net",
+      "links": "103.168.204.152",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "iphanyi.chickenkiller.com",
       "links": "160.152.32.232",
       "type": "pdns",
@@ -129,6 +153,12 @@
     {
       "host": "iphanyi.chickenkiller.com",
       "links": "160.152.79.204",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "iphanyi.webredirect.org",
+      "links": "103.168.204.152",
       "type": "pdns",
       "ln": 2
     },
@@ -213,6 +243,12 @@
     {
       "host": "nimda2.ddns.net",
       "links": "184.105.237.196",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ohioohioa.com",
+      "links": "185.122.204.51",
       "type": "pdns",
       "ln": 2
     },

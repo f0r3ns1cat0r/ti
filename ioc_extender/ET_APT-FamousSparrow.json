@@ -55,6 +55,12 @@
       "ln": 2
     },
     {
+      "host": "ns101.awsdns-531.com",
+      "links": "45.159.48.227",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "resource.offices-analytics.com",
       "links": "45.159.48.227",
       "type": "pdns",
