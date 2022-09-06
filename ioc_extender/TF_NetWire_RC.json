@@ -43,6 +43,12 @@
       "ln": 2
     },
     {
+      "host": "ThreatFox: NetWire RC",
+      "links": "xman2.duckdns.org",
+      "type": "z",
+      "ln": 2
+    },
+    {
       "host": "akaros79.no-ip.biz",
       "links": "184.105.237.196",
       "type": "pdns",
@@ -128,12 +134,6 @@
     },
     {
       "host": "info1.dynamic-dns.net",
-      "links": "160.152.32.232",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "info1.dynamic-dns.net",
       "links": "160.152.79.204",
       "type": "pdns",
       "ln": 2
@@ -146,12 +146,6 @@
     },
     {
       "host": "iphanyi.chickenkiller.com",
-      "links": "160.152.32.232",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "iphanyi.chickenkiller.com",
       "links": "160.152.79.204",
       "type": "pdns",
       "ln": 2
@@ -159,12 +153,6 @@
     {
       "host": "iphanyi.webredirect.org",
       "links": "103.168.204.152",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "iphy.strangled.net",
-      "links": "160.152.32.232",
       "type": "pdns",
       "ln": 2
     },
@@ -277,6 +265,12 @@
       "ln": 2
     },
     {
+      "host": "rozayleekimishere.duckdns.org",
+      "links": "154.53.40.254",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "securedns360.hopto.org",
       "links": "184.105.237.196",
       "type": "pdns",
@@ -315,6 +309,12 @@
     {
       "host": "winmonitor97435hr.hopto.org",
       "links": "184.105.237.196",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "xman2.duckdns.org",
+      "links": "154.53.40.254",
       "type": "pdns",
       "ln": 2
     },
