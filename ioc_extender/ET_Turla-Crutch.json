@@ -32,20 +32,8 @@
     },
     {
       "host": "db.qrrd.ru",
-      "links": "185.162.8.12",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "db.qrrd.ru",
       "links": "f1f7546c6658dd59f6bcde986e1051bd72446a7c",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "eegrn.ru",
-      "links": "185.162.8.12",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -91,12 +79,6 @@
       "ln": 2
     },
     {
-      "host": "evta.ru",
-      "links": "185.162.8.12",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "hotspot.accesscam.org",
       "links": "10bd960c9e133156e904ab65e7bff3df1e1c8fc1",
       "type": "certs",
@@ -136,12 +118,6 @@
       "host": "hotspot.accesscam.org",
       "links": "f1f7546c6658dd59f6bcde986e1051bd72446a7c",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "orybalke.ru",
-      "links": "185.162.8.12",
-      "type": "pdns",
       "ln": 2
     },
     {

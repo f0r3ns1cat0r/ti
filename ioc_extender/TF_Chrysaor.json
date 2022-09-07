@@ -104,12 +104,6 @@
     },
     {
       "host": "ThreatFox: Chrysaor",
-      "links": "lawlowvat.net",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: Chrysaor",
       "links": "medicalcircle.net",
       "type": "z",
       "ln": 2
@@ -1153,12 +1147,6 @@
       "ln": 2
     },
     {
-      "host": "furunxm2.com",
-      "links": "173.232.238.82",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "gablansideleat.xyz",
       "links": "f501b65d9b42f9ad8cc284032fbbd6c6fa0251cc",
       "type": "certs",
@@ -1426,12 +1414,6 @@
       "host": "lalalucy.co",
       "links": "2398719f04a0f2a1602deb5c7876ea4f0adb6aa7",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "lawlowvat.net",
-      "links": "173.232.238.82",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -1970,6 +1952,12 @@
     },
     {
       "host": "web-url.net",
+      "links": "bfdf5f09d91206d805cbd2c056fdfaff71062a3a",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "web-url.net",
       "links": "edd8a675eeac16a42f4bdc4cf448af4abc5e32be",
       "type": "certs",
       "ln": 2
@@ -2014,6 +2002,12 @@
       "host": "webmail.web-url.net",
       "links": "153.122.19.55",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "webmail.web-url.net",
+      "links": "bfdf5f09d91206d805cbd2c056fdfaff71062a3a",
+      "type": "certs",
       "ln": 2
     },
     {

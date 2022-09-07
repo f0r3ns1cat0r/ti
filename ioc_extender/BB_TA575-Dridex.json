@@ -25,12 +25,6 @@
       "ln": 2
     },
     {
-      "host": "0svgwf2jzex5.cloudmaestro.com",
-      "links": "34.198.240.177",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "107.154.146.143.ip.incapdns.net",
       "links": "107.154.146.143",
       "type": "pdns",
@@ -116,12 +110,6 @@
     },
     {
       "host": "4allenterprise.com",
-      "links": "107.154.146.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "4allenterprise.com",
       "links": "12b90c5e898e9da6e4eea054b29f479efcec5f2d",
       "type": "certs",
       "ln": 2
@@ -154,12 +142,6 @@
       "host": "4allenterprise.com",
       "links": "4459504a51193b5fa1cfe2c370f59bc99528032f",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "4allenterprise.com",
-      "links": "45.60.96.143",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -224,12 +206,6 @@
     },
     {
       "host": "93regimentalcan.com",
-      "links": "107.154.146.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "93regimentalcan.com",
       "links": "12b90c5e898e9da6e4eea054b29f479efcec5f2d",
       "type": "certs",
       "ln": 2
@@ -262,12 +238,6 @@
       "host": "93regimentalcan.com",
       "links": "4459504a51193b5fa1cfe2c370f59bc99528032f",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "93regimentalcan.com",
-      "links": "45.60.96.143",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -1112,12 +1082,6 @@
     },
     {
       "host": "ancestorsphotos.com",
-      "links": "107.154.146.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ancestorsphotos.com",
       "links": "12b90c5e898e9da6e4eea054b29f479efcec5f2d",
       "type": "certs",
       "ln": 2
@@ -1150,12 +1114,6 @@
       "host": "ancestorsphotos.com",
       "links": "4459504a51193b5fa1cfe2c370f59bc99528032f",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "ancestorsphotos.com",
-      "links": "45.60.96.143",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -1442,12 +1400,6 @@
     },
     {
       "host": "applewoodourhouse.com",
-      "links": "107.154.146.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "applewoodourhouse.com",
       "links": "12b90c5e898e9da6e4eea054b29f479efcec5f2d",
       "type": "certs",
       "ln": 2
@@ -1576,12 +1528,6 @@
       "host": "arnottslodge.com",
       "links": "0583a3efae17fb86bae6b737af341ee95a100b53",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "arnottslodge.com",
-      "links": "107.154.146.143",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -1904,6 +1850,12 @@
     },
     {
       "host": "autodiscover.leveragestudiotw.com",
+      "links": "8b876c530970a177a78e6bb940b162e17a88b88c",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "autodiscover.leveragestudiotw.com",
       "links": "b162420045df084ff6ab922b6ec78f2285be0469",
       "type": "certs",
       "ln": 2
@@ -2134,6 +2086,18 @@
       "host": "autodiscover.selfcareadvocacy.com",
       "links": "fa08791a20ac9aa7087ceb02fca39292315c788d",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "autodiscover.webinsurance.cc",
+      "links": "50.116.111.27",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "autodiscover.webopportunities.cc",
+      "links": "50.116.111.27",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -2438,12 +2402,6 @@
     },
     {
       "host": "beeathome.com",
-      "links": "107.154.146.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "beeathome.com",
       "links": "12b90c5e898e9da6e4eea054b29f479efcec5f2d",
       "type": "certs",
       "ln": 2
@@ -2476,12 +2434,6 @@
       "host": "beeathome.com",
       "links": "4459504a51193b5fa1cfe2c370f59bc99528032f",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "beeathome.com",
-      "links": "45.60.96.143",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -4022,12 +3974,6 @@
     },
     {
       "host": "cpanel.huminz.com",
-      "links": "162.144.23.247",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "cpanel.huminz.com",
       "links": "5643824a4190d4b74df9c5868fb107dc6d12e61e",
       "type": "certs",
       "ln": 2
@@ -4059,6 +4005,12 @@
     {
       "host": "cpanel.leveragestudiotw.com",
       "links": "381c1ef7bf947d4ba5ac089aa0f1f9b67a920fb9",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpanel.leveragestudiotw.com",
+      "links": "8b876c530970a177a78e6bb940b162e17a88b88c",
       "type": "certs",
       "ln": 2
     },
@@ -4394,12 +4346,6 @@
     },
     {
       "host": "cpcalendars.huminz.com",
-      "links": "162.144.23.247",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "cpcalendars.huminz.com",
       "links": "5643824a4190d4b74df9c5868fb107dc6d12e61e",
       "type": "certs",
       "ln": 2
@@ -4431,6 +4377,12 @@
     {
       "host": "cpcalendars.leveragestudiotw.com",
       "links": "381c1ef7bf947d4ba5ac089aa0f1f9b67a920fb9",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcalendars.leveragestudiotw.com",
+      "links": "8b876c530970a177a78e6bb940b162e17a88b88c",
       "type": "certs",
       "ln": 2
     },
@@ -4766,12 +4718,6 @@
     },
     {
       "host": "cpcontacts.huminz.com",
-      "links": "162.144.23.247",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "cpcontacts.huminz.com",
       "links": "5643824a4190d4b74df9c5868fb107dc6d12e61e",
       "type": "certs",
       "ln": 2
@@ -4803,6 +4749,12 @@
     {
       "host": "cpcontacts.leveragestudiotw.com",
       "links": "381c1ef7bf947d4ba5ac089aa0f1f9b67a920fb9",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcontacts.leveragestudiotw.com",
+      "links": "8b876c530970a177a78e6bb940b162e17a88b88c",
       "type": "certs",
       "ln": 2
     },
@@ -5186,12 +5138,6 @@
     },
     {
       "host": "dantaylor.us",
-      "links": "208.83.69.59",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "dantaylor.us",
       "links": "58d2f19b72e4cd067d7a7ef6626cd8f326714d57",
       "type": "certs",
       "ln": 2
@@ -5282,12 +5228,6 @@
     },
     {
       "host": "darlingofdrinks.com",
-      "links": "107.154.146.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "darlingofdrinks.com",
       "links": "12b90c5e898e9da6e4eea054b29f479efcec5f2d",
       "type": "certs",
       "ln": 2
@@ -5320,12 +5260,6 @@
       "host": "darlingofdrinks.com",
       "links": "4459504a51193b5fa1cfe2c370f59bc99528032f",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "darlingofdrinks.com",
-      "links": "45.60.96.143",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -6026,12 +5960,6 @@
     },
     {
       "host": "dogpapers.com",
-      "links": "45.60.96.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "dogpapers.com",
       "links": "679013dc950edded70daacf427064f7136a3de5d",
       "type": "certs",
       "ln": 2
@@ -6364,12 +6292,6 @@
       "host": "eutierria.net",
       "links": "0583a3efae17fb86bae6b737af341ee95a100b53",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "eutierria.net",
-      "links": "107.154.146.143",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -6841,12 +6763,6 @@
       "ln": 2
     },
     {
-      "host": "framingflamingos.com",
-      "links": "162.144.23.247",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "fxrp.org",
       "links": "30aed281c3724de7ec496c4167552fb127c5234e",
       "type": "certs",
@@ -7112,12 +7028,6 @@
     },
     {
       "host": "gooddeedrealty.com",
-      "links": "107.154.146.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "gooddeedrealty.com",
       "links": "12b90c5e898e9da6e4eea054b29f479efcec5f2d",
       "type": "certs",
       "ln": 2
@@ -7214,12 +7124,6 @@
     },
     {
       "host": "grace2032.org",
-      "links": "107.154.146.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "grace2032.org",
       "links": "12b90c5e898e9da6e4eea054b29f479efcec5f2d",
       "type": "certs",
       "ln": 2
@@ -7252,12 +7156,6 @@
       "host": "grace2032.org",
       "links": "4459504a51193b5fa1cfe2c370f59bc99528032f",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "grace2032.org",
-      "links": "45.60.96.143",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -7462,12 +7360,6 @@
       "host": "honeybay.org",
       "links": "4459504a51193b5fa1cfe2c370f59bc99528032f",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "honeybay.org",
-      "links": "45.60.96.143",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -7834,12 +7726,6 @@
       "host": "ijrer.org",
       "links": "4459504a51193b5fa1cfe2c370f59bc99528032f",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "ijrer.org",
-      "links": "45.60.96.143",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -8474,6 +8360,12 @@
     },
     {
       "host": "leveragestudiotw.com",
+      "links": "8b876c530970a177a78e6bb940b162e17a88b88c",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "leveragestudiotw.com",
       "links": "b162420045df084ff6ab922b6ec78f2285be0469",
       "type": "certs",
       "ln": 2
@@ -8690,12 +8582,6 @@
     },
     {
       "host": "louisrivera.org",
-      "links": "107.154.146.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "louisrivera.org",
       "links": "12b90c5e898e9da6e4eea054b29f479efcec5f2d",
       "type": "certs",
       "ln": 2
@@ -8728,12 +8614,6 @@
       "host": "louisrivera.org",
       "links": "4459504a51193b5fa1cfe2c370f59bc99528032f",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "louisrivera.org",
-      "links": "45.60.96.143",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -8804,6 +8684,12 @@
     },
     {
       "host": "luckyday.cc",
+      "links": "50.116.111.27",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "luckyday.cc",
       "links": "602a73074a2e7c70a18bca8674a57d5c0f36406e",
       "type": "certs",
       "ln": 2
@@ -8824,6 +8710,12 @@
       "host": "luckydaycc.serverwealthyminds.com",
       "links": "2ca28daa30d87d8b7b72c150ebe65030c76a13b9",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "luckydaycc.serverwealthyminds.com",
+      "links": "50.116.111.27",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -9087,6 +8979,12 @@
     {
       "host": "mail.leveragestudiotw.com",
       "links": "381c1ef7bf947d4ba5ac089aa0f1f9b67a920fb9",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.leveragestudiotw.com",
+      "links": "8b876c530970a177a78e6bb940b162e17a88b88c",
       "type": "certs",
       "ln": 2
     },
@@ -10280,12 +10178,6 @@
     },
     {
       "host": "nightingale.com",
-      "links": "34.198.240.177",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "nightingale.com",
       "links": "44.205.54.163",
       "type": "pdns",
       "ln": 2
@@ -10593,6 +10485,12 @@
     {
       "host": "ns1.quickjapan.net",
       "links": "145.239.107.153",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns1.serverwealthyminds.com",
+      "links": "50.116.111.27",
       "type": "pdns",
       "ln": 2
     },
@@ -11042,20 +10940,8 @@
     },
     {
       "host": "panzersolutions.com",
-      "links": "107.154.146.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "panzersolutions.com",
       "links": "22c62cf246ecaa39e8e92e84dd82e03d68aff633",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "panzersolutions.com",
-      "links": "45.60.96.143",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -11246,12 +11132,6 @@
     },
     {
       "host": "peacelutheranlc.com",
-      "links": "107.154.146.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "peacelutheranlc.com",
       "links": "12b90c5e898e9da6e4eea054b29f479efcec5f2d",
       "type": "certs",
       "ln": 2
@@ -11284,12 +11164,6 @@
       "host": "peacelutheranlc.com",
       "links": "4459504a51193b5fa1cfe2c370f59bc99528032f",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "peacelutheranlc.com",
-      "links": "45.60.96.143",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -11714,12 +11588,6 @@
     },
     {
       "host": "prospectreels.com",
-      "links": "107.154.146.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "prospectreels.com",
       "links": "12b90c5e898e9da6e4eea054b29f479efcec5f2d",
       "type": "certs",
       "ln": 2
@@ -11752,12 +11620,6 @@
       "host": "prospectreels.com",
       "links": "4459504a51193b5fa1cfe2c370f59bc99528032f",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "prospectreels.com",
-      "links": "45.60.96.143",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -11840,12 +11702,6 @@
     },
     {
       "host": "quillandcamera.com",
-      "links": "107.154.146.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "quillandcamera.com",
       "links": "12b90c5e898e9da6e4eea054b29f479efcec5f2d",
       "type": "certs",
       "ln": 2
@@ -11920,12 +11776,6 @@
       "host": "quillandcamera.com",
       "links": "efc1ad92f8908509deebd79ee86f561f5f6525a8",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "radio-fresh.ru",
-      "links": "185.86.147.14",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -12106,12 +11956,6 @@
       "host": "redseapetroleum.com",
       "links": "0583a3efae17fb86bae6b737af341ee95a100b53",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "redseapetroleum.com",
-      "links": "107.154.146.143",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -12530,12 +12374,6 @@
     },
     {
       "host": "sarahhulsey.com",
-      "links": "107.154.146.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "sarahhulsey.com",
       "links": "12b90c5e898e9da6e4eea054b29f479efcec5f2d",
       "type": "certs",
       "ln": 2
@@ -12568,12 +12406,6 @@
       "host": "sarahhulsey.com",
       "links": "4459504a51193b5fa1cfe2c370f59bc99528032f",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "sarahhulsey.com",
-      "links": "45.60.96.143",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -12836,12 +12668,6 @@
     },
     {
       "host": "simplyjaserah.com",
-      "links": "107.154.146.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "simplyjaserah.com",
       "links": "12b90c5e898e9da6e4eea054b29f479efcec5f2d",
       "type": "certs",
       "ln": 2
@@ -12874,12 +12700,6 @@
       "host": "simplyjaserah.com",
       "links": "4459504a51193b5fa1cfe2c370f59bc99528032f",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "simplyjaserah.com",
-      "links": "45.60.96.143",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -13838,12 +13658,6 @@
     },
     {
       "host": "thctrust.org",
-      "links": "107.154.146.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "thctrust.org",
       "links": "12b90c5e898e9da6e4eea054b29f479efcec5f2d",
       "type": "certs",
       "ln": 2
@@ -13876,12 +13690,6 @@
       "host": "thctrust.org",
       "links": "4459504a51193b5fa1cfe2c370f59bc99528032f",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "thctrust.org",
-      "links": "45.60.96.143",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -13952,12 +13760,6 @@
     },
     {
       "host": "thecreativitycurator.com",
-      "links": "107.154.146.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "thecreativitycurator.com",
       "links": "12b90c5e898e9da6e4eea054b29f479efcec5f2d",
       "type": "certs",
       "ln": 2
@@ -13990,12 +13792,6 @@
       "host": "thecreativitycurator.com",
       "links": "4459504a51193b5fa1cfe2c370f59bc99528032f",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "thecreativitycurator.com",
-      "links": "45.60.96.143",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -14132,12 +13928,6 @@
     },
     {
       "host": "trinityterrehaute.org",
-      "links": "107.154.146.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "trinityterrehaute.org",
       "links": "12b90c5e898e9da6e4eea054b29f479efcec5f2d",
       "type": "certs",
       "ln": 2
@@ -14170,12 +13960,6 @@
       "host": "trinityterrehaute.org",
       "links": "4459504a51193b5fa1cfe2c370f59bc99528032f",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "trinityterrehaute.org",
-      "links": "45.60.96.143",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -14798,6 +14582,12 @@
     },
     {
       "host": "webdisk.leveragestudiotw.com",
+      "links": "8b876c530970a177a78e6bb940b162e17a88b88c",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webdisk.leveragestudiotw.com",
       "links": "b162420045df084ff6ab922b6ec78f2285be0469",
       "type": "certs",
       "ln": 2
@@ -15134,12 +14924,6 @@
     },
     {
       "host": "webmail.huminz.com",
-      "links": "162.144.23.247",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "webmail.huminz.com",
       "links": "5643824a4190d4b74df9c5868fb107dc6d12e61e",
       "type": "certs",
       "ln": 2
@@ -15171,6 +14955,12 @@
     {
       "host": "webmail.leveragestudiotw.com",
       "links": "381c1ef7bf947d4ba5ac089aa0f1f9b67a920fb9",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "webmail.leveragestudiotw.com",
+      "links": "8b876c530970a177a78e6bb940b162e17a88b88c",
       "type": "certs",
       "ln": 2
     },
@@ -16732,12 +16522,6 @@
       "host": "www.dantaylor.us",
       "links": "16d505d31cb4a57615e13cb2b822524e01879788",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "www.dantaylor.us",
-      "links": "208.83.69.59",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -20090,12 +19874,6 @@
     },
     {
       "host": "xtremeautoglasspros.com",
-      "links": "107.154.146.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "xtremeautoglasspros.com",
       "links": "12b90c5e898e9da6e4eea054b29f479efcec5f2d",
       "type": "certs",
       "ln": 2
@@ -20128,12 +19906,6 @@
       "host": "xtremeautoglasspros.com",
       "links": "4459504a51193b5fa1cfe2c370f59bc99528032f",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "xtremeautoglasspros.com",
-      "links": "45.60.96.143",
-      "type": "pdns",
       "ln": 2
     },
     {
