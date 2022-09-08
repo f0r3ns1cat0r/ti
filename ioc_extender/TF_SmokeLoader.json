@@ -307,6 +307,12 @@
       "ln": 2
     },
     {
+      "host": "host-file-host6.com",
+      "links": "95.161.129.111",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "host-file-host9.com",
       "links": "34.116.208.152",
       "type": "pdns",
@@ -483,6 +489,12 @@
     {
       "host": "stats404.info",
       "links": "34.81.117.83",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "stats404.info",
+      "links": "95.161.129.111",
       "type": "pdns",
       "ln": 2
     },

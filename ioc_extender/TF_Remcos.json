@@ -308,6 +308,12 @@
     },
     {
       "host": "u876134.nsupdate.info",
+      "links": "207.244.235.224",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "u876134.nsupdate.info",
       "links": "a3bd146c1d08d600d541e82a16f4c135e7318522",
       "type": "certs",
       "ln": 2
@@ -327,6 +333,12 @@
     {
       "host": "xpremcuz300622.ddns.net",
       "links": "185.225.73.187",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "zealous-chatterjee.207-244-235-224.plesk.page",
+      "links": "207.244.235.224",
       "type": "pdns",
       "ln": 2
     },

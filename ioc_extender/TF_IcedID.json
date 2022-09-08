@@ -139,21 +139,9 @@
       "ln": 2
     },
     {
-      "host": "12380hc.cn",
-      "links": "154.38.251.79",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "137-184-117-189.cprapid.com",
       "links": "7563f4f66e25c5b6c7031316101c197350cccf43",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "186hotel.cn",
-      "links": "154.38.251.79",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -183,6 +171,12 @@
     {
       "host": "ThreatFox: IcedID",
       "links": "aniogarphianeo.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: IcedID",
+      "links": "ariahitnan.com",
       "type": "z",
       "ln": 2
     },
@@ -482,12 +476,6 @@
     },
     {
       "host": "ThreatFox: IcedID",
-      "links": "lunat.top",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: IcedID",
       "links": "mlidaxeraza.com",
       "type": "z",
       "ln": 2
@@ -585,6 +573,12 @@
     {
       "host": "ThreatFox: IcedID",
       "links": "saintgermaincluff.agency",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: IcedID",
+      "links": "sikopanur.com",
       "type": "z",
       "ln": 2
     },
@@ -727,6 +721,12 @@
       "ln": 2
     },
     {
+      "host": "ariahitnan.com",
+      "links": "5.255.104.130",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "artiminiduska.live",
       "links": "4df069e7401c99974c716f0b4aa46283befea073",
       "type": "certs",
@@ -742,6 +742,12 @@
       "host": "artiminiduska.live",
       "links": "7e9658cceb33c9410f266acd42ed7f54884cc2be",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "autohemidno.com",
+      "links": "5.255.104.130",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -789,12 +795,6 @@
     {
       "host": "balliordan.com",
       "links": "84.32.188.191",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "balliordan.com",
-      "links": "94.140.114.78",
       "type": "pdns",
       "ln": 2
     },
@@ -903,12 +903,6 @@
     {
       "host": "bleizcarsgood.com",
       "links": "84.32.188.191",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "bleizcarsgood.com",
-      "links": "94.140.114.78",
       "type": "pdns",
       "ln": 2
     },
@@ -1036,12 +1030,6 @@
       "host": "constancechristison.net",
       "links": "3b3c55a4c8c3e1d931528a3806bc296a370a7d68",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "coolandprofit.business",
-      "links": "137.184.117.189",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -1610,12 +1598,6 @@
     },
     {
       "host": "firstdatachannel.click",
-      "links": "94.140.114.78",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "firstdatachannel.click",
       "links": "b9fa29453251608218af8498d63c32889fc00838",
       "type": "certs",
       "ln": 2
@@ -1845,12 +1827,6 @@
     {
       "host": "helloshoplegs.com",
       "links": "84.32.188.191",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "helloshoplegs.com",
-      "links": "94.140.114.78",
       "type": "pdns",
       "ln": 2
     },
@@ -2206,12 +2182,6 @@
       "host": "lrstnought.net",
       "links": "c03283374f3243335eb692972b851da248754d1f",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "lunat.top",
-      "links": "154.38.251.79",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -2803,6 +2773,12 @@
       "ln": 2
     },
     {
+      "host": "sikopanur.com",
+      "links": "5.255.104.130",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "silvesterwilliamson.net",
       "links": "c03283374f3243335eb692972b851da248754d1f",
       "type": "certs",
@@ -2836,12 +2812,6 @@
       "host": "speedyarmyjp.top",
       "links": "e70f57eb3da1dc8cb02ac31cdfdc3f26a1586a96",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "spinoschirkovni.buzz",
-      "links": "137.184.117.189",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -3064,12 +3034,6 @@
       "host": "vycmhjhkf.cc",
       "links": "c03283374f3243335eb692972b851da248754d1f",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "weakstart.bid",
-      "links": "137.184.117.189",
-      "type": "pdns",
       "ln": 2
     },
     {

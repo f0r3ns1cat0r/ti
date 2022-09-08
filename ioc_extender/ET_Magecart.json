@@ -1507,12 +1507,6 @@
       "ln": 2
     },
     {
-      "host": "cdn-plugin.us",
-      "links": "195.54.160.61",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "cdn1-comingsoon.net",
       "links": "558aeb2899730cb7d48a86dcfc979d6c88f8bceb",
       "type": "certs",
@@ -5191,18 +5185,6 @@
       "ln": 2
     },
     {
-      "host": "google-info.us",
-      "links": "195.54.160.61",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "google-stats.work",
-      "links": "195.54.160.61",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "grandriverinspection.com",
       "links": "0bd1361cc28c3222ca93853767f076bd5db1fce2",
       "type": "certs",
@@ -7567,18 +7549,6 @@
       "ln": 2
     },
     {
-      "host": "plugin-app.cloud",
-      "links": "195.54.160.61",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "plugin-connect.cloud",
-      "links": "195.54.160.61",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "pokerdestek.com",
       "links": "754649ef1e110ca0f2c9de3a9e61fafed45ff465",
       "type": "certs",
@@ -9064,12 +9034,6 @@
       "host": "trafficapps.business",
       "links": "272094b9a70c927f7fa266465fe637e3d5e59127",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "trafficstats.business",
-      "links": "195.54.160.61",
-      "type": "pdns",
       "ln": 2
     }
   ]

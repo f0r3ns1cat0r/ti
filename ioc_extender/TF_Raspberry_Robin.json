@@ -19,8 +19,68 @@
   ],
   "data": [
     {
+      "host": "1j.pm",
+      "links": "211.203.225.112",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "6xj.xyz",
+      "links": "211.203.225.112",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Raspberry Robin",
+      "links": "1j.pm",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Raspberry Robin",
+      "links": "6xj.xyz",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Raspberry Robin",
+      "links": "b8x.org",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Raspberry Robin",
+      "links": "ejk.bz",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Raspberry Robin",
+      "links": "g4.wf",
+      "type": "z",
+      "ln": 2
+    },
+    {
       "host": "ThreatFox: Raspberry Robin",
       "links": "i4x.xyz",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Raspberry Robin",
+      "links": "k6j.me",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Raspberry Robin",
+      "links": "mz3.biz",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Raspberry Robin",
+      "links": "q2.rs",
       "type": "z",
       "ln": 2
     },
@@ -31,9 +91,27 @@
       "ln": 2
     },
     {
+      "host": "ThreatFox: Raspberry Robin",
+      "links": "wak.rocks",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Raspberry Robin",
+      "links": "y3x.biz",
+      "type": "z",
+      "ln": 2
+    },
+    {
       "host": "autodiscover.i4x.xyz",
       "links": "46b56ac15f3b26b33382c0c992a80ff1cd303ce6",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "b8x.org",
+      "links": "211.203.225.112",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -52,6 +130,18 @@
       "host": "cpcontacts.i4x.xyz",
       "links": "46b56ac15f3b26b33382c0c992a80ff1cd303ce6",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "ejk.bz",
+      "links": "61.244.156.107",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "g4.wf",
+      "links": "211.203.225.112",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -79,9 +169,21 @@
       "ln": 2
     },
     {
+      "host": "k6j.me",
+      "links": "61.244.156.107",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "mail.i4x.xyz",
       "links": "46b56ac15f3b26b33382c0c992a80ff1cd303ce6",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mz3.biz",
+      "links": "61.244.156.107",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -91,7 +193,25 @@
       "ln": 2
     },
     {
+      "host": "q2.rs",
+      "links": "211.203.225.112",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "v0.cx",
+      "links": "211.203.225.112",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "w4.nz",
+      "links": "61.244.156.107",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "wak.rocks",
       "links": "211.203.225.112",
       "type": "pdns",
       "ln": 2
@@ -124,6 +244,12 @@
       "host": "www.i4x.okdin.com",
       "links": "46b56ac15f3b26b33382c0c992a80ff1cd303ce6",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "y3x.biz",
+      "links": "211.203.225.112",
+      "type": "pdns",
       "ln": 2
     }
   ]

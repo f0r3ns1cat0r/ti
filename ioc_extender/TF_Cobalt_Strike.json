@@ -272,12 +272,6 @@
     },
     {
       "host": "ThreatFox: Cobalt Strike",
-      "links": "akamaistats.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: Cobalt Strike",
       "links": "alojun.com",
       "type": "z",
       "ln": 2
@@ -1052,6 +1046,12 @@
     },
     {
       "host": "ThreatFox: Cobalt Strike",
+      "links": "wpsserver.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Cobalt Strike",
       "links": "www.hellomrsone.com",
       "type": "z",
       "ln": 2
@@ -1174,12 +1174,6 @@
       "host": "akademithalhah.com",
       "links": "216edef2f26a94071007aab8ec5e36c6b072c949",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "akamaistats.com",
-      "links": "135.148.101.100",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -1639,12 +1633,6 @@
       "ln": 2
     },
     {
-      "host": "bitux.club",
-      "links": "88.119.175.71",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "biznes-transformator.ru",
       "links": "633f133fbff8d7a399d7639b8fec5b69a8049dc7",
       "type": "certs",
@@ -1945,6 +1933,12 @@
       "ln": 2
     },
     {
+      "host": "compte-verif-amaz1.com",
+      "links": "46.21.153.159",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "concurpro.com",
       "links": "0487e186d32ca878f136352f342df9779468d8a9",
       "type": "certs",
@@ -1990,12 +1984,6 @@
       "host": "corussteel.ru",
       "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "couchephelduath.club",
-      "links": "135.148.101.100",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -2908,12 +2896,6 @@
       "host": "keycloud.digital",
       "links": "1c6fc256cc00055ace93ce4242d9d030c0f64218",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "keycloud.digital",
-      "links": "88.119.175.71",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -4990,6 +4972,12 @@
       "host": "wounaanpanama.org",
       "links": "c49bcd6f6ecb3545dec84cf6cf6ed85223bec210",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "wpsserver.com",
+      "links": "46.21.153.159",
+      "type": "pdns",
       "ln": 2
     },
     {
