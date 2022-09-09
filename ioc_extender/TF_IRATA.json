@@ -182,6 +182,12 @@
     },
     {
       "host": "ThreatFox: IRATA",
+      "links": "usk.oghabhosting.ir",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: IRATA",
       "links": "uskgavm.ga",
       "type": "z",
       "ln": 2
@@ -260,6 +266,12 @@
     },
     {
       "host": "cpanel.oghabhosting.ir",
+      "links": "116.202.172.45",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cpanel.oghabhosting.ir",
       "links": "e4363aeccf53b5e580c2205b92d30eb43c148ac3",
       "type": "certs",
       "ln": 2
@@ -314,8 +326,20 @@
     },
     {
       "host": "cpcalendars.oghabhosting.ir",
+      "links": "116.202.172.45",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cpcalendars.oghabhosting.ir",
       "links": "e4363aeccf53b5e580c2205b92d30eb43c148ac3",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "cpcontacts.oghabhosting.ir",
+      "links": "116.202.172.45",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -541,6 +565,12 @@
       "ln": 2
     },
     {
+      "host": "luiveusk.ml",
+      "links": "c11d28ec8aa29bb322e6c40d0823a81ae221e3d7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "luiveusk.tk",
       "links": "c4dd26712e8143d310fef2c6daf6b3806b4edfd6",
       "type": "certs",
@@ -717,6 +747,12 @@
     {
       "host": "ns2.mrx-eservises.cf",
       "links": "20.197.199.136",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "oghabhosting.ir",
+      "links": "116.202.172.45",
       "type": "pdns",
       "ln": 2
     },
@@ -979,6 +1015,18 @@
       "ln": 2
     },
     {
+      "host": "usk.oghabhosting.ir",
+      "links": "116.202.172.45",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "usk.oghabhosting.ir",
+      "links": "c11d28ec8aa29bb322e6c40d0823a81ae221e3d7",
+      "type": "certs",
+      "ln": 2
+    },
+    {
       "host": "uskgavm.ga",
       "links": "b6f401bfa0532304cc02b5684ad3b395f1640b69",
       "type": "certs",
@@ -1058,6 +1106,12 @@
     },
     {
       "host": "webdisk.oghabhosting.ir",
+      "links": "116.202.172.45",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "webdisk.oghabhosting.ir",
       "links": "e4363aeccf53b5e580c2205b92d30eb43c148ac3",
       "type": "certs",
       "ln": 2
@@ -1100,6 +1154,12 @@
     },
     {
       "host": "webmail.oghabhosting.ir",
+      "links": "116.202.172.45",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "webmail.oghabhosting.ir",
       "links": "e4363aeccf53b5e580c2205b92d30eb43c148ac3",
       "type": "certs",
       "ln": 2
@@ -1137,6 +1197,12 @@
     {
       "host": "www.nazanin-fuzol.nazi-naz-nakon.tk",
       "links": "0c4dedb6ad0d5bd0c1e3f673f02246c828480fd3",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "xn--mgb2dlba59cthb.ga",
+      "links": "c11d28ec8aa29bb322e6c40d0823a81ae221e3d7",
       "type": "certs",
       "ln": 2
     },
