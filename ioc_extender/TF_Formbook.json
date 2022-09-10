@@ -722,6 +722,12 @@
     },
     {
       "host": "cpcontacts.soft-shop.app",
+      "links": "162.0.221.213",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cpcontacts.soft-shop.app",
       "links": "1bea842d541474abfeb1ad4f4f51a7a73cff58bd",
       "type": "certs",
       "ln": 2
@@ -1273,18 +1279,6 @@
       "ln": 2
     },
     {
-      "host": "ns1.logosnode.com",
-      "links": "199.192.17.149",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns1.yellowcloudvps.com",
-      "links": "199.192.17.149",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ns2.cubanmop.net",
       "links": "162.0.228.30",
       "type": "pdns",
@@ -1293,18 +1287,6 @@
     {
       "host": "ns2.dawnforge.org",
       "links": "199.192.21.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.logosnode.com",
-      "links": "199.192.17.149",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.yellowcloudvps.com",
-      "links": "199.192.17.149",
       "type": "pdns",
       "ln": 2
     },
@@ -1864,12 +1846,6 @@
       "host": "www.brateix.info",
       "links": "0af2326ef48f3ba4649cdd3c8b2215721c6f7231",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "www.brateix.info",
-      "links": "199.192.17.149",
-      "type": "pdns",
       "ln": 2
     },
     {

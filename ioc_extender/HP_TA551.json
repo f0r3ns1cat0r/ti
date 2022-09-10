@@ -200,6 +200,12 @@
     },
     {
       "host": "ftp.digivape6.com",
+      "links": "145.239.228.217",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ftp.digivape6.com",
       "links": "a0f76657da31b9086ae703dab8668586aa703ecd",
       "type": "certs",
       "ln": 2
@@ -212,6 +218,12 @@
     },
     {
       "host": "mail.digivape6.com",
+      "links": "145.239.228.217",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mail.digivape6.com",
       "links": "a0f76657da31b9086ae703dab8668586aa703ecd",
       "type": "certs",
       "ln": 2
@@ -224,6 +236,12 @@
     },
     {
       "host": "pop.digivape6.com",
+      "links": "145.239.228.217",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "pop.digivape6.com",
       "links": "a0f76657da31b9086ae703dab8668586aa703ecd",
       "type": "certs",
       "ln": 2
@@ -232,6 +250,12 @@
       "host": "pop.digivape6.com",
       "links": "e6016b59d16a3caef45ffba85273bbbd5252010f",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "smtp.digivape6.com",
+      "links": "145.239.228.217",
+      "type": "pdns",
       "ln": 2
     },
     {
