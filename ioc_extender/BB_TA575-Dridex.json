@@ -10483,6 +10483,12 @@
       "ln": 2
     },
     {
+      "host": "ns1.laundryhk.com",
+      "links": "145.239.107.153",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ns1.michaels8th.com",
       "links": "145.239.107.153",
       "type": "pdns",
@@ -10575,6 +10581,12 @@
     {
       "host": "ns2.ineeddts.net",
       "links": "142.11.230.202",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.laundryhk.com",
+      "links": "145.239.107.153",
       "type": "pdns",
       "ln": 2
     },

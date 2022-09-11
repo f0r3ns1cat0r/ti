@@ -283,6 +283,12 @@
       "ln": 2
     },
     {
+      "host": "host-file-host0.com",
+      "links": "34.95.41.6",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "host-file-host6.com",
       "links": "34.116.208.152",
       "type": "pdns",
@@ -303,6 +309,12 @@
     {
       "host": "host-file-host6.com",
       "links": "34.84.224.187",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "host-file-host6.com",
+      "links": "34.95.41.6",
       "type": "pdns",
       "ln": 2
     },
@@ -478,6 +490,12 @@
       "host": "sailingfansubs.movie.blog",
       "links": "30728b5bc161bfc64c72fa6ced5540e54068dc94",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "services.host-file-host0.com",
+      "links": "34.95.41.6",
+      "type": "pdns",
       "ln": 2
     },
     {

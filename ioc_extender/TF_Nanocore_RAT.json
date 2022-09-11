@@ -91,6 +91,12 @@
       "ln": 2
     },
     {
+      "host": "8.tcp.ngrok.io",
+      "links": "13.58.157.220",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ThreatFox: Nanocore RAT",
       "links": "2.tcp.eu.ngrok.io",
       "type": "z",
@@ -129,6 +135,12 @@
     {
       "host": "ThreatFox: Nanocore RAT",
       "links": "7.tcp.eu.ngrok.io",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Nanocore RAT",
+      "links": "8.tcp.ngrok.io",
       "type": "z",
       "ln": 2
     },
@@ -878,6 +890,12 @@
     },
     {
       "host": "deedee111.ddns.net",
+      "links": "197.210.54.116",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "deedee111.ddns.net",
       "links": "197.210.78.189",
       "type": "pdns",
       "ln": 2
@@ -891,6 +909,12 @@
     {
       "host": "dera5nano.ddns.net",
       "links": "107.182.129.248",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "dera5nano.ddns.net",
+      "links": "185.216.71.194",
       "type": "pdns",
       "ln": 2
     },
@@ -962,6 +986,12 @@
     },
     {
       "host": "express104.ddns.net",
+      "links": "129.205.124.145",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "express104.ddns.net",
       "links": "79.134.225.18",
       "type": "pdns",
       "ln": 2
@@ -1005,6 +1035,12 @@
     {
       "host": "franmhort.duia.ro",
       "links": "194.5.97.3",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "franmhort.duia.ro",
+      "links": "91.192.100.8",
       "type": "pdns",
       "ln": 2
     },
@@ -1269,6 +1305,12 @@
     {
       "host": "kjjuigfdullygigyftkuyluylygilyfidyyuljhd.ydns.eu",
       "links": "107.182.129.248",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "kjjuigfdullygigyftkuyluylygilyfidyyuljhd.ydns.eu",
+      "links": "185.216.71.194",
       "type": "pdns",
       "ln": 2
     },
@@ -1687,6 +1729,12 @@
       "ln": 2
     },
     {
+      "host": "play.slowmc.cf",
+      "links": "13.58.157.220",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "pm2bitcoin.com",
       "links": "194.5.97.3",
       "type": "pdns",
@@ -1874,7 +1922,19 @@
     },
     {
       "host": "tochi.ddns.net",
+      "links": "197.210.54.116",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "tochi.ddns.net",
       "links": "197.210.78.189",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "travcharles.duia.ro",
+      "links": "91.192.100.8",
       "type": "pdns",
       "ln": 2
     },
@@ -1977,6 +2037,12 @@
     {
       "host": "wiz121.ddns.net",
       "links": "194.5.98.17",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "wiz121.ddns.net",
+      "links": "197.210.54.116",
       "type": "pdns",
       "ln": 2
     },

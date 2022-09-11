@@ -290,6 +290,12 @@
     },
     {
       "host": "cpanel.oghabhosting.ir",
+      "links": "85.10.193.11",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cpanel.oghabhosting.ir",
       "links": "e4363aeccf53b5e580c2205b92d30eb43c148ac3",
       "type": "certs",
       "ln": 2
@@ -350,6 +356,12 @@
     },
     {
       "host": "cpcalendars.oghabhosting.ir",
+      "links": "85.10.193.11",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cpcalendars.oghabhosting.ir",
       "links": "e4363aeccf53b5e580c2205b92d30eb43c148ac3",
       "type": "certs",
       "ln": 2
@@ -357,6 +369,12 @@
     {
       "host": "cpcontacts.oghabhosting.ir",
       "links": "116.202.172.45",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cpcontacts.oghabhosting.ir",
+      "links": "85.10.193.11",
       "type": "pdns",
       "ln": 2
     },
@@ -387,6 +405,12 @@
     {
       "host": "dadstn-k.cf",
       "links": "20.197.199.136",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "doostyabi-reza.tk",
+      "links": "23.95.191.199",
       "type": "pdns",
       "ln": 2
     },
@@ -818,6 +842,12 @@
     },
     {
       "host": "oghabhosting.ir",
+      "links": "85.10.193.11",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "oghabhosting.ir",
       "links": "98d429913f2895c2967751b786bec122e33962fc",
       "type": "certs",
       "ln": 2
@@ -951,6 +981,12 @@
     {
       "host": "remotedark.xyz",
       "links": "20.197.199.136",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "remotes.ga",
+      "links": "23.95.191.199",
       "type": "pdns",
       "ln": 2
     },
@@ -1093,6 +1129,12 @@
       "ln": 2
     },
     {
+      "host": "usk.oghabhosting.ir",
+      "links": "85.10.193.11",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "uskgavm.ga",
       "links": "b6f401bfa0532304cc02b5684ad3b395f1640b69",
       "type": "certs",
@@ -1178,6 +1220,12 @@
     },
     {
       "host": "webdisk.oghabhosting.ir",
+      "links": "85.10.193.11",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "webdisk.oghabhosting.ir",
       "links": "e4363aeccf53b5e580c2205b92d30eb43c148ac3",
       "type": "certs",
       "ln": 2
@@ -1221,6 +1269,12 @@
     {
       "host": "webmail.oghabhosting.ir",
       "links": "116.202.172.45",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "webmail.oghabhosting.ir",
+      "links": "85.10.193.11",
       "type": "pdns",
       "ln": 2
     },
