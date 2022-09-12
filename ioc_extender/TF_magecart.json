@@ -230,12 +230,6 @@
     },
     {
       "host": "ThreatFox: magecart",
-      "links": "jquery-ssl.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: magecart",
       "links": "jquerycdn.at",
       "type": "z",
       "ln": 2
@@ -2086,18 +2080,6 @@
       "host": "jquery-dns.com",
       "links": "5b410f323f84cc0ea3f41697444153e11400c683",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "jquery-in.com",
-      "links": "5.53.125.68",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "jquery-ssl.com",
-      "links": "5.53.125.68",
-      "type": "pdns",
       "ln": 2
     },
     {

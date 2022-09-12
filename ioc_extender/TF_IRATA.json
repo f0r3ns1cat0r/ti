@@ -439,6 +439,12 @@
       "ln": 2
     },
     {
+      "host": "etrs1.ir",
+      "links": "85.10.193.11",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ftp.botpardazan.tk",
       "links": "1e055de6c163dda8e44b3aae02c268e33ce2d980",
       "type": "certs",
@@ -817,8 +823,20 @@
       "ln": 2
     },
     {
+      "host": "ns1.oghabhost.xyz",
+      "links": "85.10.193.11",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ns2.mrx-eservises.cf",
       "links": "20.197.199.136",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns2.oghabhost.xyz",
+      "links": "85.10.193.11",
       "type": "pdns",
       "ln": 2
     },

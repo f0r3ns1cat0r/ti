@@ -55,6 +55,12 @@
       "ln": 2
     },
     {
+      "host": "ThreatFox: AsyncRAT",
+      "links": "winhost.ddns.net",
+      "type": "z",
+      "ln": 2
+    },
+    {
       "host": "aduhteruslahdiituu.com",
       "links": "2e1c61bf71a42f8ee3937bd7f55719b693681c88",
       "type": "certs",
@@ -286,6 +292,12 @@
       "host": "gaminghost873737-38124.portmap.io",
       "links": "de23e3ce838f2334ffeabac6b29a59d49c4f90a7",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "goomegle.publicvm.com",
+      "links": "141.95.84.40",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -556,6 +568,24 @@
       "host": "tokcharts.com",
       "links": "021cc80a118caa47313ca16a59d8e7b6787df70b",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "winhost.ddns.net",
+      "links": "141.95.84.40",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "winup.linkpc.net",
+      "links": "141.95.84.40",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "winup.publicvm.com",
+      "links": "141.95.84.40",
+      "type": "pdns",
       "ln": 2
     },
     {

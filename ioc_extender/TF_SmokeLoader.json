@@ -265,6 +265,12 @@
       "ln": 2
     },
     {
+      "host": "file-file-file1.com",
+      "links": "34.95.41.6",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "fluentinhuman.blog",
       "links": "30728b5bc161bfc64c72fa6ced5540e54068dc94",
       "type": "certs",

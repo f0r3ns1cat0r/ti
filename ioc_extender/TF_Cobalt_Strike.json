@@ -266,12 +266,6 @@
     },
     {
       "host": "ThreatFox: Cobalt Strike",
-      "links": "alojun.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: Cobalt Strike",
       "links": "anidoz.com",
       "type": "z",
       "ln": 2
@@ -452,12 +446,6 @@
     },
     {
       "host": "ThreatFox: Cobalt Strike",
-      "links": "csrss.re",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: Cobalt Strike",
       "links": "cuyuzah.com",
       "type": "z",
       "ln": 2
@@ -542,12 +530,6 @@
     },
     {
       "host": "ThreatFox: Cobalt Strike",
-      "links": "erabias.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: Cobalt Strike",
       "links": "exfiltrating.me",
       "type": "z",
       "ln": 2
@@ -585,12 +567,6 @@
     {
       "host": "ThreatFox: Cobalt Strike",
       "links": "gaosrta.com",
-      "type": "z",
-      "ln": 2
-    },
-    {
-      "host": "ThreatFox: Cobalt Strike",
-      "links": "gasonz.com",
       "type": "z",
       "ln": 2
     },
@@ -1186,12 +1162,6 @@
       "host": "aks-service.store",
       "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "alojun.com",
-      "links": "139.60.161.47",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -2071,12 +2041,6 @@
       "ln": 2
     },
     {
-      "host": "csrss.re",
-      "links": "168.100.11.226",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "cst-avto.store",
       "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
       "type": "certs",
@@ -2371,12 +2335,6 @@
       "ln": 2
     },
     {
-      "host": "erabias.com",
-      "links": "109.236.81.61",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "eretrones.ru",
       "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
       "type": "certs",
@@ -2602,12 +2560,6 @@
       "host": "gamesbcity.store",
       "links": "528b108fa41cc22a438944665a6a6d44661ec0e6",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "gasonz.com",
-      "links": "8.39.147.87",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -3062,12 +3014,6 @@
     },
     {
       "host": "macrodown.com",
-      "links": "85.93.88.165",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "macrodown.com",
       "links": "dca4a29b711e656b72c67fa704bbe1b9481d37f2",
       "type": "certs",
       "ln": 2
@@ -3159,12 +3105,6 @@
     {
       "host": "makinemodel.com",
       "links": "45.9.20.203",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "malta2419.startdedicated.com",
-      "links": "85.93.88.165",
       "type": "pdns",
       "ln": 2
     },
@@ -3511,18 +3451,6 @@
       "ln": 2
     },
     {
-      "host": "newska-uanews.biz",
-      "links": "139.162.120.150",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "newska-uanews.biz",
-      "links": "50.116.17.41",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ngrety.com",
       "links": "3e926c7b6ca3947d6a7efa19344ed35ab457ef8c",
       "type": "certs",
@@ -3559,33 +3487,9 @@
       "ln": 2
     },
     {
-      "host": "ns1.accountsballancce.com",
-      "links": "162.244.81.10",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ns1.avsvmcloud.com",
       "links": "dc20e80738bc7a3c9af6d770fd3cc5fb7c8c4139",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "ns1.box.fluoxity.com",
-      "links": "139.60.161.47",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns1.cablenet10g.net",
-      "links": "168.100.11.226",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns1.collateralunion.com",
-      "links": "79.141.163.33",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -3595,62 +3499,8 @@
       "ln": 2
     },
     {
-      "host": "ns1.holimnd.com",
-      "links": "109.236.81.61",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns1.loidka.com",
-      "links": "8.39.147.87",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns1.sorienam.com",
-      "links": "79.141.163.33",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.accountsballancce.com",
-      "links": "162.244.81.10",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.box.fluoxity.com",
-      "links": "139.60.161.47",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.collateralunion.com",
-      "links": "79.141.163.33",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "ns2.commitableconcious.com",
       "links": "210.16.100.2",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.holimnd.com",
-      "links": "109.236.81.61",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.loidka.com",
-      "links": "8.39.147.87",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "ns2.sorienam.com",
-      "links": "79.141.163.33",
       "type": "pdns",
       "ln": 2
     },
@@ -3682,12 +3532,6 @@
       "host": "oldboytakecar.net",
       "links": "c4fcae41ae4c57061f31a74c2de72bc72afb2201",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "onembr.com",
-      "links": "162.244.81.10",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -4483,18 +4327,6 @@
       "ln": 2
     },
     {
-      "host": "telegraf-news.biz",
-      "links": "139.162.120.150",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "telegraf-news.biz",
-      "links": "50.116.17.41",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "teslasolutions.club",
       "links": "2fbfa1bf6e6d6f013e23c7c9dcb5341dc8e28c4d",
       "type": "certs",
@@ -4582,18 +4414,6 @@
       "host": "tnelectionresults.com",
       "links": "15932ebdf6f657111356ae8fe7f53ad717f56d6f",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "tnskvggujjqfcskwk.com",
-      "links": "139.162.120.150",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "tnskvggujjqfcskwk.com",
-      "links": "50.116.17.41",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -5170,6 +4990,12 @@
       "host": "www.updtesprrtcmmz.xyz",
       "links": "c65441ebeab1323b78315f9ba5db17f92543779b",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "wyms-wx.vaiwan.com",
+      "links": "114.55.250.207",
+      "type": "pdns",
       "ln": 2
     },
     {

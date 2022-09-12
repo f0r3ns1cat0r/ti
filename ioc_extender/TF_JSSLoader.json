@@ -32,6 +32,12 @@
     },
     {
       "host": "ThreatFox: JSSLoader",
+      "links": "energytoleave.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: JSSLoader",
       "links": "essentialsmassageanddayspa.com",
       "type": "z",
       "ln": 2
@@ -328,6 +334,12 @@
       "host": "educationoutreach.org",
       "links": "ebf7d88e4b34e1a0c7948ea5b8bd867b857b7443",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "energytoleave.com",
+      "links": "205.185.118.83",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -1402,6 +1414,18 @@
       "host": "mail.toyreviewguide.com",
       "links": "96de9971718b333acbab3b280ed98cfe01d06c1c",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "n6.aerogaming.org",
+      "links": "205.185.118.83",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ns5.aerogaming.org",
+      "links": "205.185.118.83",
+      "type": "pdns",
       "ln": 2
     },
     {
