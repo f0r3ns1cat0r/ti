@@ -1,0 +1,40 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ET Trojan: PowerShell-PowHeartBeat",
+      "links": "airplane.travel-commercials.agency",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "airplane.travel-commercials.agency",
+      "links": "103.140.186.10",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "arcticle.polarbeares.net",
+      "links": "103.140.186.10",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

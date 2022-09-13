@@ -97,6 +97,12 @@
       "ln": 2
     },
     {
+      "host": "5kj.xyz",
+      "links": "61.244.156.107",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "5s.pm",
       "links": "151.51.83.104",
       "type": "pdns",
@@ -206,6 +212,12 @@
     },
     {
       "host": "ThreatFox: Raspberry Robin",
+      "links": "5kj.xyz",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Raspberry Robin",
       "links": "5s.pm",
       "type": "z",
       "ln": 2
@@ -308,6 +320,12 @@
     },
     {
       "host": "ThreatFox: Raspberry Robin",
+      "links": "k5j.one",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Raspberry Robin",
       "links": "k6j.me",
       "type": "z",
       "ln": 2
@@ -351,6 +369,12 @@
     {
       "host": "ThreatFox: Raspberry Robin",
       "links": "q2.rs",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Raspberry Robin",
+      "links": "r0.pm",
       "type": "z",
       "ln": 2
     },
@@ -451,6 +475,12 @@
       "ln": 2
     },
     {
+      "host": "fnx.wf",
+      "links": "222.229.110.108",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "fxb.tw",
       "links": "120.149.53.179",
       "type": "pdns",
@@ -541,6 +571,12 @@
       "ln": 2
     },
     {
+      "host": "k5j.one",
+      "links": "211.203.225.112",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "k6j.me",
       "links": "120.149.53.179",
       "type": "pdns",
@@ -562,6 +598,12 @@
       "host": "mail.i4x.xyz",
       "links": "46b56ac15f3b26b33382c0c992a80ff1cd303ce6",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mn1.biz",
+      "links": "222.229.110.108",
+      "type": "pdns",
       "ln": 2
     },
     {
@@ -621,6 +663,12 @@
     {
       "host": "q2.rs",
       "links": "211.203.225.112",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "r0.pm",
+      "links": "151.51.83.104",
       "type": "pdns",
       "ln": 2
     },
@@ -723,6 +771,12 @@
     {
       "host": "zk.qa",
       "links": "172.124.74.77",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "zxn.fyi",
+      "links": "151.51.83.104",
       "type": "pdns",
       "ln": 2
     }

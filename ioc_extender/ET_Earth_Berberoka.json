@@ -32,6 +32,12 @@
     },
     {
       "host": "ET Trojan: Earth Berberoka",
+      "links": "linux.wy01.vip",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: Earth Berberoka",
       "links": "mmimdown.oss-cn-hongkong.aliyuncs.com",
       "type": "z",
       "ln": 2
@@ -56,6 +62,12 @@
     },
     {
       "host": "linux.wy01.com",
+      "links": "207.148.103.108",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "linux.wy01.vip",
       "links": "207.148.103.108",
       "type": "pdns",
       "ln": 2

@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "ThreatFox: Ramnit",
+      "links": "infntio.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "agagian.com",
+      "links": "185.236.76.230",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "goalrom.com",
+      "links": "185.236.76.230",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hostedl.com",
+      "links": "185.236.76.230",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "infntio.com",
+      "links": "185.236.76.230",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "pngdoma.com",
+      "links": "185.236.76.230",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "textmaticz.com",
+      "links": "185.236.76.230",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

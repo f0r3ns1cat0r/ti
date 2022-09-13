@@ -25,12 +25,6 @@
       "ln": 2
     },
     {
-      "host": "107.154.146.143.ip.incapdns.net",
-      "links": "107.154.146.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
       "host": "1u.ms",
       "links": "206.81.28.151",
       "type": "pdns",
@@ -3111,6 +3105,12 @@
     {
       "host": "brainmd.com",
       "links": "44.205.54.163",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "brainmd.com",
+      "links": "52.2.180.156",
       "type": "pdns",
       "ln": 2
     },
@@ -6769,6 +6769,12 @@
       "ln": 2
     },
     {
+      "host": "free-slotshall.co",
+      "links": "203.30.191.173",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "fxrp.org",
       "links": "30aed281c3724de7ec496c4167552fb127c5234e",
       "type": "certs",
@@ -7449,6 +7455,12 @@
     {
       "host": "hr4tqnltvxi7.cloudmaestro.com",
       "links": "44.205.54.163",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "hr4tqnltvxi7.cloudmaestro.com",
+      "links": "52.2.180.156",
       "type": "pdns",
       "ln": 2
     },
@@ -8781,6 +8793,12 @@
     {
       "host": "lwitz3syc13s.cloudmaestro.com",
       "links": "44.205.54.163",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "lwitz3syc13s.cloudmaestro.com",
+      "links": "52.2.180.156",
       "type": "pdns",
       "ln": 2
     },
@@ -10221,6 +10239,12 @@
     {
       "host": "nightingale.com",
       "links": "44.205.54.163",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "nightingale.com",
+      "links": "52.2.180.156",
       "type": "pdns",
       "ln": 2
     },
@@ -20121,6 +20145,12 @@
     {
       "host": "zk4wuj95ixry.cloudmaestro.com",
       "links": "44.205.54.163",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "zk4wuj95ixry.cloudmaestro.com",
+      "links": "52.2.180.156",
       "type": "pdns",
       "ln": 2
     },
