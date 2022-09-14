@@ -158,6 +158,12 @@
     },
     {
       "host": "ThreatFox: Nanocore RAT",
+      "links": "anglemanagement.ddns.net",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Nanocore RAT",
       "links": "boyhome5100.duckdns.org",
       "type": "z",
       "ln": 2
@@ -555,6 +561,12 @@
     {
       "host": "americanmedicalassociation.online",
       "links": "213.152.161.211",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "anglemanagement.ddns.net",
+      "links": "91.192.100.8",
       "type": "pdns",
       "ln": 2
     },
@@ -957,6 +969,12 @@
     {
       "host": "emedoo.ddns.net",
       "links": "185.140.53.135",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "emedoo.ddns.net",
+      "links": "194.187.251.150",
       "type": "pdns",
       "ln": 2
     },
@@ -1443,6 +1461,12 @@
     {
       "host": "menz.ddns.net",
       "links": "185.140.53.135",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "menz.ddns.net",
+      "links": "194.187.251.150",
       "type": "pdns",
       "ln": 2
     },

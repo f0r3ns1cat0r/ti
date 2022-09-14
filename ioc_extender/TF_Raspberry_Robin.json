@@ -332,6 +332,12 @@
     },
     {
       "host": "ThreatFox: Raspberry Robin",
+      "links": "lwip.re",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Raspberry Robin",
       "links": "m5n.biz",
       "type": "z",
       "ln": 2
@@ -518,6 +524,12 @@
     },
     {
       "host": "gloa.in",
+      "links": "1.163.213.186",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "gloa.in",
       "links": "172.124.74.77",
       "type": "pdns",
       "ln": 2
@@ -585,6 +597,12 @@
     {
       "host": "k6j.me",
       "links": "61.244.156.107",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "lwip.re",
+      "links": "1.163.213.186",
       "type": "pdns",
       "ln": 2
     },
