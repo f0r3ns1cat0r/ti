@@ -127,8 +127,26 @@
       "ln": 2
     },
     {
+      "host": "ThreatFox: Roaming Mantis",
+      "links": "mrheu.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Roaming Mantis",
+      "links": "udsuc.com",
+      "type": "z",
+      "ln": 2
+    },
+    {
       "host": "baodulist.top",
       "links": "209.141.35.126",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "demo.mggrh.com",
+      "links": "134.119.205.21",
       "type": "pdns",
       "ln": 2
     },
@@ -141,6 +159,24 @@
     {
       "host": "gx220802bei.online",
       "links": "209.141.35.126",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mggrh.com",
+      "links": "134.119.205.21",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "mrheu.com",
+      "links": "134.119.205.21",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "udsuc.com",
+      "links": "134.119.205.21",
       "type": "pdns",
       "ln": 2
     }

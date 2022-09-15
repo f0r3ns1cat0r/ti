@@ -116,6 +116,12 @@
     },
     {
       "host": "akashito.ru",
+      "links": "149.28.115.34",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "akashito.ru",
       "links": "45.76.106.81",
       "type": "pdns",
       "ln": 2
@@ -290,6 +296,12 @@
     },
     {
       "host": "dogvilla.ru",
+      "links": "149.28.115.34",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "dogvilla.ru",
       "links": "45.76.106.81",
       "type": "pdns",
       "ln": 2
@@ -303,6 +315,12 @@
     {
       "host": "fingerso.ru",
       "links": "138.68.253.82",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "fingerso.ru",
+      "links": "149.28.115.34",
       "type": "pdns",
       "ln": 2
     },

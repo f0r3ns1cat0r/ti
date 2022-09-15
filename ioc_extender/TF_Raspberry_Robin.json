@@ -73,6 +73,12 @@
       "ln": 2
     },
     {
+      "host": "3e.pm",
+      "links": "172.124.74.77",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "3h1.xyz",
       "links": "31.17.193.37",
       "type": "pdns",
@@ -93,6 +99,12 @@
     {
       "host": "4m.wf",
       "links": "172.124.74.77",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "5kj.xyz",
+      "links": "151.51.83.104",
       "type": "pdns",
       "ln": 2
     },
@@ -189,6 +201,12 @@
     {
       "host": "ThreatFox: Raspberry Robin",
       "links": "1j4.xyz",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Raspberry Robin",
+      "links": "3e.pm",
       "type": "z",
       "ln": 2
     },

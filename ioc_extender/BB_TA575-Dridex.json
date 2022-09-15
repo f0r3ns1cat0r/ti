@@ -9764,12 +9764,6 @@
     },
     {
       "host": "militarywraps.com",
-      "links": "107.154.146.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "militarywraps.com",
       "links": "12b90c5e898e9da6e4eea054b29f479efcec5f2d",
       "type": "certs",
       "ln": 2
@@ -11912,12 +11906,6 @@
     },
     {
       "host": "realcomponents.com",
-      "links": "107.154.146.143",
-      "type": "pdns",
-      "ln": 2
-    },
-    {
-      "host": "realcomponents.com",
       "links": "12b90c5e898e9da6e4eea054b29f479efcec5f2d",
       "type": "certs",
       "ln": 2
@@ -11950,12 +11938,6 @@
       "host": "realcomponents.com",
       "links": "4459504a51193b5fa1cfe2c370f59bc99528032f",
       "type": "certs",
-      "ln": 2
-    },
-    {
-      "host": "realcomponents.com",
-      "links": "45.60.96.143",
-      "type": "pdns",
       "ln": 2
     },
     {
@@ -16156,6 +16138,12 @@
       "host": "www.blacksharkstudios.com.mx",
       "links": "66f72d2187c343a89a7e76f557eda43d06cf89bf",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "www.blaskor.ddaproduction.com",
+      "links": "207.154.242.147",
+      "type": "pdns",
       "ln": 2
     },
     {
