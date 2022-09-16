@@ -19,6 +19,24 @@
   ],
   "data": [
     {
+      "host": "1110.hopto.org",
+      "links": "91.193.75.133",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "1116.hopto.org",
+      "links": "91.193.75.133",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "1211.hopto.org",
+      "links": "91.193.75.133",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "180.ip.playit.gg",
       "links": "209.25.141.180",
       "type": "pdns",
@@ -91,6 +109,12 @@
       "ln": 2
     },
     {
+      "host": "6262.hopto.org",
+      "links": "91.193.75.133",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "7.tcp.eu.ngrok.io",
       "links": "3.67.15.169",
       "type": "pdns",
@@ -100,6 +124,24 @@
       "host": "8.tcp.ngrok.io",
       "links": "13.58.157.220",
       "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "9386.ddns.net",
+      "links": "91.193.75.133",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Nanocore RAT",
+      "links": "1116.hopto.org",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Nanocore RAT",
+      "links": "1211.hopto.org",
+      "type": "z",
       "ln": 2
     },
     {
@@ -140,6 +182,12 @@
     },
     {
       "host": "ThreatFox: Nanocore RAT",
+      "links": "6262.hopto.org",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Nanocore RAT",
       "links": "7.tcp.eu.ngrok.io",
       "type": "z",
       "ln": 2
@@ -147,6 +195,12 @@
     {
       "host": "ThreatFox: Nanocore RAT",
       "links": "8.tcp.ngrok.io",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Nanocore RAT",
+      "links": "9386.ddns.net",
       "type": "z",
       "ln": 2
     },
@@ -219,6 +273,12 @@
     {
       "host": "ThreatFox: Nanocore RAT",
       "links": "express104.ddns.net",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Nanocore RAT",
+      "links": "ezeani.duckdns.org",
       "type": "z",
       "ln": 2
     },
@@ -519,6 +579,12 @@
     {
       "host": "ThreatFox: Nanocore RAT",
       "links": "xylem11.ddns.net",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Nanocore RAT",
+      "links": "youngnonte.hopto.org",
       "type": "z",
       "ln": 2
     },
@@ -992,6 +1058,12 @@
     },
     {
       "host": "emedoo.ddns.net",
+      "links": "194.110.115.69",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "emedoo.ddns.net",
       "links": "194.187.251.150",
       "type": "pdns",
       "ln": 2
@@ -1017,6 +1089,12 @@
     {
       "host": "express104.ddns.net",
       "links": "79.134.225.18",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ezeani.duckdns.org",
+      "links": "194.5.98.48",
       "type": "pdns",
       "ln": 2
     },
@@ -1093,8 +1171,20 @@
       "ln": 2
     },
     {
+      "host": "gameserver-789.duia.ro",
+      "links": "23.105.131.206",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "gameserver.duia.us",
       "links": "23.105.131.186",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "gameserver.duia.us",
+      "links": "23.105.131.206",
       "type": "pdns",
       "ln": 2
     },
@@ -1316,6 +1406,12 @@
     },
     {
       "host": "kekeze21.ddns.net",
+      "links": "197.211.58.184",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "kekeze21.ddns.net",
       "links": "197.211.58.187",
       "type": "pdns",
       "ln": 2
@@ -1491,6 +1587,12 @@
     {
       "host": "menz.ddns.net",
       "links": "185.232.21.167",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "menz.ddns.net",
+      "links": "194.110.115.69",
       "type": "pdns",
       "ln": 2
     },
@@ -1729,8 +1831,20 @@
       "ln": 2
     },
     {
+      "host": "nybenspyhost.duckdns.org",
+      "links": "194.5.98.118",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "nybenspyhost.hopto.org",
       "links": "185.140.53.69",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "nybenspyhost.hopto.org",
+      "links": "194.5.98.118",
       "type": "pdns",
       "ln": 2
     },
@@ -2192,6 +2306,12 @@
     },
     {
       "host": "xylem11.ddns.net",
+      "links": "197.211.58.184",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "xylem11.ddns.net",
       "links": "197.211.58.187",
       "type": "pdns",
       "ln": 2
@@ -2211,6 +2331,12 @@
     {
       "host": "yakbitpeople.duckdns.org",
       "links": "80.76.51.178",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "youngnonte.hopto.org",
+      "links": "91.193.75.133",
       "type": "pdns",
       "ln": 2
     },

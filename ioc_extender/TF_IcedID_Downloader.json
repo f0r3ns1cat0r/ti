@@ -788,6 +788,12 @@
     },
     {
       "host": "guguchrome.com",
+      "links": "45.8.146.153",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "guguchrome.com",
       "links": "94.140.114.143",
       "type": "pdns",
       "ln": 2
@@ -844,6 +850,12 @@
       "host": "helloshoplegs.com",
       "links": "e83f670d09b3bb12d4263896f8e83322acc8330a",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "hipnoguard.com",
+      "links": "45.8.146.153",
+      "type": "pdns",
       "ln": 2
     },
     {

@@ -1766,6 +1766,12 @@
     },
     {
       "host": "guguchrome.com",
+      "links": "45.8.146.153",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "guguchrome.com",
       "links": "94.140.114.143",
       "type": "pdns",
       "ln": 2
@@ -1852,6 +1858,12 @@
       "host": "hilidisilinim.top",
       "links": "2b70d739719e33d402c3aa1fe2fb47f98f0890ee",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "hipnoguard.com",
+      "links": "45.8.146.153",
+      "type": "pdns",
       "ln": 2
     },
     {
