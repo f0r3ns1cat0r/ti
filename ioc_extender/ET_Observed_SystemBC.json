@@ -127,6 +127,12 @@
       "ln": 2
     },
     {
+      "host": "server.yourfam.net",
+      "links": "51.91.209.190",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "servicestatus.one",
       "links": "51.91.209.190",
       "type": "pdns",
