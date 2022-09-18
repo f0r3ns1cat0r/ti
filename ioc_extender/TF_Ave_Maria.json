@@ -145,6 +145,12 @@
       "ln": 2
     },
     {
+      "host": "gluer.ddns.net",
+      "links": "197.211.53.29",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "guest.maximos.quest",
       "links": "206.189.139.209",
       "type": "pdns",
@@ -207,6 +213,12 @@
     {
       "host": "streelifes.duckdns.org",
       "links": "62.197.136.159",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "timmy06.ddns.net",
+      "links": "213.152.161.211",
       "type": "pdns",
       "ln": 2
     },
