@@ -98,6 +98,12 @@
     },
     {
       "host": "1u.wf",
+      "links": "122.213.27.148",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "1u.wf",
       "links": "74.133.3.172",
       "type": "pdns",
       "ln": 2
@@ -111,6 +117,24 @@
     {
       "host": "3h1.xyz",
       "links": "31.17.193.37",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "3h1.xyz",
+      "links": "61.244.156.107",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "3h1.xyz",
+      "links": "95.94.169.61",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "4j1.xyz",
+      "links": "122.213.27.148",
       "type": "pdns",
       "ln": 2
     },
@@ -139,6 +163,12 @@
       "ln": 2
     },
     {
+      "host": "5j8.xyz",
+      "links": "85.171.54.231",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "5kj.xyz",
       "links": "151.51.83.104",
       "type": "pdns",
@@ -153,6 +183,12 @@
     {
       "host": "5s.pm",
       "links": "151.51.83.104",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "5s.pm",
+      "links": "95.94.169.61",
       "type": "pdns",
       "ln": 2
     },
@@ -207,6 +243,12 @@
     {
       "host": "8t.wf",
       "links": "31.17.193.37",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "8t.wf",
+      "links": "95.94.169.61",
       "type": "pdns",
       "ln": 2
     },
@@ -278,6 +320,12 @@
     },
     {
       "host": "ThreatFox: Raspberry Robin",
+      "links": "4j1.xyz",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Raspberry Robin",
       "links": "4j5.xyz",
       "type": "z",
       "ln": 2
@@ -285,6 +333,12 @@
     {
       "host": "ThreatFox: Raspberry Robin",
       "links": "4m.wf",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Raspberry Robin",
+      "links": "5j8.xyz",
       "type": "z",
       "ln": 2
     },
@@ -369,6 +423,12 @@
     {
       "host": "ThreatFox: Raspberry Robin",
       "links": "doem.re",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Raspberry Robin",
+      "links": "e9.wf",
       "type": "z",
       "ln": 2
     },
@@ -727,6 +787,12 @@
       "ln": 2
     },
     {
+      "host": "e9.wf",
+      "links": "95.94.169.61",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ej3.xyz",
       "links": "85.171.54.231",
       "type": "pdns",
@@ -764,6 +830,12 @@
     },
     {
       "host": "fxb.tw",
+      "links": "122.213.27.148",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "fxb.tw",
       "links": "125.191.5.20",
       "type": "pdns",
       "ln": 2
@@ -795,6 +867,12 @@
     {
       "host": "g4.tel",
       "links": "151.51.83.104",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "g4.tel",
+      "links": "95.94.169.61",
       "type": "pdns",
       "ln": 2
     },
@@ -1015,6 +1093,12 @@
       "ln": 2
     },
     {
+      "host": "mn1.biz",
+      "links": "95.94.169.61",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "mz3.biz",
       "links": "125.191.5.20",
       "type": "pdns",
@@ -1023,6 +1107,12 @@
     {
       "host": "mz3.biz",
       "links": "61.244.156.107",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "n54.me",
+      "links": "122.213.27.148",
       "type": "pdns",
       "ln": 2
     },
@@ -1101,6 +1191,12 @@
     {
       "host": "q2.rs",
       "links": "211.203.225.112",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "r0.pm",
+      "links": "122.213.27.148",
       "type": "pdns",
       "ln": 2
     },
@@ -1263,6 +1359,12 @@
     {
       "host": "xz4.biz",
       "links": "86.242.7.109",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "xz4.biz",
+      "links": "95.94.169.61",
       "type": "pdns",
       "ln": 2
     },

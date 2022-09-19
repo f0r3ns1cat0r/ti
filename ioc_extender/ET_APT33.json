@@ -1045,6 +1045,12 @@
       "ln": 2
     },
     {
+      "host": "hbooob.no-ip.biz",
+      "links": "52.204.228.76",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "hirodomus.hopto.org",
       "links": "52.204.228.76",
       "type": "pdns",
@@ -4946,6 +4952,12 @@
     },
     {
       "host": "support.hopto.com",
+      "links": "192.163.237.103",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "www.caviar.hopto.com",
       "links": "192.163.237.103",
       "type": "pdns",
       "ln": 2

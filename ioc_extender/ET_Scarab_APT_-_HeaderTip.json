@@ -1,0 +1,40 @@
+{
+  "meta": [
+    {
+      "name": "host",
+      "type": "String"
+    },
+    {
+      "name": "links",
+      "type": "String"
+    },
+    {
+      "name": "type",
+      "type": "String"
+    },
+    {
+      "name": "ln",
+      "type": "UInt8"
+    }
+  ],
+  "data": [
+    {
+      "host": "3.tmsc1666.com",
+      "links": "45.154.13.63",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "ET Trojan: Scarab APT - HeaderTip",
+      "links": "ebook.port25.biz",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ebook.port25.biz",
+      "links": "45.154.13.63",
+      "type": "pdns",
+      "ln": 2
+    }
+  ]
+}

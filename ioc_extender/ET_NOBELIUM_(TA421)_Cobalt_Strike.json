@@ -194,6 +194,12 @@
     },
     {
       "host": "dailydews.com",
+      "links": "d946621b7b0861e33276aeb55cb13f03996fd985",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "dailydews.com",
       "links": "db1a85cd07453401e7dc7fd9b612ab7a0495a7e5",
       "type": "certs",
       "ln": 2
@@ -399,6 +405,12 @@
     {
       "host": "mail.dailydews.com",
       "links": "d41a692ed1587cec4b5c86a47a12e897b6401556",
+      "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "mail.dailydews.com",
+      "links": "d946621b7b0861e33276aeb55cb13f03996fd985",
       "type": "certs",
       "ln": 2
     },

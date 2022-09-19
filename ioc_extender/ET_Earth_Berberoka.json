@@ -49,9 +49,21 @@
       "ln": 2
     },
     {
+      "host": "exmoo.oss-cn-hongkong.aliyuncs.com",
+      "links": "47.56.33.32",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "github.wiki",
       "links": "5b439ac5305e09efb0f29e4e36f3b72484bc677b",
       "type": "certs",
+      "ln": 2
+    },
+    {
+      "host": "hk-area1-file.oss-cn-hongkong.aliyuncs.com",
+      "links": "47.56.33.32",
+      "type": "pdns",
       "ln": 2
     },
     {
