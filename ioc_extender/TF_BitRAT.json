@@ -25,6 +25,12 @@
       "ln": 2
     },
     {
+      "host": "2ndversionjs.duckdns.org",
+      "links": "212.192.246.192",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "ThreatFox: BitRAT",
       "links": "bitrat9400.duckdns.org",
       "type": "z",
@@ -86,6 +92,12 @@
     },
     {
       "host": "doctorsbit.duckdns.org",
+      "links": "212.192.246.192",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "doctorsbit.duckdns.org",
       "links": "80.76.51.178",
       "type": "pdns",
       "ln": 2
@@ -139,6 +151,12 @@
       "ln": 2
     },
     {
+      "host": "newbithere.duckdns.org",
+      "links": "212.192.246.192",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
       "host": "newmanes.duckdns.org",
       "links": "80.76.51.178",
       "type": "pdns",
@@ -146,7 +164,25 @@
     },
     {
       "host": "page1bit.duckdns.org",
+      "links": "212.192.246.192",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "page1bit.duckdns.org",
       "links": "80.76.51.178",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "strigoiltd.duckdns.org",
+      "links": "212.192.246.192",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "verifiedrisky.duckdns.org",
+      "links": "212.192.246.192",
       "type": "pdns",
       "ln": 2
     },

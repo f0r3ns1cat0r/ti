@@ -512,6 +512,12 @@
     },
     {
       "host": "services.host-file-host0.com",
+      "links": "176.124.192.17",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "services.host-file-host0.com",
       "links": "34.95.41.6",
       "type": "pdns",
       "ln": 2
