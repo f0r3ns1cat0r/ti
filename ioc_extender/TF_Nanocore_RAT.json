@@ -1130,6 +1130,12 @@
     },
     {
       "host": "emedoo.ddns.net",
+      "links": "194.110.115.76",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "emedoo.ddns.net",
       "links": "194.187.251.150",
       "type": "pdns",
       "ln": 2
@@ -1706,6 +1712,12 @@
     },
     {
       "host": "menz.ddns.net",
+      "links": "194.110.115.76",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "menz.ddns.net",
       "links": "194.187.251.150",
       "type": "pdns",
       "ln": 2
@@ -1989,6 +2001,12 @@
     {
       "host": "orcushack.duckdns.org",
       "links": "193.161.193.99",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "own-formerly.craft.playit.gg",
+      "links": "209.25.141.180",
       "type": "pdns",
       "ln": 2
     },

@@ -62,6 +62,12 @@
     },
     {
       "host": "ThreatFox: Ave Maria",
+      "links": "warzone.ddns.net",
+      "type": "z",
+      "ln": 2
+    },
+    {
+      "host": "ThreatFox: Ave Maria",
       "links": "zoneproess.duckdns.org",
       "type": "z",
       "ln": 2
@@ -123,6 +129,12 @@
     {
       "host": "e-businessloader.mywire.org",
       "links": "45.137.20.4",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "faith.zapto.org",
+      "links": "43.205.113.222",
       "type": "pdns",
       "ln": 2
     },
@@ -231,6 +243,12 @@
     {
       "host": "tryweaswweee.ydns.eu",
       "links": "80.209.237.19",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "warzone.ddns.net",
+      "links": "43.205.113.222",
       "type": "pdns",
       "ln": 2
     },
