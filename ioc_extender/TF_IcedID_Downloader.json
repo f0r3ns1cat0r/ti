@@ -542,6 +542,12 @@
     },
     {
       "host": "cue.esri.pa",
+      "links": "138.68.5.22",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cue.esri.pa",
       "links": "8ab22f1a6f44dba7734102b9e622eaaf7ed85145",
       "type": "certs",
       "ln": 2

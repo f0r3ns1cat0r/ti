@@ -596,6 +596,12 @@
     },
     {
       "host": "cpcalendars.soft-shop.app",
+      "links": "162.0.221.213",
+      "type": "pdns",
+      "ln": 2
+    },
+    {
+      "host": "cpcalendars.soft-shop.app",
       "links": "1bea842d541474abfeb1ad4f4f51a7a73cff58bd",
       "type": "certs",
       "ln": 2
